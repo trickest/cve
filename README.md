@@ -17,10 +17,10 @@ Almost every publicly available CVE PoC.
 
          (Thanks [@joohoi](https://github.com/joohoi)!)
          
-         **Note**: ffuf is awesome for more purposes than just content discovery).
+         **Note**: ffuf is awesome for more purposes than just content discovery.
     2. Github
         
-        Search GitHub for repositories that mention the CVE ID. (https://github.com/trickest/poc, stay tuned, release soon!)
+        Search GitHub for repositories with [github-poc](https://github.com/trickest/github-poc) (release soon!) that mention the CVE ID.
 - Merge all of the found PoCs.
 - Generate GitHub badges for each affected software version using [shields.io](shields.io).
 - Write everything into easy-to-read markdown files.
@@ -38,7 +38,7 @@ Almost every publicly available CVE PoC.
 - Monitor the [atom feed](https://github.com/trickest/cve/commits/main.atom) for a specific product(s).
 
 ## Contribution
-All contribtutions/ideas/suggestions are welcome! Create a new ticket via [GitHub issues](https://github.com/trickest/PoC/issues) or tweet at us [@trick3st](https://twitter.com/trick3st).
+All contribtutions/ideas/suggestions are welcome! Create a new ticket via [GitHub issues](https://github.com/trickest/cve/issues) or tweet at us [@trick3st](https://twitter.com/trick3st).
 
 ## Build your own workflows
 
