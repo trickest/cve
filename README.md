@@ -13,6 +13,8 @@ Almost every publicly available CVE PoC.
     1. References
         - Gather each CVE's `References`.
         - Check if any of them points to a PoC using `ffuf` and a list of keywords
+
+         Regex:
          ```[^a-zA-Z0-9]+(poc|PoC|POC|proof of concept|proof-of-concept)[^a-zA-Z0-9]+```
 
          (Thanks [@joohoi](https://github.com/joohoi)!)
@@ -22,7 +24,7 @@ Almost every publicly available CVE PoC.
         
         Search GitHub for repositories with [find-gh-poc](https://github.com/trickest/find-gh-poc) (release soon!) that mention the CVE ID.
 - Merge all of the found PoCs.
-- Generate GitHub badges for each affected software version using [shields.io](shields.io).
+- Generate GitHub badges for each affected software version using [shields.io](https://shields.io).
 - Write everything into easy-to-read markdown files.
 
 
