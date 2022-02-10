@@ -20,7 +20,7 @@ Almost every publicly available CVE PoC.
          **Note**: ffuf is awesome for more purposes than just content discovery.
     2. Github
         
-        Search GitHub for repositories with [github-poc](https://github.com/trickest/github-poc) (release soon!) that mention the CVE ID.
+        Search GitHub for repositories with [find-gh-poc](https://github.com/trickest/find-gh-poc) (release soon!) that mention the CVE ID.
 - Merge all of the found PoCs.
 - Generate GitHub badges for each affected software version using [shields.io](shields.io).
 - Write everything into easy-to-read markdown files.
