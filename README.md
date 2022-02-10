@@ -7,9 +7,9 @@ Almost every publicly available CVE PoC.
 ![Trickest Workflow - PoC](workflow.png "Trickest Workflow - PoC")
 
 ### TB; DZ (Too big; didn't zoom):
-- Collect CVE details from [cvelist](https://github.com/CVEProject/cvelist) (Shout out to [CVE Program](https://github.com/CVEProject)!)
+- Collect CVE details from [cvelist](https://github.com/CVEProject/cvelist) (Shout out to [CVE Project](https://github.com/CVEProject)!)
 - Split CVEs up by year.
-- Find PoCs for each CVE using 3 techniques:
+- Find PoCs for each CVE using 2 techniques:
     1. References
         - Gather each CVE's `References`.
         - Check if any of them points to a PoC using `ffuf` and a list of keywords
