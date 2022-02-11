@@ -15,7 +15,7 @@ Almost every publicly available CVE PoC.
         - Check if any of them points to a PoC using `ffuf` and a list of keywords
 
          Regex:
-         ```[^a-zA-Z0-9]+(poc|PoC|POC|proof of concept|proof-of-concept)[^a-zA-Z0-9]+```
+         ```(?i)[^a-z0-9]+(poc|proof of concept|proof[-_]of[-_]concept)[^a-z0-9]+```
 
          (Thanks [@joohoi](https://github.com/joohoi)!)
          
