@@ -13377,6 +13377,7 @@ https://gitlab.com/esr/gif2png/issues/8
 https://gitlab.com/francoisjacquet/rosariosis/-/issues/282
 https://gitlab.com/francoisjacquet/rosariosis/-/issues/291
 https://gitlab.com/francoisjacquet/rosariosis/-/issues/328
+https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22214.json
 https://gitlab.com/gitlab-org/gitaly/-/issues/3948
 https://gitlab.com/gitlab-org/gitlab-ce/issues/25064
 https://gitlab.com/gitlab-org/gitlab-ce/issues/41757
@@ -14058,8 +14059,11 @@ https://kb.juniper.net/JSA11182
 https://kb.netgear.com/000055119/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2483
 https://kb.netgear.com/000060639/Security-Advisory-for-Authentication-Bypass-on-R9000-PSV-2018-0615
 https://kb.netgear.com/000062636/Security-Advisory-for-Missing-Function-Level-Access-Control-on-Some-Smart-Managed-Plus-Switches-PSV-2020-0378
+https://kb.netgear.com/000063787/Security-Advisory-for-Security-Misconfiguration-on-WAC104-PSV-2021-0124
+https://kb.netgear.com/000064484/Security-Advisory-for-Denial-of-Service-on-Some-Extenders-and-WiFi-Systems-PSV-2020-0286
 https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877
 https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44601
+https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44846
 https://kc.mcafee.com/corporate/index?page=content&id=SB10100
 https://kc.mcafee.com/corporate/index?page=content&id=SB10142
 https://kc.mcafee.com/corporate/index?page=content&id=SB10145
@@ -14194,6 +14198,7 @@ https://labs.mwrinfosecurity.com/advisories/2014/05/14/torque-buffer-overflow
 https://labs.mwrinfosecurity.com/advisories/2014/12/02/sgi-suid-root-privilege-escalation/
 https://labs.mwrinfosecurity.com/advisories/paypal-remote-code-execution/
 https://labs.nettitude.com/blog/carbon-black-security-advisories-cve-2016-9570-cve-2016-9568-and-cve-2016-9569/
+https://labs.nettitude.com/blog/cve-2015-7596-through-cve-2015-7598-cve-2015-7961-through-cve-2015-7967-safenet-authentication-service-agent-vulnerabilities/
 https://labs.nettitude.com/blog/cve-2017-7351-redcap-7-0-0-7-0-10-sql-injection/
 https://labs.nettitude.com/blog/cve-2017-8116-teltonika-router-unauthenticated-remote-code-execution/
 https://labs.nettitude.com/blog/cve-2018-6851-to-cve-2018-6857-sophos-privilege-escalation-vulnerabilities/
@@ -15236,6 +15241,7 @@ https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html#pre-auth-ro
 https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html#rsa-lulz
 https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_US
 https://playframework.com/security/vulnerability/CVE-2014-3630-XmlExternalEntity
+https://plus.google.com/+MathiasKrause/posts/PqFCo4bfrWu
 https://poctestblog.blogspot.com/2017/12/samsung-internet-browser-sop-bypassuxss.html
 https://podalirius.net/cves/2020-16147/
 https://podalirius.net/cves/2020-16148/
@@ -15942,6 +15948,7 @@ https://snyk.io/vuln/SNYK-JS-FSA-564118
 https://snyk.io/vuln/SNYK-JS-FUNMAP-564436
 https://snyk.io/vuln/SNYK-JS-GAMMAUTILS-598670
 https://snyk.io/vuln/SNYK-JS-GEDI-598803
+https://snyk.io/vuln/SNYK-JS-GEOJSON2KML-1050412
 https://snyk.io/vuln/SNYK-JS-GETGITDATA-564222
 https://snyk.io/vuln/SNYK-JS-GITADDREMOTE-564269
 https://snyk.io/vuln/SNYK-JS-GITING-559008
@@ -16069,6 +16076,7 @@ https://snyk.io/vuln/SNYK-JS-PROMISEHELPERS-598686
 https://snyk.io/vuln/SNYK-JS-PROMISEPROBE-546816
 https://snyk.io/vuln/SNYK-JS-PROPERTYEXPR-598800
 https://snyk.io/vuln/SNYK-JS-PROTO-1316301
+https://snyk.io/vuln/SNYK-JS-PSKILL-1078529
 https://snyk.io/vuln/SNYK-JS-PSNODE-1078543
 https://snyk.io/vuln/SNYK-JS-PSVISITOR-1078544
 https://snyk.io/vuln/SNYK-JS-PULVERIZR-560122
@@ -16847,6 +16855,7 @@ https://updates.mailmate-app.com/release_notes
 https://us-cert.cisa.gov/ics/alerts/ICS-ALERT-12-020-03
 https://us-cert.cisa.gov/ics/alerts/ICS-ALERT-15-224-01
 https://us-cert.cisa.gov/ics/alerts/ICS-ALERT-15-288-01
+https://us.battle.net/forums/en/overwatch/topic/20759216554
 https://usn.ubuntu.com/4559-1/
 https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/
 https://versprite.com/blog/security-research/windows-registry/
@@ -16871,6 +16880,7 @@ https://vuldb.com/?id.10495
 https://vuldb.com/?id.123295
 https://vuldb.com/?id.142993
 https://vuldb.com/?id.142994
+https://vuldb.com/?id.165678
 https://vuldb.com/?id.8572
 https://vuldb.com/?id.8573
 https://vuldb.com/?id.9151
@@ -16940,6 +16950,7 @@ https://wordpress.org/support/topic/zip-attachments-wordpress-plugin-v114-arbitr
 https://worthdoingbadly.com/sqlitebug/
 https://wpdeeply.com/loginizer-before-1-6-4-sqli-injection/
 https://wpscan.com/vulnerability/31fdabb0-bc74-4d25-b0cd-c872aae6cb2f
+https://wpvulndb.com/vulnerabilities/9413
 https://wpvulndb.com/vulnerabilities/9490
 https://write-up.github.io/webtitan/
 https://wshenk.blogspot.com/2021/01/xss-in-wing-ftps-web-interface-cve-2020.html
