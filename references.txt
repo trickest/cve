@@ -7872,6 +7872,7 @@ http://securityreason.com/securityalert/115
 http://securityreason.com/securityalert/117
 http://securityreason.com/securityalert/120
 http://securityreason.com/securityalert/13
+http://securityreason.com/securityalert/130
 http://securityreason.com/securityalert/132
 http://securityreason.com/securityalert/133
 http://securityreason.com/securityalert/134
@@ -7880,8 +7881,16 @@ http://securityreason.com/securityalert/14
 http://securityreason.com/securityalert/144
 http://securityreason.com/securityalert/145
 http://securityreason.com/securityalert/18
+http://securityreason.com/securityalert/2090
+http://securityreason.com/securityalert/2095
+http://securityreason.com/securityalert/2097
+http://securityreason.com/securityalert/2098
+http://securityreason.com/securityalert/2099
 http://securityreason.com/securityalert/21
+http://securityreason.com/securityalert/2100
+http://securityreason.com/securityalert/2102
 http://securityreason.com/securityalert/25
+http://securityreason.com/securityalert/2542
 http://securityreason.com/securityalert/26
 http://securityreason.com/securityalert/27
 http://securityreason.com/securityalert/317
@@ -13447,6 +13456,8 @@ https://gitlab.com/wg1/jpeg-xl/-/issues/163
 https://gitlab.com/wireshark/wireshark/-/issues/16887
 https://gitlab.com/wireshark/wireshark/-/issues/17232
 https://gitlab.com/wireshark/wireshark/-/issues/17811
+https://gitlab.com/wireshark/wireshark/-/issues/17813
+https://gitlab.com/wireshark/wireshark/-/issues/17840
 https://gitlab.freedesktop.org/cairo/cairo/issues/341
 https://gitlab.freedesktop.org/dbus/dbus/-/issues/294
 https://gitlab.freedesktop.org/poppler/poppler/-/issues/1011
@@ -13699,6 +13710,7 @@ https://huntr.dev/bounties/1f84e79d-70e7-4b29-8b48-a108f81c89aa
 https://huntr.dev/bounties/20f48c63-f078-4173-bcac-a9f34885f2c0
 https://huntr.dev/bounties/229df5dd-5507-44e9-832c-c70364bdf035
 https://huntr.dev/bounties/23d38099-71cd-42ed-a77a-71e68094adfa
+https://huntr.dev/bounties/2494106c-7703-4558-bb1f-1eae59d264e3
 https://huntr.dev/bounties/250e79be-7e5d-4ba3-9c34-655e39ade2f4
 https://huntr.dev/bounties/25775287-88cd-4f00-b978-692d627dff04
 https://huntr.dev/bounties/26cdf86c-8edc-4af6-8411-d569699ecd1b
@@ -14046,6 +14058,7 @@ https://kb.juniper.net/JSA11182
 https://kb.netgear.com/000055119/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2483
 https://kb.netgear.com/000060639/Security-Advisory-for-Authentication-Bypass-on-R9000-PSV-2018-0615
 https://kb.netgear.com/000062636/Security-Advisory-for-Missing-Function-Level-Access-Control-on-Some-Smart-Managed-Plus-Switches-PSV-2020-0378
+https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877
 https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44601
 https://kc.mcafee.com/corporate/index?page=content&id=SB10100
 https://kc.mcafee.com/corporate/index?page=content&id=SB10142
@@ -16859,6 +16872,7 @@ https://vuldb.com/?id.123295
 https://vuldb.com/?id.142993
 https://vuldb.com/?id.142994
 https://vuldb.com/?id.8572
+https://vuldb.com/?id.8573
 https://vuldb.com/?id.9151
 https://vulmon.com/exploitdetails?qidtp=EDB&qid=20759
 https://vulmon.com/exploitdetails?qidtp=EDB&qid=46180
@@ -19500,6 +19514,7 @@ https://www.valbrux.it/blog/2019/01/22/cve-2018-13042-1password-android-7-0-deni
 https://www.vdoo.com/blog/cve-2020-25860-significant-vulnerability-discovered-rauc-embedded-firmware-update-framework
 https://www.vdoo.com/blog/realtek-wifi-vulnerabilities-zero-day
 https://www.veracode.com/blog/research/anatomy-cross-site-scripting-flaw-telerik-reporting-module
+https://www.vfxcomputing.com/?CVE-2018-19588
 https://www.vfxcomputing.com/?CVE-2019-9657
 https://www.vg247.com/2019/04/17/ea-origin-security-flaw-run-malicious-code-fixed/
 https://www.virusbulletin.com/virusbulletin/2017/01/journey-and-evolution-god-mode-2016-cve-2016-0189/
