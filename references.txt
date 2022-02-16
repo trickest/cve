@@ -10182,6 +10182,7 @@ http://www.red-database-security.com/exploits/oracle-sql-injection-oracle-dbms_e
 http://www.red-database-security.com/exploits/oracle_exploit_dbms_scheduler_select_user.html
 http://www.reddit.com/r/Python/comments/17rfh7/warning_dont_use_pip_in_an_untrusted_network_a/
 http://www.redhat.com/support/errata/RHSA-2002-213.html
+http://www.redhat.com/support/errata/RHSA-2004-260.html
 http://www.redhat.com/support/errata/RHSA-2006-0754.html
 http://www.redhat.com/support/errata/RHSA-2008-0790.html
 http://www.redteam-pentesting.de/advisories/rt-sa-2005-001.txt
@@ -14157,6 +14158,7 @@ https://kb.isc.org/article/AA-01235
 https://kb.isc.org/article/AA-01272
 https://kb.juniper.net/JSA11182
 https://kb.netgear.com/000055119/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2483
+https://kb.netgear.com/000055146/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-PSV-2017-2589
 https://kb.netgear.com/000060639/Security-Advisory-for-Authentication-Bypass-on-R9000-PSV-2018-0615
 https://kb.netgear.com/000062636/Security-Advisory-for-Missing-Function-Level-Access-Control-on-Some-Smart-Managed-Plus-Switches-PSV-2020-0378
 https://kb.netgear.com/000063787/Security-Advisory-for-Security-Misconfiguration-on-WAC104-PSV-2021-0124
@@ -14305,6 +14307,7 @@ https://labs.nettitude.com/blog/cve-2015-7596-through-cve-2015-7598-cve-2015-796
 https://labs.nettitude.com/blog/cve-2017-7351-redcap-7-0-0-7-0-10-sql-injection/
 https://labs.nettitude.com/blog/cve-2017-8116-teltonika-router-unauthenticated-remote-code-execution/
 https://labs.nettitude.com/blog/cve-2018-6851-to-cve-2018-6857-sophos-privilege-escalation-vulnerabilities/
+https://labs.nettitude.com/blog/cve-2018-8955-bitdefender-gravityzone-arbitrary-code-execution/
 https://labs.nettitude.com/blog/cve-2019-13021-22-23-jetselect-network-segregation-application/
 https://labs.nettitude.com/blog/cve-2019-16384-85-cyblesoft-thinfinity-virtualui-path-traversal-http-header-injection/
 https://labs.nettitude.com/blog/cve-2019-7315-genie-access-wip3bvaf-ip-camera-directory-traversal/
@@ -14540,6 +14543,7 @@ https://medium.com/@mdavis332/higher-ed-erp-portal-vulnerability-auth-bypass-to-
 https://medium.com/@mohnishdhage/sql-injection-vtiger-crm-v7-1-0-cve-2019-11057-245f84fc5c2c
 https://medium.com/@mrnikhilsri/oob-xxe-in-prizmdoc-cve-2018-15805-dfb1e474345c
 https://medium.com/@niteshsurana/424f0db73129
+https://medium.com/@noe.dustin/samsung-webviewer-remote-dos-vulberability-cve-2019-12223-5f4afbc83fbd
 https://medium.com/@reliable_lait_mouse_975/mercedes-comand-infotainment-improper-format-strings-handling-4c67063d744e
 https://medium.com/@rsantos_14778/1500b407dccc
 https://medium.com/@rsantos_14778/csrf-cve-2019-19995-96c1a2dcc182
@@ -16992,6 +16996,7 @@ https://vuldb.com/?id.142993
 https://vuldb.com/?id.142994
 https://vuldb.com/?id.165677
 https://vuldb.com/?id.165678
+https://vuldb.com/?id.8471
 https://vuldb.com/?id.8572
 https://vuldb.com/?id.8573
 https://vuldb.com/?id.8912
@@ -17066,6 +17071,7 @@ https://wpscan.com/vulnerability/26965878-c4c9-4f43-9e9a-6e58d6b46ef2
 https://wpscan.com/vulnerability/31fdabb0-bc74-4d25-b0cd-c872aae6cb2f
 https://wpvulndb.com/vulnerabilities/9413
 https://wpvulndb.com/vulnerabilities/9490
+https://wpvulndb.com/vulnerabilities/9976
 https://write-up.github.io/webtitan/
 https://wshenk.blogspot.com/2021/01/xss-in-wing-ftps-web-interface-cve-2020.html
 https://ww1.microchip.com/downloads/en/DeviceDoc/asf-release-notes-3.51.0.101-readme.pdf
@@ -17590,7 +17596,10 @@ https://www.exploit-db.com/exploits/4100
 https://www.exploit-db.com/exploits/41005/
 https://www.exploit-db.com/exploits/4107
 https://www.exploit-db.com/exploits/4110
+https://www.exploit-db.com/exploits/41145/
 https://www.exploit-db.com/exploits/4119
+https://www.exploit-db.com/exploits/41192/
+https://www.exploit-db.com/exploits/41196/
 https://www.exploit-db.com/exploits/4120
 https://www.exploit-db.com/exploits/4121
 https://www.exploit-db.com/exploits/4126
@@ -17623,9 +17632,16 @@ https://www.exploit-db.com/exploits/41659/
 https://www.exploit-db.com/exploits/41661/
 https://www.exploit-db.com/exploits/41855/
 https://www.exploit-db.com/exploits/41879/
+https://www.exploit-db.com/exploits/41904/
+https://www.exploit-db.com/exploits/41905/
+https://www.exploit-db.com/exploits/41908/
+https://www.exploit-db.com/exploits/41925/
+https://www.exploit-db.com/exploits/41926/
+https://www.exploit-db.com/exploits/41932/
 https://www.exploit-db.com/exploits/4198
 https://www.exploit-db.com/exploits/41987/
 https://www.exploit-db.com/exploits/42031/
+https://www.exploit-db.com/exploits/42034/
 https://www.exploit-db.com/exploits/4210
 https://www.exploit-db.com/exploits/42117/
 https://www.exploit-db.com/exploits/42118/
@@ -17758,6 +17774,7 @@ https://www.exploit-db.com/exploits/45348/
 https://www.exploit-db.com/exploits/4535
 https://www.exploit-db.com/exploits/4538
 https://www.exploit-db.com/exploits/4543
+https://www.exploit-db.com/exploits/45479/
 https://www.exploit-db.com/exploits/4549
 https://www.exploit-db.com/exploits/45503/
 https://www.exploit-db.com/exploits/45509
@@ -19100,6 +19117,7 @@ https://www.surecloud.com/resources/blog/lorensbergs-connect2-cross-site-scripti
 https://www.swascan.com/emerson
 https://www.swascan.com/entando/
 https://www.swascan.com/security-advisory-visual-tools-dvr-cve-2021-42071/
+https://www.swascan.com/solari-di-udine/
 https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2019-19940ff.txt
 https://www.synacktiv.com/posts/systems/icmp-reachable.html
 https://www.synopsys.com/blogs/software-security/cyrc-advisory-sept2020/
@@ -19906,6 +19924,7 @@ https://www.youtube.com/watch?v=CLAHE0qUHXs
 https://www.youtube.com/watch?v=CvmnUeza9zw
 https://www.youtube.com/watch?v=DjMEfQW3bf0
 https://www.youtube.com/watch?v=EGW_M1MqAG0
+https://www.youtube.com/watch?v=HUM5myJWbvc
 https://www.youtube.com/watch?v=I93aH86BUaE
 https://www.youtube.com/watch?v=Iw8sIBLWE_w
 https://www.youtube.com/watch?v=La9nMeVCtt4
