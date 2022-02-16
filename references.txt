@@ -10125,6 +10125,7 @@ http://www.openwall.com/lists/oss-security/2022/01/12/4
 http://www.openwall.com/lists/oss-security/2022/01/12/7
 http://www.openwall.com/lists/oss-security/2022/01/20/3
 http://www.openwall.com/lists/oss-security/2022/01/21/2
+http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 http://www.oracle.com/technetwork/topics/security/cpuapr2010-099504.html
 http://www.oracle.com/technetwork/topics/security/cpuapr2011-301950.html
 http://www.oracle.com/technetwork/topics/security/cpuapr2012-366314.html
@@ -10796,6 +10797,7 @@ https://blog.0xlabs.com/2020/03/x-plane-1141-remote-command-execution.html
 https://blog.0xlabs.com/2021/02/wavlink-rce-CVE-2020-13117.html
 https://blog.appicaptor.com/2019/10/04/vulnerable-library-warning-twitterkit-for-ios/
 https://blog.avira.com/victure-pc530-home-insecurity-you-can-install-yourself/
+https://blog.bjornweb.nl/2017/02/flash-bypassing-local-sandbox-data-exfiltration-credentials-leak/
 https://blog.blazeinfosec.com/security-advisory-i2p-for-windows-local-privilege-escalation/
 https://blog.c22.cc/advisories/cve-2013-5112-evernote-android-insecure-storage-of-pin-data-bypass-of-pin-protection/
 https://blog.c22.cc/advisories/cve-2013-51135114-lastpass-android-container-pin-and-auto-wipe-security-feature-bypass/
@@ -14163,6 +14165,7 @@ https://kb.netgear.com/000060639/Security-Advisory-for-Authentication-Bypass-on-
 https://kb.netgear.com/000062636/Security-Advisory-for-Missing-Function-Level-Access-Control-on-Some-Smart-Managed-Plus-Switches-PSV-2020-0378
 https://kb.netgear.com/000063787/Security-Advisory-for-Security-Misconfiguration-on-WAC104-PSV-2021-0124
 https://kb.netgear.com/000064484/Security-Advisory-for-Denial-of-Service-on-Some-Extenders-and-WiFi-Systems-PSV-2020-0286
+https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA40202
 https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA40312
 https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43730
 https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877
@@ -18831,6 +18834,7 @@ https://www.netsparker.com/xss-vulnerability-in-subrion-cms/
 https://www.nezami.me/
 https://www.novell.com/support/kb/doc.php?id=7017813
 https://www.nowsecure.com/blog/2015/06/16/remote-code-execution-as-system-user-on-samsung-phones/
+https://www.npmjs.com/package/@ckeditor/ckeditor5-engine
 https://www.nri-secure.com/blog/new-iot-vulnerability-connmando
 https://www.nussko.com/advisories/advisory-2021-08-01.txt
 https://www.nussko.com/advisories/advisory-2021-08-02.txt
@@ -19897,6 +19901,7 @@ https://www.wordfence.com/blog/2021/03/critical-vulnerability-patched-in-woocomm
 https://www.wordfence.com/blog/2021/03/recently-patched-vulnerability-in-thrive-themes-actively-exploited-in-the-wild
 https://www.wordfence.com/blog/2021/05/sql-injection-vulnerability-patched-in-cleantalk-antispam-plugin/
 https://www.wordfence.com/blog/2021/06/critical-0-day-in-fancy-product-designer-under-active-attack/
+https://www.wpo365.com/change-log/
 https://www.x41-dsec.de/lab/advisories/x41-2016-001-libotr/
 https://www.x41-dsec.de/lab/advisories/x41-2017-001-xorg/
 https://www.x41-dsec.de/lab/advisories/x41-2017-010-shadowsocks-libev/
