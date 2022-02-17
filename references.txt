@@ -221,6 +221,7 @@ CVE-2022-21689 - https://github.com/onionshare/onionshare/security/advisories/GH
 CVE-2022-21711 - https://github.com/liyansong2018/elfspirit/issues/1
 CVE-2022-21817 - https://nvidia.custhelp.com/app/answers/detail/a_id/5318
 CVE-2022-21907 - http://packetstormsecurity.com/files/165566/HTTP-Protocol-Stack-Denial-Of-Service-Remote-Code-Execution.html
+CVE-2022-21907 - https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907
 CVE-2022-22107 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22107
 CVE-2022-22108 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22108
 CVE-2022-22109 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22109
@@ -251,6 +252,7 @@ CVE-2022-22833 - https://pentest.com.tr/exploits/Servisnet-Tessa-MQTT-Credential
 CVE-2022-22833 - https://www.exploit-db.com/exploits/50713
 CVE-2022-22836 - https://yoursecuritybores.me/coreftp-vulnerabilities/
 CVE-2022-22844 - https://gitlab.com/libtiff/libtiff/-/issues/355
+CVE-2022-22890 - https://github.com/jerryscript-project/jerryscript/issues/4847
 CVE-2022-22891 - https://github.com/jerryscript-project/jerryscript/issues/4871
 CVE-2022-22894 - https://github.com/jerryscript-project/jerryscript/issues/4890
 CVE-2022-22899 - https://yoursecuritybores.me/coreftp-vulnerabilities/
@@ -280,6 +282,7 @@ CVE-2022-23366 - http://packetstormsecurity.com/files/165948/Hospital-Management
 CVE-2022-23378 - https://github.com/TheGetch/CVE-2022-23378
 CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-3.0.3-Path-Traversal.html
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
+CVE-2022-23967 - https://github.com/MaherAzzouzi/CVE-2022-23967
 CVE-2022-23968 - https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/
 CVE-2022-24129 - https://github.com/sbaresearch/advisories/tree/public/2022/SBA-ADV-20220127-01_Shibboleth_IdP_OIDC_OP_Plugin_SSRF
 CVE-2022-24223 - http://packetstormsecurity.com/files/165922/Atom-CMS-2.0-SQL-Injection.html
@@ -287,6 +290,7 @@ CVE-2022-24263 - http://packetstormsecurity.com/files/165882/Hospital-Management
 CVE-2022-24266 - https://github.com/CuppaCMS/CuppaCMS/issues/17
 CVE-2022-24976 - https://www.openwall.com/lists/oss-security/2022/01/30/4
 CVE-2022-24977 - https://r0.haxors.org/posts?id=8
+CVE-2022-25139 - https://github.com/nginx/njs/issues/451
 CVE-2022-25241 - https://herolab.usd.de/security-advisories/
 CVE-2022-25242 - https://herolab.usd.de/security-advisories/
 CVE-2022-25258 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
