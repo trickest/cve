@@ -188,6 +188,8 @@ CVE-2022-0597 - https://huntr.dev/bounties/68c22eab-cc69-4e9f-bcb6-2df3db626813
 CVE-2022-0611 - https://huntr.dev/bounties/7b7447fc-f1b0-446c-b016-ee3f6511010b
 CVE-2022-0613 - https://huntr.dev/bounties/f53d5c42-c108-40b8-917d-9dad51535083
 CVE-2022-0614 - https://huntr.dev/bounties/a980ce4d-c359-4425-92c4-e844c0055879
+CVE-2022-0623 - https://huntr.dev/bounties/5b908ac7-d8f1-4fcd-9355-85df565f7580
+CVE-2022-0629 - https://huntr.dev/bounties/95e2b0da-e480-4ee8-9324-a93a2ab0a877
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
 CVE-2022-20699 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D
@@ -231,6 +233,7 @@ CVE-2022-22117 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-
 CVE-2022-22120 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22120
 CVE-2022-22121 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22121
 CVE-2022-22123 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22123
+CVE-2022-22124 - https://github.com/halo-dev/halo/issues/1575
 CVE-2022-22124 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22124
 CVE-2022-22125 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22125
 CVE-2022-22701 - https://fluidattacks.com/advisories/hendrix/
@@ -246,6 +249,8 @@ CVE-2022-22833 - https://pentest.com.tr/exploits/Servisnet-Tessa-MQTT-Credential
 CVE-2022-22833 - https://www.exploit-db.com/exploits/50713
 CVE-2022-22836 - https://yoursecuritybores.me/coreftp-vulnerabilities/
 CVE-2022-22844 - https://gitlab.com/libtiff/libtiff/-/issues/355
+CVE-2022-22894 - https://github.com/jerryscript-project/jerryscript/issues/4890
+CVE-2022-22899 - https://yoursecuritybores.me/coreftp-vulnerabilities/
 CVE-2022-23045 - https://fluidattacks.com/advisories/osbourne/
 CVE-2022-23046 - http://packetstormsecurity.com/files/165683/PHPIPAM-1.4.4-SQL-Injection.html
 CVE-2022-23046 - https://fluidattacks.com/advisories/mercury/
@@ -265,14 +270,17 @@ CVE-2022-23178 - https://www.redteam-pentesting.de/advisories/rt-sa-2021-009
 CVE-2022-23221 - http://packetstormsecurity.com/files/165676/H2-Database-Console-Remote-Code-Execution.html
 CVE-2022-23221 - http://seclists.org/fulldisclosure/2022/Jan/39
 CVE-2022-23227 - https://portswigger.net/daily-swig/researcher-discloses-alleged-zero-day-vulnerabilities-in-nuuo-nvrmini2-recording-device
+CVE-2022-23316 - https://github.com/taogogo/taocms/issues/15
 CVE-2022-23320 - https://www.triaxiomsecurity.com/xmpie-ustore-vulnerabilities-discovered/
 CVE-2022-23321 - https://www.triaxiomsecurity.com/xmpie-ustore-vulnerabilities-discovered/
 CVE-2022-23366 - http://packetstormsecurity.com/files/165948/Hospital-Management-Startup-1.0-SQL-Injection.html
+CVE-2022-23378 - https://github.com/TheGetch/CVE-2022-23378
 CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-3.0.3-Path-Traversal.html
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
 CVE-2022-23968 - https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/
 CVE-2022-24223 - http://packetstormsecurity.com/files/165922/Atom-CMS-2.0-SQL-Injection.html
 CVE-2022-24263 - http://packetstormsecurity.com/files/165882/Hospital-Management-System-4.0-SQL-Injection.html
+CVE-2022-24266 - https://github.com/CuppaCMS/CuppaCMS/issues/17
 CVE-2022-24976 - https://www.openwall.com/lists/oss-security/2022/01/30/4
 CVE-2022-24977 - https://r0.haxors.org/posts?id=8
 CVE-2022-25241 - https://herolab.usd.de/security-advisories/
