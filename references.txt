@@ -190,6 +190,7 @@ CVE-2022-0613 - https://huntr.dev/bounties/f53d5c42-c108-40b8-917d-9dad51535083
 CVE-2022-0614 - https://huntr.dev/bounties/a980ce4d-c359-4425-92c4-e844c0055879
 CVE-2022-0623 - https://huntr.dev/bounties/5b908ac7-d8f1-4fcd-9355-85df565f7580
 CVE-2022-0629 - https://huntr.dev/bounties/95e2b0da-e480-4ee8-9324-a93a2ab0a877
+CVE-2022-0639 - https://huntr.dev/bounties/83a6bc9a-b542-4a38-82cd-d995a1481155
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
 CVE-2022-20699 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D
@@ -249,6 +250,7 @@ CVE-2022-22833 - https://pentest.com.tr/exploits/Servisnet-Tessa-MQTT-Credential
 CVE-2022-22833 - https://www.exploit-db.com/exploits/50713
 CVE-2022-22836 - https://yoursecuritybores.me/coreftp-vulnerabilities/
 CVE-2022-22844 - https://gitlab.com/libtiff/libtiff/-/issues/355
+CVE-2022-22891 - https://github.com/jerryscript-project/jerryscript/issues/4871
 CVE-2022-22894 - https://github.com/jerryscript-project/jerryscript/issues/4890
 CVE-2022-22899 - https://yoursecuritybores.me/coreftp-vulnerabilities/
 CVE-2022-23045 - https://fluidattacks.com/advisories/osbourne/
@@ -278,6 +280,7 @@ CVE-2022-23378 - https://github.com/TheGetch/CVE-2022-23378
 CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-3.0.3-Path-Traversal.html
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
 CVE-2022-23968 - https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/
+CVE-2022-24129 - https://github.com/sbaresearch/advisories/tree/public/2022/SBA-ADV-20220127-01_Shibboleth_IdP_OIDC_OP_Plugin_SSRF
 CVE-2022-24223 - http://packetstormsecurity.com/files/165922/Atom-CMS-2.0-SQL-Injection.html
 CVE-2022-24263 - http://packetstormsecurity.com/files/165882/Hospital-Management-System-4.0-SQL-Injection.html
 CVE-2022-24266 - https://github.com/CuppaCMS/CuppaCMS/issues/17
