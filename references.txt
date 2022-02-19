@@ -762,6 +762,7 @@ CVE-2004-2529 - http://marc.info/?l=bugtraq&m=110295777306493&w=2
 CVE-2004-2529 - http://www.man.poznan.pl/~security/gg-adv.txt
 CVE-2004-2547 - http://www.exploitlabs.com/files/advisories/EXPL-A-2004-002-surgmail.txt
 CVE-2004-2548 - http://www.exploitlabs.com/files/advisories/EXPL-A-2004-002-surgmail.txt
+CVE-2004-2553 - http://cvs.sourceforge.net/viewcvs.py/ignition/ignitionserver/docs/security/20040302-operator-privilege-escalation.txt?view=markup
 CVE-2004-2616 - http://aluigi.altervista.org/adv/actp-adv.txt
 CVE-2004-2616 - http://marc.info/?l=bugtraq&amp;m=109597139011373&amp;w=2
 CVE-2004-2622 - http://www.securityfocus.com/bid/11498
@@ -22802,6 +22803,7 @@ CVE-2016-2402 - https://koz.io/pinning-cve-2016-2402/
 CVE-2016-2417 - https://www.exploit-db.com/exploits/39685/
 CVE-2016-2494 - http://packetstormsecurity.com/files/137404/Android-system-bin-sdcard-Stack-Buffer-Overflow.html
 CVE-2016-2494 - https://www.exploit-db.com/exploits/39921/
+CVE-2016-2510 - https://github.com/frohoff/ysoserial/pull/13
 CVE-2016-2511 - http://packetstormsecurity.com/files/135886/WebSVN-2.3.3-Cross-Site-Scripting.html
 CVE-2016-2511 - http://seclists.org/fulldisclosure/2016/Feb/99
 CVE-2016-2516 - https://www.kb.cert.org/vuls/id/718152
@@ -26457,11 +26459,13 @@ CVE-2017-17472 - https://github.com/rubyfly/Vir.IT-explorer_POC/tree/master/0x82
 CVE-2017-17473 - https://github.com/rubyfly/Vir.IT-explorer_POC/tree/master/0x82730050
 CVE-2017-17474 - https://github.com/rubyfly/Vir.IT-explorer_POC/tree/master/0x82730070
 CVE-2017-17475 - https://github.com/rubyfly/Vir.IT-explorer_POC/tree/master/0x82736068
+CVE-2017-17484 - https://github.com/znc/znc/issues/1459
 CVE-2017-17484 - https://ssl.icu-project.org/trac/attachment/ticket/13490/poc.cpp
 CVE-2017-17484 - https://ssl.icu-project.org/trac/changeset/40714
 CVE-2017-17484 - https://ssl.icu-project.org/trac/changeset/40715
 CVE-2017-17484 - https://ssl.icu-project.org/trac/ticket/13490
 CVE-2017-17484 - https://ssl.icu-project.org/trac/ticket/13510
+CVE-2017-17485 - https://github.com/irsl/jackson-rce-via-spel/
 CVE-2017-17497 - https://github.com/htacg/tidy-html5/issues/656
 CVE-2017-17498 - https://sourceforge.net/p/graphicsmagick/bugs/525/
 CVE-2017-17499 - https://www.imagemagick.org/discourse-server/viewtopic.php?f=3&t=33078&sid=5fbb164c3830293138917f9b14264ed1
@@ -27631,6 +27635,7 @@ CVE-2017-6527 - https://www.exploit-db.com/exploits/41578/
 CVE-2017-6528 - https://www.exploit-db.com/exploits/41578/
 CVE-2017-6529 - https://www.exploit-db.com/exploits/41578/
 CVE-2017-6533 - https://github.com/WPO-Foundation/webpagetest/issues/833
+CVE-2017-6534 - https://github.com/WPO-Foundation/webpagetest/issues/835
 CVE-2017-6536 - https://github.com/WPO-Foundation/webpagetest/issues/838
 CVE-2017-6537 - https://github.com/WPO-Foundation/webpagetest/issues/837
 CVE-2017-6538 - https://github.com/WPO-Foundation/webpagetest/issues/836
@@ -27658,6 +27663,7 @@ CVE-2017-6561 - https://packetstormsecurity.com/files/141507/Agora-Project-3.2.2
 CVE-2017-6562 - https://packetstormsecurity.com/files/141507/Agora-Project-3.2.2-Cross-Site-Scripting.html
 CVE-2017-6590 - https://bugs.launchpad.net/ubuntu/+source/network-manager-applet/+bug/1668321
 CVE-2017-6622 - https://www.exploit-db.com/exploits/42888/
+CVE-2017-6736 - https://github.com/artkond/cisco-snmp-rce
 CVE-2017-6736 - https://www.exploit-db.com/exploits/43450/
 CVE-2017-6803 - http://hyp3rlinx.altervista.org/advisories/FTP-VOYAGER-SCHEDULER-CSRF-REMOTE-CMD-EXECUTION.txt
 CVE-2017-6803 - http://packetstormsecurity.com/files/141567/FTP-Voyager-Scheduler-16.2.0-CSRF-Denial-Of-Service.html
@@ -27674,6 +27680,7 @@ CVE-2017-6823 - https://www.exploit-db.com/exploits/41594/
 CVE-2017-6827 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-heap-based-buffer-overflow-in-msadpcminitializecoefficients-msadpcm-cpp/
 CVE-2017-6828 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-heap-based-buffer-overflow-in-readvalue-filehandle-cpp/
 CVE-2017-6829 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-global-buffer-overflow-in-decodesample-ima-cpp/
+CVE-2017-6829 - https://github.com/mpruett/audiofile/issues/33
 CVE-2017-6830 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-heap-based-buffer-overflow-in-alaw2linear_buf-g711-cpp/
 CVE-2017-6830 - https://github.com/mpruett/audiofile/issues/34
 CVE-2017-6831 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-heap-based-buffer-overflow-in-imadecodeblockwave-ima-cpp/
@@ -27685,8 +27692,11 @@ CVE-2017-6834 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-heap-based-buf
 CVE-2017-6835 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-divide-by-zero-in-blockcodecreset1-blockcodec-cpp/
 CVE-2017-6836 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-heap-based-buffer-overflow-in-expand3to4modulerun-simplemodule-h/
 CVE-2017-6837 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-multiple-ubsan-crashes/
+CVE-2017-6837 - https://github.com/mpruett/audiofile/issues/41
 CVE-2017-6838 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-multiple-ubsan-crashes/
+CVE-2017-6838 - https://github.com/mpruett/audiofile/issues/41
 CVE-2017-6839 - https://blogs.gentoo.org/ago/2017/02/20/audiofile-multiple-ubsan-crashes/
+CVE-2017-6839 - https://github.com/mpruett/audiofile/issues/41
 CVE-2017-6840 - https://blogs.gentoo.org/ago/2017/03/02/podofo-invalid-memory-read-in-colorchangergetcolorfromstack-colorchanger-cpp/
 CVE-2017-6841 - https://blogs.gentoo.org/ago/2017/03/02/podofo-null-pointer-dereference-in-graphicsstacktgraphicsstackelementtgraphicsstackelement-graphicsstack-h/
 CVE-2017-6842 - https://blogs.gentoo.org/ago/2017/03/02/podofo-null-pointer-dereference-in-colorchangergetcolorfromstack-colorchanger-cpp/
@@ -27701,6 +27711,7 @@ CVE-2017-6850 - https://blogs.gentoo.org/ago/2017/01/25/jasper-null-pointer-dere
 CVE-2017-6850 - https://github.com/mdadams/jasper/issues/112
 CVE-2017-6851 - https://blogs.gentoo.org/ago/2017/01/25/jasper-invalid-memory-read-in-jas_matrix_bindsub-jas_seq-c/
 CVE-2017-6852 - https://blogs.gentoo.org/ago/2017/01/25/jasper-heap-based-buffer-overflow-in-jpc_dec_decodepkt-jpc_t2dec-c/
+CVE-2017-6852 - https://github.com/mdadams/jasper/issues/114
 CVE-2017-6878 - http://packetstormsecurity.com/files/141689/MetInfo-5.3.15-Cross-Site-Scripting.html
 CVE-2017-6878 - http://seclists.org/fulldisclosure/2017/Mar/49
 CVE-2017-6880 - https://www.exploit-db.com/exploits/41620/
@@ -28195,6 +28206,7 @@ CVE-2017-8843 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-null-pointer-deref
 CVE-2017-8844 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-heap-based-buffer-overflow-write-in-read_1g-stream-c/
 CVE-2017-8845 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-invalid-memory-read-in-lzo_decompress_buf-stream-c/
 CVE-2017-8846 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-use-after-free-in-read_stream-stream-c/
+CVE-2017-8846 - https://github.com/ckolivas/lrzip/issues/71
 CVE-2017-8847 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-null-pointer-dereference-in-bufreadget-libzpaq-h/
 CVE-2017-8848 - https://github.com/s3131212/allendisk/issues/16
 CVE-2017-8849 - http://www.openwall.com/lists/oss-security/2017/05/10/3
@@ -28810,6 +28822,7 @@ CVE-2018-1002100 - https://github.com/kubernetes/kubernetes/issues/61297
 CVE-2018-1002100 - https://hansmi.ch/articles/2018-04-openshift-s2i-security
 CVE-2018-1002105 - https://www.exploit-db.com/exploits/46052/
 CVE-2018-1002105 - https://www.exploit-db.com/exploits/46053/
+CVE-2018-1002207 - https://github.com/mholt/archiver/pull/65
 CVE-2018-10027 - https://pastebin.com/XHMeS7pQ
 CVE-2018-10048 - https://pastebin.com/RVdpLAT8
 CVE-2018-10049 - https://pastebin.com/QbhRJp4q
@@ -28838,6 +28851,7 @@ CVE-2018-10083 - https://github.com/itodaro/cve/blob/master/README.md
 CVE-2018-10084 - https://github.com/itodaro/cve/blob/master/README.md
 CVE-2018-10085 - https://github.com/itodaro/cve/blob/master/README.md
 CVE-2018-10086 - https://github.com/itodaro/cve/blob/master/README.md
+CVE-2018-10088 - https://github.com/bitfu/uc-httpd-1.0.0-buffer-overflow-exploit
 CVE-2018-10088 - https://www.exploit-db.com/exploits/44864/
 CVE-2018-10091 - http://packetstormsecurity.com/files/151115/AudioCode-400HD-Cross-Site-scripting.html
 CVE-2018-10092 - http://www.openwall.com/lists/oss-security/2018/05/21/2
@@ -28879,6 +28893,7 @@ CVE-2018-10173 - http://packetstormsecurity.com/files/147244/Digital-Guardian-Ma
 CVE-2018-10174 - http://packetstormsecurity.com/files/147260/Digital-Guardian-Management-Console-7.1.2.0015-Server-Side-Request-Forgery.html
 CVE-2018-10175 - http://packetstormsecurity.com/files/147261/Digital-Guardian-Management-Console-7.1.2.0015-XXE-Injection.html
 CVE-2018-10176 - http://packetstormsecurity.com/files/147242/Digital-Guardian-Management-Console-7.1.2.0015-Arbitrary-File-Read.html
+CVE-2018-10177 - https://github.com/ImageMagick/ImageMagick/issues/1095
 CVE-2018-10185 - https://github.com/yeyinshi/tuzicms/issues/1
 CVE-2018-10186 - https://github.com/radare/radare2/issues/9915
 CVE-2018-10187 - https://github.com/radare/radare2/issues/9913
@@ -29052,6 +29067,7 @@ CVE-2018-10712 - https://www.exploit-db.com/exploits/45716/
 CVE-2018-10718 - https://momo5502.com/blog/?p=34
 CVE-2018-10718 - https://www.exploit-db.com/exploits/44987/
 CVE-2018-10733 - https://bugzilla.redhat.com/show_bug.cgi?id=1574844
+CVE-2018-10734 - https://github.com/hucmosin/Python_Small_Tool/blob/master/other/DVR_POC.py
 CVE-2018-10751 - http://packetstormsecurity.com/files/147841/Samsung-Galaxy-S7-Edge-OMACP-WbXml-String-Extension-Processing-Overflow.html
 CVE-2018-10751 - https://www.exploit-db.com/exploits/44724/
 CVE-2018-10752 - https://pastebin.com/ZGr5tyP2
@@ -29069,6 +29085,7 @@ CVE-2018-10779 - http://bugzilla.maptools.org/show_bug.cgi?id=2788
 CVE-2018-10780 - https://bugzilla.redhat.com/show_bug.cgi?id=1575201
 CVE-2018-10790 - https://docs.google.com/document/d/1OSwQjtyALgV3OulmWGaTqZrSzk7Ta-xGrcLI0I7SPyM
 CVE-2018-10795 - https://cxsecurity.com/issue/WLB-2018050029
+CVE-2018-10796 - https://github.com/anhkgg/poc/tree/master/2345%20security%20guard/2345NetFirewall.sys-0x00222014
 CVE-2018-10801 - http://bugzilla.maptools.org/show_bug.cgi?id=2790
 CVE-2018-10809 - http://packetstormsecurity.com/files/147538/2345-Security-Guard-3.7-Denial-Of-Service.html
 CVE-2018-10809 - https://www.exploit-db.com/exploits/44600/
@@ -30366,6 +30383,9 @@ CVE-2018-15877 - http://packetstormsecurity.com/files/163425/WordPress-Plainview
 CVE-2018-15877 - https://www.exploit-db.com/exploits/45274/
 CVE-2018-15884 - http://packetstormsecurity.com/files/149082/RICOH-MP-C4504ex-Cross-Site-Request-Forgery.html
 CVE-2018-15884 - https://www.exploit-db.com/exploits/45264/
+CVE-2018-15890 - https://github.com/frohoff/ysoserial/
+CVE-2018-15893 - https://github.com/wuzhicms/wuzhicms/issues/149
+CVE-2018-15894 - https://github.com/wuzhicms/wuzhicms/issues/150
 CVE-2018-15896 - https://gkaim.com/cve-2018-15896-vikas-chaudhary/
 CVE-2018-15897 - https://gkaim.com/cve-2018-15897-vikas-chaudhary/
 CVE-2018-15898 - http://packetstormsecurity.com/files/149267/Subsonic-Music-Streamer-4.4-For-Android-Improper-Certificate-Validation.html
@@ -31278,6 +31298,7 @@ CVE-2018-19079 - https://sintonen.fi/advisories/foscam-ip-camera-multiple-vulner
 CVE-2018-19080 - https://sintonen.fi/advisories/foscam-ip-camera-multiple-vulnerabilities.txt
 CVE-2018-19081 - https://sintonen.fi/advisories/foscam-ip-camera-multiple-vulnerabilities.txt
 CVE-2018-19082 - https://sintonen.fi/advisories/foscam-ip-camera-multiple-vulnerabilities.txt
+CVE-2018-19092 - https://github.com/yzmcms/yzmcms/issues/7
 CVE-2018-19105 - https://code610.blogspot.com/2018/11/crashing-librecad-213.html
 CVE-2018-19107 - https://github.com/Exiv2/exiv2/pull/518
 CVE-2018-19108 - https://github.com/Exiv2/exiv2/pull/518
@@ -31389,6 +31410,7 @@ CVE-2018-19457 - https://www.exploit-db.com/exploits/45326/
 CVE-2018-19458 - https://pentest.com.tr/exploits/PHP-Proxy-3-0-3-Local-File-Inclusion.html
 CVE-2018-19458 - https://www.exploit-db.com/exploits/45780/
 CVE-2018-19459 - https://www.exploit-db.com/exploits/45687/
+CVE-2018-19466 - https://github.com/MauroEldritch/lempo
 CVE-2018-19469 - https://github.com/woider/ArticleCMS/issues/5
 CVE-2018-19475 - https://bugs.ghostscript.com/show_bug.cgi?id=700153
 CVE-2018-19487 - https://github.com/Antho59/wp-jobhunt-exploit
@@ -31616,6 +31638,7 @@ CVE-2018-19975 - https://github.com/bnbdr/swisscheese/
 CVE-2018-19976 - https://bnbdr.github.io/posts/extracheese/
 CVE-2018-19976 - https://github.com/VirusTotal/yara/issues/999
 CVE-2018-19976 - https://github.com/bnbdr/swisscheese/
+CVE-2018-19980 - https://github.com/ISCAS-Vulab/PoC_Nebula-Capsule-Pro-Wifi
 CVE-2018-19985 - http://packetstormsecurity.com/files/151420/Slackware-Security-Advisory-Slackware-14.2-kernel-Updates.html
 CVE-2018-19986 - https://github.com/pr0v3rbs/CVE/tree/master/CVE-2018-19986%20-%2019990
 CVE-2018-19987 - https://github.com/pr0v3rbs/CVE/tree/master/CVE-2018-19986%20-%2019990
@@ -34288,7 +34311,12 @@ CVE-2019-12518 - http://packetstormsecurity.com/files/156335/Anviz-CrossChex-Buf
 CVE-2019-12518 - https://www.0x90.zone/multiple/reverse/2019/11/28/Anviz-pwn.html
 CVE-2019-1253 - http://packetstormsecurity.com/files/154488/AppXSvc-17763.1.amd64fre.rs5_release.180914-1434-Privilege-Escalation.html
 CVE-2019-12551 - https://ereisr00.github.io/
+CVE-2019-12551 - https://github.com/ereisr00/bagofbugz/blob/master/010Editor
 CVE-2019-12552 - https://ereisr00.github.io/
+CVE-2019-12552 - https://github.com/ereisr00/bagofbugz/blob/master/010Editor
+CVE-2019-12553 - https://github.com/ereisr00/bagofbugz/blob/master/010Editor/strcat_heap_overflow.bt
+CVE-2019-12554 - https://github.com/ereisr00/bagofbugz/blob/master/010Editor/WSubStr.bt
+CVE-2019-12555 - https://github.com/ereisr00/bagofbugz/blob/master/010Editor/SubStr.bt
 CVE-2019-12562 - http://packetstormsecurity.com/files/154673/DotNetNuke-Cross-Site-Scripting.html
 CVE-2019-12562 - https://mayaseven.com/cve-2019-12562-stored-cross-site-scripting-in-dotnetnuke-dnn-version-v9-3-2/
 CVE-2019-12564 - https://github.com/srsec/-srsec-/issues/1
@@ -35299,6 +35327,7 @@ CVE-2019-1653 - https://www.exploit-db.com/exploits/46262/
 CVE-2019-1653 - https://www.exploit-db.com/exploits/46655/
 CVE-2019-1653 - https://www.zdnet.com/article/hackers-are-going-after-cisco-rv320rv325-routers-using-a-new-exploit/
 CVE-2019-16531 - http://packetstormsecurity.com/files/154549/LayerBB-1.1.3-Cross-Site-Request-Forgery.html
+CVE-2019-16532 - https://github.com/yzmcms/yzmcms/issues/28
 CVE-2019-16532 - https://www.exploit-db.com/exploits/47422
 CVE-2019-1663 - http://packetstormsecurity.com/files/152507/Cisco-RV130W-Routers-Management-Interface-Remote-Command-Execution.html
 CVE-2019-1663 - http://packetstormsecurity.com/files/153163/Cisco-RV130W-1.0.3.44-Remote-Stack-Overflow.html
@@ -36476,6 +36505,7 @@ CVE-2019-3999 - https://www.tenable.com/security/research/tra-2020-12
 CVE-2019-4000 - https://www.tenable.com/security/research/tra-2020-12
 CVE-2019-4001 - https://www.tenable.com/security/research/tra-2020-12
 CVE-2019-4013 - http://packetstormsecurity.com/files/154747/IBM-Bigfix-Platform-9.5.9.62-Arbitary-File-Upload-Code-Execution.html
+CVE-2019-4426 - https://www.ibm.com/support/pages/node/1116087
 CVE-2019-4716 - http://packetstormsecurity.com/files/156953/IBM-Cognos-TM1-IBM-Planning-Analytics-Server-Configuration-Overwrite-Code-Execution.html
 CVE-2019-4716 - http://seclists.org/fulldisclosure/2020/Mar/44
 CVE-2019-5009 - http://lists.vtigercrm.com/pipermail/vtigercrm-developers/2019-January/037852.html
@@ -39126,6 +39156,8 @@ CVE-2020-19890 - https://github.com/fragrant10/cve/tree/master/dbhcms1.2.0#15
 CVE-2020-19891 - https://github.com/fragrant10/cve/tree/master/dbhcms1.2.0#14
 CVE-2020-19915 - https://gist.github.com/feixuezhi/7a1b117e1a4800efb3b6fffe76ca0e97
 CVE-2020-19915 - https://github.com/wuzhicms/wuzhicms/issues/173
+CVE-2020-19949 - https://github.com/yzmcms/yzmcms/issues/21
+CVE-2020-19950 - https://github.com/yzmcms/yzmcms/issues/22
 CVE-2020-19951 - https://github.com/yzmcms/yzmcms/issues/43
 CVE-2020-19962 - https://github.com/zhuxianjin/vuln_repo/blob/master/chaojicms_stored_xss.md
 CVE-2020-19964 - https://github.com/gaozhifeng/PHPMyWind
@@ -44585,6 +44617,7 @@ CVE-2021-42383 - https://jfrog.com/blog/unboxing-busybox-14-new-vulnerabilities-
 CVE-2021-42384 - https://jfrog.com/blog/unboxing-busybox-14-new-vulnerabilities-uncovered-by-claroty-and-jfrog/
 CVE-2021-42385 - https://jfrog.com/blog/unboxing-busybox-14-new-vulnerabilities-uncovered-by-claroty-and-jfrog/
 CVE-2021-42386 - https://jfrog.com/blog/unboxing-busybox-14-new-vulnerabilities-uncovered-by-claroty-and-jfrog/
+CVE-2021-42551 - https://www.redguard.ch/advisories/netbiblio_webopac.txt
 CVE-2021-42556 - https://rasa.com
 CVE-2021-42558 - https://github.com/DrunkenShells/Disclosures/tree/master/CVE-2021-42558-Multiple%20XSS-MITRE%20Caldera
 CVE-2021-42559 - https://github.com/DrunkenShells/Disclosures/tree/master/CVE-2021-42559-Command%20Injection%20Via%20Configurations-MITRE%20Caldera
