@@ -14413,6 +14413,7 @@ CVE-2013-1564 - http://www.oracle.com/technetwork/topics/security/javacpuapr2013
 CVE-2013-1569 - http://bugs.icu-project.org/trac/ticket/10107
 CVE-2013-1569 - http://www.oracle.com/technetwork/topics/security/javacpuapr2013-1928497.html
 CVE-2013-1571 - http://www.oracle.com/technetwork/topics/security/javacpujun2013-1899847.html
+CVE-2013-1586 - http://anonsvn.wireshark.org/viewvc/trunk/epan/reassemble.c?r1=46999&r2=46998&pathrev=46999
 CVE-2013-1592 - http://www.exploit-db.com/exploits/24511
 CVE-2013-1592 - https://packetstormsecurity.com/files/cve/CVE-2013-1592
 CVE-2013-1593 - https://packetstormsecurity.com/files/cve/CVE-2013-1593
@@ -24483,6 +24484,7 @@ CVE-2017-0561 - https://www.exploit-db.com/exploits/41805/
 CVE-2017-0561 - https://www.exploit-db.com/exploits/41806/
 CVE-2017-0563 - http://seclists.org/fulldisclosure/2017/May/19
 CVE-2017-0569 - https://www.exploit-db.com/exploits/41808/
+CVE-2017-0576 - https://github.com/derrekr/android_security/commit/0dd1a733e60cf5239c0a185d4219ba2ef1118a8b
 CVE-2017-0594 - https://android.googlesource.com/platform/frameworks/av/+/594bf934384920618d2b6ce0bcda1f60144cb3eb
 CVE-2017-0595 - https://android.googlesource.com/platform/frameworks/av/+/5443b57cc54f2e46b35246637be26a69e9f493e1
 CVE-2017-0596 - https://android.googlesource.com/platform/frameworks/av/+/5443b57cc54f2e46b35246637be26a69e9f493e1
@@ -24644,6 +24646,7 @@ CVE-2017-10106 - https://erpscan.io/advisories/erpscan-17-037-multiple-xss-vulne
 CVE-2017-10129 - https://www.exploit-db.com/exploits/42426/
 CVE-2017-10147 - https://erpscan.io/advisories/erpscan-17-041-unauthorized-container-shutdown-servermigrationcoordinator/
 CVE-2017-10148 - https://erpscan.io/advisories/erpscan-17-042-anonymous-log-injection-in-fscm/
+CVE-2017-10148 - https://github.com/vah13/OracleCVE/tree/master/CVE-2017-10148
 CVE-2017-10152 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2017-10153 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2017-10154 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
@@ -25067,9 +25070,12 @@ CVE-2017-11608 - https://bugzilla.redhat.com/show_bug.cgi?id=1474276
 CVE-2017-11610 - https://www.exploit-db.com/exploits/42779/
 CVE-2017-11613 - https://gist.github.com/dazhouzhou/1a3b7400547f23fe316db303ab9b604f
 CVE-2017-11629 - http://lorexxar.cn/2017/07/20/FineCMS%20multi%20vulnerablity%20before%20v5.0.9/#api-php-Reflected-XSS
+CVE-2017-11631 - https://github.com/FiyoCMS/FiyoCMS/issues/7
+CVE-2017-11639 - https://github.com/ImageMagick/ImageMagick/issues/588
 CVE-2017-11644 - https://github.com/ImageMagick/ImageMagick/issues/587
 CVE-2017-11652 - http://packetstormsecurity.com/files/143516/Razer-Synapse-2.20-DLL-Hijacking.html
 CVE-2017-11653 - http://packetstormsecurity.com/files/143516/Razer-Synapse-2.20-DLL-Hijacking.html
+CVE-2017-11658 - https://gist.github.com/Shinkurt/157dbb3767c9489f3d754f79b183a890
 CVE-2017-11661 - http://seclists.org/fulldisclosure/2017/Aug/12
 CVE-2017-11661 - https://www.exploit-db.com/exploits/42433/
 CVE-2017-11662 - http://seclists.org/fulldisclosure/2017/Aug/12
@@ -25109,8 +25115,11 @@ CVE-2017-11740 - https://www.trustwave.com/en-us/resources/security-resources/se
 CVE-2017-11741 - http://seclists.org/fulldisclosure/2017/Aug/0
 CVE-2017-11741 - https://www.exploit-db.com/exploits/43224/
 CVE-2017-11750 - https://github.com/ImageMagick/ImageMagick/issues/632
+CVE-2017-11751 - https://github.com/ImageMagick/ImageMagick/issues/631
 CVE-2017-11752 - https://github.com/ImageMagick/ImageMagick/issues/628
+CVE-2017-11753 - https://github.com/ImageMagick/ImageMagick/issues/629
 CVE-2017-11754 - https://github.com/ImageMagick/ImageMagick/issues/633
+CVE-2017-11755 - https://github.com/ImageMagick/ImageMagick/issues/634
 CVE-2017-11764 - https://www.exploit-db.com/exploits/42765/
 CVE-2017-11785 - https://www.exploit-db.com/exploits/43001/
 CVE-2017-11793 - https://www.exploit-db.com/exploits/43368/
@@ -26369,6 +26378,7 @@ CVE-2017-17056 - http://packetstormsecurity.com/files/145160/ZKTeco-ZKTime-Web-2
 CVE-2017-17057 - http://packetstormsecurity.com/files/145159/ZKTeco-ZKTime-Web-2.0.1.12280-Cross-Site-Scripting.html
 CVE-2017-17058 - https://www.exploit-db.com/exploits/43196/
 CVE-2017-17058 - https://www.exploit-db.com/ghdb/4613/
+CVE-2017-17059 - https://github.com/NaturalIntelligence/wp-thumb-post/issues/1
 CVE-2017-17059 - https://packetstormsecurity.com/files/145044/WordPress-amtyThumb-8.1.3-Cross-Site-Scripting.html
 CVE-2017-17062 - http://packetstormsecurity.com/files/148118/OX-App-Suite-7.8.4-XSS-Privilege-Management-SSRF-Traversal.html
 CVE-2017-17062 - http://seclists.org/fulldisclosure/2018/Jun/23
@@ -26658,6 +26668,7 @@ CVE-2017-17724 - https://bugzilla.redhat.com/show_bug.cgi?id=1524107
 CVE-2017-17724 - https://github.com/Exiv2/exiv2/issues/263
 CVE-2017-17724 - https://github.com/xiaoqx/pocs/blob/master/exiv2/readme.md
 CVE-2017-17725 - https://bugzilla.redhat.com/show_bug.cgi?id=1525055
+CVE-2017-17725 - https://github.com/Exiv2/exiv2/issues/188
 CVE-2017-17733 - http://www.0day5.com/archives/4383/
 CVE-2017-17737 - https://www.exploit-db.com/exploits/43364/
 CVE-2017-17738 - https://www.exploit-db.com/exploits/43364/
@@ -27347,6 +27358,7 @@ CVE-2017-5508 - https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851381
 CVE-2017-5509 - https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851377
 CVE-2017-5509 - https://github.com/ImageMagick/ImageMagick/issues/350
 CVE-2017-5510 - https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851376
+CVE-2017-5510 - https://github.com/ImageMagick/ImageMagick/issues/348
 CVE-2017-5511 - https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=851374
 CVE-2017-5511 - https://github.com/ImageMagick/ImageMagick/issues/347
 CVE-2017-5516 - https://github.com/semplon/GeniXCMS/issues/65
@@ -27379,6 +27391,7 @@ CVE-2017-5633 - http://seclists.org/fulldisclosure/2017/Feb/70
 CVE-2017-5637 - https://issues.apache.org/jira/browse/ZOOKEEPER-2693
 CVE-2017-5638 - http://blog.talosintelligence.com/2017/03/apache-0-day-exploited.html
 CVE-2017-5638 - http://blog.trendmicro.com/trendlabs-security-intelligence/cve-2017-5638-apache-struts-vulnerability-remote-code-execution/
+CVE-2017-5638 - https://github.com/rapid7/metasploit-framework/issues/8064
 CVE-2017-5638 - https://packetstormsecurity.com/files/141494/S2-45-poc.py.txt
 CVE-2017-5638 - https://www.exploit-db.com/exploits/41614/
 CVE-2017-5641 - https://www.kb.cert.org/vuls/id/307983
@@ -27620,6 +27633,7 @@ CVE-2017-6529 - https://www.exploit-db.com/exploits/41578/
 CVE-2017-6533 - https://github.com/WPO-Foundation/webpagetest/issues/833
 CVE-2017-6536 - https://github.com/WPO-Foundation/webpagetest/issues/838
 CVE-2017-6537 - https://github.com/WPO-Foundation/webpagetest/issues/837
+CVE-2017-6538 - https://github.com/WPO-Foundation/webpagetest/issues/836
 CVE-2017-6539 - https://github.com/WPO-Foundation/webpagetest/issues/831
 CVE-2017-6542 - http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-agent-fwd-overflow.html
 CVE-2017-6542 - https://www.exploit-db.com/exploits/42137/
@@ -27699,6 +27713,7 @@ CVE-2017-6896 - https://drive.google.com/file/d/0B6715xUqH18MX29uRlpaSVJ4OTA/vie
 CVE-2017-6896 - https://packetstormsecurity.com/files/141693/digisol-escalate.txt
 CVE-2017-6896 - https://www.exploit-db.com/exploits/41633/
 CVE-2017-6908 - https://github.com/concrete5/concrete5-legacy/issues/1948
+CVE-2017-6909 - https://github.com/shish/shimmie2/issues/597
 CVE-2017-6911 - http://packetstormsecurity.com/files/141651/USB-Pratirodh-Insecure-Password-Storage.html
 CVE-2017-6914 - https://github.com/bigtreecms/BigTree-CMS/issues/275
 CVE-2017-6915 - https://github.com/bigtreecms/BigTree-CMS/issues/275
@@ -28458,6 +28473,8 @@ CVE-2017-9603 - https://www.exploit-db.com/exploits/42172/
 CVE-2017-9608 - http://www.openwall.com/lists/oss-security/2017/08/14/1
 CVE-2017-9608 - http://www.openwall.com/lists/oss-security/2017/08/15/8
 CVE-2017-9609 - http://packetstormsecurity.com/files/143103/Blackcat-CMS-1.2-Cross-Site-Scripting.html
+CVE-2017-9609 - https://github.com/BlackCatDevelopment/BlackCatCMS/issues/373
+CVE-2017-9609 - https://github.com/faizzaidi/Blackcat-cms-v1.2-xss-POC-by-Provensec-llc
 CVE-2017-9610 - https://bugs.ghostscript.com/show_bug.cgi?id=698025
 CVE-2017-9611 - https://bugs.ghostscript.com/show_bug.cgi?id=698024
 CVE-2017-9612 - https://bugs.ghostscript.com/show_bug.cgi?id=698026
@@ -28512,6 +28529,7 @@ CVE-2017-9791 - https://www.exploit-db.com/exploits/42324/
 CVE-2017-9791 - https://www.exploit-db.com/exploits/44643/
 CVE-2017-9798 - http://openwall.com/lists/oss-security/2017/09/18/2
 CVE-2017-9798 - https://blog.fuzzing-project.org/60-Optionsbleed-HTTP-OPTIONS-method-can-leak-Apaches-server-memory.html
+CVE-2017-9798 - https://github.com/hannob/optionsbleed
 CVE-2017-9798 - https://www.exploit-db.com/exploits/42745/
 CVE-2017-9800 - http://packetstormsecurity.com/files/143722/Apache-Subversion-Arbitrary-Code-Execution.html
 CVE-2017-9802 - http://packetstormsecurity.com/files/143758/Apache-Sling-Servlets-Post-2.3.20-Cross-Site-Scripting.html
@@ -28540,6 +28558,7 @@ CVE-2017-9841 - http://web.archive.org/web/20170701212357/http://phpunit.vulnbus
 CVE-2017-9843 - https://erpscan.io/advisories/erpscan-17-010-sap-netweaver-abap-dispwork-crash-using-cl_java_script/
 CVE-2017-9844 - https://erpscan.io/advisories/erpscan-17-014-sap-netweaver-java-deserialization-untrusted-user-value-metadatauploader/
 CVE-2017-9845 - https://erpscan.io/advisories/erpscan-17-015-sap-netweaver-dispwork-anonymous-denial-service/
+CVE-2017-9847 - https://github.com/arvidn/libtorrent/issues/2099
 CVE-2017-9865 - https://bugs.freedesktop.org/show_bug.cgi?id=100774
 CVE-2017-9869 - https://blogs.gentoo.org/ago/2017/06/17/lame-global-buffer-overflow-in-ii_step_one-layer2-c/
 CVE-2017-9869 - https://www.exploit-db.com/exploits/42258/
@@ -28564,6 +28583,7 @@ CVE-2017-9979 - https://www.exploit-db.com/exploits/42517/
 CVE-2017-9982 - https://www.youtube.com/watch?v=8BrQCUOgQL0
 CVE-2017-9987 - https://bugzilla.libav.org/show_bug.cgi?id=1067
 CVE-2017-9988 - https://github.com/libming/libming/issues/85
+CVE-2017-9989 - https://github.com/libming/libming/issues/86
 CVE-2017-9998 - https://bugzilla.redhat.com/show_bug.cgi?id=1465756
 CVE-2018-0101 - https://pastebin.com/YrBcG2Ln
 CVE-2018-0101 - https://www.exploit-db.com/exploits/43986/
@@ -28799,6 +28819,7 @@ CVE-2018-10052 - https://pastebin.com/aeqYLK9u
 CVE-2018-10054 - https://mthbernardes.github.io/rce/2018/03/14/abusing-h2-database-alias.html
 CVE-2018-10054 - https://www.exploit-db.com/exploits/44422/
 CVE-2018-10057 - http://www.openwall.com/lists/oss-security/2018/06/03/1
+CVE-2018-10057 - https://github.com/tintinweb/pub/tree/master/pocs/cve-2018-10057
 CVE-2018-10058 - http://www.openwall.com/lists/oss-security/2018/06/03/1
 CVE-2018-10063 - https://www.exploit-db.com/exploits/44447/
 CVE-2018-10068 - https://www.exploit-db.com/exploits/44471/
@@ -28811,6 +28832,12 @@ CVE-2018-10078 - https://www.exploit-db.com/exploits/44493/
 CVE-2018-10079 - http://packetstormsecurity.com/files/147253/Geist-WatchDog-Console-3.2.2-XSS-XML-Injection-Insecure-Permissions.html
 CVE-2018-10079 - https://www.exploit-db.com/exploits/44493/
 CVE-2018-10080 - https://www.exploit-db.com/exploits/44393/
+CVE-2018-10081 - https://github.com/itodaro/cve/blob/master/README.md
+CVE-2018-10082 - https://github.com/itodaro/cve/blob/master/README.md
+CVE-2018-10083 - https://github.com/itodaro/cve/blob/master/README.md
+CVE-2018-10084 - https://github.com/itodaro/cve/blob/master/README.md
+CVE-2018-10085 - https://github.com/itodaro/cve/blob/master/README.md
+CVE-2018-10086 - https://github.com/itodaro/cve/blob/master/README.md
 CVE-2018-10088 - https://www.exploit-db.com/exploits/44864/
 CVE-2018-10091 - http://packetstormsecurity.com/files/151115/AudioCode-400HD-Cross-Site-scripting.html
 CVE-2018-10092 - http://www.openwall.com/lists/oss-security/2018/05/21/2
@@ -28824,15 +28851,25 @@ CVE-2018-10095 - http://www.openwall.com/lists/oss-security/2018/05/21/3
 CVE-2018-10095 - https://sysdream.com/news/lab/2018-05-21-cve-2018-10095-dolibarr-xss-injection-vulnerability/
 CVE-2018-10097 - https://packetstormsecurity.com/files/146855/Domaintrader-2.5.3-Cross-Site-Scripting.html
 CVE-2018-10099 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549
+CVE-2018-10106 - https://github.com/iceMatcha/Some-Vulnerabilities-of-D-link-Dir815/blob/master/Vulnerabilities_Summary.md
+CVE-2018-10107 - https://github.com/iceMatcha/Some-Vulnerabilities-of-D-link-Dir815/blob/master/Vulnerabilities_Summary.md
+CVE-2018-10108 - https://github.com/iceMatcha/Some-Vulnerabilities-of-D-link-Dir815/blob/master/Vulnerabilities_Summary.md
 CVE-2018-10109 - https://www.exploit-db.com/exploits/44502/
 CVE-2018-10110 - http://packetstormsecurity.com/files/147184/D-Link-DIR-615-Cross-Site-Scripting.html
 CVE-2018-10110 - https://www.exploit-db.com/exploits/44473/
+CVE-2018-10111 - https://github.com/xiaoqx/pocs/tree/master/gegl
 CVE-2018-10112 - https://bugzilla.gnome.org/show_bug.cgi?id=795249
+CVE-2018-10112 - https://github.com/xiaoqx/pocs/tree/master/gegl
+CVE-2018-10113 - https://github.com/xiaoqx/pocs/tree/master/gegl
 CVE-2018-10114 - https://bugzilla.gnome.org/show_bug.cgi?id=795248
+CVE-2018-10114 - https://github.com/xiaoqx/pocs/tree/master/gegl
 CVE-2018-10118 - https://www.exploit-db.com/exploits/44855/
+CVE-2018-10122 - https://github.com/goodrain-apps/chanzhieps/issues/1
 CVE-2018-10123 - https://neonsea.uk/blog/2018/04/15/pwn910nd.html
 CVE-2018-10123 - https://www.exploit-db.com/exploits/44635/
 CVE-2018-10126 - http://bugzilla.maptools.org/show_bug.cgi?id=2786
+CVE-2018-10132 - https://github.com/vQAQv/Request-CVE-ID-PoC/blob/master/PbootCMS/v0.9.8/CSRF.md
+CVE-2018-10133 - https://github.com/vQAQv/Request-CVE-ID-PoC/blob/master/PbootCMS/v0.9.8/Getshll.md
 CVE-2018-10135 - https://pastebin.com/vVN00qRh
 CVE-2018-10136 - https://pastebin.com/TCEWRZEd
 CVE-2018-10137 - https://pastebin.com/TCEWRZEd
@@ -28842,6 +28879,9 @@ CVE-2018-10173 - http://packetstormsecurity.com/files/147244/Digital-Guardian-Ma
 CVE-2018-10174 - http://packetstormsecurity.com/files/147260/Digital-Guardian-Management-Console-7.1.2.0015-Server-Side-Request-Forgery.html
 CVE-2018-10175 - http://packetstormsecurity.com/files/147261/Digital-Guardian-Management-Console-7.1.2.0015-XXE-Injection.html
 CVE-2018-10176 - http://packetstormsecurity.com/files/147242/Digital-Guardian-Management-Console-7.1.2.0015-Arbitrary-File-Read.html
+CVE-2018-10185 - https://github.com/yeyinshi/tuzicms/issues/1
+CVE-2018-10186 - https://github.com/radare/radare2/issues/9915
+CVE-2018-10187 - https://github.com/radare/radare2/issues/9913
 CVE-2018-10188 - https://www.exploit-db.com/exploits/44496/
 CVE-2018-10191 - https://github.com/mruby/mruby/issues/3995
 CVE-2018-10197 - http://seclists.org/fulldisclosure/2018/Jul/29
@@ -28878,6 +28918,7 @@ CVE-2018-10295 - https://github.com/chemcms/ChemCMS/issues/1
 CVE-2018-10309 - https://gist.github.com/B0UG/f0cfb356e23be3cd6ebea69566d6100a
 CVE-2018-10309 - https://www.exploit-db.com/exploits/44563/
 CVE-2018-10310 - http://packetstormsecurity.com/files/147333/WordPress-UK-Cookie-Consent-2.3.9-Cross-Site-Scripting.html
+CVE-2018-10310 - https://gist.github.com/B0UG/9732614abccaf2893c352d14c822d07b
 CVE-2018-10310 - https://www.exploit-db.com/exploits/44503/
 CVE-2018-10311 - https://github.com/wuzhicms/wuzhicms/issues/131
 CVE-2018-10311 - https://www.exploit-db.com/exploits/44618/
@@ -28924,6 +28965,7 @@ CVE-2018-10507 - http://hyp3rlinx.altervista.org/advisories/TRENDMICRO-OFFICESCA
 CVE-2018-10507 - https://www.exploit-db.com/exploits/44858/
 CVE-2018-10515 - https://github.com/itodaro/cmsms_cve/blob/master/README.md
 CVE-2018-10516 - https://github.com/itodaro/cmsms_cve/blob/master/README.md
+CVE-2018-10517 - https://github.com/itodaro/cmsms_cve/blob/master/README.md
 CVE-2018-10517 - https://www.exploit-db.com/exploits/45793/
 CVE-2018-10518 - https://github.com/itodaro/cmsms_cve/blob/master/README.md
 CVE-2018-10519 - https://github.com/itodaro/cmsms_cve/blob/master/README.md
@@ -28976,19 +29018,33 @@ CVE-2018-10682 - https://github.com/kmkz/exploit/blob/master/CVE-2018-10682-CVE-
 CVE-2018-10683 - https://github.com/kmkz/exploit/blob/master/CVE-2018-10682-CVE-2018-10683.txt
 CVE-2018-10685 - https://github.com/ckolivas/lrzip/issues/95
 CVE-2018-10690 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10690 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10691 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10691 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10692 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10692 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10693 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10693 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10694 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10694 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10695 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10695 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10696 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10696 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10697 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10697 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10698 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10698 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10699 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10699 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10700 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10700 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10701 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10701 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10702 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10702 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10703 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
+CVE-2018-10703 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10709 - https://www.exploit-db.com/exploits/45716/
 CVE-2018-10710 - https://www.exploit-db.com/exploits/45716/
 CVE-2018-10711 - https://www.exploit-db.com/exploits/45716/
@@ -29931,6 +29987,7 @@ CVE-2018-14445 - https://github.com/axiomatic-systems/Bento4/issues/289
 CVE-2018-14446 - https://github.com/TechSmith/mp4v2/issues/20
 CVE-2018-14447 - https://github.com/martinh/libconfuse/issues/109
 CVE-2018-14448 - https://github.com/ponchio/untrunc/issues/131
+CVE-2018-14471 - https://github.com/LibreDWG/libredwg/issues/32
 CVE-2018-14473 - https://www.tarlogic.com/en/blog/vulnerabilities-in-ocs-inventory-2-4-1/
 CVE-2018-14476 - http://packetstormsecurity.com/files/151006/GeniXCMS-1.1.5-Cross-Site-Scripting.html
 CVE-2018-14478 - http://packetstormsecurity.com/files/151306/Coppermine-1.5.46-Cross-Site-Scripting.html
@@ -29948,6 +30005,7 @@ CVE-2018-14498 - https://github.com/mozilla/mozjpeg/issues/299
 CVE-2018-14505 - https://github.com/mitmproxy/mitmproxy/issues/3234
 CVE-2018-14512 - https://github.com/wuzhicms/wuzhicms/issues/143
 CVE-2018-14513 - https://github.com/wuzhicms/wuzhicms/issues/145
+CVE-2018-14515 - https://github.com/wuzhicms/wuzhicms/issues/146
 CVE-2018-14517 - https://github.com/SecWiki/CMS-Hunter/blob/master/seacms/seacms6.61/seacms661.md
 CVE-2018-14524 - https://github.com/LibreDWG/libredwg/issues/33
 CVE-2018-14533 - https://neonsea.uk/blog/2018/07/21/tmp-to-rce.html
@@ -29958,6 +30016,7 @@ CVE-2018-14543 - https://github.com/axiomatic-systems/Bento4/issues/292
 CVE-2018-14544 - https://github.com/axiomatic-systems/Bento4/issues/291
 CVE-2018-14545 - https://github.com/axiomatic-systems/Bento4/issues/291
 CVE-2018-14551 - https://github.com/ImageMagick/ImageMagick/issues/1221
+CVE-2018-14557 - https://github.com/zsjevilhex/iot/blob/master/route/tenda/tenda-03/Tenda.md
 CVE-2018-14558 - https://github.com/zsjevilhex/iot/blob/master/route/tenda/tenda-01/Tenda.md
 CVE-2018-14568 - https://github.com/kirillwow/ids_bypass
 CVE-2018-14568 - https://redmine.openinfosecfoundation.org/issues/2501
@@ -30123,6 +30182,7 @@ CVE-2018-15206 - https://neetech18.blogspot.com/2019/03/cross-site-request-forge
 CVE-2018-15207 - https://neetech18.blogspot.com/2019/03/incorrect-access-control-smart-vista.html
 CVE-2018-15208 - https://neetech18.blogspot.com/2019/03/session-fixation-smart-vista-svfe-2.html
 CVE-2018-15209 - http://bugzilla.maptools.org/show_bug.cgi?id=2808
+CVE-2018-15365 - https://github.com/nixwizard/CVE-2018-15365/
 CVE-2018-15378 - https://bugzilla.clamav.net/show_bug.cgi?id=12170
 CVE-2018-15379 - https://www.exploit-db.com/exploits/45555/
 CVE-2018-15437 - https://www.exploit-db.com/exploits/45829/
@@ -30135,6 +30195,7 @@ CVE-2018-15465 - https://www.tenable.com/security/research/tra-2018-46
 CVE-2018-15473 - https://www.exploit-db.com/exploits/45210/
 CVE-2018-15473 - https://www.exploit-db.com/exploits/45233/
 CVE-2018-15473 - https://www.exploit-db.com/exploits/45939/
+CVE-2018-15474 - https://github.com/splitbrain/dokuwiki/issues/2450
 CVE-2018-15474 - https://seclists.org/fulldisclosure/2018/Sep/4
 CVE-2018-15474 - https://www.sec-consult.com/en/blog/advisories/dokuwiki-csv-formula-injection-vulnerability/
 CVE-2018-15483 - http://packetstormsecurity.com/files/149252/KONE-KGC-4.6.4-DoS-Code-Execution-LFI-Bypass.html
@@ -30298,6 +30359,7 @@ CVE-2018-15851 - https://github.com/flexocms/flexo1.source/issues/25
 CVE-2018-15852 - https://bkd00r.wordpress.com/2018/08/24/cve-2018-15852-exploit-title-cable-modem-technicolor-tc7200-20-wifi-buffer-overflow/
 CVE-2018-15865 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877
 CVE-2018-15870 - https://github.com/libming/libming/issues/122
+CVE-2018-15871 - https://github.com/libming/libming/issues/123
 CVE-2018-15873 - https://hackpuntes.com/cve-2018-15873-sentrifugo-hrms-3-2-blind-sql-injection/
 CVE-2018-15877 - http://packetstormsecurity.com/files/155502/WordPress-Plainview-Activity-Monitor-20161228-Remote-Command-Execution.html
 CVE-2018-15877 - http://packetstormsecurity.com/files/163425/WordPress-Plainview-Activity-Monitor-20161228-Remote-Code-Execution.html
@@ -30308,6 +30370,7 @@ CVE-2018-15896 - https://gkaim.com/cve-2018-15896-vikas-chaudhary/
 CVE-2018-15897 - https://gkaim.com/cve-2018-15897-vikas-chaudhary/
 CVE-2018-15898 - http://packetstormsecurity.com/files/149267/Subsonic-Music-Streamer-4.4-For-Android-Improper-Certificate-Validation.html
 CVE-2018-15899 - https://github.com/bg5sbk/MiniCMS/issues/21
+CVE-2018-15901 - https://github.com/dhananjay-bajaj/e107_2.1.8_csrf
 CVE-2018-15903 - https://seclists.org/fulldisclosure/2018/Oct/12
 CVE-2018-15906 - http://packetstormsecurity.com/files/151473/SolarWinds-Serv-U-FTP-15.1.6-Privilege-Escalation.html
 CVE-2018-15906 - http://seclists.org/fulldisclosure/2019/Feb/4
@@ -30330,6 +30393,7 @@ CVE-2018-16071 - https://www.exploit-db.com/exploits/45443/
 CVE-2018-16083 - https://www.exploit-db.com/exploits/45444/
 CVE-2018-16119 - https://www.secsignal.org/news/exploiting-routers-just-another-tp-link-0day
 CVE-2018-1612 - https://www.exploit-db.com/exploits/45005/
+CVE-2018-16133 - https://github.com/EmreOvunc/CyBroHttpServer-v1.0.3-Directory-Traversal
 CVE-2018-16133 - https://www.exploit-db.com/exploits/45303/
 CVE-2018-16134 - https://github.com/EmreOvunc/CyBroHttpServer-v1.0.3-Reflected-XSS
 CVE-2018-16134 - https://www.exploit-db.com/exploits/45309/
@@ -30442,6 +30506,7 @@ CVE-2018-16605 - https://www.youtube.com/watch?v=BvZJ_e2BH_M&feature=youtu.be
 CVE-2018-16606 - https://packetstormsecurity.com/files/149259/IDOR-On-ProConf-Peer-Review-And-Conference-Management-6.0-File-Disclosure.html
 CVE-2018-16607 - https://docs.google.com/document/d/1MKeb9lly_oOrVG0Ja4A-HgwaeXhb_xQHT9IIOee3wi0/edit
 CVE-2018-16622 - https://github.com/doramart/DoraCMS/issues/136
+CVE-2018-16636 - https://github.com/NucleusCMS/NucleusCMS/issues/84
 CVE-2018-16646 - https://bugzilla.redhat.com/show_bug.cgi?id=1622951
 CVE-2018-16647 - https://bugs.ghostscript.com/show_bug.cgi?id=699686
 CVE-2018-16648 - https://bugs.ghostscript.com/show_bug.cgi?id=699685
@@ -30505,6 +30570,7 @@ CVE-2018-16866 - https://www.qualys.com/2019/01/09/system-down/system-down.txt
 CVE-2018-16868 - http://cat.eyalro.net/
 CVE-2018-16869 - http://cat.eyalro.net/
 CVE-2018-16870 - http://cat.eyalro.net/
+CVE-2018-16946 - https://github.com/EgeBalci/LG-Smart-IP-Device-Backup-Download
 CVE-2018-16946 - https://www.exploit-db.com/exploits/45394/
 CVE-2018-16965 - http://packetstormsecurity.com/files/149438/ManageEngine-SupportCenter-Plus-8.1.0-Cross-Site-Scripting.html
 CVE-2018-16974 - https://github.com/jbroadway/elefant/issues/287
@@ -32622,6 +32688,7 @@ CVE-2018-6562 - http://packetstormsecurity.com/files/147637/Totemomail-Encryptio
 CVE-2018-6562 - https://www.compass-security.com/fileadmin/Datein/Research/Advisories/CSNC-2018-002_totemo_json_hijacking.txt
 CVE-2018-6563 - http://packetstormsecurity.com/files/147648/Totemomail-Encryption-Gateway-6.0.0_Build_371-Cross-Site-Request-Forgery.html
 CVE-2018-6563 - https://www.exploit-db.com/exploits/44631/
+CVE-2018-6574 - https://github.com/KINGSABRI/CVE-in-Ruby/tree/master/CVE-2018-6574
 CVE-2018-6575 - https://www.exploit-db.com/exploits/43957
 CVE-2018-6576 - https://www.exploit-db.com/exploits/43949
 CVE-2018-6577 - https://www.exploit-db.com/exploits/43940
@@ -32770,6 +32837,7 @@ CVE-2018-6943 - https://packetstormsecurity.com/files/146403/WordPress-UltimateM
 CVE-2018-6944 - https://packetstormsecurity.com/files/146403/WordPress-UltimateMember-2.0-Cross-Site-Scripting.html
 CVE-2018-6947 - https://www.exploit-db.com/exploits/44167/
 CVE-2018-6947 - https://www.exploit-db.com/exploits/44168/
+CVE-2018-6954 - https://github.com/systemd/systemd/issues/7986
 CVE-2018-6961 - https://www.exploit-db.com/exploits/44959/
 CVE-2018-7032 - https://bugs.debian.org/840014
 CVE-2018-7072 - https://www.tenable.com/security/research/tra-2018-15
@@ -33846,6 +33914,7 @@ CVE-2019-11365 - https://sourceforge.net/p/atftp/code/ci/abed7d245d8e8bdfeab24f9
 CVE-2019-11366 - https://pulsesecurity.co.nz/advisories/atftpd-multiple-vulnerabilities
 CVE-2019-11366 - https://seclists.org/bugtraq/2019/May/16
 CVE-2019-11367 - http://packetstormsecurity.com/files/153151/AUO-Solar-Data-Recorder-Incorrect-Access-Control.html
+CVE-2019-11367 - https://github.com/nepenthe0320/cve_poc/blob/master/CVE-2019-11367
 CVE-2019-11368 - https://github.com/nepenthe0320/cve_poc/blob/master/CVE-2019-11368
 CVE-2019-11369 - http://seclists.org/fulldisclosure/2019/Oct/45
 CVE-2019-11370 - https://github.com/nepenthe0320/cve_poc/blob/master/CVE-2019-11370
@@ -33950,6 +34019,7 @@ CVE-2019-11517 - https://seclists.org/bugtraq/2019/Jun/10
 CVE-2019-1152 - http://packetstormsecurity.com/files/154096/Microsoft-Font-Subsetting-DLL-MakeFormat12MergedGlyphList-Heap-Corruption.html
 CVE-2019-11521 - http://packetstormsecurity.com/files/154128/Open-Xchange-OX-App-Suite-Content-Spoofing-Cross-Site-Scripting.html
 CVE-2019-11522 - http://packetstormsecurity.com/files/154128/Open-Xchange-OX-App-Suite-Content-Spoofing-Cross-Site-Scripting.html
+CVE-2019-11523 - https://github.com/wizlab-it/anviz-m3-rfid-cve-2019-11523-poc
 CVE-2019-11526 - https://security.mioso.com/CVE-2019-11526-en.html
 CVE-2019-11527 - https://security.mioso.com/CVE-2019-11527-en.html
 CVE-2019-11528 - https://security.mioso.com/CVE-2019-11528-en.html
@@ -36794,6 +36864,7 @@ CVE-2019-7316 - https://kc.mcafee.com/corporate/index?page=content&id=SB10330
 CVE-2019-7316 - https://packetstormsecurity.com/files/125780
 CVE-2019-7317 - http://packetstormsecurity.com/files/152561/Slackware-Security-Advisory-libpng-Updates.html
 CVE-2019-7323 - https://bmantra.github.io/logmx/logmx.html
+CVE-2019-7323 - https://github.com/bmantra/bmantra.github.io/blob/master/logmx/logmx.html
 CVE-2019-7324 - http://packetstormsecurity.com/files/153093/Kanboard-1.2.7-Cross-Site-Scripting.html
 CVE-2019-7383 - http://packetstormsecurity.com/files/151648/SYSTORME-ISG-Command-Injection.html
 CVE-2019-7383 - http://seclists.org/fulldisclosure/2019/Feb/32
@@ -36908,6 +36979,7 @@ CVE-2019-7637 - https://bugzilla.libsdl.org/show_bug.cgi?id=4497
 CVE-2019-7638 - https://bugzilla.libsdl.org/show_bug.cgi?id=4500
 CVE-2019-7646 - http://packetstormsecurity.com/files/151630/CentOS-Web-Panel-0.9.8.763-Cross-Site-Scripting.html
 CVE-2019-7646 - https://www.exploit-db.com/exploits/46349/
+CVE-2019-7651 - https://github.com/nafiez/nafiez.github.io/blob/master/_posts/2019-01-09-emsisoft-Anti-Malware-bypass.md
 CVE-2019-7651 - https://nafiez.github.io/security/bypass/2019/01/08/emsisoft-Anti-Malware-bypass.html
 CVE-2019-7652 - http://packetstormsecurity.com/files/152804/TheHive-Project-Cortex-2.1.3-Server-Side-Request-Forgery.html
 CVE-2019-7656 - https://github.com/DrunkenShells/Disclosures/tree/master/CVE-2019-7656-PrivEscal-Wowza
@@ -37095,6 +37167,7 @@ CVE-2019-9110 - https://gist.github.com/redeye5/470708bd27ed115b29d0434255b9f7a0
 CVE-2019-9110 - https://github.com/wuzhicms/wuzhicms/issues/170
 CVE-2019-9113 - https://github.com/libming/libming/issues/171
 CVE-2019-9114 - https://github.com/libming/libming/issues/170
+CVE-2019-9143 - https://github.com/Exiv2/exiv2/issues/711
 CVE-2019-9143 - https://research.loginsoft.com/bugs/uncontrolled-recursion-loop-in-exiv2imageprinttiffstructure-exiv2-0-27/
 CVE-2019-9144 - https://github.com/Exiv2/exiv2/issues/712
 CVE-2019-9144 - https://research.loginsoft.com/bugs/uncontrolled-recursion-loop-in-exiv2anonymous-namespacebigtiffimageprintifd-exiv2-0-27/
@@ -41800,6 +41873,9 @@ CVE-2021-1629 - http://packetstormsecurity.com/files/162138/Tableau-Server-Open-
 CVE-2021-1629 - http://seclists.org/fulldisclosure/2021/Apr/22
 CVE-2021-1645 - http://packetstormsecurity.com/files/161816/Microsoft-Windows-Containers-DP-API-Cryptography-Flaw.html
 CVE-2021-1645 - http://seclists.org/fulldisclosure/2021/Mar/33
+CVE-2021-1675 - http://packetstormsecurity.com/files/163349/Microsoft-PrintNightmare-Proof-Of-Concept.html
+CVE-2021-1675 - http://packetstormsecurity.com/files/163351/PrintNightmare-Windows-Spooler-Service-Remote-Code-Execution.html
+CVE-2021-1732 - http://packetstormsecurity.com/files/161880/Win32k-ConsoleControl-Offset-Confusion.html
 CVE-2021-1810 - http://packetstormsecurity.com/files/164375/Gatekeeper-Bypass-Proof-Of-Concept.html
 CVE-2021-20031 - http://packetstormsecurity.com/files/164502/Sonicwall-SonicOS-7.0-Host-Header-Injection.html
 CVE-2021-20034 - http://packetstormsecurity.com/files/164564/SonicWall-SMA-10.2.1.0-17sv-Password-Reset.html
@@ -42050,6 +42126,10 @@ CVE-2021-22171 - https://gitlab.com/gitlab-org/gitlab-pages/-/issues/262
 CVE-2021-22175 - https://gitlab.com/gitlab-org/gitlab/-/issues/294178
 CVE-2021-22191 - https://gitlab.com/wireshark/wireshark/-/issues/17232
 CVE-2021-22195 - https://gitlab.com/gitlab-org/gitlab-vscode-extension/-/issues/325
+CVE-2021-22204 - http://packetstormsecurity.com/files/162558/ExifTool-DjVu-ANT-Perl-Injection.html
+CVE-2021-22204 - http://packetstormsecurity.com/files/164768/GitLab-Unauthenticated-Remote-ExifTool-Command-Injection.html
+CVE-2021-22204 - http://packetstormsecurity.com/files/164994/GitLab-13.10.2-Remote-Code-Execution.html
+CVE-2021-22204 - http://www.openwall.com/lists/oss-security/2021/05/10/5
 CVE-2021-22205 - http://packetstormsecurity.com/files/164768/GitLab-Unauthenticated-Remote-ExifTool-Command-Injection.html
 CVE-2021-22205 - http://packetstormsecurity.com/files/164994/GitLab-13.10.2-Remote-Code-Execution.html
 CVE-2021-22214 - https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22214.json
@@ -42611,6 +42691,8 @@ CVE-2021-25992 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-
 CVE-2021-25993 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25993
 CVE-2021-25994 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25994
 CVE-2021-26078 - http://packetstormsecurity.com/files/163289/Atlassian-Jira-Server-Data-Center-8.16.0-Cross-Site-Scripting.html
+CVE-2021-26084 - http://packetstormsecurity.com/files/164013/Confluence-Server-7.12.4-OGNL-Injection-Remote-Code-Execution.html
+CVE-2021-26084 - http://packetstormsecurity.com/files/164122/Atlassian-Confluence-WebWork-OGNL-Injection.html
 CVE-2021-26085 - http://packetstormsecurity.com/files/164401/Atlassian-Confluence-Server-7.5.1-Arbitrary-File-Read.html
 CVE-2021-26086 - http://packetstormsecurity.com/files/164405/Atlassian-Jira-Server-Data-Center-8.4.0-File-Read.html
 CVE-2021-26194 - https://github.com/jerryscript-project/jerryscript/issues/4445
@@ -42692,6 +42774,10 @@ CVE-2021-26827 - https://github.com/GD008/vuln/blob/main/tplink_wr2041/tplink_WR
 CVE-2021-26828 - http://packetstormsecurity.com/files/162564/ScadaBR-1.0-1.1CE-Linux-Shell-Upload.html
 CVE-2021-26828 - https://youtu.be/k1teIStQr1A
 CVE-2021-26829 - https://youtu.be/Xh6LPCiLMa8
+CVE-2021-26855 - http://packetstormsecurity.com/files/161846/Microsoft-Exchange-2019-SSRF-Arbitrary-File-Write.html
+CVE-2021-26855 - http://packetstormsecurity.com/files/161938/Microsoft-Exchange-ProxyLogon-Remote-Code-Execution.html
+CVE-2021-26855 - http://packetstormsecurity.com/files/162610/Microsoft-Exchange-2019-Unauthenticated-Email-Download.html
+CVE-2021-26855 - http://packetstormsecurity.com/files/162736/Microsoft-Exchange-ProxyLogon-Collector.html
 CVE-2021-26863 - http://packetstormsecurity.com/files/161768/Microsoft-Windows-Kernel-NtGdiGetDeviceCapsAll-Race-Condition-Use-After-Free.html
 CVE-2021-26906 - http://packetstormsecurity.com/files/161477/Asterisk-Project-Security-Advisory-AST-2021-005.html
 CVE-2021-26910 - http://www.openwall.com/lists/oss-security/2021/02/09/1
@@ -43142,6 +43228,7 @@ CVE-2021-3116 - https://cardaci.xyz/advisories/2021/01/10/proxy.py-2.3.0-broken-
 CVE-2021-31160 - https://www.manageengine.com/products/service-desk-msp/readme.html#10521
 CVE-2021-31162 - https://github.com/rust-lang/rust/issues/83618
 CVE-2021-31165 - http://packetstormsecurity.com/files/162555/Windows-Container-Manager-Service-CmsRpcSrv_CreateContainer-Privilege-Escalation.html
+CVE-2021-31166 - http://packetstormsecurity.com/files/162722/Microsoft-HTTP-Protocol-Stack-Remote-Code-Execution.html
 CVE-2021-31167 - http://packetstormsecurity.com/files/162559/Windows-Container-Manager-Service-CmsRpcSrv_MapNamedPipeToContainer-Privilege-Escalation.html
 CVE-2021-31168 - http://packetstormsecurity.com/files/162556/Windows-Container-Manager-Service-CmsRpcSrv_MapVirtualDiskToContainer-Privilege-Escalation.html
 CVE-2021-31169 - http://packetstormsecurity.com/files/162557/Windows-Container-Manager-Service-Arbitrary-Object-Directory-Creation-Privilege-Escalation.html
@@ -43211,12 +43298,17 @@ CVE-2021-31538 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisorie
 CVE-2021-31539 - https://www.gruppotim.it/redteam
 CVE-2021-31540 - https://www.gruppotim.it/redteam
 CVE-2021-31552 - https://phabricator.wikimedia.org/T152394
+CVE-2021-3156 - http://packetstormsecurity.com/files/161160/Sudo-Heap-Based-Buffer-Overflow.html
+CVE-2021-3156 - http://packetstormsecurity.com/files/161230/Sudo-Buffer-Overflow-Privilege-Escalation.html
+CVE-2021-3156 - http://packetstormsecurity.com/files/161270/Sudo-1.9.5p1-Buffer-Overflow-Privilege-Escalation.html
+CVE-2021-3156 - http://packetstormsecurity.com/files/161293/Sudo-1.8.31p2-1.9.5p1-Buffer-Overflow.html
 CVE-2021-31583 - http://packetstormsecurity.com/files/162316/Sipwise-C5-NGCP-CSC-Cross-Site-Scripting.html
 CVE-2021-31583 - https://www.zeroscience.mk/en/vulnerabilities
 CVE-2021-31583 - https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5648.php
 CVE-2021-31584 - http://packetstormsecurity.com/files/162318/Sipwise-C5-NGCP-CSC-Cross-Site-Request-Forgery.html
 CVE-2021-31584 - https://www.zeroscience.mk/en/vulnerabilities
 CVE-2021-31584 - https://www.zeroscience.mk/en/vulnerabilities/ZSL-2021-5649.php
+CVE-2021-31589 - http://packetstormsecurity.com/files/165408/BeyondTrust-Remote-Support-6.0-Cross-Site-Scripting.html
 CVE-2021-31589 - https://cxsecurity.com/issue/WLB-2022010013
 CVE-2021-31599 - http://packetstormsecurity.com/files/164772/Pentaho-Business-Analytics-Pentaho-Business-Server-9.1-Remote-Code-Execution.html
 CVE-2021-31600 - http://packetstormsecurity.com/files/164787/Pentaho-Business-Analytics-Pentaho-Business-Server-9.1-User-Enumeration.html
@@ -43743,6 +43835,7 @@ CVE-2021-35506 - https://syntegris-sec.github.io/filerun-advisory
 CVE-2021-35508 - https://www.linkedin.com/pulse/cve-2021-35508-privilege-escalation-via-weak-windows-marshall-mba
 CVE-2021-35512 - https://www.esecforte.com/server-side-request-forgery-india-ssrf-rvd-manage-engine/
 CVE-2021-35523 - http://packetstormsecurity.com/files/163320/Securepoint-SSL-VPN-Client-2.0.30-Local-Privilege-Escalation.html
+CVE-2021-3560 - https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 CVE-2021-3564 - http://www.openwall.com/lists/oss-security/2021/05/25/1
 CVE-2021-3564 - http://www.openwall.com/lists/oss-security/2021/06/01/2
 CVE-2021-3564 - https://www.openwall.com/lists/oss-security/2021/05/25/1
@@ -43794,6 +43887,7 @@ CVE-2021-36762 - https://www.kb.cert.org/vuls/id/608209
 CVE-2021-36766 - http://packetstormsecurity.com/files/163564/Concrete5-8.5.5-Phar-Deserialization.html
 CVE-2021-36773 - https://news.ycombinator.com/item?id=27833752
 CVE-2021-3678 - https://huntr.dev/bounties/f9a9defd-29ea-4442-b692-ff1512813de4
+CVE-2021-36787 - http://packetstormsecurity.com/files/165675/TYPO3-femanager-6.3.0-Cross-Site-Scripting.html
 CVE-2021-36787 - http://seclists.org/fulldisclosure/2022/Jan/53
 CVE-2021-3679 - https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=67f0d6d9883c13174669f88adac4f0ee656cc16a
 CVE-2021-36798 - https://labs.sentinelone.com/hotcobalt-new-cobalt-strike-dos-vulnerability-that-lets-you-halt-operations/
@@ -44406,6 +44500,10 @@ CVE-2021-4173 - https://huntr.dev/bounties/a1b236b9-89fb-4ccf-9689-ba11b471e766
 CVE-2021-4175 - https://huntr.dev/bounties/8a7d16e0-9a46-4710-a029-c89c33c01528
 CVE-2021-4176 - https://huntr.dev/bounties/8b531ae9-2d36-43ff-af33-4d81acfb2f27
 CVE-2021-4177 - https://huntr.dev/bounties/ac641425-1c64-4874-95e7-c7805c72074e
+CVE-2021-41773 - http://packetstormsecurity.com/files/164418/Apache-HTTP-Server-2.4.49-Path-Traversal-Remote-Code-Execution.html
+CVE-2021-41773 - http://packetstormsecurity.com/files/164418/Apache-HTTP-Server-2.4.49-Path-Traversal.html
+CVE-2021-41773 - http://packetstormsecurity.com/files/164629/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution.html
+CVE-2021-41773 - http://packetstormsecurity.com/files/164941/Apache-HTTP-Server-2.4.50-Remote-Code-Execution.html
 CVE-2021-4179 - https://huntr.dev/bounties/8df06513-c57d-4a55-9798-0a1f6c153535
 CVE-2021-41821 - https://documentation.wazuh.com/current/release-notes/release_4_2_0.html
 CVE-2021-41825 - https://0xy37.medium.com/my-first-cve-cve-2021-41825-verint-workforce-optimization-html-injection-6dd450e7f2af
@@ -44622,6 +44720,20 @@ CVE-2021-44153 - http://packetstormsecurity.com/files/165194/Reprise-License-Man
 CVE-2021-44154 - http://packetstormsecurity.com/files/165193/Reprise-License-Manager-14.2-Buffer-Overflow.html
 CVE-2021-44155 - http://packetstormsecurity.com/files/165182/Reprise-License-Manager-14.2-User-Enumeration.html
 CVE-2021-44223 - https://vavkamil.cz/2021/11/25/wordpress-plugin-confusion-update-can-get-you-pwned/
+CVE-2021-44228 - http://packetstormsecurity.com/files/165225/Apache-Log4j2-2.14.1-Remote-Code-Execution.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165260/VMware-Security-Advisory-2021-0028.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165261/Apache-Log4j2-2.14.1-Information-Disclosure.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165270/Apache-Log4j2-2.14.1-Remote-Code-Execution.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165281/Log4j2-Log4Shell-Regexes.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165282/Log4j-Payload-Generator.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165306/L4sh-Log4j-Remote-Code-Execution.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165307/Log4j-Remote-Code-Execution-Word-Bypassing.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165311/log4j-scan-Extensive-Scanner.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165371/VMware-Security-Advisory-2021-0028.4.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165532/Log4Shell-HTTP-Header-Injection.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165642/VMware-vCenter-Server-Unauthenticated-Log4Shell-JNDI-Injection-Remote-Code-Execution.html
+CVE-2021-44228 - http://packetstormsecurity.com/files/165673/UniFi-Network-Application-Unauthenticated-Log4Shell-Remote-Code-Execution.html
+CVE-2021-44228 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
 CVE-2021-44249 - https://www.exploit-db.com/exploits/50429
 CVE-2021-44255 - https://www.pizzapower.me/2021/10/09/self-hosted-security-part-1-motioneye/
 CVE-2021-44427 - https://gitlab.com/francoisjacquet/rosariosis/-/issues/328
@@ -44639,7 +44751,9 @@ CVE-2021-44659 - https://youtu.be/WW_a3znugl0
 CVE-2021-44676 - https://www.manageengine.com
 CVE-2021-44686 - https://bugs.launchpad.net/calibre/+bug/1951979
 CVE-2021-44692 - https://www.cygenta.co.uk/post/buddyboss
+CVE-2021-44829 - http://packetstormsecurity.com/files/165684/WebACMS-2.1.0-Cross-Site-Scripting.html
 CVE-2021-44829 - http://seclists.org/fulldisclosure/2022/Jan/41
+CVE-2021-44829 - https://blog.to.com/advisory-webacms-2-1-0-cross-site-scripting/
 CVE-2021-44832 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
 CVE-2021-44848 - http://packetstormsecurity.com/files/165327/Cibele-Thinfinity-VirtualUI-2.5.41.0-User-Enumeration.html
 CVE-2021-44879 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.3
@@ -44789,8 +44903,11 @@ CVE-2021-46350 - https://github.com/jerryscript-project/jerryscript/issues/4936
 CVE-2021-46355 - https://medium.com/@windsormoreira/ocs-inventory-2-9-1-cross-site-scripting-xss-cve-2021-46355-a88d72606b7e
 CVE-2021-46368 - https://www.exploit-db.com/exploits/50633
 CVE-2021-46388 - https://drive.google.com/drive/folders/1FDtxZayLeSITcqP72c7FsTOpAFGFePVE
+CVE-2021-46398 - http://packetstormsecurity.com/files/165885/FileBrowser-2.17.2-Code-Execution-Cross-Site-Request-Forgery.html
 CVE-2021-46398 - https://febin0x4e4a.blogspot.com/2022/01/critical-csrf-in-filebrowser.html
 CVE-2021-46398 - https://febin0x4e4a.wordpress.com/2022/01/19/critical-csrf-in-filebrowser/
+CVE-2021-46398 - https://febinj.medium.com/critical-csrf-to-rce-in-filebrowser-865a3c34b8e7
+CVE-2021-46398 - https://systemweakness.com/critical-csrf-to-rce-in-filebrowser-865a3c34b8e7
 CVE-2021-46427 - https://www.exploit-db.com/exploits/50673
 CVE-2021-46428 - https://cxsecurity.com/issue/WLB-2022010093
 CVE-2021-46428 - https://www.exploit-db.com/exploits/50672
@@ -44941,6 +45058,7 @@ CVE-2022-0639 - https://huntr.dev/bounties/83a6bc9a-b542-4a38-82cd-d995a1481155
 CVE-2022-0660 - https://huntr.dev/bounties/01fd2e0d-b8cf-487f-a16c-7b088ef3a291
 CVE-2022-0664 - https://huntr.dev/bounties/29898a42-fd4f-4b5b-a8e3-ab573cb87eac
 CVE-2022-0666 - https://huntr.dev/bounties/7215afc7-9133-4749-8e8e-0569317dbd55
+CVE-2022-0678 - https://huntr.dev/bounties/d707137a-aace-44c5-b15c-1807035716c0
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
