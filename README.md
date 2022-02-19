@@ -2,7 +2,7 @@
 <h3 align="center">Almost every publicly available CVE PoC.</h3>
 
 ## How it works
-[Trickest](https://trickest.com) Workflow used:
+### [Trickest](https://trickest.com) Workflow Architecture
 
 ![Trickest Workflow - PoC](workflow.png "Trickest Workflow - PoC")
 
@@ -12,17 +12,19 @@
 - Find PoCs for each CVE using 2 techniques:
     1. References
         - Gather each CVE's `References`.
-        - Check if any of them points to a PoC using `ffuf` and a list of keywords
+        - Check if any of them points to a PoC using [ffuf](https://github.com/ffuf/ffuf) and a list of keywords
 
          Regex:
          ```(?i)[^a-z0-9]+(poc|proof of concept|proof[-_]of[-_]concept)[^a-z0-9]+```
 
          (Thanks [@joohoi](https://github.com/joohoi)!)
          
-         **Note**: ffuf is awesome for more purposes than just content discovery.
+         **Note**: [ffuf](https://github.com/ffuf/ffuf) is awesome for more purposes than just content discovery.
     2. Github
         
         Search GitHub for repositories with [find-gh-poc](https://github.com/trickest/find-gh-poc) (release soon!) that mention the CVE ID.
+- Merge the fresh results into the repository without overwriting the data that was committed manually.
+- Filter false positives using `blacklist.txt`.
 - Merge all of the found PoCs.
 - Generate GitHub badges for each affected software version using [shields.io](https://shields.io).
 - Write everything into easy-to-read markdown files.
