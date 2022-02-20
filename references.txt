@@ -57,6 +57,7 @@ CVE-2001-0932 - http://marc.info/?l=bugtraq&m=100698397818175&w=2
 CVE-2001-0933 - http://marc.info/?l=bugtraq&m=100698397818175&w=2
 CVE-2001-0934 - http://marc.info/?l=bugtraq&m=100698397818175&w=2
 CVE-2001-0946 - http://marc.info/?l=bugtraq&m=100743394701962&w=2
+CVE-2001-1002 - http://marc.info/?l=bugtraq&m=99892644616749&w=2
 CVE-2001-1201 - http://marc.info/?l=bugtraq&m=100863301405266&w=2
 CVE-2001-1288 - http://marc.info/?l=vuln-dev&m=99651044701417&w=2
 CVE-2001-1410 - http://marc.info/?l=bugtraq&m=105829174431769&w=2
@@ -29051,6 +29052,7 @@ CVE-2018-1002008 - https://www.exploit-db.com/exploits/45434/
 CVE-2018-1002009 - https://www.exploit-db.com/exploits/45434/
 CVE-2018-1002100 - https://github.com/kubernetes/kubernetes/issues/61297
 CVE-2018-1002100 - https://hansmi.ch/articles/2018-04-openshift-s2i-security
+CVE-2018-1002105 - https://github.com/evict/poc_CVE-2018-1002105
 CVE-2018-1002105 - https://www.exploit-db.com/exploits/46052/
 CVE-2018-1002105 - https://www.exploit-db.com/exploits/46053/
 CVE-2018-1002207 - https://github.com/mholt/archiver/pull/65
@@ -34418,6 +34420,7 @@ CVE-2019-11932 - http://packetstormsecurity.com/files/154867/Whatsapp-2.19.216-R
 CVE-2019-11932 - http://packetstormsecurity.com/files/158306/WhatsApp-android-gif-drawable-Double-Free.html
 CVE-2019-11932 - https://gist.github.com/wdormann/874198c1bd29c7dd2157d9fc1d858263
 CVE-2019-12041 - https://github.com/jonschlinkert/remarkable/issues/331
+CVE-2019-12042 - https://github.com/SouhailHammou/Panda-Antivirus-LPE
 CVE-2019-12046 - https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/issues/1742
 CVE-2019-12087 - https://github.com/fs0c131y/SamsungLocker
 CVE-2019-12094 - https://bugs.horde.org/ticket/14926
@@ -35860,6 +35863,7 @@ CVE-2019-18203 - https://medium.com/zero2flag/cve-2019-18203-bfa65918e591
 CVE-2019-1821 - http://packetstormsecurity.com/files/153350/Cisco-Prime-Infrastructure-Health-Monitor-TarArchive-Directory-Traversal.html
 CVE-2019-18212 - https://www.shielder.it/blog/dont-open-that-xml-xxe-to-rce-in-xml-plugins-for-vs-code-eclipse-theia/
 CVE-2019-18213 - https://www.shielder.it/blog/dont-open-that-xml-xxe-to-rce-in-xml-plugins-for-vs-code-eclipse-theia/
+CVE-2019-18221 - https://vuldb.com/?id.144170
 CVE-2019-18276 - http://packetstormsecurity.com/files/155498/Bash-5.0-Patch-11-Privilege-Escalation.html
 CVE-2019-18277 - https://nathandavison.com/blog/haproxy-http-request-smuggling
 CVE-2019-18278 - https://code610.blogspot.com/2019/10/random-bytes-in-vlc-308.html
