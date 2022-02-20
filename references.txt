@@ -3792,6 +3792,7 @@ CVE-2007-0845 - https://www.exploit-db.com/exploits/3282
 CVE-2007-0846 - https://www.exploit-db.com/exploits/3283
 CVE-2007-0847 - https://www.exploit-db.com/exploits/3283
 CVE-2007-0848 - https://www.exploit-db.com/exploits/3284
+CVE-2007-0859 - http://www.securityfocus.com/archive/1/460908/100/0/threaded
 CVE-2007-0864 - https://www.exploit-db.com/exploits/3288
 CVE-2007-0865 - https://www.exploit-db.com/exploits/3287
 CVE-2007-0867 - https://www.exploit-db.com/exploits/3285
@@ -22308,6 +22309,8 @@ CVE-2016-10710 - http://threat.tevora.com/biscom-secure-file-transfer-arbitrary-
 CVE-2016-10715 - https://packetstormsecurity.com/files/137648/JIRA-Artezio-Board-1.4-Cross-Site-Scripting-Information-Disclosure.html
 CVE-2016-10716 - https://packetstormsecurity.com/files/137649/JIRA-Mail.ru-Calendar-2.4.2.50_JIRA6-Cross-Site-Scripting.html
 CVE-2016-10717 - https://forums.malwarebytes.com/topic/158251-malwarebytes-hall-of-fame/
+CVE-2016-10717 - https://github.com/mspaling/mbam-exclusions-poc-
+CVE-2016-10717 - https://github.com/mspaling/mbam-exclusions-poc-/blob/master/mbam-whitelist-poc.txt
 CVE-2016-10718 - https://github.com/brave/browser-laptop/issues/5006
 CVE-2016-10718 - https://github.com/brave/browser-laptop/issues/5007
 CVE-2016-10718 - https://www.exploit-db.com/exploits/44475/
@@ -25082,10 +25085,12 @@ CVE-2017-11600 - http://seclists.org/bugtraq/2017/Jul/30
 CVE-2017-11605 - https://bugzilla.redhat.com/show_bug.cgi?id=1474019
 CVE-2017-11608 - https://bugzilla.redhat.com/show_bug.cgi?id=1474276
 CVE-2017-11610 - https://www.exploit-db.com/exploits/42779/
+CVE-2017-11611 - https://github.com/faizzaidi/Wolfcms-v0.8.3.1-xss-POC-by-Provensec-llc
 CVE-2017-11613 - https://gist.github.com/dazhouzhou/1a3b7400547f23fe316db303ab9b604f
 CVE-2017-11629 - http://lorexxar.cn/2017/07/20/FineCMS%20multi%20vulnerablity%20before%20v5.0.9/#api-php-Reflected-XSS
 CVE-2017-11631 - https://github.com/FiyoCMS/FiyoCMS/issues/7
 CVE-2017-11639 - https://github.com/ImageMagick/ImageMagick/issues/588
+CVE-2017-11640 - https://github.com/ImageMagick/ImageMagick/issues/584
 CVE-2017-11644 - https://github.com/ImageMagick/ImageMagick/issues/587
 CVE-2017-11652 - http://packetstormsecurity.com/files/143516/Razer-Synapse-2.20-DLL-Hijacking.html
 CVE-2017-11653 - http://packetstormsecurity.com/files/143516/Razer-Synapse-2.20-DLL-Hijacking.html
@@ -25119,6 +25124,8 @@ CVE-2017-11697 - http://seclists.org/fulldisclosure/2017/Aug/17
 CVE-2017-11698 - http://packetstormsecurity.com/files/143735/NSS-Buffer-Overflows-Floating-Point-Exception.html
 CVE-2017-11698 - http://seclists.org/fulldisclosure/2017/Aug/17
 CVE-2017-11714 - https://bugs.ghostscript.com/show_bug.cgi?id=698158
+CVE-2017-11719 - https://github.com/FFmpeg/FFmpeg/commit/296debd213bd6dce7647cedd34eb64e5b94cdc92
+CVE-2017-11719 - https://github.com/FFmpeg/FFmpeg/commit/f31fc4755f69ab26bf6e8be47875b7dcede8e29e
 CVE-2017-11720 - https://blogs.gentoo.org/ago/2017/06/17/lame-divide-by-zero-in-parse_wave_header-get_audio-c/
 CVE-2017-11720 - https://sourceforge.net/p/lame/bugs/460/
 CVE-2017-11723 - https://github.com/JojoCMS/Jojo-CMS/issues/30
@@ -27908,6 +27915,7 @@ CVE-2017-7383 - https://blogs.gentoo.org/ago/2017/03/31/podofo-four-null-pointer
 CVE-2017-7388 - https://github.com/micwallace/wallacepos/issues/84
 CVE-2017-7389 - https://github.com/gunet/openeclass/issues/11
 CVE-2017-7390 - https://github.com/andreas83/SocialNetwork/issues/84
+CVE-2017-7391 - https://github.com/dweeves/magmi-git/issues/522
 CVE-2017-7397 - https://www.exploit-db.com/exploits/41781/
 CVE-2017-7398 - http://seclists.org/fulldisclosure/2017/Apr/4
 CVE-2017-7398 - https://www.exploit-db.com/exploits/41821/
@@ -30112,6 +30120,7 @@ CVE-2018-14545 - https://github.com/axiomatic-systems/Bento4/issues/291
 CVE-2018-14551 - https://github.com/ImageMagick/ImageMagick/issues/1221
 CVE-2018-14557 - https://github.com/zsjevilhex/iot/blob/master/route/tenda/tenda-03/Tenda.md
 CVE-2018-14558 - https://github.com/zsjevilhex/iot/blob/master/route/tenda/tenda-01/Tenda.md
+CVE-2018-14559 - https://github.com/zsjevilhex/iot/blob/master/route/tenda/tenda-02/Tenda.md
 CVE-2018-14568 - https://github.com/kirillwow/ids_bypass
 CVE-2018-14568 - https://redmine.openinfosecfoundation.org/issues/2501
 CVE-2018-14570 - https://github.com/GitHaaH/issue/blob/master/Niushop.md
@@ -33958,6 +33967,7 @@ CVE-2019-11070 - http://packetstormsecurity.com/files/152485/WebKitGTK-WPE-WebKi
 CVE-2019-11073 - https://sensepost.com/blog/2019/being-stubborn-pays-off-pt.-1-cve-2018-19204/
 CVE-2019-11074 - https://how2itsec.blogspot.com/2019/10/security-fixes-in-prtg-1935152.html
 CVE-2019-11074 - https://sensepost.com/blog/2019/being-stubborn-pays-off-pt.-1-cve-2018-19204/
+CVE-2019-11076 - https://github.com/livehybrid/poc-cribl-rce
 CVE-2019-11080 - http://packetstormsecurity.com/files/153274/Sitecore-8.x-Deserialization-Remote-Code-Execution.html
 CVE-2019-11091 - https://seclists.org/bugtraq/2019/Jun/28
 CVE-2019-11091 - https://seclists.org/bugtraq/2019/Jun/36
@@ -36188,7 +36198,10 @@ CVE-2019-20014 - https://github.com/LibreDWG/libredwg/issues/176
 CVE-2019-20014 - https://github.com/LibreDWG/libredwg/issues/176#issuecomment-568643172
 CVE-2019-20015 - https://github.com/LibreDWG/libredwg/issues/176
 CVE-2019-20015 - https://github.com/LibreDWG/libredwg/issues/176#issuecomment-568643028
+CVE-2019-20016 - https://github.com/hoene/libmysofa/issues/83
+CVE-2019-20016 - https://github.com/hoene/libmysofa/issues/84
 CVE-2019-20017 - https://github.com/tbeu/matio/issues/127
+CVE-2019-20018 - https://github.com/tbeu/matio/issues/129
 CVE-2019-20021 - https://github.com/upx/upx/issues/315
 CVE-2019-20023 - https://github.com/saitoha/libsixel/issues/120
 CVE-2019-20024 - https://github.com/saitoha/libsixel/issues/121
@@ -36352,11 +36365,14 @@ CVE-2019-20503 - http://seclists.org/fulldisclosure/2020/May/59
 CVE-2019-2054 - http://packetstormsecurity.com/files/153799/Kernel-Live-Patch-Security-Notice-LSN-0053-1.html
 CVE-2019-2054 - http://packetstormsecurity.com/files/154951/Kernel-Live-Patch-Security-Notice-LSN-0058-1.html
 CVE-2019-20626 - https://medium.com/@victor_14768/replay-attacks-en-autos-206481dcfee1
+CVE-2019-20628 - https://github.com/gpac/gpac/issues/1269
+CVE-2019-20629 - https://github.com/gpac/gpac/issues/1264
 CVE-2019-20632 - https://github.com/gpac/gpac/issues/1271
 CVE-2019-20633 - https://savannah.gnu.org/bugs/index.php?56683
 CVE-2019-20636 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.12
 CVE-2019-20689 - https://kb.netgear.com/000061450/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-Gateways-and-Extenders-PSV-2018-0132
 CVE-2019-20760 - https://kb.netgear.com/000060639/Security-Advisory-for-Authentication-Bypass-on-R9000-PSV-2018-0615
+CVE-2019-20798 - https://github.com/cherokee/webserver/issues/1227
 CVE-2019-20798 - https://logicaltrust.net/blog/2019/11/cherokee.html
 CVE-2019-20799 - https://github.com/cherokee/webserver/issues/1221
 CVE-2019-20799 - https://github.com/cherokee/webserver/issues/1222
