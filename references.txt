@@ -13993,6 +13993,7 @@ CVE-2012-5452 - http://packetstormsecurity.org/files/117460/Subrion-CMS-2.2.1-XS
 CVE-2012-5452 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5105.php
 CVE-2012-5470 - http://www.exploit-db.com/exploits/21889/
 CVE-2012-5517 - http://www.kernel.org/pub/linux/kernel/v3.x/
+CVE-2012-5532 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2012-5533 - http://packetstormsecurity.org/files/118282/Simple-Lighttpd-1.4.31-Denial-Of-Service.html
 CVE-2012-5533 - http://www.exploit-db.com/exploits/22902
 CVE-2012-5553 - http://www.madirish.net/551
@@ -14160,6 +14161,9 @@ CVE-2012-6526 - http://packetstormsecurity.org/files/108756/vastalfreelance-sql.
 CVE-2012-6528 - http://www.darksecurity.de/advisories/2012/SSCHADV2012-002.txt
 CVE-2012-6534 - http://seclists.org/fulldisclosure/2012/Oct/25
 CVE-2012-6534 - https://www.exploit-db.com/exploits/21744/
+CVE-2012-6547 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2012-6548 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2012-6549 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2012-6553 - http://waleedassar.blogspot.com/2012/05/resource-hacker-heap-overflow.html
 CVE-2012-6558 - http://waleedassar.blogspot.com/2012/05/pe-explorer-heap-overflow-vulnerability.html
 CVE-2012-6561 - http://elgg.org/getelgg.php?forward=elgg-1.8.5.zip
@@ -14238,6 +14242,9 @@ CVE-2013-0160 - http://www.openwall.com/lists/oss-security/2013/01/08/3
 CVE-2013-0160 - https://bugzilla.redhat.com/show_bug.cgi?id=892983
 CVE-2013-0169 - http://www.isg.rhul.ac.uk/tls/TLStiming.pdf
 CVE-2013-0177 - http://packetstormsecurity.com/files/119673/Apache-OFBiz-Cross-Site-Scripting.html
+CVE-2013-0216 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-0217 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-0228 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-0230 - https://www.exploit-db.com/exploits/36839/
 CVE-2013-0232 - http://itsecuritysolutions.org/2013-01-22-ZoneMinder-Video-Server-arbitrary-command-execution-vulnerability/
 CVE-2013-0234 - http://packetstormsecurity.com/files/119903/Elgg-Twitter-Widget-Cross-Site-Scripting.html
@@ -14256,8 +14263,10 @@ CVE-2013-0261 - http://rhn.redhat.com/errata/RHSA-2013-0595.html
 CVE-2013-0263 - https://groups.google.com/forum/#!msg/rack-devel/RnQxm6i13C4/xfakH81yWvgJ
 CVE-2013-0266 - http://rhn.redhat.com/errata/RHSA-2013-0595.html
 CVE-2013-0286 - http://www.openwall.com/lists/oss-security/2013/02/14/4
+CVE-2013-0290 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-0291 - http://www.openwall.com/lists/oss-security/2013/02/15/3
 CVE-2013-0292 - http://www.exploit-db.com/exploits/33614
+CVE-2013-0311 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-0327 - http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-02-16.cb
 CVE-2013-0328 - http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-02-16.cb
 CVE-2013-0329 - http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-02-16.cb
@@ -14329,6 +14338,7 @@ CVE-2013-0803 - https://packetstormsecurity.com/files/cve/CVE-2013-0803
 CVE-2013-0805 - http://packetstormsecurity.com/files/119767/iTop-Cross-Site-Scripting.html
 CVE-2013-0807 - http://packetstormsecurity.com/files/119805/gpEasy-3.5.2-Cross-Site-Scripting.html
 CVE-2013-0871 - http://www.openwall.com/lists/oss-security/2013/02/15/16
+CVE-2013-0914 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-0946 - https://www.exploit-db.com/exploits/42719/
 CVE-2013-1034 - http://www.cloudscan.me/2013/09/cve-2013-1034-stored-xss-xxe-os-x.html
 CVE-2013-1054 - https://launchpad.net/bugs/1175661
@@ -14494,9 +14504,15 @@ CVE-2013-1744 - http://infosecabsurdity.wordpress.com/research/isa-2013-002/
 CVE-2013-1758 - http://packetstormsecurity.com/files/120378/WordPress-Marekkis-Watermark-Cross-Site-Scripting.html
 CVE-2013-1759 - http://packetstormsecurity.com/files/120379/WordPress-Responsive-Logo-Slideshow-Cross-Site-Scripting.html
 CVE-2013-1763 - http://www.exploit-db.com/exploits/33336
+CVE-2013-1763 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1763 - http://www.openwall.com/lists/oss-security/2013/02/24/3
+CVE-2013-1767 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1773 - http://www.exploit-db.com/exploits/23248/
+CVE-2013-1792 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-1796 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-1797 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1798 - http://packetstormsecurity.com/files/157233/Kernel-Live-Patch-Security-Notice-LSN-0065-1.html
+CVE-2013-1798 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1803 - http://packetstormsecurity.com/files/120598/PHP-Fusion-7.02.05-XSS-LFI-SQL-Injection.html
 CVE-2013-1804 - http://packetstormsecurity.com/files/120598/PHP-Fusion-7.02.05-XSS-LFI-SQL-Injection.html
 CVE-2013-1806 - http://packetstormsecurity.com/files/120598/PHP-Fusion-7.02.05-XSS-LFI-SQL-Injection.html
@@ -14511,9 +14527,11 @@ CVE-2013-1813 - http://seclists.org/fulldisclosure/2020/Mar/15
 CVE-2013-1813 - https://seclists.org/bugtraq/2019/Jun/14
 CVE-2013-1815 - http://rhn.redhat.com/errata/RHSA-2013-0671.html
 CVE-2013-1828 - http://www.exploit-db.com/exploits/24747
+CVE-2013-1848 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1852 - http://packetstormsecurity.com/files/120817/WordPress-LeagueManager-3.8-SQL-Injection.html
 CVE-2013-1858 - http://stealth.openwall.net/xSports/clown-newuser.c
 CVE-2013-1859 - http://packetstormsecurity.com/files/120788/Drupal-Node-Parameter-Control-6.x-Access-Bypass.html
+CVE-2013-1860 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1875 - http://packetstormsecurity.com/files/120847/Ruby-Gem-Command-Wrap-Command-Execution.html
 CVE-2013-1887 - http://packetstormsecurity.com/files/120892/Drupal-Views-7.x-Cross-Site-Scripting.html
 CVE-2013-1892 - http://www.exploit-db.com/exploits/24947
@@ -14526,6 +14544,7 @@ CVE-2013-1908 - http://packetstormsecurity.com/files/120995/Drupal-Common-Wikis-
 CVE-2013-1914 - http://packetstormsecurity.com/files/164014/Moxa-Command-Injection-Cross-Site-Scripting-Vulnerable-Software.html
 CVE-2013-1914 - http://seclists.org/fulldisclosure/2021/Sep/0
 CVE-2013-1925 - http://packetstormsecurity.com/files/121072/Drupal-Chaos-Tool-Suite-7.x-Access-Bypass.html
+CVE-2013-1929 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1937 - http://immunityservices.blogspot.com/2019/02/cvss.html
 CVE-2013-1937 - http://packetstormsecurity.com/files/121205/phpMyAdmin-3.5.7-Cross-Site-Scripting.html
 CVE-2013-1954 - http://trac.videolan.org/vlc/ticket/8024
@@ -14534,6 +14553,7 @@ CVE-2013-1965 - http://struts.apache.org/development/2.x/docs/s2-012.html
 CVE-2013-1966 - http://struts.apache.org/development/2.x/docs/s2-013.html
 CVE-2013-1966 - https://cwiki.apache.org/confluence/display/WW/S2-013
 CVE-2013-1977 - https://bugs.launchpad.net/devstack/+bug/1168252
+CVE-2013-1979 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1979 - http://www.openwall.com/lists/oss-security/2013/04/29/1
 CVE-2013-20002 - https://en.0day.today/exploit/22090
 CVE-2013-20002 - https://packetstormsecurity.com/files/124149/WordPress-Elemin-Shell-Upload.html
@@ -14554,6 +14574,7 @@ CVE-2013-2050 - http://packetstormsecurity.com/files/124609/cfme_manageiq_evm_pa
 CVE-2013-2088 - https://www.exploit-db.com/exploits/40507/
 CVE-2013-2090 - http://packetstormsecurity.com/files/121635/Ruby-Gem-Creme-Fraiche-0.6-Command-Injection.html
 CVE-2013-2094 - http://packetstormsecurity.com/files/121616/semtex.c
+CVE-2013-2094 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-2095 - https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2013-2095
 CVE-2013-2097 - http://packetstormsecurity.com/files/134030/Zpanel-10.1.0-Remote-Unauthenticated-Code-Execution.html
 CVE-2013-2097 - http://www.exploit-db.com/exploits/25519
@@ -14566,7 +14587,9 @@ CVE-2013-2134 - http://struts.apache.org/development/2.x/docs/s2-015.html
 CVE-2013-2134 - https://cwiki.apache.org/confluence/display/WW/S2-015
 CVE-2013-2135 - http://struts.apache.org/development/2.x/docs/s2-015.html
 CVE-2013-2135 - https://cwiki.apache.org/confluence/display/WW/S2-015
+CVE-2013-2141 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-2143 - http://packetstormsecurity.com/files/125866/Katello-Red-Hat-Satellite-users-update_roles-Missing-Authorization.html
+CVE-2013-2146 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-2162 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=711600
 CVE-2013-2165 - http://packetstormsecurity.com/files/156663/Richsploit-RichFaces-Exploitation-Toolkit.html
 CVE-2013-2172 - http://seclists.org/fulldisclosure/2014/Dec/23
@@ -14673,6 +14696,9 @@ CVE-2013-2507 - http://packetstormsecurity.com/files/121553/Brother-MFC-9970CDW-
 CVE-2013-2507 - http://www.cloudscan.me/2013/05/xss-javascript-injection-brother-mfc.html
 CVE-2013-2512 - http://vapidlabs.com/advisory.php?v=34
 CVE-2013-2516 - http://www.vapidlabs.com/advisory.php?v=36
+CVE-2013-2546 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-2547 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-2548 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-2558 - http://immunityproducts.blogspot.com/2013/03/infiltrate-preview-truetype-font.html
 CVE-2013-2562 - http://packetstormsecurity.com/files/108462/mambocms465-permdosdisclose.txt
 CVE-2013-2563 - http://packetstormsecurity.com/files/108462/mambocms465-permdosdisclose.txt
@@ -14698,6 +14724,7 @@ CVE-2013-2585 - http://www.isecauditors.com/advisories-2013#2013-004
 CVE-2013-2586 - http://packetstormsecurity.com/files/123407/XAMPP-1.8.1-Local-Write-Access.html
 CVE-2013-2586 - http://www.exploit-db.com/exploits/28654
 CVE-2013-2594 - http://packetstormsecurity.com/files/121402/Hornbill-Supportworks-ITSM-1.0.0-SQL-Injection.html
+CVE-2013-2596 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-2615 - http://packetstormsecurity.com/files/120776/Ruby-Gem-Fastreader-1.0.8-Command-Execution.html
 CVE-2013-2615 - http://packetstormsecurity.com/files/120845/Ruby-Gem-Fastreader-1.0.8-Code-Execution.html
 CVE-2013-2616 - http://packetstormsecurity.com/files/120777/Ruby-Gem-Minimagic-Command-Execution.html
@@ -14712,6 +14739,8 @@ CVE-2013-2623 - https://www.isecauditors.com/advisories-2013#2013-009
 CVE-2013-2624 - https://www.isecauditors.com/advisories-2013#2013-009
 CVE-2013-2631 - https://packetstormsecurity.com/files/121128/TinyWebGallery-1.8.9-Path-Disclosure.html
 CVE-2013-2631 - https://www.isecauditors.com/advisories-2013#2013-012
+CVE-2013-2634 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-2635 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-2651 - http://packetstormsecurity.com/files/123558
 CVE-2013-2652 - http://packetstormsecurity.com/files/123771/WebCollab-3.30-HTTP-Response-Splitting.html
 CVE-2013-2653 - http://seclists.org/bugtraq/2013/Aug/12
@@ -14789,6 +14818,18 @@ CVE-2013-3154 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2013-3167 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053
 CVE-2013-3172 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053
 CVE-2013-3173 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053
+CVE-2013-3222 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3223 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3224 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3225 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3227 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3228 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3229 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3231 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3232 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3233 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3234 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
+CVE-2013-3235 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-3242 - http://karmainsecurity.com/KIS-2013-04
 CVE-2013-3242 - http://www.exploit-db.com/exploits/25087
 CVE-2013-3245 - http://seclists.org/fulldisclosure/2013/Jul/71
@@ -27450,6 +27491,9 @@ CVE-2017-5185 - https://www.tenable.com/security/research/tra-2017-15
 CVE-2017-5198 - http://blog.0xlabs.com/2017/03/solarwinds-lem-ssh-jailbreak-and.html
 CVE-2017-5199 - http://blog.0xlabs.com/2017/03/solarwinds-lem-ssh-jailbreak-and.html
 CVE-2017-5206 - https://blog.lizzie.io/linux-containers-in-500-loc.html#fn.51
+CVE-2017-5206 - https://github.com/netblue30/firejail/commit/6b8dba29d73257311564ee7f27b9b14758cc693e
+CVE-2017-5207 - https://github.com/netblue30/firejail/commit/5d43fdcd215203868d440ffc42036f5f5ffc89fc
+CVE-2017-5207 - https://github.com/netblue30/firejail/issues/1023
 CVE-2017-5214 - https://navixia.com/storage/app/media/uploaded-files/CVE/cve-2017-521415.txt
 CVE-2017-5215 - https://navixia.com/storage/app/media/uploaded-files/CVE/cve-2017-521415.txt
 CVE-2017-5218 - http://research.aurainfosec.io/disclosures/sagecrm-CVE-2017-5219-CVE-2017-5218/
@@ -27694,6 +27738,9 @@ CVE-2017-5896 - http://www.openwall.com/lists/oss-security/2017/02/06/3
 CVE-2017-5896 - https://bugs.ghostscript.com/show_bug.cgi?id=697515
 CVE-2017-5899 - http://www.openwall.com/lists/oss-security/2017/01/27/7
 CVE-2017-5900 - http://seclists.org/fulldisclosure/2017/Mar/75
+CVE-2017-5940 - https://github.com/netblue30/firejail/commit/38d418505e9ee2d326557e5639e8da49c298858f
+CVE-2017-5940 - https://github.com/netblue30/firejail/commit/903fd8a0789ca3cc3c21d84cd0282481515592ef
+CVE-2017-5940 - https://github.com/netblue30/firejail/commit/b8a4ff9775318ca5e679183884a6a63f3da8f863
 CVE-2017-5941 - http://packetstormsecurity.com/files/161356/Node.JS-Remote-Code-Execution.html
 CVE-2017-5941 - http://packetstormsecurity.com/files/163222/Node.JS-Remote-Code-Execution.html
 CVE-2017-5945 - https://github.com/justinhunt/moodle-filter_poodll/issues/23
@@ -28432,10 +28479,13 @@ CVE-2017-8839 - https://www.exploit-db.com/exploits/42130/
 CVE-2017-8840 - https://www.exploit-db.com/exploits/42130/
 CVE-2017-8841 - https://www.exploit-db.com/exploits/42130/
 CVE-2017-8842 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-divide-by-zero-in-bufreadget-libzpaq-h/
+CVE-2017-8842 - https://github.com/ckolivas/lrzip/issues/66
 CVE-2017-8843 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-null-pointer-dereference-in-join_pthread-stream-c/
 CVE-2017-8843 - https://github.com/ckolivas/lrzip/issues/69
 CVE-2017-8844 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-heap-based-buffer-overflow-write-in-read_1g-stream-c/
+CVE-2017-8844 - https://github.com/ckolivas/lrzip/issues/70
 CVE-2017-8845 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-invalid-memory-read-in-lzo_decompress_buf-stream-c/
+CVE-2017-8845 - https://github.com/ckolivas/lrzip/issues/68
 CVE-2017-8846 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-use-after-free-in-read_stream-stream-c/
 CVE-2017-8846 - https://github.com/ckolivas/lrzip/issues/71
 CVE-2017-8847 - https://blogs.gentoo.org/ago/2017/05/07/lrzip-null-pointer-dereference-in-bufreadget-libzpaq-h/
@@ -30816,6 +30866,7 @@ CVE-2018-16796 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisorie
 CVE-2018-16803 - https://www.linkedin.com/feed/update/urn:li:activity:6489145511902212096/
 CVE-2018-16803 - https://www.websec.nl/news.php
 CVE-2018-16806 - https://www.esat.kuleuven.be/cosic/fast-furious-and-insecure-passive-keyless-entry-and-start-in-modern-supercars/
+CVE-2018-16821 - http://www.seacms.net/thread-6249-1-1.html
 CVE-2018-16832 - https://github.com/ysrc/xunfeng/issues/177
 CVE-2018-16833 - http://packetstormsecurity.com/files/149436/ManageEngine-Desktop-Central-10.0.271-Cross-Site-Scripting.html
 CVE-2018-16836 - https://www.exploit-db.com/exploits/45385/
@@ -31626,6 +31677,7 @@ CVE-2018-19334 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracke
 CVE-2018-19335 - https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549
 CVE-2018-19353 - https://github.com/CCCCCrash/POCs/tree/master/Bin/Tools-libansilove-1.0.0
 CVE-2018-19353 - https://github.com/ansilove/libansilove/issues/4
+CVE-2018-19357 - https://exploit-db.com/exploits/46020/
 CVE-2018-19358 - https://bugs.launchpad.net/ubuntu/+source/gnome-keyring/+bug/1780365
 CVE-2018-19358 - https://github.com/sungjungk/keyring_crack
 CVE-2018-19359 - https://gitlab.com/gitlab-org/gitlab-ce/issues/54189
@@ -31788,6 +31840,7 @@ CVE-2018-19783 - https://seclists.org/bugtraq/2019/Jan/21
 CVE-2018-19791 - https://github.com/litespeedtech/openlitespeed/issues/117
 CVE-2018-19792 - https://github.com/litespeedtech/openlitespeed/issues/117
 CVE-2018-19794 - https://bugs.internet2.edu/jira/browse/GRP-1838
+CVE-2018-19798 - https://exploit-db.com/exploits/45927
 CVE-2018-19799 - http://packetstormsecurity.com/files/150623/Dolibarr-ERP-CRM-8.0.3-Cross-Site-Scripting.html
 CVE-2018-19799 - https://pentest.com.tr/exploits/Dolibarr-ERP-CRM-8-0-3-Cross-Site-Scripting.html
 CVE-2018-19799 - https://www.exploit-db.com/exploits/45945/
@@ -32775,17 +32828,32 @@ CVE-2018-5965 - http://packetstormsecurity.com/files/146035/CMS-Made-Simple-2.2.
 CVE-2018-5965 - http://seclists.org/fulldisclosure/2018/Jan/83
 CVE-2018-5967 - https://packetstormsecurity.com/files/145513/Netis-WF2419-HTML-Injection.html
 CVE-2018-5969 - https://www.exploit-db.com/exploits/43867/
+CVE-2018-5970 - https://exploit-db.com/exploits/44116
+CVE-2018-5971 - https://exploit-db.com/exploits/44122
 CVE-2018-5972 - https://www.exploit-db.com/exploits/43868/
 CVE-2018-5973 - http://packetstormsecurity.com/files/146071/Professional-Local-Directory-Script-1.0-SQL-Injection.html
 CVE-2018-5973 - https://www.exploit-db.com/exploits/43870/
+CVE-2018-5974 - https://exploit-db.com/exploits/44126
+CVE-2018-5975 - https://exploit-db.com/exploits/44127
 CVE-2018-5976 - https://www.exploit-db.com/exploits/43862/
 CVE-2018-5977 - https://www.exploit-db.com/exploits/43861/
 CVE-2018-5978 - https://www.exploit-db.com/exploits/43865/
 CVE-2018-5979 - https://www.exploit-db.com/exploits/43864/
+CVE-2018-5980 - https://exploit-db.com/exploits/44128
+CVE-2018-5981 - https://exploit-db.com/exploits/44112
+CVE-2018-5982 - https://exploit-db.com/exploits/44105
+CVE-2018-5983 - https://exploit-db.com/exploits/44118
 CVE-2018-5984 - https://www.exploit-db.com/exploits/43866/
 CVE-2018-5985 - https://www.exploit-db.com/exploits/43860/
 CVE-2018-5986 - https://www.exploit-db.com/exploits/43863/
+CVE-2018-5987 - https://exploit-db.com/exploits/44131
 CVE-2018-5988 - https://www.exploit-db.com/exploits/43869/
+CVE-2018-5989 - https://exploit-db.com/exploits/44132
+CVE-2018-5990 - https://exploit-db.com/exploits/44107
+CVE-2018-5991 - https://exploit-db.com/exploits/44111
+CVE-2018-5992 - https://exploit-db.com/exploits/44129
+CVE-2018-5993 - https://exploit-db.com/exploits/44106
+CVE-2018-5994 - https://exploit-db.com/exploits/44120
 CVE-2018-5997 - https://www.exploit-db.com/exploits/43871/
 CVE-2018-5999 - https://github.com/pedrib/PoC/blob/master/advisories/asuswrt-lan-rce.txt
 CVE-2018-5999 - https://raw.githubusercontent.com/pedrib/PoC/master/exploits/metasploit/asuswrt_lan_rce.rb
@@ -32795,6 +32863,8 @@ CVE-2018-6000 - https://github.com/pedrib/PoC/blob/master/advisories/asuswrt-lan
 CVE-2018-6000 - https://raw.githubusercontent.com/pedrib/PoC/master/exploits/metasploit/asuswrt_lan_rce.rb
 CVE-2018-6000 - https://www.exploit-db.com/exploits/43881/
 CVE-2018-6000 - https://www.exploit-db.com/exploits/44176/
+CVE-2018-6004 - https://exploit-db.com/exploits/44110
+CVE-2018-6006 - https://exploit-db.com/exploits/44119
 CVE-2018-6007 - https://packetstormsecurity.com/files/146135/Joomla-JS-Support-Ticket-1.1.0-Cross-Site-Request-Forgery.html
 CVE-2018-6007 - https://www.exploit-db.com/exploits/43912/
 CVE-2018-6008 - https://packetstormsecurity.com/files/146137/Joomla-Jtag-Members-Directory-5.3.7-Arbitrary-File-Download.html
@@ -32887,6 +32957,10 @@ CVE-2018-6365 - https://packetstormsecurity.com/files/146128/TSiteBuilder-1.0-SQ
 CVE-2018-6365 - https://www.exploit-db.com/exploits/43915/
 CVE-2018-6367 - https://packetstormsecurity.com/files/146136/Vastal-I-Tech-Facebook-Clone-2.9.9-SQL-Injection.html
 CVE-2018-6367 - https://www.exploit-db.com/exploits/43918/
+CVE-2018-6368 - https://exploit-db.com/exploits/44117
+CVE-2018-6370 - https://exploit-db.com/exploits/44123
+CVE-2018-6372 - https://exploit-db.com/exploits/44115
+CVE-2018-6373 - https://exploit-db.com/exploits/44109
 CVE-2018-6374 - http://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43620
 CVE-2018-6381 - https://github.com/Hack-Me/Pocs_for_Multi_Versions/tree/main/CVE-2018-6381
 CVE-2018-6381 - https://github.com/gdraheim/zziplib/issues/12
@@ -32901,7 +32975,9 @@ CVE-2018-6391 - https://packetstormsecurity.com/files/146117/netiswf2419-xsrf.tx
 CVE-2018-6391 - https://www.exploit-db.com/exploits/43919/
 CVE-2018-6392 - https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/c6939f65a116b1ffed345d29d8621ee4ffb32235
 CVE-2018-6393 - http://code610.blogspot.com/2018/01/post-auth-sql-injection-in-freepbx.html
+CVE-2018-6394 - https://exploit-db.com/exploits/44114
 CVE-2018-6395 - https://www.exploit-db.com/exploits/43933/
+CVE-2018-6396 - https://exploit-db.com/exploits/44113
 CVE-2018-6397 - https://www.exploit-db.com/exploits/43931/
 CVE-2018-6398 - https://www.exploit-db.com/exploits/43932/
 CVE-2018-6407 - https://github.com/dreadlocked/ConceptronicIPCam_MultipleVulnerabilities/
@@ -32962,6 +33038,9 @@ CVE-2018-6579 - https://www.exploit-db.com/exploits/43950
 CVE-2018-6580 - https://www.exploit-db.com/exploits/43958
 CVE-2018-6581 - https://www.exploit-db.com/exploits/43959
 CVE-2018-6582 - https://www.exploit-db.com/exploits/43976/
+CVE-2018-6583 - https://exploit-db.com/exploits/44130
+CVE-2018-6584 - https://exploit-db.com/exploits/44108
+CVE-2018-6585 - https://exploit-db.com/exploits/44121
 CVE-2018-6593 - https://www.exploit-db.com/exploits/43973/
 CVE-2018-6594 - https://github.com/dlitz/pycrypto/issues/253
 CVE-2018-6604 - https://www.exploit-db.com/exploits/43975/
@@ -33169,6 +33248,8 @@ CVE-2018-7314 - https://exploit-db.com/exploits/44160
 CVE-2018-7315 - https://exploit-db.com/exploits/44161
 CVE-2018-7316 - https://exploit-db.com/exploits/44164
 CVE-2018-7317 - https://exploit-db.com/exploits/44159
+CVE-2018-7318 - https://exploit-db.com/exploits/44163
+CVE-2018-7319 - https://exploit-db.com/exploits/44165
 CVE-2018-7340 - https://www.kb.cert.org/vuls/id/475445
 CVE-2018-7355 - https://www.exploit-db.com/exploits/46102/
 CVE-2018-7357 - https://www.exploit-db.com/exploits/45972/
@@ -33201,6 +33282,7 @@ CVE-2018-7474 - http://seclists.org/fulldisclosure/2018/Mar/34
 CVE-2018-7474 - https://www.exploit-db.com/exploits/44277/
 CVE-2018-7475 - https://0xd0ff9.wordpress.com/2018/06/21/cve-2018-7475/
 CVE-2018-7476 - https://www.from0to1.me/index.php/archives/22/
+CVE-2018-7477 - https://exploit-db.com/exploits/44191
 CVE-2018-7479 - https://kongxin.gitbook.io/yzmcms-3-6-bug/
 CVE-2018-7487 - https://github.com/pts/sam2p/issues/18
 CVE-2018-7490 - https://www.exploit-db.com/exploits/44223/
@@ -34452,6 +34534,7 @@ CVE-2019-12170 - http://packetstormsecurity.com/files/153869/ATutor-2.2.4-Backup
 CVE-2019-12170 - https://github.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File
 CVE-2019-12171 - https://drive.google.com/open?id=1msz6pb08crPC0VT7s_Z_KTsKm9CbLJEXNsmRwzoNLy8
 CVE-2019-12172 - https://github.com/typora/typora-issues/issues/2166
+CVE-2019-12173 - https://github.com/MacDownApp/macdown/issues/1050
 CVE-2019-12176 - https://huskersec.com/privilege-escalation-via-htc-viveport-desktop-c93471ff87c8
 CVE-2019-12177 - https://huskersec.com/privilege-escalation-via-htc-viveport-desktop-c93471ff87c8
 CVE-2019-12177 - https://posts.specterops.io/razer-synapse-3-elevation-of-privilege-6d2802bd0585
@@ -34739,6 +34822,7 @@ CVE-2019-13140 - http://packetstormsecurity.com/files/154494/Inteno-IOPSYS-Gatew
 CVE-2019-13140 - https://www.exploit-db.com/docs/47397
 CVE-2019-13140 - https://www.exploit-db.com/exploits/47390
 CVE-2019-13143 - http://blog.securelayer7.net/fb50-smart-lock-vulnerability-disclosure/
+CVE-2019-13147 - https://github.com/mpruett/audiofile/issues/54
 CVE-2019-13181 - http://packetstormsecurity.com/files/155673/Serv-U-FTP-Server-15.1.7-CSV-Injection.html
 CVE-2019-13181 - http://seclists.org/fulldisclosure/2019/Dec/33
 CVE-2019-13182 - http://packetstormsecurity.com/files/155672/Serv-U-FTP-Server-15.1.7-Persistent-Cross-Site-Scripting.html
@@ -34784,6 +34868,7 @@ CVE-2019-13360 - http://packetstormsecurity.com/files/153665/CentOS-Control-Web-
 CVE-2019-13361 - https://github.com/lodi-g/CVE-2019-13361/
 CVE-2019-13363 - http://packetstormsecurity.com/files/154484/Piwigo-2.9.5-Cross-Site-Request-Forgery-Cross-Site-Scripting.html
 CVE-2019-13364 - http://packetstormsecurity.com/files/154484/Piwigo-2.9.5-Cross-Site-Request-Forgery-Cross-Site-Scripting.html
+CVE-2019-13370 - https://github.com/ignitedcms/ignitedcms/issues/7
 CVE-2019-13372 - http://packetstormsecurity.com/files/158904/D-Link-Central-WiFi-Manager-CWM-100-Remote-Code-Execution.html
 CVE-2019-13372 - https://github.com/unh3x/unh3x.github.io/blob/master/_posts/2019-02-21-D-link-(CWM-100)-Multiple-Vulnerabilities.md
 CVE-2019-13372 - https://unh3x.github.io/2019/02/21/D-link-(CWM-100)-Multiple-Vulnerabilities/
@@ -34832,6 +34917,7 @@ CVE-2019-13474 - https://www.vulnerability-lab.com/get_content.php?id=2183
 CVE-2019-13475 - https://www.vulnerability-lab.com/get_content.php?id=2186
 CVE-2019-13476 - http://packetstormsecurity.com/files/154216/CentOS-7.6.1810-Control-Web-Panel-0.9.8.837-Cross-Site-Scripting.html
 CVE-2019-13477 - http://packetstormsecurity.com/files/154217/CentOS-7.6.1810-Control-Web-Panel-0.9.8.837-Cross-Site-Request-Forgery.html
+CVE-2019-13477 - https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13477.md
 CVE-2019-13488 - https://github.com/jofpin/trape/issues/169
 CVE-2019-13489 - https://github.com/jofpin/trape/issues/168
 CVE-2019-13493 - http://packetstormsecurity.com/files/153613/Sitecore-9.0-Rev-171002-Cross-Site-Scripting.html
@@ -34879,6 +34965,7 @@ CVE-2019-13628 - https://tches.iacr.org/index.php/TCHES/article/view/7337
 CVE-2019-13629 - https://minerva.crocs.fi.muni.cz/
 CVE-2019-13629 - https://tches.iacr.org/index.php/TCHES/article/view/7337
 CVE-2019-13631 - http://packetstormsecurity.com/files/154059/Slackware-Security-Advisory-Slackware-14.2-kernel-Updates.html
+CVE-2019-13633 - https://github.com/Security-AVS/CVE-2019-13633
 CVE-2019-13635 - http://packetstormsecurity.com/files/153821/WordPress-WP-Fastest-Cache-0.8.9.5-Directory-Traversal.html
 CVE-2019-13636 - http://packetstormsecurity.com/files/154124/GNU-patch-Command-Injection-Directory-Traversal.html
 CVE-2019-13636 - https://github.com/irsl/gnu-patch-vulnerabilities
@@ -34910,6 +34997,7 @@ CVE-2019-13974 - http://blog.topsec.com.cn/%E5%A4%A9%E8%9E%8D%E4%BF%A1%E5%85%B3%
 CVE-2019-13977 - http://packetstormsecurity.com/files/153737/Ovidentia-8.4.3-Cross-Site-Scripting.html
 CVE-2019-13977 - https://github.com/Kitsun3Sec/exploits/blob/master/cms/ovidentia/exploitXSSOvidentia.txt
 CVE-2019-13978 - http://packetstormsecurity.com/files/153738/Ovidentia-8.4.3-SQL-Injection.html
+CVE-2019-13978 - https://github.com/Kitsun3Sec/exploits/blob/master/cms/ovidentia/exploitSQLIOvidentia.txt
 CVE-2019-1405 - http://packetstormsecurity.com/files/155723/Microsoft-UPnP-Local-Privilege-Elevation.html
 CVE-2019-14205 - https://github.com/markgruffer/markgruffer.github.io/blob/master/_posts/2019-07-19-adaptive-images-for-wordpress-0-6-66-lfi-rce-file-deletion.markdown
 CVE-2019-14205 - https://markgruffer.github.io/2019/07/19/adaptive-images-for-wordpress-0-6-66-lfi-rce-file-deletion.html
@@ -35200,6 +35288,7 @@ CVE-2019-15058 - https://github.com/nothings/stb/issues/790
 CVE-2019-15058 - https://www.mail-archive.com/debian-bugs-dist@lists.debian.org/msg1695025.html
 CVE-2019-15062 - https://gauravnarwani.com/publications/CVE-2019-15062/
 CVE-2019-15081 - http://packetstormsecurity.com/files/154286/Opencart-3.x-Cross-Site-Scripting.html
+CVE-2019-15081 - https://github.com/nipunsomani/Opencart-3.x.x-Authenticated-Stored-XSS/blob/master/README.md
 CVE-2019-15083 - http://packetstormsecurity.com/files/157717/ManageEngine-Service-Desk-10.0-Cross-Site-Scripting.html
 CVE-2019-15083 - https://www.exploit-db.com/exploits/48473
 CVE-2019-15084 - https://www.exploit-db.com/exploits/46416
@@ -35375,6 +35464,7 @@ CVE-2019-15929 - http://packetstormsecurity.com/files/155012/Craft-CMS-Rate-Limi
 CVE-2019-15940 - https://blog.avira.com/victure-pc530-home-insecurity-you-can-install-yourself/
 CVE-2019-15942 - https://trac.ffmpeg.org/ticket/8093
 CVE-2019-15943 - http://packetstormsecurity.com/files/154705/Counter-Strike-Global-Offensive-Code-Execution-Denial-Of-Service.html
+CVE-2019-15943 - https://github.com/bi7s/CVE/blob/master/CVE-2019-15943/README.md
 CVE-2019-15948 - https://github.com/darkmentorllc/jackbnimble/blob/master/host/pocs/ti_wl18xx_adv_rce.py
 CVE-2019-15949 - http://packetstormsecurity.com/files/156676/Nagios-XI-Authenticated-Remote-Command-Execution.html
 CVE-2019-15949 - http://packetstormsecurity.com/files/162158/Nagios-XI-getprofile.sh-Remote-Command-Execution.html
@@ -35557,9 +35647,11 @@ CVE-2019-1652 - https://seclists.org/bugtraq/2019/Mar/55
 CVE-2019-1652 - https://www.exploit-db.com/exploits/46243/
 CVE-2019-1652 - https://www.exploit-db.com/exploits/46655/
 CVE-2019-16520 - http://www.openwall.com/lists/oss-security/2019/10/16/5
+CVE-2019-16520 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-04_WordPress_Plugin_All_in_One_SEO_Pack
 CVE-2019-16521 - http://www.openwall.com/lists/oss-security/2019/10/16/3
 CVE-2019-16521 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker
 CVE-2019-16523 - http://www.openwall.com/lists/oss-security/2019/10/16/4
+CVE-2019-16523 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-03_WordPress_Plugin_Events_Manager
 CVE-2019-16524 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190911-01_Easy_FancyBox_WP_Plugin_Stored_XSS
 CVE-2019-16525 - https://packetstormsecurity.com/files/154436/WordPress-Checklist-1.1.5-Cross-Site-Scripting.html
 CVE-2019-1653 - http://packetstormsecurity.com/files/152260/Cisco-RV320-Unauthenticated-Configuration-Export.html
@@ -35582,9 +35674,12 @@ CVE-2019-1663 - http://packetstormsecurity.com/files/153163/Cisco-RV130W-1.0.3.4
 CVE-2019-1663 - http://packetstormsecurity.com/files/154310/Cisco-RV110W-RV130-W-RV215W-Remote-Command-Execution.html
 CVE-2019-1663 - https://www.exploit-db.com/exploits/46705/
 CVE-2019-16645 - http://packetstormsecurity.com/files/154652/GoAhead-2.5.0-Host-Header-Injection.html
+CVE-2019-16645 - https://github.com/Ramikan/Vulnerabilities/blob/master/GoAhead%20Web%20server%20HTTP%20Header%20Injection
 CVE-2019-16647 - https://safebreach.com/Post/Maxthon-Browser-for-Windows-Unquoted-Search-Path-and-Potential-Abuses-CVE-2019-16647
 CVE-2019-16649 - https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/
+CVE-2019-16649 - https://github.com/eclypsium/USBAnywhere
 CVE-2019-16650 - https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/
+CVE-2019-16650 - https://github.com/eclypsium/USBAnywhere
 CVE-2019-16651 - https://fidusinfosec.com/silently-unmasking-virgin-media-vpn-users-in-seconds-cve-2019-16651/
 CVE-2019-16662 - http://packetstormsecurity.com/files/154999/rConfig-3.9.2-Remote-Code-Execution.html
 CVE-2019-16662 - http://packetstormsecurity.com/files/155186/rConfig-3.9.2-Command-Injection.html
@@ -35648,6 +35743,7 @@ CVE-2019-16891 - https://sec.vnpt.vn/2019/09/liferay-deserialization-json-deseri
 CVE-2019-16891 - https://www.youtube.com/watch?v=DjMEfQW3bf0
 CVE-2019-16893 - https://exploit-db.com/exploits/47958
 CVE-2019-16894 - https://www.exploit-db.com/exploits/47426
+CVE-2019-16897 - https://github.com/NtRaiseHardError/Antimalware-Research/blob/master/K7%20Security/Local%20Privilege%20Escalation/v16.0.0120/README.md
 CVE-2019-16899 - http://code610.blogspot.com/2019/09/crashing-webaccesshmi-designer-21931.html
 CVE-2019-16900 - http://code610.blogspot.com/2019/09/crashing-webaccesshmi-designer-21931.html
 CVE-2019-16901 - http://code610.blogspot.com/2019/09/crashing-webaccesshmi-designer-21931.html
@@ -35661,6 +35757,7 @@ CVE-2019-16920 - https://www.kb.cert.org/vuls/id/766427
 CVE-2019-16931 - https://nathandavison.com/blog/wordpress-visualizer-plugin-xss-and-ssrf
 CVE-2019-16932 - https://nathandavison.com/blog/wordpress-visualizer-plugin-xss-and-ssrf
 CVE-2019-16935 - https://bugs.python.org/issue38243
+CVE-2019-16941 - https://github.com/purpleracc00n/CVE-2019-16941
 CVE-2019-16948 - https://mjlanders.com/2019/11/07/multiple-vulnerabilities-found-in-enghouse-zeacom-web-chat/
 CVE-2019-16949 - https://mjlanders.com/2019/11/07/multiple-vulnerabilities-found-in-enghouse-zeacom-web-chat/
 CVE-2019-16950 - https://mjlanders.com/2019/11/07/multiple-vulnerabilities-found-in-enghouse-zeacom-web-chat/
@@ -35674,6 +35771,7 @@ CVE-2019-16959 - https://www.esecforte.com/formula-injection-vulnerability-india
 CVE-2019-16960 - https://www.esecforte.com/responsible-vulnerability-disclosure-cve-2019-16960-cross-site-scripting-vulnerability-in-solarwinds-web-help-desk/
 CVE-2019-16961 - https://www.esecforte.com/cross-site-scripting-vulnerability-in-solarwinds-web-help-desk-cve-2019-16961-responsible-vulnerability-disclosure/
 CVE-2019-16962 - https://www.esecforte.com/manage-engine-desktopcentral-india-html-injection-vulnerability/
+CVE-2019-16999 - https://github.com/idcos/Cloudboot/issues/22
 CVE-2019-17000 - https://bugzilla.mozilla.org/show_bug.cgi?id=1441468
 CVE-2019-17001 - https://bugzilla.mozilla.org/show_bug.cgi?id=1587976
 CVE-2019-17008 - https://bugzilla.mozilla.org/show_bug.cgi?id=1546331
@@ -35906,6 +36004,8 @@ CVE-2019-18347 - http://seclists.org/fulldisclosure/2019/Dec/19
 CVE-2019-18347 - https://hackdefense.com/publications/cve-2019-18347-davical-caldav-server-vulnerability/
 CVE-2019-18350 - https://github.com/ant-design/ant-design-pro/pull/5461
 CVE-2019-18359 - https://sourceforge.net/p/mp3gain/bugs/46/
+CVE-2019-18370 - https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/remote_command_execution_vulnerability.py
+CVE-2019-18371 - https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/arbitrary_file_read_vulnerability.py
 CVE-2019-18387 - https://www.sevenlayers.com/index.php/266-hotel-and-lodge-management-system-1-0-sqli
 CVE-2019-18396 - http://packetstormsecurity.com/files/155296/Technicolor-TD5130.2-Remote-Command-Execution.html
 CVE-2019-18396 - https://medium.com/@c4pt41nnn/cve-2019-18396-command-injection-in-technicolor-router-da5dd2134052
@@ -35935,6 +36035,7 @@ CVE-2019-18655 - https://www.0xhuesca.com/2019/11/cve-2019-18655.html
 CVE-2019-18660 - http://packetstormsecurity.com/files/155890/Slackware-Security-Advisory-Slackware-14.2-kernel-Updates.html
 CVE-2019-18660 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.1
 CVE-2019-18662 - http://packetstormsecurity.com/files/155564/YouPHPTube-7.7-SQL-Injection.html
+CVE-2019-18662 - https://github.com/YouPHPTube/YouPHPTube/issues/2202
 CVE-2019-18671 - https://blog.inhq.net/posts/keepkey-CVE-2019-18671/
 CVE-2019-18672 - https://blog.inhq.net/posts/keepkey-CVE-2019-18672/
 CVE-2019-18675 - https://deshal3v.github.io/blog/kernel-research/mmap_exploitation
@@ -35984,6 +36085,7 @@ CVE-2019-18862 - http://packetstormsecurity.com/files/155425/GNU-Mailutils-3.7-P
 CVE-2019-18883 - http://packetstormsecurity.com/files/155241/LavaLite-CMS-5.7-Cross-Site-Scripting.html
 CVE-2019-18884 - http://packetstormsecurity.com/files/155242/RISE-Ultimate-Project-Manager-2.3-Cross-Site-Request-Forgery.html
 CVE-2019-18885 - http://packetstormsecurity.com/files/156185/Kernel-Live-Patch-Security-Notice-LSN-0062-1.html
+CVE-2019-18885 - https://github.com/bobfuzzer/CVE-2019-18885
 CVE-2019-18893 - https://palant.de/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit/
 CVE-2019-18894 - https://palant.de/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit/
 CVE-2019-18895 - http://hyp3rlinx.altervista.org
@@ -36001,9 +36103,11 @@ CVE-2019-18930 - https://github.com/DelspoN/CVE/tree/master/CVE-2019-18930
 CVE-2019-18931 - https://github.com/DelspoN/CVE/tree/master/CVE-2019-18931
 CVE-2019-18935 - http://packetstormsecurity.com/files/155720/Telerik-UI-Remote-Code-Execution.html
 CVE-2019-18935 - http://packetstormsecurity.com/files/159653/Telerik-UI-ASP.NET-AJAX-RadAsyncUpload-Deserialization.html
+CVE-2019-18935 - https://github.com/noperator/CVE-2019-18935
 CVE-2019-18951 - http://packetstormsecurity.com/files/155324/Xfilesharing-2.5.1-Local-File-Inclusion-Shell-Upload.html
 CVE-2019-18952 - http://packetstormsecurity.com/files/155324/Xfilesharing-2.5.1-Local-File-Inclusion-Shell-Upload.html
 CVE-2019-18954 - https://github.com/cl0udz/vulnerabilities/tree/master/pomelo-critical-state-manipulation
+CVE-2019-18956 - https://github.com/blackarrowsec/advisories/tree/master/2019/CVE-2019-18956
 CVE-2019-18957 - http://packetstormsecurity.com/files/155320/MicroStrategy-Library-Cross-Site-Scripting.html
 CVE-2019-18958 - https://a-man-in-the-cookie.blogspot.com/2019/11/nitro-pro-vulnerability.html
 CVE-2019-1897 - https://www.tenable.com/security/research/tra-2019-29
@@ -37435,6 +37539,7 @@ CVE-2019-9062 - https://hackingvila.wordpress.com/2019/02/19/php-scripts-mall-on
 CVE-2019-9081 - https://github.com/Laworigin/Laworigin.github.io/blob/master/2019/02/21/laravelv5-7%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96rce/index.html
 CVE-2019-9081 - https://laworigin.github.io/2019/02/21/laravelv5-7%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96rce/
 CVE-2019-9082 - http://packetstormsecurity.com/files/157218/ThinkPHP-5.0.23-Remote-Code-Execution.html
+CVE-2019-9082 - https://github.com/xiayulei/open_source_bms/issues/33
 CVE-2019-9082 - https://www.exploit-db.com/exploits/46488/
 CVE-2019-9083 - http://seclists.org/fulldisclosure/2019/Feb/51
 CVE-2019-9084 - https://metamorfosec.com/Files/Advisories/METS-2019-005-A_division_by_zero_in_Hoteldruid_before_v2.3.1.txt
@@ -37705,6 +37810,7 @@ CVE-2019-9881 - https://www.pentestpartners.com/security-blog/pwning-wordpress-g
 CVE-2019-9885 - https://zeroday.hitcon.org/vulnerability/ZD-2019-00333
 CVE-2019-9891 - https://www.redteam-pentesting.de/advisories/rt-sa-2019-007
 CVE-2019-9900 - https://github.com/envoyproxy/envoy/security/advisories/GHSA-x74r-f4mw-c32h
+CVE-2019-9901 - https://github.com/envoyproxy/envoy/security/advisories/GHSA-xcx5-93pw-jw2w
 CVE-2019-9903 - https://gitlab.freedesktop.org/poppler/poppler/issues/741
 CVE-2019-9903 - https://research.loginsoft.com/bugs/stack-based-buffer-overflows-in-dictfind-poppler-0-74-0/
 CVE-2019-9904 - https://gitlab.com/graphviz/graphviz/issues/1512
@@ -37724,6 +37830,7 @@ CVE-2019-9913 - https://security-consulting.icu/blog/2019/02/wordpress-wp-livech
 CVE-2019-9914 - https://lists.openwall.net/full-disclosure/2019/02/05/15
 CVE-2019-9914 - https://security-consulting.icu/blog/2019/02/wordpress-yop-poll-xss/
 CVE-2019-9917 - https://seclists.org/bugtraq/2019/Jun/23
+CVE-2019-9926 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-9926
 CVE-2019-9926 - https://rhinosecuritylabs.com/application-security/labkey-server-vulnerabilities-to-rce/
 CVE-2019-9938 - https://blog.redforce.io/shareit-vulnerabilities-enable-unrestricted-access-to-adjacent-devices-files/
 CVE-2019-9939 - https://blog.redforce.io/shareit-vulnerabilities-enable-unrestricted-access-to-adjacent-devices-files/
@@ -38959,6 +39066,7 @@ CVE-2020-15529 - http://daniels-it-blog.blogspot.com/2020/07/gog-galaxy-escalati
 CVE-2020-15530 - http://daniels-it-blog.blogspot.com/2020/07/steam-arbitrary-code-execution-part-2.html
 CVE-2020-15531 - https://github.com/darkmentorllc/jackbnimble/blob/master/host/pocs/silabs_efr32_extadv_rce.py
 CVE-2020-15531 - https://www.youtube.com/watch?v=saoTr1NwdzM
+CVE-2020-15532 - https://github.com/darkmentorllc/jackbnimble/blob/master/host/pocs/silabs_efr32_extadv_dos.py
 CVE-2020-15533 - https://www.manageengine.com
 CVE-2020-15535 - https://packetstormsecurity.com/files/157118/WordPress-Car-Rental-System-1.3-Cross-Site-Scripting.html
 CVE-2020-15536 - https://packetstormsecurity.com/files/157116/WordPress-Hotel-Booking-System-Pro-1.1-Cross-Site-Scripting.html
@@ -39785,6 +39893,7 @@ CVE-2020-23161 - https://github.com/Outpost24/Pyrescom-Termod-PoC
 CVE-2020-23161 - https://outpost24.com/blog/multiple-vulnerabilities-discovered-in-Pyrescom-Termod4-smart-device
 CVE-2020-23162 - https://github.com/Outpost24/Pyrescom-Termod-PoC
 CVE-2020-23162 - https://outpost24.com/blog/multiple-vulnerabilities-discovered-in-Pyrescom-Termod4-smart-device
+CVE-2020-23172 - https://github.com/kuba--/zip/issues/123
 CVE-2020-23178 - https://github.com/PHPFusion/PHPFusion/issues/2314
 CVE-2020-23214 - https://github.com/phpList/phplist3/issues/669
 CVE-2020-23266 - https://github.com/gpac/gpac/issues/1481
@@ -39845,6 +39954,7 @@ CVE-2020-23856 - https://lists.gnu.org/archive/html/bug-cflow/2020-07/msg00000.h
 CVE-2020-23861 - https://github.com/LibreDWG/libredwg/issues/248
 CVE-2020-23864 - http://daniels-it-blog.blogspot.com/2020/07/iobit-malware-fighter-arbitrary-code.html
 CVE-2020-23872 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
+CVE-2020-23872 - https://github.com/kermitt2/pdf2xml/issues/10
 CVE-2020-23873 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
 CVE-2020-23873 - https://github.com/kermitt2/pdf2xml/issues/11
 CVE-2020-23874 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
@@ -40128,6 +40238,7 @@ CVE-2020-25270 - https://phpgurukul.com
 CVE-2020-25271 - https://phpgurukul.com
 CVE-2020-25275 - http://packetstormsecurity.com/files/160841/Dovecot-2.3.11.3-Denial-Of-Service.html
 CVE-2020-25285 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.8.8
+CVE-2020-25287 - https://github.com/jenaye/pligg/blob/master/README.md
 CVE-2020-25288 - https://mantisbt.org/bugs/view.php?id=27275
 CVE-2020-25289 - http://zeifan.my/security/arbitrary%20file/eop/2020/07/21/avast-secureline-vpn-arb-file-eop.html
 CVE-2020-25291 - http://zeifan.my/security/rce/heap/2020/09/03/wps-rce-heap.html
@@ -40228,6 +40339,7 @@ CVE-2020-25820 - https://www.redteam-pentesting.de/advisories/rt-sa-2020-005
 CVE-2020-25830 - https://mantisbt.org/bugs/view.php?id=27304
 CVE-2020-25858 - http://vdoo.com/blog/qualcomm-qcmap-vulnerabilities
 CVE-2020-25859 - http://vdoo.com/blog/qualcomm-qcmap-vulnerabilities
+CVE-2020-25860 - https://github.com/rauc/rauc/security/advisories/GHSA-cgf3-h62j-w9vv
 CVE-2020-25860 - https://www.vdoo.com/blog/cve-2020-25860-significant-vulnerability-discovered-rauc-embedded-firmware-update-framework
 CVE-2020-25889 - http://packetstormsecurity.com/files/160397/Online-Bus-Booking-System-Project-Using-PHP-MySQL-1.0-SQL-Injection.html
 CVE-2020-25889 - http://seclists.org/fulldisclosure/2020/Dec/4
@@ -41029,6 +41141,7 @@ CVE-2020-35327 - https://www.exploit-db.com/exploits/49243
 CVE-2020-35328 - https://www.exploit-db.com/exploits/49241
 CVE-2020-35329 - https://www.exploit-db.com/exploits/49242
 CVE-2020-35337 - https://blog.unc1e.com/2020/12/thinksaas-has-post-auth-sql-injection.html
+CVE-2020-35337 - https://github.com/thinksaas/ThinkSAAS/issues/24
 CVE-2020-35338 - https://jeyaseelans.medium.com/cve-2020-35338-9e841f48defa
 CVE-2020-35339 - https://github.com/BigTiger2020/74cms-rce/blob/main/README.md
 CVE-2020-35346 - https://github.com/cbkhwx/cxuucmsv3/issues/4
@@ -41058,6 +41171,7 @@ CVE-2020-35448 - https://sourceware.org/bugzilla/show_bug.cgi?id=26574
 CVE-2020-35470 - https://github.com/envoyproxy/envoy/issues/14087
 CVE-2020-35470 - https://github.com/envoyproxy/envoy/pull/14131
 CVE-2020-35471 - https://github.com/envoyproxy/envoy/pull/14122
+CVE-2020-35476 - https://github.com/OpenTSDB/opentsdb/issues/2051
 CVE-2020-35488 - https://github.com/GuillaumePetit84/CVE-2020-35488
 CVE-2020-35489 - https://www.jinsonvarghese.com/unrestricted-file-upload-in-contact-form-7/
 CVE-2020-35556 - https://www.acronis.com
@@ -41251,6 +41365,7 @@ CVE-2020-4294 - http://packetstormsecurity.com/files/157329/QRadar-Community-Edi
 CVE-2020-4469 - https://www.tenable.com/security/research/tra-2020-37
 CVE-2020-4470 - https://www.tenable.com/security/research/tra-2020-37
 CVE-2020-4471 - https://www.tenable.com/security/research/tra-2020-37
+CVE-2020-4576 - https://www.ibm.com/support/pages/node/6339807
 CVE-2020-4854 - https://www.tenable.com/security/research/tra-2020-66
 CVE-2020-5147 - http://packetstormsecurity.com/files/163857/SonicWall-NetExtender-10.2.0.300-Unquoted-Service-Path.html
 CVE-2020-5183 - http://packetstormsecurity.com/files/155832/FTPGetter-Professional-5.97.0.223-Denial-Of-Service.html
