@@ -9065,6 +9065,9 @@ CVE-2009-0340 - https://www.exploit-db.com/exploits/7813
 CVE-2009-0349 - https://www.exploit-db.com/exploits/7852
 CVE-2009-0350 - https://www.exploit-db.com/exploits/7857
 CVE-2009-0351 - https://www.exploit-db.com/exploits/7875
+CVE-2009-0352 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
+CVE-2009-0353 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
+CVE-2009-0355 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
 CVE-2009-0357 - https://bugzilla.mozilla.org/show_bug.cgi?id=380418
 CVE-2009-0369 - https://www.exploit-db.com/exploits/7912
 CVE-2009-0371 - https://www.exploit-db.com/exploits/7879
@@ -9258,7 +9261,11 @@ CVE-2009-0763 - https://www.exploit-db.com/exploits/7993
 CVE-2009-0765 - https://www.exploit-db.com/exploits/7993
 CVE-2009-0767 - https://www.exploit-db.com/exploits/7993
 CVE-2009-0768 - https://www.exploit-db.com/exploits/7984
+CVE-2009-0772 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
+CVE-2009-0774 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
+CVE-2009-0775 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
 CVE-2009-0775 - https://bugzilla.mozilla.org/show_bug.cgi?id=474456
+CVE-2009-0776 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
 CVE-2009-0799 - http://www.kb.cert.org/vuls/id/196617
 CVE-2009-0800 - http://www.kb.cert.org/vuls/id/196617
 CVE-2009-0807 - https://www.exploit-db.com/exploits/8092
@@ -14821,6 +14828,7 @@ CVE-2013-3154 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2013-3167 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053
 CVE-2013-3172 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053
 CVE-2013-3173 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-053
+CVE-2013-3221 - http://pl.reddit.com/r/netsec/comments/17yajp/mysql_madness_and_rails/
 CVE-2013-3222 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-3223 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-3224 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
@@ -25050,6 +25058,7 @@ CVE-2017-10688 - https://www.exploit-db.com/exploits/42299/
 CVE-2017-10699 - https://trac.videolan.org/vlc/ticket/18467
 CVE-2017-10708 - https://launchpad.net/bugs/1700573
 CVE-2017-10711 - https://www.seekurity.com/blog/general/reflected-xss-vulnerability-in-simplerisk/
+CVE-2017-10711 - https://www.youtube.com/watch?v=jOUKEYW0RQw
 CVE-2017-10718 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
 CVE-2017-10719 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
 CVE-2017-10720 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
@@ -30142,6 +30151,7 @@ CVE-2018-13042 - https://www.valbrux.it/blog/2019/01/22/cve-2018-13042-1password
 CVE-2018-13045 - http://packetstormsecurity.com/files/150848/Yeswiki-Cercopitheque-SQL-Injection.html
 CVE-2018-13045 - https://www.exploit-db.com/exploits/46015/
 CVE-2018-13049 - https://github.com/glpi-project/glpi/issues/4270
+CVE-2018-13050 - https://github.com/x-f1v3/ForCve/issues/1
 CVE-2018-13052 - https://www.youtube.com/watch?v=xYRbXBPubaw
 CVE-2018-1306 - https://www.exploit-db.com/exploits/45396/
 CVE-2018-13060 - https://sysdream.com/news/lab/
@@ -37287,6 +37297,7 @@ CVE-2019-7193 - http://packetstormsecurity.com/files/157857/QNAP-QTS-And-Photo-S
 CVE-2019-7194 - http://packetstormsecurity.com/files/157857/QNAP-QTS-And-Photo-Station-6.0.3-Remote-Command-Execution.html
 CVE-2019-7195 - http://packetstormsecurity.com/files/157857/QNAP-QTS-And-Photo-Station-6.0.3-Remote-Command-Execution.html
 CVE-2019-7214 - http://packetstormsecurity.com/files/160416/SmarterMail-6985-Remote-Code-Execution.html
+CVE-2019-7215 - https://knowledgebase.progress.com/articles/Article/Security-Advisory-For-Resolving-Security-Vulnerabilities-May-2019
 CVE-2019-7221 - http://packetstormsecurity.com/files/151713/KVM-VMX-Preemption-Timer-Use-After-Free.html
 CVE-2019-7222 - http://packetstormsecurity.com/files/151712/KVM-kvm_inject_page_fault-Uninitialized-Memory-Leak.html
 CVE-2019-7223 - https://cxsecurity.com/issue/WLB-2019020191
@@ -41484,6 +41495,7 @@ CVE-2020-4470 - https://www.tenable.com/security/research/tra-2020-37
 CVE-2020-4471 - https://www.tenable.com/security/research/tra-2020-37
 CVE-2020-4576 - https://www.ibm.com/support/pages/node/6339807
 CVE-2020-4854 - https://www.tenable.com/security/research/tra-2020-66
+CVE-2020-5024 - https://www.ibm.com/support/pages/node/6427861
 CVE-2020-5147 - http://packetstormsecurity.com/files/163857/SonicWall-NetExtender-10.2.0.300-Unquoted-Service-Path.html
 CVE-2020-5183 - http://packetstormsecurity.com/files/155832/FTPGetter-Professional-5.97.0.223-Denial-Of-Service.html
 CVE-2020-5183 - https://www.exploit-db.com/exploits/47871
@@ -45691,6 +45703,7 @@ CVE-2022-25139 - https://github.com/nginx/njs/issues/451
 CVE-2022-25241 - https://herolab.usd.de/security-advisories/
 CVE-2022-25242 - https://herolab.usd.de/security-advisories/
 CVE-2022-25258 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
+CVE-2022-25297 - https://snyk.io/vuln/SNYK-UNMANAGED-DROGONFRAMEWORKDROGON-2407243
 CVE-2022-25298 - https://snyk.io/vuln/SNYK-UNMANAGED-SPRINFALLWEBCC-2404182
 CVE-2022-25299 - https://snyk.io/vuln/SNYK-UNMANAGED-CESANTAMONGOOSE-2404180
 CVE-2022-25315 - https://github.com/libexpat/libexpat/pull/559
