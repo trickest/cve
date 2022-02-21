@@ -2616,6 +2616,7 @@ CVE-2006-4042 - https://www.exploit-db.com/exploits/2118
 CVE-2006-4043 - https://www.exploit-db.com/exploits/2118
 CVE-2006-4045 - https://www.exploit-db.com/exploits/2121
 CVE-2006-4046 - http://aluigi.altervista.org/adv/ocpbof-adv.txt
+CVE-2006-4046 - http://securityreason.com/securityalert/1349
 CVE-2006-4046 - https://www.exploit-db.com/exploits/2094
 CVE-2006-4051 - https://www.exploit-db.com/exploits/2120
 CVE-2006-4052 - https://www.exploit-db.com/exploits/2119
@@ -29923,6 +29924,7 @@ CVE-2018-12054 - https://github.com/unh3x/just4cve/issues/4
 CVE-2018-12054 - https://www.exploit-db.com/exploits/44874/
 CVE-2018-12055 - https://github.com/unh3x/just4cve/issues/2
 CVE-2018-12055 - https://www.exploit-db.com/exploits/44866/
+CVE-2018-12076 - https://sorsnce.com/2018/11/13/announcing-cve-2018-12076/
 CVE-2018-12090 - https://www.exploit-db.com/exploits/45153/
 CVE-2018-12094 - https://cxsecurity.com/issue/WLB-2018060091
 CVE-2018-12094 - https://www.exploit-db.com/exploits/44897/
@@ -35454,6 +35456,8 @@ CVE-2019-15291 - http://packetstormsecurity.com/files/155890/Slackware-Security-
 CVE-2019-15295 - https://safebreach.com/Post/BitDefender-Antivirus-Free-2020-Privilege-Escalation-to-SYSTEM
 CVE-2019-15297 - http://packetstormsecurity.com/files/154371/Asterisk-Project-Security-Advisory-AST-2019-004.html
 CVE-2019-15297 - http://packetstormsecurity.com/files/161671/Asterisk-Project-Security-Advisory-AST-2021-006.html
+CVE-2019-15299 - https://documentation.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html
+CVE-2019-15300 - https://documentation.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html
 CVE-2019-15304 - http://packetstormsecurity.com/files/154221/ProGrade-Lierda-Grill-Temperature-1.00_50006-Hardcoded-Credentials.html
 CVE-2019-15304 - https://www.joesandbox.com/analysis/287596/0/html
 CVE-2019-15310 - https://labs.mwrinfosecurity.com/advisories/
@@ -35718,6 +35722,7 @@ CVE-2019-16385 - https://labs.nettitude.com/blog/cve-2019-16384-85-cyblesoft-thi
 CVE-2019-16399 - http://packetstormsecurity.com/files/154524/Western-Digital-My-Book-World-II-NAS-1.02.12-Hardcoded-Credential.html
 CVE-2019-16404 - https://github.com/lodestone-security/CVEs/blob/master/CVE-2019-16404/README.md
 CVE-2019-16405 - http://packetstormsecurity.com/files/155999/Centreon-19.04-Remote-Code-Execution.html
+CVE-2019-16405 - https://documentation.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html
 CVE-2019-16414 - http://packetstormsecurity.com/files/154678/GFI-Kerio-Control-9.3.0-Cross-Site-Scripting.html
 CVE-2019-16414 - http://seclists.org/fulldisclosure/2019/Sep/35
 CVE-2019-16414 - https://www.youtube.com/watch?v=ZqqR89vzZ_I
@@ -36048,6 +36053,10 @@ CVE-2019-17625 - https://github.com/ramboxapp/community-edition/issues/2418
 CVE-2019-17633 - https://bugs.eclipse.org/bugs/show_bug.cgi?id=551596
 CVE-2019-17636 - https://bugs.eclipse.org/bugs/show_bug.cgi?id=551747
 CVE-2019-17637 - https://bugs.eclipse.org/bugs/show_bug.cgi?id=458571
+CVE-2019-17643 - https://documentation.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html#centreon-web-19-10-2
+CVE-2019-17645 - https://documentation.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html#centreon-web-19-10-2
+CVE-2019-17646 - https://documentation.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html#centreon-web-19-10-2
+CVE-2019-17647 - https://documentation.centreon.com/docs/centreon/en/latest/release_notes/centreon-19.10.html#centreon-web-19-10-2
 CVE-2019-17662 - http://packetstormsecurity.com/files/154896/ThinVNC-1.0b1-Authentication-Bypass.html
 CVE-2019-17662 - https://github.com/shashankmangal2/Exploits/blob/master/ThinVNC-RemoteAccess/POC.py
 CVE-2019-17662 - https://redteamzone.com/ThinVNC/
@@ -37697,6 +37706,7 @@ CVE-2019-9176 - https://gitlab.com/gitlab-org/gitlab-ce/issues/55664
 CVE-2019-9184 - https://www.exploit-db.com/exploits/46467/
 CVE-2019-9189 - http://packetstormsecurity.com/files/155273/Prima-Access-Control-2.3.35-Script-Upload-Remote-Code-Execution.html
 CVE-2019-9193 - http://packetstormsecurity.com/files/152757/PostgreSQL-COPY-FROM-PROGRAM-Command-Execution.html
+CVE-2019-9193 - https://medium.com/greenwolf-security/authenticated-arbitrary-command-execution-on-postgresql-9-3-latest-cd18945914d5
 CVE-2019-9194 - https://www.exploit-db.com/exploits/46481/
 CVE-2019-9194 - https://www.exploit-db.com/exploits/46539/
 CVE-2019-9199 - https://research.loginsoft.com/bugs/null-pointer-dereference-vulnerability-in-setsource-podofo-0-9-6-trunk-r1967/
