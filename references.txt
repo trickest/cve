@@ -10123,6 +10123,7 @@ CVE-2009-3825 - http://www.exploit-db.com/exploits/9103
 CVE-2009-3837 - http://www.packetstormsecurity.org/0910-exploits/eurekamc-dos.txt
 CVE-2009-3838 - http://www.packetstormsecurity.org/0910-exploits/pegasusmc-dos.txt
 CVE-2009-3840 - http://seclists.org/fulldisclosure/2009/Nov/199
+CVE-2009-3850 - http://www.coresecurity.com/content/blender-scripting-injection
 CVE-2009-3857 - http://www.exploit-db.com/exploits/9133
 CVE-2009-3859 - http://www.exploit-db.com/exploits/9114
 CVE-2009-3863 - http://www.exploit-db.com/exploits/9683
@@ -36733,6 +36734,7 @@ CVE-2019-20629 - https://github.com/gpac/gpac/issues/1264
 CVE-2019-20632 - https://github.com/gpac/gpac/issues/1271
 CVE-2019-20633 - https://savannah.gnu.org/bugs/index.php?56683
 CVE-2019-20636 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.12
+CVE-2019-20675 - https://kb.netgear.com/000061464/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-WiFi-Systems-PSV-2018-0544
 CVE-2019-20689 - https://kb.netgear.com/000061450/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-Gateways-and-Extenders-PSV-2018-0132
 CVE-2019-20760 - https://kb.netgear.com/000060639/Security-Advisory-for-Authentication-Bypass-on-R9000-PSV-2018-0615
 CVE-2019-20798 - https://github.com/cherokee/webserver/issues/1227
