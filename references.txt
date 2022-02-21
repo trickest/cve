@@ -22683,6 +22683,7 @@ CVE-2016-1247 - http://packetstormsecurity.com/files/139750/Nginx-Debian-Based-D
 CVE-2016-1247 - http://seclists.org/fulldisclosure/2016/Nov/78
 CVE-2016-1247 - https://legalhackers.com/advisories/Nginx-Exploit-Deb-Root-PrivEsc-CVE-2016-1247.html
 CVE-2016-1247 - https://www.exploit-db.com/exploits/40768/
+CVE-2016-1247 - https://www.youtube.com/watch?v=aTswN1k1fQs
 CVE-2016-1248 - https://github.com/vim/vim/commit/d0b5138ba4bccff8a744c99836041ef6322ed39a
 CVE-2016-1252 - http://packetstormsecurity.com/files/140145/apt-Repository-Signing-Bypass.html
 CVE-2016-1252 - https://bugs.launchpad.net/ubuntu/+source/apt/+bug/1647467
@@ -29834,6 +29835,7 @@ CVE-2018-11396 - https://bugzilla.gnome.org/show_bug.cgi?id=795740
 CVE-2018-11403 - https://www.exploit-db.com/exploits/44782/
 CVE-2018-11404 - https://www.exploit-db.com/exploits/44783/
 CVE-2018-11405 - https://github.com/Kliqqi-CMS/Kliqqi-CMS/issues/256
+CVE-2018-11409 - https://github.com/kofa2002/splunk
 CVE-2018-11409 - https://www.exploit-db.com/exploits/44865/
 CVE-2018-1141 - https://www.tenable.com/security/tns-2018-01
 CVE-2018-11410 - https://bugzilla.redhat.com/show_bug.cgi?id=1582024
@@ -29972,6 +29974,7 @@ CVE-2018-11690 - http://packetstormsecurity.com/files/148127/Joomla-2.4.0-Gridbo
 CVE-2018-11690 - http://seclists.org/fulldisclosure/2018/Jun/26
 CVE-2018-11692 - https://www.exploit-db.com/exploits/44844/
 CVE-2018-11693 - https://github.com/sass/libsass/issues/2661
+CVE-2018-11694 - https://github.com/sass/libsass/issues/2663
 CVE-2018-11695 - https://github.com/sass/libsass/issues/2664
 CVE-2018-11696 - https://github.com/sass/libsass/issues/2665
 CVE-2018-11697 - https://github.com/sass/libsass/issues/2656
@@ -34542,6 +34545,7 @@ CVE-2019-11367 - http://packetstormsecurity.com/files/153151/AUO-Solar-Data-Reco
 CVE-2019-11367 - https://github.com/nepenthe0320/cve_poc/blob/master/CVE-2019-11367
 CVE-2019-11368 - https://github.com/nepenthe0320/cve_poc/blob/master/CVE-2019-11368
 CVE-2019-11369 - http://seclists.org/fulldisclosure/2019/Oct/45
+CVE-2019-11369 - https://github.com/nepenthe0320/cve_poc/blob/master/CVE-2019-11369
 CVE-2019-11370 - https://github.com/nepenthe0320/cve_poc/blob/master/CVE-2019-11370
 CVE-2019-11372 - https://sourceforge.net/p/mediainfo/bugs/1101/
 CVE-2019-11373 - https://sourceforge.net/p/mediainfo/bugs/1101/
@@ -42374,6 +42378,7 @@ CVE-2020-7384 - http://packetstormsecurity.com/files/160004/Rapid7-Metasploit-Fr
 CVE-2020-7384 - http://packetstormsecurity.com/files/161200/Metasploit-Framework-6.0.11-Command-Injection.html
 CVE-2020-7457 - http://packetstormsecurity.com/files/158695/FreeBSD-ip6_setpktopt-Use-After-Free-Privilege-Escalation.html
 CVE-2020-7593 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2020-1069
+CVE-2020-7594 - https://sku11army.blogspot.com/2020/01/multitech-authenticated-remote-code.html
 CVE-2020-7595 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2020-7596 - https://snyk.io/vuln/SNYK-JS-CODECOV-543183
 CVE-2020-7597 - https://snyk.io/vuln/SNYK-JS-CODECOV-548879
@@ -46000,6 +46005,7 @@ CVE-2022-0278 - https://huntr.dev/bounties/64495d0f-d5ec-4542-9693-32372c18d030
 CVE-2022-0281 - https://huntr.dev/bounties/315f5ac6-1b5e-4444-ad8f-802371da3505
 CVE-2022-0282 - https://huntr.dev/bounties/8815b642-bd9b-4737-951b-bde7319faedd
 CVE-2022-0285 - https://huntr.dev/bounties/321918b2-aa01-410e-9f7c-dca5f286bc9c
+CVE-2022-0290 - http://packetstormsecurity.com/files/166080/Chrome-RenderFrameHostImpl-Use-After-Free.html
 CVE-2022-0318 - https://huntr.dev/bounties/0d10ba02-b138-4e68-a284-67f781a62d08
 CVE-2022-0319 - https://huntr.dev/bounties/ba622fd2-e6ef-4ad9-95b4-17f87b68755b
 CVE-2022-0323 - https://huntr.dev/bounties/a5f5a988-aa52-4443-839d-299a63f44fb7
@@ -46054,6 +46060,7 @@ CVE-2022-0530 - https://bugzilla.redhat.com/show_bug.cgi?id=2051395
 CVE-2022-0534 - https://github.com/michaelrsweet/htmldoc/issues/463
 CVE-2022-0539 - https://huntr.dev/bounties/5f41b182-dda2-4c6f-9668-2a9afaed53af
 CVE-2022-0554 - https://huntr.dev/bounties/7e8f6cd0-b5ee-48a2-8255-6a86f4c46c71
+CVE-2022-0557 - http://packetstormsecurity.com/files/166077/Microweber-1.2.11-Shell-Upload.html
 CVE-2022-0557 - https://huntr.dev/bounties/660c89af-2de5-41bc-aada-9e4e78142db8
 CVE-2022-0558 - https://huntr.dev/bounties/8fffc95f-14ae-457b-aecc-be4716a8b91c
 CVE-2022-0559 - https://huntr.dev/bounties/aa80adb7-e900-44a5-ad05-91f3ccdfc81e
@@ -46080,13 +46087,22 @@ CVE-2022-0613 - https://huntr.dev/bounties/f53d5c42-c108-40b8-917d-9dad51535083
 CVE-2022-0614 - https://huntr.dev/bounties/a980ce4d-c359-4425-92c4-e844c0055879
 CVE-2022-0623 - https://huntr.dev/bounties/5b908ac7-d8f1-4fcd-9355-85df565f7580
 CVE-2022-0629 - https://huntr.dev/bounties/95e2b0da-e480-4ee8-9324-a93a2ab0a877
+CVE-2022-0630 - https://huntr.dev/bounties/f7cdd680-1a7f-4992-b4b8-44b5e4ba3e32
 CVE-2022-0631 - https://huntr.dev/bounties/9bdc49ca-6697-4adc-a785-081e1961bf40
+CVE-2022-0632 - https://huntr.dev/bounties/3e5bb8f6-30fd-4553-86dd-761e9459ce1b
 CVE-2022-0633 - http://packetstormsecurity.com/files/166059/WordPress-UpdraftPlus-1.22.2-Backup-Disclosure.html
 CVE-2022-0639 - https://huntr.dev/bounties/83a6bc9a-b542-4a38-82cd-d995a1481155
 CVE-2022-0660 - https://huntr.dev/bounties/01fd2e0d-b8cf-487f-a16c-7b088ef3a291
 CVE-2022-0664 - https://huntr.dev/bounties/29898a42-fd4f-4b5b-a8e3-ab573cb87eac
 CVE-2022-0666 - https://huntr.dev/bounties/7215afc7-9133-4749-8e8e-0569317dbd55
 CVE-2022-0678 - https://huntr.dev/bounties/d707137a-aace-44c5-b15c-1807035716c0
+CVE-2022-0685 - https://huntr.dev/bounties/27230da3-9b1a-4d5d-8cdf-4b1e62fcd782
+CVE-2022-0686 - https://huntr.dev/bounties/55fd06cd-9054-4d80-83be-eb5a454be78c
+CVE-2022-0689 - https://huntr.dev/bounties/fa5dbbd3-97fe-41a9-8797-2e54d9a9c649
+CVE-2022-0690 - https://huntr.dev/bounties/4999a0f4-6efb-4681-b4ba-b36babc366f9
+CVE-2022-0691 - https://huntr.dev/bounties/57124ed5-4b68-4934-8325-2c546257f2e4
+CVE-2022-0692 - https://huntr.dev/bounties/4fb39400-e08b-47af-8c1f-5093c9a51203
+CVE-2022-0696 - https://huntr.dev/bounties/7416c2cb-1809-4834-8989-e84ff033f15f
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -46191,6 +46207,7 @@ CVE-2022-24976 - https://www.openwall.com/lists/oss-security/2022/01/30/4
 CVE-2022-24977 - https://r0.haxors.org/posts?id=8
 CVE-2022-25131 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_14/14.md
 CVE-2022-25139 - https://github.com/nginx/njs/issues/451
+CVE-2022-25241 - http://packetstormsecurity.com/files/166074/FileCloud-21.2-Cross-Site-Request-Forgery.html
 CVE-2022-25241 - https://herolab.usd.de/security-advisories/
 CVE-2022-25242 - https://herolab.usd.de/security-advisories/
 CVE-2022-25258 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
