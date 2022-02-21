@@ -24328,6 +24328,7 @@ CVE-2016-9274 - https://github.com/git-for-windows/git/issues/944
 CVE-2016-9275 - https://blogs.gentoo.org/ago/2016/11/07/libdwarf-heap-based-buffer-overflow-in-_dwarf_skim_forms-dwarf_macro5-c
 CVE-2016-9276 - https://blogs.gentoo.org/ago/2016/11/07/libdwarf-heap-based-buffer-overflow-in-dwarf_get_aranges_list-dwarf_arange-c
 CVE-2016-9294 - http://bugs.ghostscript.com/show_bug.cgi?id=697172
+CVE-2016-9296 - https://github.com/yangke/7zip-null-pointer-dereference
 CVE-2016-9296 - https://sourceforge.net/p/p7zip/discussion/383043/thread/648d34db/
 CVE-2016-9297 - http://bugzilla.maptools.org/show_bug.cgi?id=2590
 CVE-2016-9299 - https://groups.google.com/forum/#!original/jenkinsci-advisories/-fc-w9tNEJE/GRvEzWoJBgAJ
@@ -26007,6 +26008,7 @@ CVE-2017-14684 - https://github.com/ImageMagick/ImageMagick/issues/770
 CVE-2017-14685 - https://bugs.ghostscript.com/show_bug.cgi?id=698539
 CVE-2017-14686 - https://bugs.ghostscript.com/show_bug.cgi?id=698540
 CVE-2017-14687 - https://bugs.ghostscript.com/show_bug.cgi?id=698558
+CVE-2017-14702 - https://github.com/wshepherd0010/advisories/blob/master/CVE-2017-14702.md
 CVE-2017-14702 - https://www.exploit-db.com/exploits/42952/
 CVE-2017-14703 - https://www.exploit-db.com/exploits/42772/
 CVE-2017-14704 - https://www.exploit-db.com/exploits/42773/
@@ -26265,6 +26267,7 @@ CVE-2017-15921 - http://packetstormsecurity.com/files/144786/Watchdog-Developmen
 CVE-2017-15921 - https://www.exploit-db.com/exploits/43058/
 CVE-2017-15922 - http://lists.gnu.org/archive/html/bug-libextractor/2017-10/msg00008.html
 CVE-2017-15924 - http://openwall.com/lists/oss-security/2017/10/13/2
+CVE-2017-15924 - https://github.com/shadowsocks/shadowsocks-libev/issues/1734
 CVE-2017-15924 - https://www.x41-dsec.de/lab/advisories/x41-2017-010-shadowsocks-libev/
 CVE-2017-15928 - https://github.com/ohler55/ox/issues/194
 CVE-2017-1593 - http://www.ibm.com/support/docview.wss?uid=swg22010321
@@ -27970,6 +27973,7 @@ CVE-2017-6550 - http://packetstormsecurity.com/files/141575/Kinseys-Infor-Lawson
 CVE-2017-6550 - http://seclists.org/fulldisclosure/2017/Mar/31
 CVE-2017-6550 - https://www.exploit-db.com/exploits/41577/
 CVE-2017-6552 - https://www.exploit-db.com/exploits/41565/
+CVE-2017-6552 - https://www.youtube.com/watch?v=ShCs5_8mBlM&t=37s
 CVE-2017-6553 - https://0xdeadface.wordpress.com/2017/04/07/multiple-vulnerabilities-in-quest-privilege-manager-6-0-0-xx-cve-2017-6553-cve-2017-6554/
 CVE-2017-6553 - https://www.exploit-db.com/exploits/42010/
 CVE-2017-6554 - http://packetstormsecurity.com/files/142095/Quest-Privilege-Manager-6.0.0-Arbitrary-File-Write.html
@@ -30813,6 +30817,17 @@ CVE-2018-16258 - https://docs.google.com/document/d/1Lfk0YQMIhlMCOOvVRX8HkU6C50s
 CVE-2018-16259 - https://ansawaf.blogspot.com/2019/04/xss-in-import-any-xml-or-csv-file-for.html
 CVE-2018-16259 - https://docs.google.com/document/d/1Lfk0YQMIhlMCOOvVRX8HkU6C50s9QSW7C-9gnNmzsHY/edit?usp=sharing
 CVE-2018-16261 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877
+CVE-2018-16262 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16263 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16264 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16265 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16266 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16267 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16268 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16269 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16270 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16271 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
+CVE-2018-16272 - https://www.youtube.com/watch?v=3IdgBwbOT-g&feature=youtu.be
 CVE-2018-16282 - https://gist.github.com/tim124058/5c4babe391a016c771d2cccabead21cb
 CVE-2018-16283 - http://seclists.org/fulldisclosure/2018/Sep/32
 CVE-2018-16283 - https://www.exploit-db.com/exploits/45438/
@@ -40344,6 +40359,7 @@ CVE-2020-25385 - https://github.com/EmreOvunc/Nagios-Log-Server-2.1.7-Persistent
 CVE-2020-25398 - https://github.com/h3llraiser/CVE-2020-25398
 CVE-2020-25399 - https://github.com/h3llraiser/CVE-2020-25399
 CVE-2020-25412 - https://sourceforge.net/p/gnuplot/bugs/2303/
+CVE-2020-25427 - https://github.com/gpac/gpac/issues/1406
 CVE-2020-25449 - https://packetstormsecurity.com/files/159070/Cabot-0.11.12-Cross-Site-Scripting.html
 CVE-2020-25449 - https://www.exploit-db.com/exploits/48791
 CVE-2020-25449 - https://www.exploitalert.com/view-details.html?id=36106
@@ -40365,6 +40381,7 @@ CVE-2020-25494 - https://github.com/Ramikan/Vulnerabilities/blob/master/SCO%20Op
 CVE-2020-25495 - http://packetstormsecurity.com/files/160634/SCO-Openserver-5.0.7-Cross-Site-Scripting.html
 CVE-2020-25495 - https://github.com/Ramikan/Vulnerabilities/blob/master/SCO%20Openserver%20XSS%20%26%20HTML%20Injection%20vulnerability
 CVE-2020-25498 - https://github.com/the-girl-who-lived/CVE-2020-25498
+CVE-2020-25506 - https://gist.github.com/WinMin/6f63fd1ae95977e0e2d49bd4b5f00675
 CVE-2020-25507 - https://github.com/sickcodes/security/blob/master/advisories/SICK-2020-002.md
 CVE-2020-25507 - https://sick.codes/sick-2020-002/
 CVE-2020-25516 - https://github.com/piuppi/Proof-of-Concepts/blob/main/WSO2/CVE-2020-25516.md
@@ -41222,6 +41239,7 @@ CVE-2020-35244 - https://github.com/balloonwj/flamingo/issues/47
 CVE-2020-35245 - https://github.com/balloonwj/flamingo/issues/47
 CVE-2020-35249 - https://www.exploit-db.com/exploits/48756
 CVE-2020-35252 - https://www.exploit-db.com/exploits/49153
+CVE-2020-35262 - https://github.com/the-girl-who-lived/CVE-2020-35262
 CVE-2020-35263 - https://www.exploit-db.com/exploits/49058
 CVE-2020-35269 - https://gist.github.com/MoSalah20/d1d40b43eafba0bd22ee4cddecad3cbc
 CVE-2020-35270 - https://www.exploit-db.com/exploits/49152
