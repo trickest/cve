@@ -121,14 +121,16 @@
 
 
     <script>
-
+       
         /* Initialization of datatable */
         $(document).ready(function () {
+            var startTime = new Date().getTime();
             table_settings = {
                 "dom": 'flirtp<"dt-buttons"Bf>',
                 "paging": true,
                 "processing": true,
-                responsive: true,
+                responsive: false,
+                "deferRender": true,
                 oLanguage: { sProcessing: "<div id='loader'></div>" },
                 "buttons": [
                     'colvis',
@@ -143,6 +145,7 @@
                     { "sWidth": "10%" },
                 ],
                 "order": [[ 1, "desc" ]],
+                "orderClasses": false,
                 "data": dataTable_data,
                 initComplete: function () {
                     // Apply the search
@@ -169,8 +172,9 @@
 
             $('#overlay').show()
             $('#datatable').on('init.dt', function () {
-
-                console.log('Table initialisation complete: ' + new Date().getTime());
+                var endTime   = new Date().getTime();
+                var totalTimeTaken = (endTime - startTime) / 1000;
+                console.log('Table initialisation complete in: ' + totalTimeTaken + "s");
                 $('#datatable').show();
                 $('#overlay').hide()
             })
