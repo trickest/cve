@@ -26492,6 +26492,7 @@ CVE-2017-16110 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory
 CVE-2017-16114 - https://github.com/chjj/marked/issues/937
 CVE-2017-16120 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/liyujing
 CVE-2017-16121 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/datachannel-client
+CVE-2017-16122 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/cuciuci
 CVE-2017-16123 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory-traversal/pooledwebsocket
 CVE-2017-16124 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/node-server-forfront
 CVE-2017-16125 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/rtcmulticonnection-client
@@ -26509,11 +26510,13 @@ CVE-2017-16143 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory
 CVE-2017-16144 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory-traversal/myserver.alexcthomas18
 CVE-2017-16145 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory-traversal/sspa
 CVE-2017-16146 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory-traversal/mockserve
+CVE-2017-16147 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory-traversal/shit-server
 CVE-2017-16148 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory-traversal/serve46
 CVE-2017-16149 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/zwserver
 CVE-2017-16150 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/wangguojing123
 CVE-2017-16152 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/static-html-server
 CVE-2017-16153 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/gaoxuyan
+CVE-2017-16154 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/earlybird
 CVE-2017-16155 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/fast-http-cli
 CVE-2017-16156 - https://github.com/JacksonGL/NPM-Vuln-PoC/tree/master/directory-traversal/myprolyz
 CVE-2017-16157 - https://github.com/JacksonGL/NPM-Vuln-PoC/blob/master/directory-traversal/censorify.tanisjr
@@ -30953,10 +30956,15 @@ CVE-2018-16140 - https://sourceforge.net/p/mcj/tickets/28/
 CVE-2018-16141 - https://unothing.github.io/posts/thinkcmfx223/
 CVE-2018-16142 - https://unothing.github.io/posts/phpok48278/
 CVE-2018-16144 - https://seclists.org/fulldisclosure/2018/Sep/3
+CVE-2018-16144 - https://www.coresecurity.com/advisories/opsview-monitor-multiple-vulnerabilities
 CVE-2018-16145 - https://seclists.org/fulldisclosure/2018/Sep/3
+CVE-2018-16145 - https://www.coresecurity.com/advisories/opsview-monitor-multiple-vulnerabilities
 CVE-2018-16146 - https://seclists.org/fulldisclosure/2018/Sep/3
+CVE-2018-16146 - https://www.coresecurity.com/advisories/opsview-monitor-multiple-vulnerabilities
 CVE-2018-16147 - https://seclists.org/fulldisclosure/2018/Sep/3
+CVE-2018-16147 - https://www.coresecurity.com/advisories/opsview-monitor-multiple-vulnerabilities
 CVE-2018-16148 - https://seclists.org/fulldisclosure/2018/Sep/3
+CVE-2018-16148 - https://www.coresecurity.com/advisories/opsview-monitor-multiple-vulnerabilities
 CVE-2018-16149 - https://sourceforge.net/p/axtls/mailman/message/36459928/
 CVE-2018-16150 - https://sourceforge.net/p/axtls/mailman/message/36459928/
 CVE-2018-16156 - http://packetstormsecurity.com/files/160832/PaperStream-IP-TWAIN-1.42.0.5685-Local-Privilege-Escalation.html
@@ -37440,6 +37448,7 @@ CVE-2019-6291 - https://bugzilla.nasm.us/show_bug.cgi?id=3392549
 CVE-2019-6292 - https://github.com/jbeder/yaml-cpp/issues/657
 CVE-2019-6293 - https://github.com/westes/flex/issues/414
 CVE-2019-6294 - https://github.com/TeamEasy/EasyCMS/issues/8
+CVE-2019-6333 - https://safebreach.com/Post/HP-Touchpoint-Analytics-DLL-Search-Order-Hijacking-Potential-Abuses-CVE-2019-6333
 CVE-2019-6338 - https://www.drupal.org/sa-core-2019-001
 CVE-2019-6340 - https://www.exploit-db.com/exploits/46452/
 CVE-2019-6340 - https://www.exploit-db.com/exploits/46459/
