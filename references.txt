@@ -30094,6 +30094,7 @@ CVE-2018-11698 - https://github.com/sass/libsass/issues/2662
 CVE-2018-11711 - https://www.exploit-db.com/exploits/44845/
 CVE-2018-11714 - https://www.exploit-db.com/exploits/44781/
 CVE-2018-11715 - https://www.exploit-db.com/exploits/44833/
+CVE-2018-11722 - https://github.com/wuzhicms/wuzhicms/issues/141
 CVE-2018-11723 - http://packetstormsecurity.com/files/148113/libpff-2018-04-28-Information-Disclosure.html
 CVE-2018-11723 - http://seclists.org/fulldisclosure/2018/Jun/15
 CVE-2018-11724 - http://packetstormsecurity.com/files/148114/libmobi-0.3-Information-Disclosure.html
@@ -32584,6 +32585,7 @@ CVE-2018-20811 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/S
 CVE-2018-20812 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877/
 CVE-2018-20813 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877/
 CVE-2018-20814 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877/
+CVE-2018-20817 - https://github.com/RektInator/cod-steamauth-rce
 CVE-2018-20818 - https://arxiv.org/pdf/1809.07477
 CVE-2018-20820 - https://github.com/dropbox/lepton/issues/111
 CVE-2018-20823 - https://hackaday.com/2018/07/17/freak-out-your-smartphone-with-ultrasound/
@@ -32593,6 +32595,7 @@ CVE-2018-20840 - https://github.com/google/google-api-cpp-client/pull/58
 CVE-2018-20841 - https://ioactive.com/hootoo-tripmate-routers-are-cute-but/
 CVE-2018-20841 - https://www.exploit-db.com/exploits/46143
 CVE-2018-20843 - https://seclists.org/bugtraq/2019/Jun/39
+CVE-2018-20846 - https://github.com/uclouvain/openjpeg/pull/1168/commits/c277159986c80142180fbe5efb256bbf3bdf3edc
 CVE-2018-20848 - https://packetstormsecurity.com/files/147467/Peel-Shopping-Cart-9.0.0-Cross-Site-Request-Forgery-Cross-Site-Scripting.html
 CVE-2018-20849 - https://packetstormsecurity.com/files/147470/Arastta-1.6.2-Cross-Site-Scripting.html
 CVE-2018-20850 - https://advisories.stormshield.eu/2018-006/
