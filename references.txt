@@ -4169,6 +4169,7 @@ CVE-2007-2043 - https://www.exploit-db.com/exploits/3714
 CVE-2007-2044 - https://www.exploit-db.com/exploits/3712
 CVE-2007-2049 - https://www.exploit-db.com/exploits/3713
 CVE-2007-2050 - https://www.exploit-db.com/exploits/3718
+CVE-2007-2052 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-2052 - https://bugzilla.redhat.com/bugzilla/show_bug.cgi?id=235093
 CVE-2007-2060 - http://www.kb.cert.org/vuls/id/319464
 CVE-2007-2060 - http://www.kb.cert.org/vuls/id/MIMG-6ZKP4T
@@ -4993,6 +4994,7 @@ CVE-2007-4957 - https://www.exploit-db.com/exploits/4411
 CVE-2007-4960 - http://www.gnucitizen.org/blog/ie-pwns-secondlife
 CVE-2007-4961 - http://www.gnucitizen.org/blog/ie-pwns-secondlife
 CVE-2007-4965 - http://bugs.gentoo.org/show_bug.cgi?id=192876
+CVE-2007-4965 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-4966 - https://www.exploit-db.com/exploits/4404
 CVE-2007-4976 - http://securityreason.com/securityalert/3152
 CVE-2007-4977 - http://securityreason.com/securityalert/3152
@@ -5130,6 +5132,8 @@ CVE-2007-5315 - https://www.exploit-db.com/exploits/4503
 CVE-2007-5316 - https://www.exploit-db.com/exploits/4504
 CVE-2007-5321 - https://www.exploit-db.com/exploits/4494
 CVE-2007-5322 - https://www.exploit-db.com/exploits/4506
+CVE-2007-5333 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2007-5342 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-5344 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-069
 CVE-2007-5347 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-069
 CVE-2007-5348 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-052
@@ -5166,6 +5170,7 @@ CVE-2007-5455 - https://www.exploit-db.com/exploits/4529
 CVE-2007-5456 - http://securityreason.com/securityalert/3222
 CVE-2007-5457 - https://www.exploit-db.com/exploits/4521
 CVE-2007-5458 - https://www.exploit-db.com/exploits/4523
+CVE-2007-5461 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-5461 - https://www.exploit-db.com/exploits/4530
 CVE-2007-5464 - http://aluigi.altervista.org/adv/lfscbof-adv.txt
 CVE-2007-5465 - https://www.exploit-db.com/exploits/4536
@@ -5268,6 +5273,7 @@ CVE-2007-5947 - http://www.gnucitizen.org/blog/web-mayhem-firefoxs-jar-protocol-
 CVE-2007-5947 - http://www.mozilla.org/security/announce/2007/mfsa2007-37.html
 CVE-2007-5958 - https://www.exploit-db.com/exploits/5152
 CVE-2007-5962 - https://www.exploit-db.com/exploits/5814
+CVE-2007-5966 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-5973 - https://www.exploit-db.com/exploits/4614
 CVE-2007-5974 - https://www.exploit-db.com/exploits/4611
 CVE-2007-5992 - https://www.exploit-db.com/exploits/4622
@@ -5364,6 +5370,7 @@ CVE-2007-6269 - http://marc.info/?l=bugtraq&m=119678724111351&w=2
 CVE-2007-6270 - http://marc.info/?l=bugtraq&m=119678724111351&w=2
 CVE-2007-6273 - http://marc.info/?l=bugtraq&m=119678272603064&w=2
 CVE-2007-6276 - https://www.exploit-db.com/exploits/4690
+CVE-2007-6286 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-6289 - https://www.exploit-db.com/exploits/4696
 CVE-2007-6289 - https://www.exploit-db.com/exploits/9284
 CVE-2007-6290 - https://www.exploit-db.com/exploits/4696
@@ -5566,6 +5573,7 @@ CVE-2007-6752 - http://packetstormsecurity.org/files/110404/drupal712-xsrf.txt
 CVE-2007-6753 - http://blog.acrossecurity.com/2010/10/breaking-setdlldirectory-protection.html
 CVE-2007-6755 - https://www.schneier.com/blog/archives/2007/11/the_strange_sto.html
 CVE-2007-6758 - http://attrition.org/pipermail/vim/2007-April/001545.html
+CVE-2008-0002 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-0010 - https://www.exploit-db.com/exploits/5093
 CVE-2008-0011 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-033
 CVE-2008-0015 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-037
@@ -6133,6 +6141,7 @@ CVE-2008-1218 - https://www.exploit-db.com/exploits/5257
 CVE-2008-1229 - https://www.exploit-db.com/exploits/5112
 CVE-2008-1230 - https://www.exploit-db.com/exploits/5112
 CVE-2008-1231 - https://www.exploit-db.com/exploits/5112
+CVE-2008-1232 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-1247 - https://www.exploit-db.com/exploits/5313
 CVE-2008-1247 - https://www.exploit-db.com/exploits/5926
 CVE-2008-1272 - https://www.exploit-db.com/exploits/5223
@@ -6318,6 +6327,7 @@ CVE-2008-1712 - https://www.exploit-db.com/exploits/5323
 CVE-2008-1713 - https://www.exploit-db.com/exploits/5341
 CVE-2008-1714 - https://www.exploit-db.com/exploits/5334
 CVE-2008-1715 - https://www.exploit-db.com/exploits/5319
+CVE-2008-1721 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-1724 - https://www.exploit-db.com/exploits/5398
 CVE-2008-1725 - https://www.exploit-db.com/exploits/5416
 CVE-2008-1726 - https://www.exploit-db.com/exploits/5421
@@ -6396,6 +6406,7 @@ CVE-2008-1885 - https://www.exploit-db.com/exploits/5397
 CVE-2008-1886 - http://seclists.org/bugtraq/2008/Apr/0065.html
 CVE-2008-1886 - https://www.exploit-db.com/exploits/5397
 CVE-2008-1887 - http://bugs.python.org/issue2587
+CVE-2008-1887 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-1889 - https://www.exploit-db.com/exploits/5457
 CVE-2008-1895 - https://www.exploit-db.com/exploits/5456
 CVE-2008-1896 - https://www.exploit-db.com/exploits/5456
@@ -6425,6 +6436,7 @@ CVE-2008-1934 - https://www.exploit-db.com/exploits/5481
 CVE-2008-1935 - https://www.exploit-db.com/exploits/5488
 CVE-2008-1936 - https://www.exploit-db.com/exploits/5450
 CVE-2008-1939 - https://www.exploit-db.com/exploits/5475
+CVE-2008-1947 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-1954 - https://www.exploit-db.com/exploits/5485
 CVE-2008-1957 - https://www.exploit-db.com/exploits/5483
 CVE-2008-1958 - https://www.exploit-db.com/exploits/5483
@@ -6570,6 +6582,7 @@ CVE-2008-2301 - https://www.exploit-db.com/exploits/5623
 CVE-2008-2304 - https://www.exploit-db.com/exploits/6043
 CVE-2008-2315 - http://www.openwall.com/lists/oss-security/2008/11/05/2
 CVE-2008-2315 - http://www.openwall.com/lists/oss-security/2008/11/05/3
+CVE-2008-2315 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-2335 - http://packetstormsecurity.com/files/122746/PHP-VID-XSS-SQL-Injection-CRLF-Injection.html
 CVE-2008-2335 - http://packetstormsecurity.com/files/130755/Vastal-I-tech-phpVID-1.2.3-Cross-Site-Scripting.html
 CVE-2008-2335 - http://seclists.org/fulldisclosure/2015/Mar/59
@@ -6592,6 +6605,7 @@ CVE-2008-2353 - https://www.exploit-db.com/exploits/5647
 CVE-2008-2355 - https://www.exploit-db.com/exploits/5637
 CVE-2008-2356 - https://www.exploit-db.com/exploits/5635
 CVE-2008-2357 - http://seclists.org/fulldisclosure/2008/May/0488.html
+CVE-2008-2370 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-2390 - https://www.exploit-db.com/exploits/5511
 CVE-2008-2393 - https://www.exploit-db.com/exploits/5654
 CVE-2008-2394 - https://www.exploit-db.com/exploits/5642
@@ -6963,7 +6977,10 @@ CVE-2008-3132 - https://www.exploit-db.com/exploits/5965
 CVE-2008-3133 - https://www.exploit-db.com/exploits/5971
 CVE-2008-3135 - http://aluigi.altervista.org/adv/usurdat-adv.txt
 CVE-2008-3136 - https://www.exploit-db.com/exploits/5976
+CVE-2008-3142 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2008-3143 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-3144 - http://bugs.python.org/issue2588
+CVE-2008-3144 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-3148 - https://www.exploit-db.com/exploits/6031
 CVE-2008-3150 - https://www.exploit-db.com/exploits/6018
 CVE-2008-3152 - https://www.exploit-db.com/exploits/6014
@@ -7164,6 +7181,7 @@ CVE-2008-3509 - https://www.exploit-db.com/exploits/6209
 CVE-2008-3509 - https://www.exploit-db.com/exploits/6210
 CVE-2008-3521 - http://bugs.gentoo.org/attachment.cgi?id=163282&action=view
 CVE-2008-3522 - http://bugs.gentoo.org/attachment.cgi?id=163282&action=view
+CVE-2008-3528 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-3529 - https://www.exploit-db.com/exploits/8798
 CVE-2008-3533 - http://bugzilla.gnome.org/show_bug.cgi?id=546364
 CVE-2008-3533 - https://bugs.launchpad.net/ubuntu/+source/yelp/+bug/254860
@@ -7442,6 +7460,7 @@ CVE-2008-4266 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2008-4268 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-075
 CVE-2008-4269 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-075
 CVE-2008-4295 - https://www.exploit-db.com/exploits/6582
+CVE-2008-4307 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-4314 - http://slackware.com/security/viewer.php?l=slackware-security&y=2008&m=slackware-security.453684
 CVE-2008-4318 - https://www.exploit-db.com/exploits/6559
 CVE-2008-4319 - https://www.exploit-db.com/exploits/6567
@@ -7709,6 +7728,7 @@ CVE-2008-4844 - https://www.exploit-db.com/exploits/7410
 CVE-2008-4844 - https://www.exploit-db.com/exploits/7477
 CVE-2008-4844 - https://www.exploit-db.com/exploits/7583
 CVE-2008-4864 - http://www.openwall.com/lists/oss-security/2008/10/29/3
+CVE-2008-4864 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-4873 - https://www.exploit-db.com/exploits/6864
 CVE-2008-4874 - https://www.exploit-db.com/exploits/5113
 CVE-2008-4875 - https://www.exploit-db.com/exploits/5113
@@ -7757,6 +7777,7 @@ CVE-2008-5013 - https://bugzilla.mozilla.org/show_bug.cgi?id=433610
 CVE-2008-5023 - https://bugzilla.mozilla.org/show_bug.cgi?id=424733
 CVE-2008-5031 - http://www.openwall.com/lists/oss-security/2008/11/05/2
 CVE-2008-5031 - http://www.openwall.com/lists/oss-security/2008/11/05/3
+CVE-2008-5031 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-5036 - https://www.exploit-db.com/exploits/7051
 CVE-2008-5040 - https://www.exploit-db.com/exploits/6857
 CVE-2008-5042 - https://www.exploit-db.com/exploits/7070
@@ -7922,6 +7943,7 @@ CVE-2008-5494 - https://www.exploit-db.com/exploits/7093
 CVE-2008-5496 - https://www.exploit-db.com/exploits/7098
 CVE-2008-5497 - https://www.exploit-db.com/exploits/7113
 CVE-2008-5507 - https://bugzilla.mozilla.org/show_bug.cgi?id=461735
+CVE-2008-5515 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-5518 - https://www.exploit-db.com/exploits/8458
 CVE-2008-5520 - http://securityreason.com/securityalert/4723
 CVE-2008-5521 - http://securityreason.com/securityalert/4723
@@ -8042,6 +8064,7 @@ CVE-2008-5695 - http://www.buayacorp.com/files/wordpress/wordpress-mu-options-ov
 CVE-2008-5695 - https://www.exploit-db.com/exploits/5066
 CVE-2008-5697 - https://www.exploit-db.com/exploits/6690
 CVE-2008-5698 - https://www.exploit-db.com/exploits/6718
+CVE-2008-5700 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-5705 - https://www.exploit-db.com/exploits/7183
 CVE-2008-5706 - https://www.exploit-db.com/exploits/7183
 CVE-2008-5708 - https://www.exploit-db.com/exploits/6729
@@ -8936,6 +8959,8 @@ CVE-2008-7258 - http://www.openwall.com/lists/oss-security/2010/08/19/6
 CVE-2008-7267 - https://www.exploit-db.com/exploits/6823
 CVE-2008-7268 - https://www.exploit-db.com/exploits/6823
 CVE-2008-7269 - https://www.exploit-db.com/exploits/6823
+CVE-2009-0028 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-0033 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0066 - http://blackhat.com/html/bh-dc-09/bh-dc-09-speakers.html#Wojtczuk
 CVE-2009-0066 - http://theinvisiblethings.blogspot.com/2009/01/attacking-intel-trusted-execution.html
 CVE-2009-0070 - https://www.exploit-db.com/exploits/7673
@@ -8983,6 +9008,7 @@ CVE-2009-0119 - https://www.exploit-db.com/exploits/7720
 CVE-2009-0133 - https://www.exploit-db.com/exploits/7727
 CVE-2009-0134 - https://www.exploit-db.com/exploits/7779
 CVE-2009-0153 - http://bugs.icu-project.org/trac/ticket/5691
+CVE-2009-0159 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0174 - http://securityreason.com/securityalert/4918
 CVE-2009-0174 - https://www.exploit-db.com/exploits/7709
 CVE-2009-0174 - https://www.exploit-db.com/exploits/7713
@@ -9026,6 +9052,7 @@ CVE-2009-0259 - https://www.exploit-db.com/exploits/6560
 CVE-2009-0261 - https://www.exploit-db.com/exploits/7839
 CVE-2009-0262 - https://www.exploit-db.com/exploits/7737
 CVE-2009-0263 - https://www.exploit-db.com/exploits/7742
+CVE-2009-0269 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0279 - https://www.exploit-db.com/exploits/7851
 CVE-2009-0280 - https://www.exploit-db.com/exploits/7850
 CVE-2009-0281 - https://www.exploit-db.com/exploits/7802
@@ -9049,6 +9076,7 @@ CVE-2009-0316 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=493937
 CVE-2009-0316 - https://bugzilla.redhat.com/show_bug.cgi?id=481565
 CVE-2009-0317 - https://bugzilla.redhat.com/show_bug.cgi?id=481570
 CVE-2009-0321 - http://lostmon.blogspot.com/2009/01/safari-for-windows-321-remote-http-uri.html
+CVE-2009-0322 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0323 - https://www.exploit-db.com/exploits/7902
 CVE-2009-0324 - https://www.exploit-db.com/exploits/7814
 CVE-2009-0325 - https://www.exploit-db.com/exploits/7831
@@ -9185,6 +9213,7 @@ CVE-2009-0570 - https://www.exploit-db.com/exploits/8001
 CVE-2009-0571 - https://www.exploit-db.com/exploits/8001
 CVE-2009-0572 - https://www.exploit-db.com/exploits/7969
 CVE-2009-0574 - https://www.exploit-db.com/exploits/8002
+CVE-2009-0580 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0590 - http://www.vmware.com/security/advisories/VMSA-2010-0019.html
 CVE-2009-0592 - https://www.exploit-db.com/exploits/7658
 CVE-2009-0593 - https://www.exploit-db.com/exploits/7663
@@ -9211,6 +9240,8 @@ CVE-2009-0658 - https://www.exploit-db.com/exploits/8099
 CVE-2009-0672 - https://www.exploit-db.com/exploits/8068
 CVE-2009-0673 - https://www.exploit-db.com/exploits/8068
 CVE-2009-0674 - https://www.exploit-db.com/exploits/8068
+CVE-2009-0675 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-0676 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0677 - https://www.exploit-db.com/exploits/8068
 CVE-2009-0678 - https://www.exploit-db.com/exploits/8068
 CVE-2009-0680 - https://www.exploit-db.com/exploits/8008
@@ -9232,6 +9263,7 @@ CVE-2009-0690 - http://www.kb.cert.org/vuls/id/251793
 CVE-2009-0691 - http://www.kb.cert.org/vuls/id/251793
 CVE-2009-0693 - http://www.theregister.co.uk/2009/07/10/wyse_remote_exploit_bugs/
 CVE-2009-0695 - http://www.theregister.co.uk/2009/07/10/wyse_remote_exploit_bugs/
+CVE-2009-0696 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0701 - https://www.exploit-db.com/exploits/7668
 CVE-2009-0702 - https://www.exploit-db.com/exploits/7670
 CVE-2009-0703 - https://www.exploit-db.com/exploits/7635
@@ -9251,8 +9283,12 @@ CVE-2009-0735 - https://www.exploit-db.com/exploits/8030
 CVE-2009-0738 - https://www.exploit-db.com/exploits/8033
 CVE-2009-0739 - https://www.exploit-db.com/exploits/8034
 CVE-2009-0740 - https://www.exploit-db.com/exploits/8035
+CVE-2009-0745 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-0746 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0747 - http://bugzilla.kernel.org/show_bug.cgi?id=12375
+CVE-2009-0747 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0748 - http://bugzilla.kernel.org/show_bug.cgi?id=12371
+CVE-2009-0748 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0750 - https://www.exploit-db.com/exploits/8076
 CVE-2009-0751 - https://www.exploit-db.com/exploits/8148
 CVE-2009-0753 - https://www.exploit-db.com/exploits/8097
@@ -9267,6 +9303,10 @@ CVE-2009-0774 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
 CVE-2009-0775 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
 CVE-2009-0775 - https://bugzilla.mozilla.org/show_bug.cgi?id=474456
 CVE-2009-0776 - http://www.redhat.com/support/errata/RHSA-2009-0258.html
+CVE-2009-0778 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-0781 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-0783 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-0787 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0799 - http://www.kb.cert.org/vuls/id/196617
 CVE-2009-0800 - http://www.kb.cert.org/vuls/id/196617
 CVE-2009-0807 - https://www.exploit-db.com/exploits/8092
@@ -9279,6 +9319,7 @@ CVE-2009-0828 - https://www.exploit-db.com/exploits/7699
 CVE-2009-0831 - https://www.exploit-db.com/exploits/7697
 CVE-2009-0832 - https://www.exploit-db.com/exploits/7698
 CVE-2009-0833 - https://www.exploit-db.com/exploits/7696
+CVE-2009-0834 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0844 - http://web.mit.edu/kerberos/advisories/MITKRB5-SA-2009-001.txt
 CVE-2009-0845 - http://web.mit.edu/kerberos/advisories/MITKRB5-SA-2009-001.txt
 CVE-2009-0846 - http://web.mit.edu/kerberos/advisories/MITKRB5-SA-2009-002.txt
@@ -9344,9 +9385,25 @@ CVE-2009-1067 - https://www.exploit-db.com/exploits/8252
 CVE-2009-1068 - https://www.exploit-db.com/exploits/8249
 CVE-2009-1068 - https://www.exploit-db.com/exploits/8251
 CVE-2009-1071 - https://www.exploit-db.com/exploits/8236
+CVE-2009-1072 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1087 - https://www.exploit-db.com/exploits/8215
 CVE-2009-1088 - https://www.exploit-db.com/exploits/8247
 CVE-2009-1092 - https://www.exploit-db.com/exploits/8206
+CVE-2009-1093 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1094 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1095 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1096 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1097 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1098 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1099 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1100 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1101 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1102 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1103 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1104 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1105 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1106 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1107 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1122 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-020
 CVE-2009-1123 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-025
 CVE-2009-1124 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-025
@@ -9382,6 +9439,7 @@ CVE-2009-1185 - http://lists.opensuse.org/opensuse-security-announce/2009-04/msg
 CVE-2009-1185 - https://www.exploit-db.com/exploits/8572
 CVE-2009-1187 - http://www.kb.cert.org/vuls/id/196617
 CVE-2009-1188 - http://www.kb.cert.org/vuls/id/196617
+CVE-2009-1192 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1209 - https://www.exploit-db.com/exploits/8314
 CVE-2009-1209 - https://www.exploit-db.com/exploits/8321
 CVE-2009-1210 - https://www.exploit-db.com/exploits/8308
@@ -9413,6 +9471,7 @@ CVE-2009-1243 - http://vigilance.fr/vulnerability/Linux-kernel-denial-of-service
 CVE-2009-1246 - https://www.exploit-db.com/exploits/8290
 CVE-2009-1247 - https://www.exploit-db.com/exploits/8291
 CVE-2009-1248 - https://www.exploit-db.com/exploits/8291
+CVE-2009-1252 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1256 - https://www.exploit-db.com/exploits/8355
 CVE-2009-1257 - https://www.exploit-db.com/exploits/8343
 CVE-2009-1259 - https://www.exploit-db.com/exploits/8351
@@ -9447,6 +9506,8 @@ CVE-2009-1329 - https://www.exploit-db.com/exploits/8426
 CVE-2009-1330 - https://www.exploit-db.com/exploits/39933/
 CVE-2009-1330 - https://www.exploit-db.com/exploits/8427
 CVE-2009-1331 - https://www.exploit-db.com/exploits/8445
+CVE-2009-1336 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1337 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1345 - https://www.exploit-db.com/exploits/8455
 CVE-2009-1346 - https://www.exploit-db.com/exploits/8457
 CVE-2009-1347 - https://www.exploit-db.com/exploits/8461
@@ -9462,7 +9523,10 @@ CVE-2009-1369 - https://www.exploit-db.com/exploits/8394
 CVE-2009-1370 - https://www.exploit-db.com/exploits/8390
 CVE-2009-1378 - https://www.exploit-db.com/exploits/8720
 CVE-2009-1384 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
+CVE-2009-1385 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1386 - https://www.exploit-db.com/exploits/8873
+CVE-2009-1388 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1389 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1403 - https://www.exploit-db.com/exploits/8501
 CVE-2009-1404 - https://www.exploit-db.com/exploits/8502
 CVE-2009-1405 - https://www.exploit-db.com/exploits/8502
@@ -9477,6 +9541,7 @@ CVE-2009-1437 - https://www.exploit-db.com/exploits/8489
 CVE-2009-1437 - https://www.exploit-db.com/exploits/8519
 CVE-2009-1437 - https://www.exploit-db.com/exploits/8520
 CVE-2009-1438 - https://bugzilla.redhat.com/show_bug.cgi?id=496834
+CVE-2009-1439 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1444 - https://www.exploit-db.com/exploits/8516
 CVE-2009-1445 - https://www.exploit-db.com/exploits/8516
 CVE-2009-1446 - https://www.exploit-db.com/exploits/8514
@@ -9573,6 +9638,8 @@ CVE-2009-1625 - https://www.exploit-db.com/exploits/8546
 CVE-2009-1626 - https://www.exploit-db.com/exploits/8547
 CVE-2009-1627 - https://www.exploit-db.com/exploits/8531
 CVE-2009-1627 - https://www.exploit-db.com/exploits/8536
+CVE-2009-1630 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1633 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1637 - https://www.exploit-db.com/exploits/8638
 CVE-2009-1638 - https://www.exploit-db.com/exploits/8627
 CVE-2009-1641 - https://www.exploit-db.com/exploits/8631
@@ -9699,6 +9766,7 @@ CVE-2009-1873 - https://www.exploit-db.com/exploits/9443
 CVE-2009-1882 - http://imagemagick.org/script/changelog.php
 CVE-2009-1894 - http://www.akitasecurity.nl/advisory.php?id=AK20090602
 CVE-2009-1894 - https://bugzilla.redhat.com/show_bug.cgi?id=510071
+CVE-2009-1895 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1902 - https://www.exploit-db.com/exploits/8241
 CVE-2009-1910 - https://www.exploit-db.com/exploits/8648
 CVE-2009-1911 - https://www.exploit-db.com/exploits/8649
@@ -9844,7 +9912,12 @@ CVE-2009-2401 - http://www.exploit-db.com/exploits/9014
 CVE-2009-2402 - http://www.exploit-db.com/exploits/9014
 CVE-2009-2403 - http://www.exploit-db.com/exploits/9033
 CVE-2009-2404 - http://www.oracle.com/technetwork/topics/security/cpuapr2010-099504.html
+CVE-2009-2406 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2407 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2409 - http://www.vmware.com/security/advisories/VMSA-2010-0019.html
+CVE-2009-2414 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2416 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2417 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2433 - http://www.exploit-db.com/exploits/9100
 CVE-2009-2451 - http://www.exploit-db.com/exploits/8558
 CVE-2009-2467 - https://bugzilla.mozilla.org/show_bug.cgi?id=493601
@@ -9926,6 +9999,7 @@ CVE-2009-2617 - http://marc.info/?l=full-disclosure&m=124624413120440&w=2
 CVE-2009-2617 - http://marc.info/?l=full-disclosure&m=124627617220913&w=2
 CVE-2009-2620 - http://www.exploit-db.com/exploits/9295
 CVE-2009-2625 - http://www.oracle.com/technetwork/topics/security/cpujan2010-084891.html
+CVE-2009-2625 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2628 - http://www.kb.cert.org/vuls/id/444513
 CVE-2009-2631 - http://www.kb.cert.org/vuls/id/261869
 CVE-2009-2640 - http://packetstormsecurity.org/files/110437/Interlogy-Profile-Manager-Basic-Insecure-Cookie-Handling.html
@@ -9934,8 +10008,25 @@ CVE-2009-2650 - http://www.exploit-db.com/exploits/9173
 CVE-2009-2655 - http://www.exploit-db.com/exploits/9253
 CVE-2009-2656 - http://www.blackhat.com/presentations/bh-usa-09/MILLER/BHUSA09-Miller-FuzzingPhone-PAPER.pdf
 CVE-2009-2660 - https://bugs.gentoo.org/show_bug.cgi?id=276235
+CVE-2009-2670 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2671 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2672 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2673 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2675 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2676 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2692 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2693 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
+CVE-2009-2698 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2715 - http://www.exploit-db.com/exploits/9323
+CVE-2009-2716 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2718 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2719 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2720 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2721 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2722 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2723 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2724 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2730 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2735 - http://www.exploit-db.com/exploits/9371
 CVE-2009-2736 - http://www.exploit-db.com/exploits/9371
 CVE-2009-2762 - http://www.exploit-db.com/exploits/9410
@@ -9945,6 +10036,8 @@ CVE-2009-2783 - http://marc.info/?l=bugtraq&m=124905075425380&w=2
 CVE-2009-2784 - http://www.exploit-db.com/exploits/9310
 CVE-2009-2791 - http://www.exploit-db.com/exploits/9331
 CVE-2009-2792 - http://www.exploit-db.com/exploits/9313
+CVE-2009-2847 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-2848 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2881 - http://www.exploit-db.com/exploits/9246
 CVE-2009-2892 - http://www.exploit-db.com/exploits/9252
 CVE-2009-2896 - http://www.exploit-db.com/exploits/9220
@@ -30155,6 +30248,7 @@ CVE-2018-12404 - https://bugzilla.mozilla.org/show_bug.cgi?id=CVE-2018-12404
 CVE-2018-12407 - https://bugzilla.mozilla.org/show_bug.cgi?id=1505973
 CVE-2018-12447 - https://github.com/ebel34/bpg-web-encoder/issues/2
 CVE-2018-12453 - https://www.exploit-db.com/exploits/44908/
+CVE-2018-12454 - https://medium.com/@jonghyk.song/attack-on-pseudo-random-number-generator-prng-used-in-1000-guess-an-ethereum-lottery-game-7b76655f953d
 CVE-2018-1246 - https://seclists.org/fulldisclosure/2018/Sep/30
 CVE-2018-12463 - https://www.exploit-db.com/exploits/45027/
 CVE-2018-12464 - https://www.exploit-db.com/exploits/45083/
@@ -35205,6 +35299,7 @@ CVE-2019-13383 - http://packetstormsecurity.com/files/153667/CentOS-Control-Web-
 CVE-2019-13385 - http://packetstormsecurity.com/files/153877/CentOS-Control-Web-Panel-0.9.8.840-User-Enumeration.html
 CVE-2019-13386 - http://packetstormsecurity.com/files/153876/CentOS-Control-Web-Panel-0.9.8.836-Remote-Command-Execution.html
 CVE-2019-13387 - http://packetstormsecurity.com/files/153878/CentOS-Control-Web-Panel-0.9.8.846-Cross-Site-Scripting.html
+CVE-2019-13396 - http://getflightpath.com/node/2650
 CVE-2019-13396 - http://packetstormsecurity.com/files/153626/FlightPath-Local-File-Inclusion.html
 CVE-2019-13397 - https://medium.com/@sarapremashish/osticket-1-10-1-unauthenticated-stored-xss-allows-an-attacker-to-gain-admin-privileges-6a0348761a3a
 CVE-2019-13398 - https://xor.cat/2019/06/19/fortinet-forticam-vulns/
@@ -41317,6 +41412,7 @@ CVE-2020-28038 - https://blog.ripstech.com
 CVE-2020-28041 - https://github.com/samyk/slipstream
 CVE-2020-28041 - https://samy.pl/slipstream/
 CVE-2020-28042 - https://www.shielder.it/advisories/servicestack-jwt-signature-verification-bypass/
+CVE-2020-28047 - https://github.com/piuppi/Proof-of-Concepts/blob/main/AudimexEE/Reflected-XSS.md
 CVE-2020-28054 - https://voidsec.com
 CVE-2020-28054 - https://voidsec.com/tivoli-madness/
 CVE-2020-28055 - https://sick.codes/extraordinary-vulnerabilities-discovered-in-tcl-android-tvs-now-worlds-3rd-largest-tv-manufacturer/
@@ -41330,6 +41426,7 @@ CVE-2020-28091 - http://packetstormsecurity.com/files/160129/xuucms-3-SQL-Inject
 CVE-2020-28092 - http://packetstormsecurity.com/files/160128/PESCMS-TEAM-2.3.2-Cross-Site-Scripting.html
 CVE-2020-28097 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.8.10
 CVE-2020-28097 - https://seclists.org/oss-sec/2020/q3/176
+CVE-2020-28115 - https://github.com/piuppi/Proof-of-Concepts/blob/main/AudimexEE/README.md
 CVE-2020-28129 - https://www.exploit-db.com/exploits/48941
 CVE-2020-28130 - https://www.exploit-db.com/exploits/48928
 CVE-2020-28133 - https://www.exploit-db.com/exploits/48879
@@ -41364,6 +41461,7 @@ CVE-2020-28208 - http://www.openwall.com/lists/oss-security/2021/01/08/1
 CVE-2020-28208 - http://www.openwall.com/lists/oss-security/2021/01/13/1
 CVE-2020-28208 - https://trovent.github.io/security-advisories/TRSA-2010-01/TRSA-2010-01.txt
 CVE-2020-28208 - https://trovent.io/security-advisory-2010-01
+CVE-2020-28241 - https://github.com/maxmind/libmaxminddb/issues/236
 CVE-2020-28243 - https://sec.stealthcopter.com/cve-2020-28243/
 CVE-2020-28249 - https://github.com/fhlip0/JopinXSS
 CVE-2020-28267 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2020-28267
