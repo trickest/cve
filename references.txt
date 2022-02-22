@@ -3869,6 +3869,7 @@ CVE-2007-1079 - https://www.exploit-db.com/exploits/3343
 CVE-2007-1080 - https://www.exploit-db.com/exploits/3341
 CVE-2007-1082 - https://www.exploit-db.com/exploits/3347
 CVE-2007-1084 - http://www.heise-security.co.uk/news/85728
+CVE-2007-1091 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-1091 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-057
 CVE-2007-1095 - https://bugzilla.mozilla.org/show_bug.cgi?id=371360
 CVE-2007-1104 - https://www.exploit-db.com/exploits/3374
@@ -4224,6 +4225,7 @@ CVE-2007-2209 - https://www.exploit-db.com/exploits/3779
 CVE-2007-2211 - https://www.exploit-db.com/exploits/3780
 CVE-2007-2216 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-045
 CVE-2007-2217 - http://www.kb.cert.org/vuls/id/180345
+CVE-2007-2217 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-2217 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-055
 CVE-2007-2217 - https://www.exploit-db.com/exploits/4584
 CVE-2007-2218 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-031
@@ -4234,6 +4236,7 @@ CVE-2007-2223 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2007-2224 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-043
 CVE-2007-2225 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-034
 CVE-2007-2227 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-034
+CVE-2007-2228 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-2228 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-058
 CVE-2007-2229 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-032
 CVE-2007-2237 - https://www.exploit-db.com/exploits/4044
@@ -4352,6 +4355,7 @@ CVE-2007-2574 - https://www.exploit-db.com/exploits/3859
 CVE-2007-2575 - https://www.exploit-db.com/exploits/3857
 CVE-2007-2576 - http://moaxb.blogspot.com/2007/05/moaxb-05-east-wind-software.html
 CVE-2007-2576 - https://www.exploit-db.com/exploits/3856
+CVE-2007-2581 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-2581 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-059
 CVE-2007-2583 - http://packetstormsecurity.com/files/124295/MySQL-5.0.x-Denial-Of-Service.html
 CVE-2007-2594 - https://www.exploit-db.com/exploits/3879
@@ -4710,6 +4714,7 @@ CVE-2007-3810 - https://www.exploit-db.com/exploits/4184
 CVE-2007-3811 - https://www.exploit-db.com/exploits/4183
 CVE-2007-3813 - https://www.exploit-db.com/exploits/4180
 CVE-2007-3814 - https://www.exploit-db.com/exploits/4179
+CVE-2007-3826 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-3826 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-057
 CVE-2007-3840 - https://www.exploit-db.com/exploits/4187
 CVE-2007-3846 - http://crisp.cs.du.edu/?q=node/36
@@ -4721,12 +4726,16 @@ CVE-2007-3883 - https://www.exploit-db.com/exploits/5395
 CVE-2007-3889 - https://www.exploit-db.com/exploits/5774
 CVE-2007-3890 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-044
 CVE-2007-3891 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-048
+CVE-2007-3892 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-3892 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-057
+CVE-2007-3893 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-3893 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-057
 CVE-2007-3895 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-064
 CVE-2007-3896 - http://www.heise-security.co.uk/news/96982
+CVE-2007-3897 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-3897 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-056
 CVE-2007-3898 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-062
+CVE-2007-3899 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-3901 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-064
 CVE-2007-3901 - https://www.exploit-db.com/exploits/4866
 CVE-2007-3902 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-069
@@ -33168,6 +33177,7 @@ CVE-2018-5756 - https://www.exploit-db.com/exploits/44881/
 CVE-2018-5757 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2018-5757
 CVE-2018-5759 - https://bugs.ghostscript.com/show_bug.cgi?id=698868
 CVE-2018-5759 - https://www.exploit-db.com/exploits/43904/
+CVE-2018-5761 - https://support.rubrik.com/articles/How_To/000001135
 CVE-2018-5766 - https://bugzilla.libav.org/show_bug.cgi?id=1112
 CVE-2018-5767 - https://www.exploit-db.com/exploits/44253/
 CVE-2018-5767 - https://www.fidusinfosec.com/remote-code-execution-cve-2018-5767/
@@ -36465,6 +36475,8 @@ CVE-2019-18396 - http://packetstormsecurity.com/files/155296/Technicolor-TD5130.
 CVE-2019-18396 - https://medium.com/@c4pt41nnn/cve-2019-18396-command-injection-in-technicolor-router-da5dd2134052
 CVE-2019-18409 - https://github.com/zenspider/ruby_parser-legacy/issues/1
 CVE-2019-18411 - https://gist.github.com/aliceicl/e32fb4a17277c7db9e0256185ac03dae
+CVE-2019-18413 - https://github.com/typestack/class-validator/issues/438
+CVE-2019-18413 - https://github.com/typestack/class-validator/issues/438#issuecomment-964728471
 CVE-2019-18418 - http://packetstormsecurity.com/files/154986/ClonOs-WEB-UI-19.09-Improper-Access-Control.html
 CVE-2019-18426 - http://packetstormsecurity.com/files/157097/WhatsApp-Desktop-0.3.9308-Cross-Site-Scripting.html
 CVE-2019-1854 - http://packetstormsecurity.com/files/152963/Cisco-Expressway-Gateway-11.5.1-Directory-Traversal.html
@@ -38609,6 +38621,8 @@ CVE-2020-10673 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2020-10683 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2020-10713 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-grub2-code-exec-xLePCAPY
 CVE-2020-10770 - http://packetstormsecurity.com/files/164499/Keycloak-12.0.1-Server-Side-Request-Forgery.html
+CVE-2020-10786 - https://gitlab.com/snippets/1954764
+CVE-2020-10787 - https://gitlab.com/snippets/1954764
 CVE-2020-10808 - http://packetstormsecurity.com/files/157111/Vesta-Control-Panel-Authenticated-Remote-Code-Execution.html
 CVE-2020-10808 - http://packetstormsecurity.com/files/157219/Vesta-Control-Panel-Authenticated-Remote-Code-Execution.html
 CVE-2020-10808 - https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/
@@ -41445,6 +41459,7 @@ CVE-2020-28146 - https://www.exploit-db.com/exploits/48530
 CVE-2020-28149 - https://c41nc.co.uk/cve-2020-28149/
 CVE-2020-28150 - https://c41nc.co.uk/?page_id=85
 CVE-2020-28169 - http://packetstormsecurity.com/files/160791/Fluentd-TD-agent-4.0.1-Insecure-Folder-Permission.html
+CVE-2020-28169 - https://github.com/fluent/fluentd/issues/3201
 CVE-2020-28172 - https://github.com/yunaranyancat/poc-dump/blob/main/simplecollegewebsite/sqli_rce.py
 CVE-2020-28173 - https://github.com/yunaranyancat/poc-dump/blob/main/simplecollegewebsite/sqli_rce.py
 CVE-2020-28183 - https://www.exploit-db.com/exploits/49032
@@ -41454,6 +41469,7 @@ CVE-2020-28186 - https://www.ihteam.net/advisory/terramaster-tos-multiple-vulner
 CVE-2020-28187 - https://www.ihteam.net/advisory/terramaster-tos-multiple-vulnerabilities/
 CVE-2020-28188 - https://www.ihteam.net/advisory/terramaster-tos-multiple-vulnerabilities/
 CVE-2020-28190 - https://www.ihteam.net/advisory/terramaster-tos-multiple-vulnerabilities/
+CVE-2020-28198 - https://github.com/VoidSec/Exploit-Development/blob/master/windows/x86/local/IBM_ITSM_Administrator_Client_v.5.2.0.1/IBM_TSM_v.5.2.0.1_exploit.py
 CVE-2020-28198 - https://voidsec.com/tivoli-madness/#IBM_Tivoli_Storage_Manager
 CVE-2020-28199 - https://aramido.de/media/aramido-2020-006-disclosure-amazon-secret-access-key.md
 CVE-2020-28208 - http://packetstormsecurity.com/files/160845/Rocket.Chat-3.7.1-Email-Address-Enumeration.html
@@ -41590,6 +41606,7 @@ CVE-2020-28695 - https://cr1pt0.medium.com/cve-2020-28695-8f8d618ac0b
 CVE-2020-28705 - https://github.com/daylightstudio/FUEL-CMS/issues/576
 CVE-2020-28707 - https://jondow.eu/cve-2020-28707-xss-in-stockdio-historical-chart-plugin-for-wordpress-before-version-281/
 CVE-2020-28722 - https://www.r29k.com/articles/bb/stored-xss-in-deskpro
+CVE-2020-28759 - https://github.com/OAID/Tengine/issues/476
 CVE-2020-2883 - http://packetstormsecurity.com/files/157950/WebLogic-Server-Deserialization-Remote-Code-Execution.html
 CVE-2020-28838 - https://www.exploit-db.com/exploits/49228
 CVE-2020-28841 - https://github.com/datadancer/WinSysVuln/blob/main/DriverGenius-MyDrivers64.md
@@ -46247,6 +46264,7 @@ CVE-2022-0633 - http://packetstormsecurity.com/files/166059/WordPress-UpdraftPlu
 CVE-2022-0639 - https://huntr.dev/bounties/83a6bc9a-b542-4a38-82cd-d995a1481155
 CVE-2022-0660 - https://huntr.dev/bounties/01fd2e0d-b8cf-487f-a16c-7b088ef3a291
 CVE-2022-0664 - https://huntr.dev/bounties/29898a42-fd4f-4b5b-a8e3-ab573cb87eac
+CVE-2022-0665 - https://huntr.dev/bounties/423df64d-c591-4ad9-bf1c-411bcbc06ba3
 CVE-2022-0666 - https://huntr.dev/bounties/7215afc7-9133-4749-8e8e-0569317dbd55
 CVE-2022-0676 - https://huntr.dev/bounties/5ad814a1-5dd3-43f4-869b-33b8dab78485
 CVE-2022-0678 - https://huntr.dev/bounties/d707137a-aace-44c5-b15c-1807035716c0
