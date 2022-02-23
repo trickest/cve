@@ -29506,6 +29506,7 @@ CVE-2018-1000812 - https://cp270.wordpress.com/2018/05/14/war-story-password-res
 CVE-2018-1000814 - https://github.com/aio-libs/aiohttp-session/issues/325
 CVE-2018-1000816 - https://github.com/grafana/grafana/issues/13667
 CVE-2018-1000839 - https://0dd.zone/2018/09/03/lh-ehr-RCE-via-picture-upload/
+CVE-2018-1000839 - https://github.com/LibreHealthIO/lh-ehr/issues/1223
 CVE-2018-1000840 - https://github.com/processing/processing/issues/5706
 CVE-2018-1000851 - https://github.com/dominictarr/event-stream/issues/116
 CVE-2018-1000856 - https://github.com/domainmod/domainmod/issues/80
@@ -39010,6 +39011,7 @@ CVE-2020-11738 - http://packetstormsecurity.com/files/164533/WordPress-Duplicato
 CVE-2020-11749 - https://medium.com/@tehwinsam/multiple-xss-on-pandorafms-7-0-ng-744-64b244b8523c
 CVE-2020-11749 - https://packetstormsecurity.com/files/158389/Pandora-FMS-7.0-NG-746-Script-Insertion-Code-Execution.htmlPoC
 CVE-2020-11749 - https://www.exploit-db.com/exploits/48707
+CVE-2020-11771 - https://kb.netgear.com/000061759/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-and-Gateways-PSV-2018-0519
 CVE-2020-11776 - https://kb.netgear.com/000061754/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-and-Gateways-PSV-2018-0524
 CVE-2020-11803 - http://packetstormsecurity.com/files/159218/SpamTitan-7.07-Remote-Code-Execution.html
 CVE-2020-11803 - https://sensepost.com/blog/2020/clash-of-the-spamtitan/
@@ -40766,6 +40768,7 @@ CVE-2020-23162 - https://github.com/Outpost24/Pyrescom-Termod-PoC
 CVE-2020-23162 - https://outpost24.com/blog/multiple-vulnerabilities-discovered-in-Pyrescom-Termod4-smart-device
 CVE-2020-23172 - https://github.com/kuba--/zip/issues/123
 CVE-2020-23178 - https://github.com/PHPFusion/PHPFusion/issues/2314
+CVE-2020-23182 - https://github.com/phpfusion/PHPFusion/issues/2329
 CVE-2020-23214 - https://github.com/phpList/phplist3/issues/669
 CVE-2020-23266 - https://github.com/gpac/gpac/issues/1481
 CVE-2020-23267 - https://github.com/gpac/gpac/issues/1479
@@ -40799,6 +40802,7 @@ CVE-2020-23644 - https://github.com/Cherry-toto/jizhicms/issues/28
 CVE-2020-23653 - https://github.com/zoujingli/ThinkAdmin/issues/238
 CVE-2020-23686 - https://github.com/loadream/AyaCMS/issues/1
 CVE-2020-23705 - https://github.com/rockcarry/ffjpeg/issues/25
+CVE-2020-23706 - https://github.com/brackeen/ok-file-formats/issues/7
 CVE-2020-23707 - https://github.com/brackeen/ok-file-formats/issues/8
 CVE-2020-23715 - https://github.com/luuthehienhbit/LFI-Vulnerability-Webport-CMS-version-1.19.10.17121/blob/master/README.md
 CVE-2020-23721 - https://github.com/daylightstudio/FUEL-CMS/issues/559
@@ -40829,6 +40833,7 @@ CVE-2020-23872 - https://github.com/kermitt2/pdf2xml/issues/10
 CVE-2020-23873 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
 CVE-2020-23873 - https://github.com/kermitt2/pdf2xml/issues/11
 CVE-2020-23874 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
+CVE-2020-23874 - https://github.com/kermitt2/pdf2xml/issues/12
 CVE-2020-23876 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
 CVE-2020-23876 - https://github.com/kermitt2/pdf2xml/issues/14
 CVE-2020-23877 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
@@ -46394,6 +46399,7 @@ CVE-2022-0631 - https://huntr.dev/bounties/9bdc49ca-6697-4adc-a785-081e1961bf40
 CVE-2022-0632 - https://huntr.dev/bounties/3e5bb8f6-30fd-4553-86dd-761e9459ce1b
 CVE-2022-0633 - http://packetstormsecurity.com/files/166059/WordPress-UpdraftPlus-1.22.2-Backup-Disclosure.html
 CVE-2022-0639 - https://huntr.dev/bounties/83a6bc9a-b542-4a38-82cd-d995a1481155
+CVE-2022-0654 - https://huntr.dev/bounties/a779faf5-c2cc-48be-a31d-4ddfac357afc
 CVE-2022-0660 - https://huntr.dev/bounties/01fd2e0d-b8cf-487f-a16c-7b088ef3a291
 CVE-2022-0664 - https://huntr.dev/bounties/29898a42-fd4f-4b5b-a8e3-ab573cb87eac
 CVE-2022-0665 - https://huntr.dev/bounties/423df64d-c591-4ad9-bf1c-411bcbc06ba3
