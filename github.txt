@@ -45759,6 +45759,8 @@ CVE-2022-0432 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0432 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-0435 - https://github.com/bollwarm/SecToolSet
 CVE-2022-0509 - https://github.com/OpenGitLab/Bug-Storage
+CVE-2022-0529 - https://github.com/ByteHackr/unzip_poc
+CVE-2022-0530 - https://github.com/ByteHackr/unzip_poc
 CVE-2022-0538 - https://github.com/r00t4dm/r00t4dm
 CVE-2022-0539 - https://github.com/noobpk/noobpk
 CVE-2022-0563 - https://github.com/toyhoshi/helm
@@ -45896,6 +45898,7 @@ CVE-2022-22536 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22536 - https://github.com/antx-code/CVE-2022-22536
 CVE-2022-22536 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22536 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2022-22587 - https://github.com/SoftwareDesignLab/automated_cve_severity_analysis
 CVE-2022-22587 - https://github.com/b1n4r1b01/n-days
 CVE-2022-22588 - https://github.com/trevorspiniolas/homekitdos
 CVE-2022-22620 - https://github.com/tanjiti/sec_profile
@@ -45959,6 +45962,7 @@ CVE-2022-23131 - https://github.com/Mr-xn/cve-2022-23131
 CVE-2022-23131 - https://github.com/ad-calcium/vuln_script
 CVE-2022-23131 - https://github.com/jweny/zabbix-saml-bypass-exp
 CVE-2022-23131 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-23131 - https://github.com/random-robbie/cve-2022-23131-exp
 CVE-2022-23131 - https://github.com/tanjiti/sec_profile
 CVE-2022-23131 - https://github.com/zwjjustdoit/cve-2022-23131
 CVE-2022-23132 - https://github.com/p1ay8y3ar/cve_monitor
@@ -46084,6 +46088,7 @@ CVE-2022-25256 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25257 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25257 - https://github.com/RobertDra/CVE-2022-25257
 CVE-2022-25257 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-25257 - https://github.com/polling-repo-continua/CVE-2022-25257
 CVE-2022-25258 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25258 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25258 - https://github.com/szymonh/d-os-descriptor
