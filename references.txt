@@ -3726,6 +3726,7 @@ CVE-2007-0581 - https://www.exploit-db.com/exploits/3214
 CVE-2007-0582 - https://www.exploit-db.com/exploits/3210
 CVE-2007-0584 - https://www.exploit-db.com/exploits/3217
 CVE-2007-0585 - https://www.exploit-db.com/exploits/3222
+CVE-2007-0588 - http://security-protocols.com/sp-x43-advisory.php
 CVE-2007-0589 - https://www.exploit-db.com/exploits/3197
 CVE-2007-0590 - https://www.exploit-db.com/exploits/3197
 CVE-2007-0591 - https://www.exploit-db.com/exploits/3198
@@ -29757,6 +29758,7 @@ CVE-2018-10675 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2018-10682 - https://github.com/kmkz/exploit/blob/master/CVE-2018-10682-CVE-2018-10683.txt
 CVE-2018-10683 - https://github.com/kmkz/exploit/blob/master/CVE-2018-10682-CVE-2018-10683.txt
 CVE-2018-10685 - https://github.com/ckolivas/lrzip/issues/95
+CVE-2018-10686 - https://medium.com/@ndrbasi/cve-2018-10686-vestacp-rce-d96d95c2bde2
 CVE-2018-10690 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
 CVE-2018-10690 - https://github.com/samuelhuntley/Moxa_AWK_1121/blob/master/Moxa_AWK_1121
 CVE-2018-10691 - http://packetstormsecurity.com/files/153223/Moxa-AWK-3121-1.14-Information-Disclosure-Command-Execution.html
@@ -30613,6 +30615,7 @@ CVE-2018-13335 - https://blog.securityevaluators.com/vulnerabilities-in-terramas
 CVE-2018-13336 - https://blog.securityevaluators.com/vulnerabilities-in-terramaster-tos-3-1-03-fb99cf88b86a
 CVE-2018-13337 - https://blog.securityevaluators.com/vulnerabilities-in-terramaster-tos-3-1-03-fb99cf88b86a
 CVE-2018-13338 - https://blog.securityevaluators.com/vulnerabilities-in-terramaster-tos-3-1-03-fb99cf88b86a
+CVE-2018-13339 - https://github.com/TylerGarlick/angular-redactor/issues/77
 CVE-2018-13349 - https://blog.securityevaluators.com/vulnerabilities-in-terramaster-tos-3-1-03-fb99cf88b86a
 CVE-2018-1335 - http://packetstormsecurity.com/files/153864/Apache-Tika-1.17-Header-Command-Injection.html
 CVE-2018-1335 - https://www.exploit-db.com/exploits/46540/
@@ -35013,10 +35016,17 @@ CVE-2019-11736 - https://bugzilla.mozilla.org/show_bug.cgi?id=1552206
 CVE-2019-11737 - https://bugzilla.mozilla.org/show_bug.cgi?id=1388015
 CVE-2019-11738 - https://bugzilla.mozilla.org/show_bug.cgi?id=1452037
 CVE-2019-11739 - https://bugzilla.mozilla.org/show_bug.cgi?id=1571481
+CVE-2019-11739 - https://www.mozilla.org/security/advisories/mfsa2019-29/
+CVE-2019-11740 - https://www.mozilla.org/security/advisories/mfsa2019-29/
 CVE-2019-11742 - https://bugzilla.mozilla.org/show_bug.cgi?id=1559715
+CVE-2019-11742 - https://www.mozilla.org/security/advisories/mfsa2019-29/
+CVE-2019-11743 - https://www.mozilla.org/security/advisories/mfsa2019-29/
+CVE-2019-11744 - https://www.mozilla.org/security/advisories/mfsa2019-29/
+CVE-2019-11746 - https://www.mozilla.org/security/advisories/mfsa2019-29/
 CVE-2019-11750 - https://bugzilla.mozilla.org/show_bug.cgi?id=1568397
 CVE-2019-11751 - https://bugzilla.mozilla.org/show_bug.cgi?id=1572838
 CVE-2019-11752 - https://bugzilla.mozilla.org/show_bug.cgi?id=1501152
+CVE-2019-11752 - https://www.mozilla.org/security/advisories/mfsa2019-29/
 CVE-2019-11753 - https://bugzilla.mozilla.org/show_bug.cgi?id=1574980
 CVE-2019-11756 - https://bugzilla.mozilla.org/show_bug.cgi?id=1508776
 CVE-2019-11759 - https://bugzilla.mozilla.org/show_bug.cgi?id=1577953
@@ -37479,6 +37489,7 @@ CVE-2019-4001 - https://www.tenable.com/security/research/tra-2020-12
 CVE-2019-4013 - http://packetstormsecurity.com/files/154747/IBM-Bigfix-Platform-9.5.9.62-Arbitary-File-Upload-Code-Execution.html
 CVE-2019-4253 - http://www.ibm.com/support/docview.wss?uid=ibm10964987
 CVE-2019-4426 - https://www.ibm.com/support/pages/node/1116087
+CVE-2019-4444 - https://www.ibm.com/support/pages/node/1126833
 CVE-2019-4716 - http://packetstormsecurity.com/files/156953/IBM-Cognos-TM1-IBM-Planning-Analytics-Server-Configuration-Overwrite-Code-Execution.html
 CVE-2019-4716 - http://seclists.org/fulldisclosure/2020/Mar/44
 CVE-2019-5009 - http://lists.vtigercrm.com/pipermail/vtigercrm-developers/2019-January/037852.html
@@ -46416,6 +46427,7 @@ CVE-2022-0696 - https://huntr.dev/bounties/7416c2cb-1809-4834-8989-e84ff033f15f
 CVE-2022-0712 - https://huntr.dev/bounties/1e572820-e502-49d1-af0e-81833e2eb466
 CVE-2022-0713 - https://huntr.dev/bounties/d35b3dff-768d-4a09-a742-c18ca8f56d3c
 CVE-2022-0714 - https://huntr.dev/bounties/db70e8db-f309-4f3c-986c-e69d2415c3b3
+CVE-2022-0717 - https://huntr.dev/bounties/27a851a5-7ebf-409b-854f-b2614771e8f9
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -46515,6 +46527,8 @@ CVE-2022-24223 - http://packetstormsecurity.com/files/165922/Atom-CMS-2.0-SQL-In
 CVE-2022-24263 - http://packetstormsecurity.com/files/165882/Hospital-Management-System-4.0-SQL-Injection.html
 CVE-2022-24266 - https://github.com/CuppaCMS/CuppaCMS/issues/17
 CVE-2022-24448 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.5
+CVE-2022-24676 - https://github.com/hyyyp/HYBBS2/issues/33
+CVE-2022-24677 - https://github.com/hyyyp/HYBBS2/issues/34
 CVE-2022-24959 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.5
 CVE-2022-24976 - https://www.openwall.com/lists/oss-security/2022/01/30/4
 CVE-2022-24977 - https://r0.haxors.org/posts?id=8
