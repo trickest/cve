@@ -162,6 +162,8 @@ CVE-2002-1375 - http://security.e-matters.de/advisories/042002.html
 CVE-2002-1376 - http://marc.info/?l=bugtraq&m=103971644013961&w=2
 CVE-2002-1376 - http://security.e-matters.de/advisories/042002.html
 CVE-2002-1383 - http://marc.info/?l=bugtraq&m=104032149026670&w=2
+CVE-2002-1398 - http://www.novell.com/linux/security/advisories/2002_038_postgresql.html
+CVE-2002-1400 - http://www.novell.com/linux/security/advisories/2002_038_postgresql.html
 CVE-2002-1456 - http://marc.info/?l=bugtraq&m=103046375002380&w=2
 CVE-2002-1456 - http://marc.info/?l=ntbugtraq&m=103046138631893&w=2
 CVE-2002-20001 - https://github.com/Balasys/dheater
@@ -22290,6 +22292,7 @@ CVE-2015-9409 - https://packetstormsecurity.com/files/133594/
 CVE-2015-9410 - https://cybersecurityworks.com/zerodays/cve-2015-9410-blubrry.html
 CVE-2015-9410 - https://github.com/cybersecurityworks/Disclosed/issues/7
 CVE-2015-9413 - https://packetstormsecurity.com/files/133480/
+CVE-2015-9414 - https://wpvulndb.com/vulnerabilities/8175
 CVE-2015-9418 - https://advisories.dxw.com/advisories/csrf-in-watu-pro-allows-unauthenticated-attackers-to-delete-quizzes/
 CVE-2015-9419 - https://packetstormsecurity.com/files/133362/
 CVE-2015-9427 - http://packetstormsecurity.com/files/133267/
@@ -37776,6 +37779,10 @@ CVE-2019-6793 - https://gitlab.com/gitlab-org/gitlab-ce/issues/50748
 CVE-2019-6804 - https://www.exploit-db.com/exploits/46251/
 CVE-2019-6806 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2019-0769
 CVE-2019-6807 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2019-0770
+CVE-2019-6961 - https://dojo.bullguard.com/dojo-by-bullguard/blog/the-gateway-is-wide-open
+CVE-2019-6962 - https://dojo.bullguard.com/dojo-by-bullguard/blog/the-gateway-is-wide-open
+CVE-2019-6963 - https://dojo.bullguard.com/dojo-by-bullguard/blog/the-gateway-is-wide-open
+CVE-2019-6964 - https://dojo.bullguard.com/dojo-by-bullguard/blog/the-gateway-is-wide-open
 CVE-2019-6966 - https://github.com/axiomatic-systems/Bento4/issues/361
 CVE-2019-6967 - http://packetstormsecurity.com/files/151372/AirTies-Air5341-Modem-1.0.0.12-Cross-Site-Request-Forgery.html
 CVE-2019-6967 - https://www.exploit-db.com/exploits/46253/
@@ -42145,6 +42152,7 @@ CVE-2020-35734 - http://packetstormsecurity.com/files/161457/Batflat-CMS-1.3.6-R
 CVE-2020-35737 - http://packetstormsecurity.com/files/160826/Newgen-Correspondence-Management-System-eGov-12.0-Insecure-Direct-Object-Reference.html
 CVE-2020-35737 - https://www.exploit-db.com/exploits/49378
 CVE-2020-35738 - https://github.com/dbry/WavPack/issues/91
+CVE-2020-35745 - https://medium.com/@ashketchum/privilege-escalation-unauthenticated-access-to-admin-portal-cve-2020-35745-bb5d5dca97a0
 CVE-2020-35745 - https://www.youtube.com/watch?v=vnSsg6iwV9Y&feature=youtu.be&ab_channel=ashketchum
 CVE-2020-35749 - http://packetstormsecurity.com/files/161050/Simple-JobBoard-Authenticated-File-Read.html
 CVE-2020-35749 - http://packetstormsecurity.com/files/165892/WordPress-Simple-Job-Board-2.9.3-Local-File-Inclusion.html
