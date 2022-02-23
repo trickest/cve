@@ -170,6 +170,7 @@ CVE-2002-20001 - https://github.com/Balasys/dheater
 CVE-2002-20001 - https://www.reddit.com/r/netsec/comments/qdoosy/server_overload_by_enforcing_dhe_key_exchange/
 CVE-2002-2048 - http://marc.info/?l=vuln-dev&m=102321152215055&w=2
 CVE-2002-2175 - http://marc.info/?l=bugtraq&m=102508071021631&w=2
+CVE-2002-2185 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2002-2217 - https://www.exploit-db.com/exploits/2318
 CVE-2002-2281 - http://marc.info/?l=bugtraq&m=103798147613151&w=2
 CVE-2002-2284 - http://marc.info/?l=bugtraq&m=103798147613151&w=2
@@ -457,6 +458,7 @@ CVE-2004-0771 - http://marc.info/?l=bugtraq&m=108668791510153
 CVE-2004-0775 - http://marc.info/?l=bugtraq&m=109223783402624&w=2
 CVE-2004-0790 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-019
 CVE-2004-0790 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-064
+CVE-2004-0791 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2004-0796 - http://bugzilla.redhat.com/bugzilla/show_bug.cgi?id=129337
 CVE-2004-0798 - https://www.exploit-db.com/exploits/566/
 CVE-2004-0839 - http://marc.info/?l=bugtraq&m=109336221826652&w=2
@@ -812,6 +814,7 @@ CVE-2005-0124 - http://seclists.org/lists/linux-kernel/2004/Dec/3914.html
 CVE-2005-0124 - http://seclists.org/lists/linux-kernel/2005/Jan/1089.html
 CVE-2005-0124 - http://seclists.org/lists/linux-kernel/2005/Jan/2018.html
 CVE-2005-0124 - http://seclists.org/lists/linux-kernel/2005/Jan/2020.html
+CVE-2005-0124 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-0182 - http://marc.info/?l=bugtraq&m=110547469530582&w=2
 CVE-2005-0183 - http://marc.info/?l=bugtraq&m=110549426300953&w=2
 CVE-2005-0184 - http://marc.info/?l=bugtraq&m=110549426300953&w=2
@@ -1062,6 +1065,7 @@ CVE-2005-1220 - http://marc.info/?l=bugtraq&m=111402253108991&w=2
 CVE-2005-1223 - http://marc.info/?l=bugtraq&m=111401502007772&w=2
 CVE-2005-1224 - http://marc.info/?l=bugtraq&m=111401172901705&w=2
 CVE-2005-1237 - https://www.exploit-db.com/exploits/3631
+CVE-2005-1263 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-1267 - https://bugzilla.redhat.com/bugzilla/show_bug.cgi?id=159208
 CVE-2005-1275 - http://seclists.org/lists/bugtraq/2005/Apr/0407.html
 CVE-2005-1275 - http://www.imagemagick.org/script/changelog.php
@@ -1340,9 +1344,11 @@ CVE-2005-2431 - http://marc.info/?l=bugtraq&m=112259845904350&w=2
 CVE-2005-2438 - http://marc.info/?l=bugtraq&m=112264706213040&w=2
 CVE-2005-2439 - http://marc.info/?l=bugtraq&m=112264706213040&w=2
 CVE-2005-2442 - http://marc.info/?l=bugtraq&m=112239353829324&w=2
+CVE-2005-2458 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-2467 - http://marc.info/?l=bugtraq&m=112292193807958&w=2
 CVE-2005-2468 - http://marc.info/?l=bugtraq&m=112292193807958&w=2
 CVE-2005-2475 - http://securityreason.com/securityalert/32
+CVE-2005-2490 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-2537 - http://marc.info/?l=bugtraq&m=112327238030127&w=2
 CVE-2005-2538 - http://marc.info/?l=bugtraq&m=112327238030127&w=2
 CVE-2005-2539 - http://marc.info/?l=bugtraq&m=112327238030127&w=2
@@ -1373,6 +1379,8 @@ CVE-2005-2678 - http://marc.info/?l=bugtraq&m=112474727903399&w=2
 CVE-2005-2683 - http://marc.info/?l=bugtraq&m=112474427221031&w=2
 CVE-2005-2694 - http://marc.info/?l=bugtraq&m=112447630109392&w=2
 CVE-2005-2699 - http://marc.info/?l=bugtraq&m=112474427221031&w=2
+CVE-2005-2708 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
+CVE-2005-2709 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-2710 - http://marc.info/?l=bugtraq&m=112785544325326&w=2
 CVE-2005-2710 - http://marc.info/?l=full-disclosure&m=112775929608219&w=2
 CVE-2005-2710 - http://securityreason.com/securityalert/27
@@ -1439,6 +1447,7 @@ CVE-2005-2951 - http://marc.info/?l=bugtraq&m=112662698511403&w=2
 CVE-2005-2951 - http://securityreason.com/securityalert/5
 CVE-2005-2952 - http://marc.info/?l=bugtraq&m=112662785418368&w=2
 CVE-2005-2952 - http://securityreason.com/securityalert/4
+CVE-2005-2973 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-2981 - http://marc.info/?l=bugtraq&m=112680922318639&w=2
 CVE-2005-2982 - http://marc.info/?l=bugtraq&m=112680922318639&w=2
 CVE-2005-2991 - http://securityreason.com/securityalert/12
@@ -1483,6 +1492,7 @@ CVE-2005-3156 - http://marc.info/?l=bugtraq&m=112812059917394&w=2
 CVE-2005-3157 - http://marc.info/?l=bugtraq&m=112793982604963&w=2
 CVE-2005-3158 - http://marc.info/?l=bugtraq&m=112801702000944&w=2
 CVE-2005-3178 - http://marc.info/?l=bugtraq&m=112862493918840&w=2
+CVE-2005-3180 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-3182 - http://securityreason.com/securityalert/74
 CVE-2005-3185 - http://securityreason.com/securityalert/82
 CVE-2005-3186 - http://securityreason.com/securityalert/188
@@ -1528,6 +1538,9 @@ CVE-2005-3260 - http://marc.info/?l=bugtraq&m=112907535528616&w=2
 CVE-2005-3261 - http://marc.info/?l=bugtraq&m=112907535528616&w=2
 CVE-2005-3267 - http://marc.info/?l=bugtraq&m=113026202728568&w=2
 CVE-2005-3267 - http://securityreason.com/securityalert/115
+CVE-2005-3273 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
+CVE-2005-3275 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
+CVE-2005-3276 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-3284 - http://securityreason.com/securityalert/80
 CVE-2005-3286 - http://pb.specialised.info/all/adv/kerio-fwdrv-dos-adv.txt
 CVE-2005-3286 - http://seclists.org/bugtraq/2005/Oct/166
@@ -1637,8 +1650,10 @@ CVE-2005-3796 - http://securityreason.com/securityalert/184
 CVE-2005-3797 - http://securityreason.com/securityalert/189
 CVE-2005-3798 - http://securityreason.com/securityalert/189
 CVE-2005-3802 - http://securityreason.com/securityalert/186
+CVE-2005-3806 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-3808 - http://seclists.org/lists/linux-kernel/2005/Nov/7839.html
 CVE-2005-3813 - http://marc.info/?l=full-disclosure&m=113285451031500&w=2
+CVE-2005-3857 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2005-3859 - http://securityreason.com/securityalert/209
 CVE-2005-3861 - http://securityreason.com/securityalert/210
 CVE-2005-3887 - http://marc.info/?l=bugtraq&m=113261573023912&w=2
@@ -23917,6 +23932,7 @@ CVE-2016-5319 - http://www.openwall.com/lists/oss-security/2016/04/27/6
 CVE-2016-5330 - https://securify.nl/advisory/SFY20151201/dll_side_loading_vulnerability_in_vmware_host_guest_client_redirector.html
 CVE-2016-5331 - http://packetstormsecurity.com/files/138211/VMware-vSphere-Hypervisor-ESXi-HTTP-Response-Injection.html
 CVE-2016-5331 - http://seclists.org/fulldisclosure/2016/Aug/38
+CVE-2016-5346 - https://github.com/ele7enxxh/poc-exp/tree/master/CVE-2016-5346
 CVE-2016-5348 - https://www.exploit-db.com/exploits/40502/
 CVE-2016-5355 - https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=12394
 CVE-2016-5356 - https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=12395
@@ -24415,6 +24431,7 @@ CVE-2016-7433 - https://www.kb.cert.org/vuls/id/633847
 CVE-2016-7434 - https://www.exploit-db.com/exploits/40806/
 CVE-2016-7434 - https://www.kb.cert.org/vuls/id/633847
 CVE-2016-7445 - http://www.openwall.com/lists/oss-security/2016/09/18/4
+CVE-2016-7445 - https://github.com/uclouvain/openjpeg/issues/843
 CVE-2016-7454 - https://packetstormsecurity.com/files/140121/XFINITY-Gateway-Technicolor-DPC3941T-Cross-Site-Request-Forgery.html
 CVE-2016-7478 - https://bugs.php.net/bug.php?id=73093
 CVE-2016-7479 - https://bugs.php.net/bug.php?id=73092
@@ -32797,6 +32814,7 @@ CVE-2018-21029 - https://github.com/systemd/systemd/issues/9397
 CVE-2018-21031 - https://www.exploit-db.com/docs/47790
 CVE-2018-21034 - https://www.soluble.ai/blog/argo-cves-2020
 CVE-2018-21037 - https://github.com/intelliants/subrion/issues/638
+CVE-2018-21159 - https://kb.netgear.com/000059471/Security-Advisory-for-Security-Misconfiguration-on-ReadyNAS-OS-6-PSV-2017-1999
 CVE-2018-21203 - https://kb.netgear.com/000055146/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-PSV-2017-2589
 CVE-2018-21218 - https://kb.netgear.com/000055119/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2483
 CVE-2018-21221 - https://kb.netgear.com/000055116/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2459
@@ -35452,6 +35470,7 @@ CVE-2019-13292 - https://www.exploit-db.com/exploits/47013
 CVE-2019-13294 - http://www.pentest.com.tr/exploits/AROX-School-ERP-Pro-Unauthenticated-RCE-Metasploit.html
 CVE-2019-13294 - https://www.exploit-db.com/exploits/46999
 CVE-2019-13299 - https://github.com/ImageMagick/ImageMagick/issues/1610
+CVE-2019-1332 - https://github.com/DrunkenShells/Disclosures/tree/master/CVE-2019-1332-Cross-Site%20Scripting-Microsoft%20SQL%20Server%20Reporting%20Services
 CVE-2019-13336 - http://noahclements.com/Improper-Input-Validation-on-dbell-Smart-Doorbell-Can-Lead-To-Attackers-Remotely-Unlocking-Door/
 CVE-2019-13336 - https://www.reddit.com/r/AskNetsec/comments/c9p22m/company_threatening_to_sue_me_if_i_publicly/
 CVE-2019-13336 - https://www.youtube.com/watch?v=SkTKt1nV57I
@@ -46398,6 +46417,7 @@ CVE-2022-0432 - https://huntr.dev/bounties/d06da292-7716-4d74-a129-dd04773398d7
 CVE-2022-0437 - https://huntr.dev/bounties/64b67ea1-5487-4382-a5f6-e8a95f798885
 CVE-2022-0443 - https://huntr.dev/bounties/b987c8cb-bbbe-4601-8a6c-54ff907c6b51
 CVE-2022-0472 - https://huntr.dev/bounties/cb5b8563-15cf-408c-9f79-4871ea0a8713
+CVE-2022-0476 - https://huntr.dev/bounties/81ddfbda-6c9f-4b69-83ff-85b15141e35d
 CVE-2022-0481 - https://huntr.dev/bounties/54725c8c-87f4-41b6-878c-01d8e0ee7027
 CVE-2022-0505 - https://huntr.dev/bounties/65b5a243-3f0c-4df3-9bab-898332180968
 CVE-2022-0506 - https://huntr.dev/bounties/0a5ec24c-343e-4cc4-b27b-2beb19a1c35f
@@ -46471,7 +46491,10 @@ CVE-2022-0717 - https://huntr.dev/bounties/27a851a5-7ebf-409b-854f-b2614771e8f9
 CVE-2022-0719 - https://huntr.dev/bounties/bcdce15b-7f40-4971-a061-c25c6053c312
 CVE-2022-0721 - https://huntr.dev/bounties/ae267d39-9750-4c69-be8b-4f915da089fb
 CVE-2022-0724 - https://huntr.dev/bounties/0cdc4a29-dada-4264-b326-8b65b4f11062
+CVE-2022-0726 - https://huntr.dev/bounties/8928ab08-7fcb-475e-8da7-18e8412c1ac3
+CVE-2022-0727 - https://huntr.dev/bounties/d1faa10f-0640-480c-bb52-089adb351e6e
 CVE-2022-0729 - https://huntr.dev/bounties/f3f3d992-7bd6-4ee5-a502-ae0e5f8016ea
+CVE-2022-0731 - https://huntr.dev/bounties/e242ab4e-fc70-4b2c-a42d-5b3ee4895de8
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
