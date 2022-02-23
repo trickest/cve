@@ -9618,6 +9618,7 @@ CVE-2009-1550 - https://www.exploit-db.com/exploits/8555
 CVE-2009-1551 - https://www.exploit-db.com/exploits/8602
 CVE-2009-1557 - http://www.gnucitizen.org/blog/hacking-linksys-ip-cameras-pt-4/
 CVE-2009-1560 - http://www.gnucitizen.org/blog/hacking-linksys-ip-cameras-pt-4/
+CVE-2009-1570 - http://www.redhat.com/support/errata/RHSA-2011-0837.html
 CVE-2009-1571 - https://bugzilla.mozilla.org/show_bug.cgi?id=526500
 CVE-2009-1578 - https://bugzilla.redhat.com/show_bug.cgi?id=500363
 CVE-2009-1582 - https://www.exploit-db.com/exploits/8605
@@ -11687,10 +11688,12 @@ CVE-2010-4539 - https://bugzilla.redhat.com/show_bug.cgi?id=667407
 CVE-2010-4540 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=608497
 CVE-2010-4540 - https://bugzilla.redhat.com/show_bug.cgi?id=666793
 CVE-2010-4541 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=608497
+CVE-2010-4541 - http://www.redhat.com/support/errata/RHSA-2011-0837.html
 CVE-2010-4541 - https://bugzilla.redhat.com/show_bug.cgi?id=666793
 CVE-2010-4542 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=608497
 CVE-2010-4542 - https://bugzilla.redhat.com/show_bug.cgi?id=666793
 CVE-2010-4543 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=608497
+CVE-2010-4543 - http://www.redhat.com/support/errata/RHSA-2011-0837.html
 CVE-2010-4543 - https://bugzilla.redhat.com/show_bug.cgi?id=666793
 CVE-2010-4567 - http://www.bugzilla.org/security/3.2.9/
 CVE-2010-4568 - http://www.bugzilla.org/security/3.2.9/
@@ -12139,6 +12142,7 @@ CVE-2011-1100 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2011-4992.php
 CVE-2011-1150 - https://www.openwall.com/lists/oss-security/2011/03/14/20
 CVE-2011-1151 - https://packetstormsecurity.com/files/101835/Joomla-1.6.0-SQL-Injection.html
 CVE-2011-1151 - https://www.openwall.com/lists/oss-security/2011/03/14/21
+CVE-2011-1178 - http://www.redhat.com/support/errata/RHSA-2011-0837.html
 CVE-2011-1206 - http://securityreason.com/securityalert/8213
 CVE-2011-1213 - http://securityreason.com/securityalert/8285
 CVE-2011-1243 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-027
@@ -26412,6 +26416,7 @@ CVE-2017-14931 - https://github.com/skysider/openexif_vulnerabilities
 CVE-2017-14932 - https://sourceware.org/bugzilla/show_bug.cgi?id=22204
 CVE-2017-14933 - https://sourceware.org/bugzilla/show_bug.cgi?id=22210
 CVE-2017-14934 - https://sourceware.org/bugzilla/show_bug.cgi?id=22219
+CVE-2017-14938 - http://www.securityfocus.com/bid/101212
 CVE-2017-14938 - https://blogs.gentoo.org/ago/2017/09/26/binutils-memory-allocation-failure-in-_bfd_elf_slurp_version_tables-elf-c/
 CVE-2017-14939 - https://blogs.gentoo.org/ago/2017/09/26/binutils-heap-based-buffer-overflow-in-read_1_byte-dwarf2-c/
 CVE-2017-14939 - https://www.exploit-db.com/exploits/42970/
@@ -29469,6 +29474,7 @@ CVE-2018-1000156 - https://seclists.org/bugtraq/2019/Aug/29
 CVE-2018-1000160 - https://github.com/RisingStack/protect/issues/16
 CVE-2018-1000167 - https://tech.feedyourhead.at/content/remote-code-execution-in-suricata-update
 CVE-2018-1000168 - https://lists.debian.org/debian-lts-announce/2021/10/msg00011.html
+CVE-2018-1000203 - https://www.bankinfosecurity.com/exclusive-aussie-firm-loses-5m-to-backdoored-cryptocurrency-a-11057
 CVE-2018-1000206 - https://www.geekboy.ninja/blog/exploiting-json-cross-site-request-forgery-csrf-using-flash/
 CVE-2018-1000218 - https://github.com/openemr/openemr/issues/1781
 CVE-2018-1000219 - https://github.com/openemr/openemr/issues/1781
@@ -30166,6 +30172,7 @@ CVE-2018-11522 - https://www.exploit-db.com/exploits/44803/
 CVE-2018-11523 - https://github.com/unh3x/just4cve/issues/1
 CVE-2018-11523 - https://www.exploit-db.com/exploits/44794/
 CVE-2018-11525 - https://www.exploit-db.com/exploits/44931/
+CVE-2018-11526 - https://wpvulndb.com/vulnerabilities/9097
 CVE-2018-11526 - https://www.exploit-db.com/exploits/44940/
 CVE-2018-11527 - https://github.com/fanyibo2009/cscms/blob/master/v4.1%20csrf
 CVE-2018-11528 - https://github.com/wuzhicms/wuzhicms/issues/138
@@ -32565,6 +32572,7 @@ CVE-2018-20335 - https://starlabs.sg/advisories/18-20335/
 CVE-2018-20336 - https://starlabs.sg/advisories/18-20336/
 CVE-2018-20337 - https://github.com/LibRaw/LibRaw/issues/192
 CVE-2018-20340 - https://blog.inhq.net/posts/yubico-libu2f-host-vuln-part1/
+CVE-2018-20346 - https://github.com/zhuowei/worthdoingbadly.com/blob/master/_posts/2018-12-14-sqlitebug.html
 CVE-2018-20346 - https://news.ycombinator.com/item?id=18685296
 CVE-2018-20346 - https://worthdoingbadly.com/sqlitebug/
 CVE-2018-20348 - https://github.com/libyal/libpff/issues/48
@@ -36327,6 +36335,7 @@ CVE-2019-16759 - http://packetstormsecurity.com/files/158866/vBulletin-5.x-Remot
 CVE-2019-16759 - https://seclists.org/fulldisclosure/2019/Sep/31
 CVE-2019-16780 - https://wpvulndb.com/vulnerabilities/9976
 CVE-2019-16781 - https://wpvulndb.com/vulnerabilities/9976
+CVE-2019-16862 - https://github.com/lodestone-security/CVEs/blob/master/CVE-2019-16862/README.md
 CVE-2019-16868 - https://github.com/emlog/emlog/issues/48
 CVE-2019-16885 - http://packetstormsecurity.com/files/155583/OkayCMS-2.3.4-Remote-Code-Execution.html
 CVE-2019-16885 - http://seclists.org/fulldisclosure/2019/Dec/15
@@ -36447,6 +36456,7 @@ CVE-2019-17240 - https://rastating.github.io/bludit-brute-force-mitigation-bypas
 CVE-2019-17263 - http://packetstormsecurity.com/files/154774/libyal-libfwsi-Buffer-Overread.html
 CVE-2019-17263 - https://github.com/libyal/libfwsi/issues/13
 CVE-2019-17264 - https://github.com/libyal/liblnk/issues/38
+CVE-2019-17266 - https://github.com/Kirin-say/Vulnerabilities/blob/master/CVE-2019-17266_POC.md
 CVE-2019-17267 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2019-17270 - http://packetstormsecurity.com/files/155582/Yachtcontrol-2019-10-06-Remote-Code-Execution.html
 CVE-2019-17270 - https://www.exploit-db.com/exploits/47760
@@ -46436,6 +46446,9 @@ CVE-2022-0712 - https://huntr.dev/bounties/1e572820-e502-49d1-af0e-81833e2eb466
 CVE-2022-0713 - https://huntr.dev/bounties/d35b3dff-768d-4a09-a742-c18ca8f56d3c
 CVE-2022-0714 - https://huntr.dev/bounties/db70e8db-f309-4f3c-986c-e69d2415c3b3
 CVE-2022-0717 - https://huntr.dev/bounties/27a851a5-7ebf-409b-854f-b2614771e8f9
+CVE-2022-0719 - https://huntr.dev/bounties/bcdce15b-7f40-4971-a061-c25c6053c312
+CVE-2022-0721 - https://huntr.dev/bounties/ae267d39-9750-4c69-be8b-4f915da089fb
+CVE-2022-0724 - https://huntr.dev/bounties/0cdc4a29-dada-4264-b326-8b65b4f11062
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
