@@ -522,6 +522,7 @@ CVE-2004-1120 - http://bugs.gentoo.org/show_bug.cgi?id=70090
 CVE-2004-1127 - http://marc.info/?l=bugtraq&m=110144606411674&w=2
 CVE-2004-1137 - http://isec.pl/vulnerabilities/isec-0018-igmp.txt
 CVE-2004-1166 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-042
+CVE-2004-1183 - http://www.redhat.com/support/errata/RHSA-2005-019.html
 CVE-2004-1193 - http://marc.info/?l=bugtraq&m=110118902823639&w=2
 CVE-2004-1193 - http://marc.info/?l=bugtraq&m=110138413816367&w=2
 CVE-2004-1196 - http://marc.info/?l=bugtraq&m=110140029419018&w=2
@@ -550,6 +551,7 @@ CVE-2004-1244 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2004-1305 - http://marc.info/?l=bugtraq&m=110382854111833&w=2
 CVE-2004-1305 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-002
 CVE-2004-1306 - http://marc.info/?l=bugtraq&m=110383690219440&w=2
+CVE-2004-1308 - http://www.redhat.com/support/errata/RHSA-2005-019.html
 CVE-2004-1316 - http://isec.pl/vulnerabilities/isec-0020-mozilla.txt
 CVE-2004-1316 - http://marc.info/?l=bugtraq&m=110436284718949&w=2
 CVE-2004-1317 - http://marc.info/?l=bugtraq&m=110425875504586&w=2
@@ -19509,6 +19511,7 @@ CVE-2014-9195 - https://www.exploit-db.com/exploits/37066/
 CVE-2014-9208 - https://www.exploit-db.com/exploits/38108/
 CVE-2014-9211 - https://packetstormsecurity.com/files/author/11084/
 CVE-2014-9212 - http://packetstormsecurity.com/files/129372/Altitude-uAgent-Altitude-uCI-7.5-XSS.html
+CVE-2014-9218 - https://github.com/phpmyadmin/phpmyadmin/commit/62b2c918d26cc78d1763945e3d44d1a63294a819
 CVE-2014-9222 - http://www.kb.cert.org/vuls/id/561444
 CVE-2014-9224 - http://packetstormsecurity.com/files/130060/Symantec-SDCS-SA-SCSP-XSS-Bypass-SQL-Injection-Disclosure.html
 CVE-2014-9224 - http://seclists.org/fulldisclosure/2015/Jan/91
@@ -29555,6 +29558,7 @@ CVE-2018-1000801 - https://bugs.kde.org/show_bug.cgi?id=398096
 CVE-2018-1000811 - https://github.com/bludit/bludit/issues/812
 CVE-2018-1000811 - https://www.exploit-db.com/exploits/46060/
 CVE-2018-1000812 - https://cp270.wordpress.com/2018/05/14/war-story-password-resets/
+CVE-2018-1000812 - https://github.com/fleetcaptain/integria-takeover
 CVE-2018-1000814 - https://github.com/aio-libs/aiohttp-session/issues/325
 CVE-2018-1000816 - https://github.com/grafana/grafana/issues/13667
 CVE-2018-1000839 - https://0dd.zone/2018/09/03/lh-ehr-RCE-via-picture-upload/
@@ -35852,6 +35856,7 @@ CVE-2019-14835 - http://packetstormsecurity.com/files/155212/Slackware-Security-
 CVE-2019-14835 - http://www.openwall.com/lists/oss-security/2019/09/24/1
 CVE-2019-14862 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2019-14868 - http://seclists.org/fulldisclosure/2020/May/53
+CVE-2019-14892 - https://github.com/FasterXML/jackson-databind/issues/2462
 CVE-2019-14893 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2019-14895 - http://packetstormsecurity.com/files/155879/Kernel-Live-Patch-Security-Notice-LSN-0061-1.html
 CVE-2019-14895 - http://packetstormsecurity.com/files/156185/Kernel-Live-Patch-Security-Notice-LSN-0062-1.html
@@ -42508,6 +42513,7 @@ CVE-2020-5811 - http://packetstormsecurity.com/files/163965/Umbraco-CMS-8.9.1-Tr
 CVE-2020-5811 - https://www.tenable.com/security/research/tra-2020-59
 CVE-2020-5812 - https://www.tenable.com/security/tns-2021-01
 CVE-2020-5842 - https://www.exploit-db.com/exploits/47876
+CVE-2020-5844 - https://github.com/TheCyberGeek/CVE-2020-5844
 CVE-2020-5847 - http://packetstormsecurity.com/files/157275/Unraid-6.8.0-Authentication-Bypass-Arbitrary-Code-Execution.html
 CVE-2020-5847 - https://sysdream.com/news/lab/
 CVE-2020-5849 - http://packetstormsecurity.com/files/157275/Unraid-6.8.0-Authentication-Bypass-Arbitrary-Code-Execution.html
