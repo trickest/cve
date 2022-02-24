@@ -35626,6 +35626,7 @@ CVE-2019-14205 - https://github.com/markgruffer/markgruffer.github.io/blob/maste
 CVE-2019-14205 - https://markgruffer.github.io/2019/07/19/adaptive-images-for-wordpress-0-6-66-lfi-rce-file-deletion.html
 CVE-2019-14206 - https://github.com/markgruffer/markgruffer.github.io/blob/master/_posts/2019-07-19-adaptive-images-for-wordpress-0-6-66-lfi-rce-file-deletion.markdown
 CVE-2019-14206 - https://markgruffer.github.io/2019/07/19/adaptive-images-for-wordpress-0-6-66-lfi-rce-file-deletion.html
+CVE-2019-14221 - https://github.com/cccaaasser/1CRM-CVE/blob/master/CVE-2019-14221.md
 CVE-2019-14221 - https://www.exploit-db.com/exploits/47206
 CVE-2019-14225 - http://packetstormsecurity.com/files/154826/Open-Xchange-OX-App-Suite-SSRF-XSS-Information-Disclosure-Access-Controls.html
 CVE-2019-14225 - https://seclists.org/fulldisclosure/2019/Oct/25
@@ -35767,6 +35768,7 @@ CVE-2019-14530 - http://packetstormsecurity.com/files/163215/OpenEMR-5.0.1.7-Pat
 CVE-2019-14530 - http://packetstormsecurity.com/files/163375/OpenEMR-5.0.1.7-Path-Traversal.html
 CVE-2019-14531 - https://github.com/sleuthkit/sleuthkit/issues/1576
 CVE-2019-14532 - https://github.com/sleuthkit/sleuthkit/issues/1575
+CVE-2019-14537 - https://github.com/Wocanilo/CVE-2019-14537
 CVE-2019-14540 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2019-14546 - https://gauravnarwani.com/publications/CVE-2019-14546/
 CVE-2019-14547 - https://gauravnarwani.com/publications/cve-2019-14547/
@@ -35789,6 +35791,7 @@ CVE-2019-14685 - http://packetstormsecurity.com/files/154200/Trend-Maximum-Secur
 CVE-2019-14685 - http://seclists.org/fulldisclosure/2019/Aug/26
 CVE-2019-14685 - https://medium.com/sidechannel-br/vulnerabilidade-no-trend-micro-maximum-security-2019-permite-a-escala%C3%A7%C3%A3o-de-privil%C3%A9gios-no-windows-471403d53b68
 CVE-2019-14694 - http://rce4fun.blogspot.com/2019/08/comodo-antivirus-sandbox-race-condition.html
+CVE-2019-14694 - https://github.com/SouhailHammou/Exploits/blob/master/CVE-2019-14694%20-%20Comodo%20AV%20Sandbox%20Race%20Condition%20UAF/comodo_av_uaf_poc.c
 CVE-2019-14696 - http://packetstormsecurity.com/files/153984/Open-School-3.0-Community-Edition-2.3-Cross-Site-Scripting.html
 CVE-2019-14698 - https://pastebin.com/PSyqqs1g
 CVE-2019-14699 - https://pastebin.com/PSyqqs1g
@@ -37872,6 +37875,7 @@ CVE-2019-7194 - http://packetstormsecurity.com/files/157857/QNAP-QTS-And-Photo-S
 CVE-2019-7195 - http://packetstormsecurity.com/files/157857/QNAP-QTS-And-Photo-Station-6.0.3-Remote-Command-Execution.html
 CVE-2019-7214 - http://packetstormsecurity.com/files/160416/SmarterMail-6985-Remote-Code-Execution.html
 CVE-2019-7215 - https://knowledgebase.progress.com/articles/Article/Security-Advisory-For-Resolving-Security-Vulnerabilities-May-2019
+CVE-2019-7216 - https://github.com/ekultek/cve-2019-7216
 CVE-2019-7221 - http://packetstormsecurity.com/files/151713/KVM-VMX-Preemption-Timer-Use-After-Free.html
 CVE-2019-7222 - http://packetstormsecurity.com/files/151712/KVM-kvm_inject_page_fault-Uninitialized-Memory-Leak.html
 CVE-2019-7223 - https://cxsecurity.com/issue/WLB-2019020191
@@ -43244,6 +43248,7 @@ CVE-2020-9496 - http://packetstormsecurity.com/files/163730/Apache-OfBiz-17.12.0
 CVE-2020-9497 - https://research.checkpoint.com/2020/apache-guacamole-rce/
 CVE-2020-9498 - https://research.checkpoint.com/2020/apache-guacamole-rce/
 CVE-2020-9520 - http://seclists.org/fulldisclosure/2020/Mar/50
+CVE-2020-9546 - https://github.com/FasterXML/jackson-databind/issues/2631
 CVE-2020-9546 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2020-9547 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2020-9548 - https://www.oracle.com/security-alerts/cpujul2020.html
