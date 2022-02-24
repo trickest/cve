@@ -23442,6 +23442,7 @@ CVE-2019-1010266 - https://github.com/puryersc/shiftleftv4
 CVE-2019-1010287 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-1010287 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2019-1010287 - https://github.com/sobinge/nuclei-templates
+CVE-2019-1010290 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-1010298 - https://github.com/0xT11/CVE-POC
 CVE-2019-1010298 - https://github.com/RKX1209/CVE-2019-1010298
 CVE-2019-1010298 - https://github.com/developer3000S/PoC-in-GitHub
@@ -28853,6 +28854,8 @@ CVE-2019-3863 - https://github.com/t31m0/Vulnerability-Scanner-for-Containers
 CVE-2019-3863 - https://github.com/umahari/security
 CVE-2019-3881 - https://github.com/404notf0und/CVE-Flow
 CVE-2019-3881 - https://github.com/mbklein/dot-properties
+CVE-2019-3911 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2019-3912 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-3921 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2019-3921 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2019-3929 - https://github.com/0xT11/CVE-POC
@@ -32893,7 +32896,6 @@ CVE-2020-13162 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-13162 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-13162 - https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162-
 CVE-2020-13162 - https://github.com/shubham0d/SymBlock
-CVE-2020-13165 - https://github.com/hannob/pgpbugs
 CVE-2020-13167 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-13167 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2020-13167 - https://github.com/sobinge/nuclei-templates
@@ -34600,6 +34602,7 @@ CVE-2020-1764 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-1764 - https://github.com/puckiestyle/jwt_tool
 CVE-2020-1764 - https://github.com/ticarpi/jwt_tool
 CVE-2020-18268 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2020-18324 - https://github.com/hamm0nz/CVE-2020-18324
 CVE-2020-1838 - https://github.com/GageShan/gcrawler
 CVE-2020-18392 - https://github.com/wcventure/MemLock-Fuzz
 CVE-2020-18527 - https://github.com/Al1ex/Al1ex
@@ -35815,6 +35818,7 @@ CVE-2020-25860 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-25860 - https://github.com/neutrinoguy/awesome-ics-writeups
 CVE-2020-25860 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-25864 - https://github.com/ARPSyndicate/cvemon
+CVE-2020-25864 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-25867 - https://github.com/0xT11/CVE-POC
 CVE-2020-25867 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-25867 - https://github.com/developer3000S/PoC-in-GitHub
@@ -41018,6 +41022,7 @@ CVE-2021-25028 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-25052 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-25052 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-25063 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-25063 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-25074 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-25076 - https://github.com/Hacker5preme/Exploits
 CVE-2021-25122 - https://github.com/DNTYO/F5_Vulnerability
@@ -41073,6 +41078,7 @@ CVE-2021-25374 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-25374 - https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access
 CVE-2021-25374 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-25444 - https://github.com/shakevsky/keybuster
+CVE-2021-25461 - https://github.com/bkojusner/CVE-2021-25461
 CVE-2021-25490 - https://github.com/shakevsky/keybuster
 CVE-2021-25641 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-25641 - https://github.com/Dor-Tumarkin/CVE-2021-25641-Proof-of-Concept
@@ -42884,6 +42890,7 @@ CVE-2021-3291 - https://github.com/MucahitSaratar/zencart_auth_rce_poc
 CVE-2021-3291 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-3291 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-3293 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-3293 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-32955 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-32959 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-32967 - https://github.com/p1ay8y3ar/cve_monitor
@@ -42946,7 +42953,9 @@ CVE-2021-33357 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-3336 - https://github.com/boschresearch/pq-wolfSSL
 CVE-2021-3336 - https://github.com/onelife/Arduino_wolfssl
 CVE-2021-3336 - https://github.com/wolfssl-jp/wolfssl-private
+CVE-2021-33373 - https://github.com/GANGE666/Vulnerabilities
 CVE-2021-33373 - https://github.com/Yu3H0/IoT_CVE
+CVE-2021-33374 - https://github.com/GANGE666/Vulnerabilities
 CVE-2021-33374 - https://github.com/Yu3H0/IoT_CVE
 CVE-2021-33393 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-33403 - https://github.com/MRdoulestar/MRdoulestar
@@ -44841,6 +44850,7 @@ CVE-2021-43032 - https://github.com/SakuraSamuraii/CVE-2021-43032
 CVE-2021-43032 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-43032 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-43062 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-43062 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-43137 - https://github.com/dn0m1n8tor/dn0m1n8tor
 CVE-2021-43140 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-43140 - https://github.com/Dir0x/CVE-2021-43140
@@ -45174,6 +45184,7 @@ CVE-2021-44427 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44427 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-44428 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44428 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-44521 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44521 - https://github.com/murchie85/twitterCyberMonitor
 CVE-2021-44521 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-44528 - https://github.com/ARPSyndicate/cvemon
@@ -45496,6 +45507,8 @@ CVE-2022-0580 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2022-0587 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2022-0588 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2022-0589 - https://github.com/faisalfs10x/CVE-IDs
+CVE-2022-0653 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-0653 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-1000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20019 - https://github.com/p1ay8y3ar/cve_monitor
@@ -45779,6 +45792,7 @@ CVE-2022-24086 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-24086 - https://github.com/wambo-co/magento-1.9-cve-2022-24086
 CVE-2022-24087 - https://github.com/df2k2/m2-tech
 CVE-2022-24112 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-24112 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-24112 - https://github.com/Mr-xn/CVE-2022-24112
 CVE-2022-24112 - https://github.com/Udyz/CVE-2022-24112
 CVE-2022-24112 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -45828,6 +45842,7 @@ CVE-2022-25322 - https://github.com/Stalrus/research
 CVE-2022-25322 - https://github.com/landigv/research
 CVE-2022-25322 - https://github.com/landigvt/research
 CVE-2022-25323 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-25323 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-25323 - https://github.com/awillix/research
 CVE-2022-25323 - https://github.com/landigv/research
 CVE-2022-25375 - https://github.com/ARPSyndicate/cvemon

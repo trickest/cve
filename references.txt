@@ -10877,6 +10877,7 @@ CVE-2010-1603 - http://www.exploit-db.com/exploits/12284
 CVE-2010-1607 - http://www.exploit-db.com/exploits/12316
 CVE-2010-1618 - http://www.ja-sig.org/issues/browse/PHPCAS-52
 CVE-2010-1620 - http://ftpmain.gnustep.org/pub/gnustep/core/gnustep-base-1.20.0.tar.gz
+CVE-2010-1635 - https://bugzilla.samba.org/show_bug.cgi?id=7229
 CVE-2010-1637 - http://conference.hitb.org/hitbsecconf2010dxb/materials/D1%20-%20Laurent%20Oudot%20-%20Improving%20the%20Stealthiness%20of%20Web%20Hacking.pdf#page=69
 CVE-2010-1638 - http://conference.hitb.org/hitbsecconf2010dxb/materials/D1%20-%20Laurent%20Oudot%20-%20Improving%20the%20Stealthiness%20of%20Web%20Hacking.pdf#page=74
 CVE-2010-1641 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
@@ -30705,6 +30706,7 @@ CVE-2018-13439 - https://packetstormsecurity.com/files/148390/WeChat-Pay-SDK-XXE
 CVE-2018-13440 - https://github.com/mpruett/audiofile/issues/49
 CVE-2018-13441 - https://gist.github.com/fakhrizulkifli/8df4a174158df69ebd765f824bd736b8
 CVE-2018-13441 - https://www.exploit-db.com/exploits/45082/
+CVE-2018-13442 - https://labs.nettitude.com/blog/cve-2018-13442-solarwinds-npm-sql-injection/
 CVE-2018-13444 - https://github.com/MichaelWayneLIU/seacms/blob/master/seacms1.md
 CVE-2018-13445 - https://github.com/MichaelWayneLIU/seacms/blob/master/seacms1.md
 CVE-2018-13457 - https://gist.github.com/fakhrizulkifli/87cf1c1ad403b4d40a86d90c9c9bf7ab
@@ -36766,6 +36768,7 @@ CVE-2019-18883 - http://packetstormsecurity.com/files/155241/LavaLite-CMS-5.7-Cr
 CVE-2019-18884 - http://packetstormsecurity.com/files/155242/RISE-Ultimate-Project-Manager-2.3-Cross-Site-Request-Forgery.html
 CVE-2019-18885 - http://packetstormsecurity.com/files/156185/Kernel-Live-Patch-Security-Notice-LSN-0062-1.html
 CVE-2019-18885 - https://github.com/bobfuzzer/CVE-2019-18885
+CVE-2019-18890 - https://github.com/RealLinkers/CVE-2019-18890
 CVE-2019-18893 - https://palant.de/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit/
 CVE-2019-18894 - https://palant.de/2020/01/13/pwning-avast-secure-browser-for-fun-and-profit/
 CVE-2019-18895 - http://hyp3rlinx.altervista.org
@@ -37324,6 +37327,7 @@ CVE-2019-20633 - https://savannah.gnu.org/bugs/index.php?56683
 CVE-2019-20636 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.12
 CVE-2019-20675 - https://kb.netgear.com/000061464/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-WiFi-Systems-PSV-2018-0544
 CVE-2019-20689 - https://kb.netgear.com/000061450/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-Gateways-and-Extenders-PSV-2018-0132
+CVE-2019-20718 - https://kb.netgear.com/000061210/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-and-Gateways-PSV-2018-0195
 CVE-2019-20760 - https://kb.netgear.com/000060639/Security-Advisory-for-Authentication-Bypass-on-R9000-PSV-2018-0615
 CVE-2019-20798 - https://github.com/cherokee/webserver/issues/1227
 CVE-2019-20798 - https://logicaltrust.net/blog/2019/11/cherokee.html
@@ -38844,10 +38848,12 @@ CVE-2020-10713 - https://tools.cisco.com/security/center/content/CiscoSecurityAd
 CVE-2020-10770 - http://packetstormsecurity.com/files/164499/Keycloak-12.0.1-Server-Side-Request-Forgery.html
 CVE-2020-10786 - https://gitlab.com/snippets/1954764
 CVE-2020-10787 - https://gitlab.com/snippets/1954764
+CVE-2020-10807 - https://github.com/mitre/caldera/issues/1405
 CVE-2020-10808 - http://packetstormsecurity.com/files/157111/Vesta-Control-Panel-Authenticated-Remote-Code-Execution.html
 CVE-2020-10808 - http://packetstormsecurity.com/files/157219/Vesta-Control-Panel-Authenticated-Remote-Code-Execution.html
 CVE-2020-10808 - https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/
 CVE-2020-10809 - https://research.loginsoft.com/bugs/heap-overflow-in-decompress-c-hdf5-1-13-0/
+CVE-2020-10810 - https://github.com/Loginsoft-Research/hdf5-reports/tree/master/Vuln_3
 CVE-2020-10810 - https://research.loginsoft.com/bugs/null-pointer-dereference-in-h5ac-c-hdf5-1-13-0/
 CVE-2020-10811 - https://research.loginsoft.com/bugs/heap-buffer-overflow-in-h5olayout-c-hdf5-1-13-0/
 CVE-2020-10812 - https://github.com/Loginsoft-Research/hdf5-reports/tree/master/Vuln_4
@@ -38871,6 +38877,7 @@ CVE-2020-10883 - http://packetstormsecurity.com/files/157255/TP-Link-Archer-A7-C
 CVE-2020-10884 - http://packetstormsecurity.com/files/157255/TP-Link-Archer-A7-C7-Unauthenticated-LAN-Remote-Code-Execution.html
 CVE-2020-10914 - http://packetstormsecurity.com/files/157529/Veeam-ONE-Agent-.NET-Deserialization.html
 CVE-2020-10915 - http://packetstormsecurity.com/files/157529/Veeam-ONE-Agent-.NET-Deserialization.html
+CVE-2020-10931 - https://github.com/memcached/memcached/issues/629
 CVE-2020-10936 - https://sysdream.com/news/lab/
 CVE-2020-10936 - https://sysdream.com/news/lab/2020-05-25-cve-2020-10936-sympa-privileges-escalation-to-root/
 CVE-2020-10945 - https://sysdream.com/news/lab/2020-05-13-cve-2020-10945-centreon-session-id-exposure
@@ -39947,6 +39954,7 @@ CVE-2020-15069 - https://community.sophos.com/b/security-blog/posts/advisory-buf
 CVE-2020-15117 - https://github.com/symless/synergy-core/security/advisories/GHSA-chfm-333q-gfpp
 CVE-2020-15149 - http://packetstormsecurity.com/files/159560/NodeBB-Forum-1.14.2-Account-Takeover.html
 CVE-2020-15160 - http://packetstormsecurity.com/files/162140/PrestaShop-1.7.6.7-SQL-Injection.html
+CVE-2020-15180 - https://www.percona.com/blog/2020/10/30/cve-2020-15180-affects-percona-xtradb-cluster/
 CVE-2020-15182 - https://youtu.be/ffvKH3gwyRE
 CVE-2020-15188 - https://www.youtube.com/watch?v=zAE4Swjc-GU&feature=youtu.be
 CVE-2020-15189 - https://youtu.be/FWIDFNXmr9g
@@ -41550,6 +41558,7 @@ CVE-2020-27422 - https://packetstormsecurity.com/files/160051/Anuko-Time-Tracker
 CVE-2020-27423 - https://packetstormsecurity.com/files/160052/Anuko-Time-Tracker-1.19.23.5311-Missing-Rate-Limiting.html
 CVE-2020-27459 - https://github.com/nugmubs/chronoforums-cve/wiki/Stored-XSS-Vulnerability-in-Chronoforum-v2.0.11-(Joomla-plugin)
 CVE-2020-27461 - https://www.exploit-db.com/exploits/48862
+CVE-2020-27467 - https://github.com/ceng-yildirim/LFI-processwire
 CVE-2020-27481 - https://gist.github.com/0xx7/a7aaa8b0515139cf7e30c808c8d54070
 CVE-2020-27484 - https://github.com/atredispartners/advisories/blob/master/ATREDIS-2020-0004.md
 CVE-2020-27488 - https://iot-lab-fh-ooe.github.io/loxone_clouddns_schwachstelle/
@@ -46198,6 +46207,7 @@ CVE-2021-44903 - https://voidsec.com
 CVE-2021-44903 - https://voidsec.com/advisories/cve-2021-44903/
 CVE-2021-44916 - http://packetstormsecurity.com/files/165502/Open-AudIT-Community-4.2.0-Cross-Site-Scripting.html
 CVE-2021-44965 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/PHPGURUKUL/ANUJ%20KUMAR/Employee-Record-Management-System
+CVE-2021-44967 - https://www.exploit-db.com/exploits/50573
 CVE-2021-44981 - https://websec.nl/blog/61b2b37a43a1155c848f3b08/websec%20finds%20critical%20vulnerabilities%20in%20popular%20media%20server
 CVE-2021-44988 - https://github.com/jerryscript-project/jerryscript/issues/4890
 CVE-2021-45046 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
@@ -46583,6 +46593,7 @@ CVE-2022-22890 - https://github.com/jerryscript-project/jerryscript/issues/4847
 CVE-2022-22891 - https://github.com/jerryscript-project/jerryscript/issues/4871
 CVE-2022-22894 - https://github.com/jerryscript-project/jerryscript/issues/4890
 CVE-2022-22899 - https://yoursecuritybores.me/coreftp-vulnerabilities/
+CVE-2022-23043 - https://fluidattacks.com/advisories/simone/
 CVE-2022-23045 - https://fluidattacks.com/advisories/osbourne/
 CVE-2022-23046 - http://packetstormsecurity.com/files/165683/PHPIPAM-1.4.4-SQL-Injection.html
 CVE-2022-23046 - https://fluidattacks.com/advisories/mercury/
@@ -46601,6 +46612,7 @@ CVE-2022-23120 - https://www.modzero.com/advisories/MZ-21-02-Trendmicro.txt
 CVE-2022-23178 - https://www.redteam-pentesting.de/advisories/rt-sa-2021-009
 CVE-2022-23221 - http://packetstormsecurity.com/files/165676/H2-Database-Console-Remote-Code-Execution.html
 CVE-2022-23221 - http://seclists.org/fulldisclosure/2022/Jan/39
+CVE-2022-23227 - https://github.com/pedrib/PoC/blob/master/advisories/NUUO/nuuo_nvrmini_round2.mkd
 CVE-2022-23227 - https://portswigger.net/daily-swig/researcher-discloses-alleged-zero-day-vulnerabilities-in-nuuo-nvrmini2-recording-device
 CVE-2022-23316 - https://github.com/taogogo/taocms/issues/15
 CVE-2022-23320 - https://www.triaxiomsecurity.com/xmpie-ustore-vulnerabilities-discovered/
@@ -46612,15 +46624,23 @@ CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
 CVE-2022-23967 - https://github.com/MaherAzzouzi/CVE-2022-23967
 CVE-2022-23968 - https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/
 CVE-2022-24129 - https://github.com/sbaresearch/advisories/tree/public/2022/SBA-ADV-20220127-01_Shibboleth_IdP_OIDC_OP_Plugin_SSRF
+CVE-2022-24196 - https://github.com/itext/itext7/pull/78
+CVE-2022-24197 - https://github.com/itext/itext7/pull/78
+CVE-2022-24198 - https://github.com/itext/itext7/pull/78
 CVE-2022-24223 - http://packetstormsecurity.com/files/165922/Atom-CMS-2.0-SQL-Injection.html
 CVE-2022-24263 - http://packetstormsecurity.com/files/165882/Hospital-Management-System-4.0-SQL-Injection.html
 CVE-2022-24266 - https://github.com/CuppaCMS/CuppaCMS/issues/17
 CVE-2022-24448 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.5
+CVE-2022-24613 - https://github.com/drewnoakes/metadata-extractor/issues/561
+CVE-2022-24614 - https://github.com/drewnoakes/metadata-extractor/issues/561
 CVE-2022-24676 - https://github.com/hyyyp/HYBBS2/issues/33
 CVE-2022-24677 - https://github.com/hyyyp/HYBBS2/issues/34
 CVE-2022-24959 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.5
 CVE-2022-24976 - https://www.openwall.com/lists/oss-security/2022/01/30/4
 CVE-2022-24977 - https://r0.haxors.org/posts?id=8
+CVE-2022-25076 - https://github.com/EPhaha/IOT_vuln/blob/main/TOTOLink/A800R/README.md
+CVE-2022-25079 - https://github.com/EPhaha/IOT_vuln/blob/main/TOTOLink/A810R/README.md
+CVE-2022-25083 - https://github.com/EPhaha/IOT_vuln/blob/main/TOTOLink/A860R/README.md
 CVE-2022-25131 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_14/14.md
 CVE-2022-25139 - https://github.com/nginx/njs/issues/451
 CVE-2022-25241 - http://packetstormsecurity.com/files/166074/FileCloud-21.2-Cross-Site-Request-Forgery.html
@@ -46635,3 +46655,7 @@ CVE-2022-25329 - https://www.tenable.com/security/research/tra-2022-05
 CVE-2022-25330 - https://www.tenable.com/security/research/tra-2022-05
 CVE-2022-25331 - https://www.tenable.com/security/research/tra-2022-05
 CVE-2022-25375 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
+CVE-2022-25402 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
+CVE-2022-25403 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
+CVE-2022-25417 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/3
+CVE-2022-25418 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/2
