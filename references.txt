@@ -10925,6 +10925,7 @@ CVE-2010-1938 - http://securityreason.com/achievement_securityalert/87
 CVE-2010-1938 - http://securityreason.com/securityalert/7450
 CVE-2010-1938 - http://site.pi3.com.pl/adv/libopie-adv.txt
 CVE-2010-1938 - http://www.exploit-db.com/exploits/12762
+CVE-2010-1939 - http://h07.w.interia.pl/Safari.rar
 CVE-2010-1944 - http://www.exploit-db.com/exploits/12476
 CVE-2010-1945 - http://www.exploit-db.com/exploits/12366
 CVE-2010-1946 - http://www.exploit-db.com/exploits/12313
@@ -29054,6 +29055,7 @@ CVE-2017-9127 - https://www.exploit-db.com/exploits/42148/
 CVE-2017-9128 - https://www.exploit-db.com/exploits/42148/
 CVE-2017-9129 - https://www.exploit-db.com/exploits/42207/
 CVE-2017-9130 - https://www.exploit-db.com/exploits/42207/
+CVE-2017-9140 - https://knowledgebase.progress.com/articles/Article/Security-Advisory-for-Resolving-Security-vulnerabilities-September-2018
 CVE-2017-9140 - https://www.veracode.com/blog/research/anatomy-cross-site-scripting-flaw-telerik-reporting-module
 CVE-2017-9147 - http://bugzilla.maptools.org/show_bug.cgi?id=2693
 CVE-2017-9147 - https://www.exploit-db.com/exploits/42301/
@@ -31483,9 +31485,13 @@ CVE-2018-17044 - https://github.com/yzmcms/yzmcms/issues/3
 CVE-2018-17045 - https://github.com/maelosoki/MaeloStore/issues/1
 CVE-2018-17049 - https://github.com/TREYWANGCQU/LANKERS/issues/1
 CVE-2018-17053 - https://insinuator.net/2018/10/vulnerabilities-in-sitefinity-wcms-a-success-story-of-a-responsible-disclosure-process/
+CVE-2018-17053 - https://knowledgebase.progress.com/articles/Article/Security-Advisory-for-Resolving-Security-vulnerabilities-September-2018
 CVE-2018-17054 - https://insinuator.net/2018/10/vulnerabilities-in-sitefinity-wcms-a-success-story-of-a-responsible-disclosure-process/
+CVE-2018-17054 - https://knowledgebase.progress.com/articles/Article/Security-Advisory-for-Resolving-Security-vulnerabilities-September-2018
 CVE-2018-17055 - https://insinuator.net/2018/10/vulnerabilities-in-sitefinity-wcms-a-success-story-of-a-responsible-disclosure-process/
+CVE-2018-17055 - https://knowledgebase.progress.com/articles/Article/Security-Advisory-for-Resolving-Security-vulnerabilities-September-2018
 CVE-2018-17056 - https://insinuator.net/2018/10/vulnerabilities-in-sitefinity-wcms-a-success-story-of-a-responsible-disclosure-process/
+CVE-2018-17056 - https://knowledgebase.progress.com/articles/Article/Security-Advisory-for-Resolving-Security-vulnerabilities-September-2018
 CVE-2018-17057 - http://packetstormsecurity.com/files/152200/TCPDF-6.2.19-Deserialization-Remote-Code-Execution.html
 CVE-2018-17057 - http://packetstormsecurity.com/files/152360/LimeSurvey-Deserialization-Remote-Code-Execution.html
 CVE-2018-17057 - http://seclists.org/fulldisclosure/2019/Mar/36
@@ -46498,6 +46504,7 @@ CVE-2022-0689 - https://huntr.dev/bounties/fa5dbbd3-97fe-41a9-8797-2e54d9a9c649
 CVE-2022-0690 - https://huntr.dev/bounties/4999a0f4-6efb-4681-b4ba-b36babc366f9
 CVE-2022-0691 - https://huntr.dev/bounties/57124ed5-4b68-4934-8325-2c546257f2e4
 CVE-2022-0692 - https://huntr.dev/bounties/4fb39400-e08b-47af-8c1f-5093c9a51203
+CVE-2022-0695 - https://huntr.dev/bounties/bdbddc0e-fb06-4211-a90b-7cbedcee2bea
 CVE-2022-0696 - https://huntr.dev/bounties/7416c2cb-1809-4834-8989-e84ff033f15f
 CVE-2022-0712 - https://huntr.dev/bounties/1e572820-e502-49d1-af0e-81833e2eb466
 CVE-2022-0713 - https://huntr.dev/bounties/d35b3dff-768d-4a09-a742-c18ca8f56d3c
