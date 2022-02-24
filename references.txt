@@ -10036,6 +10036,7 @@ CVE-2009-2650 - http://www.exploit-db.com/exploits/9173
 CVE-2009-2655 - http://www.exploit-db.com/exploits/9253
 CVE-2009-2656 - http://www.blackhat.com/presentations/bh-usa-09/MILLER/BHUSA09-Miller-FuzzingPhone-PAPER.pdf
 CVE-2009-2660 - https://bugs.gentoo.org/show_bug.cgi?id=276235
+CVE-2009-2663 - https://bugzilla.redhat.com/show_bug.cgi?id=516259
 CVE-2009-2670 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2671 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-2672 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
@@ -19318,6 +19319,7 @@ CVE-2014-8657 - http://packetstormsecurity.com/files/128860/CBN-CH6640E-CG6640E-
 CVE-2014-8657 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2014-5203.php
 CVE-2014-8658 - http://packetstormsecurity.com/files/128907/Confluence-RefinedWiki-Original-Theme-Cross-Site-Scripting.html
 CVE-2014-8658 - http://seclists.org/fulldisclosure/2014/Oct/126
+CVE-2014-8664 - http://service.sap.com/sap/support/notes/0001810405
 CVE-2014-8670 - http://packetstormsecurity.com/files/128958/vBulletin-4.2.1-Open-Redirect.html
 CVE-2014-8673 - http://packetstormsecurity.com/files/132654/Simple-Online-Planning-Tool-1.3.2-XSS-SQL-Injection-Traversal.html
 CVE-2014-8673 - http://seclists.org/fulldisclosure/2015/Jul/44
@@ -25200,6 +25202,7 @@ CVE-2017-1000477 - https://github.com/pravednik/xmlBundle
 CVE-2017-1000477 - https://github.com/pravednik/xmlBundle/issues/2
 CVE-2017-1000486 - https://github.com/primefaces/primefaces/issues/1152
 CVE-2017-1000486 - https://www.exploit-db.com/exploits/43733/
+CVE-2017-1000491 - https://github.com/rhysd/Shiba/issues/42
 CVE-2017-1000499 - http://cyberworldmirror.com/vulnerability-phpmyadmin-lets-attacker-perform-drop-table-single-click/
 CVE-2017-1000499 - https://www.exploit-db.com/exploits/45284/
 CVE-2017-1001000 - https://gist.github.com/leonjza/2244eb15510a0687ed93160c623762ab
@@ -37806,6 +37809,7 @@ CVE-2019-6509 - https://github.com/creditease-sec/insight/issues/42
 CVE-2019-6510 - https://github.com/creditease-sec/insight/issues/42
 CVE-2019-6543 - https://www.exploit-db.com/exploits/46342/
 CVE-2019-6545 - https://www.exploit-db.com/exploits/46342/
+CVE-2019-6551 - http://www.securityfocus.com/bid/107031
 CVE-2019-6555 - https://ics-cert.us-cert.gov/advisories/ICSA-19-050-03
 CVE-2019-6588 - http://packetstormsecurity.com/files/153252/Liferay-Portal-7.1-CE-GA4-Cross-Site-Scripting.html
 CVE-2019-6617 - https://github.com/mirchr/security-research/blob/master/vulnerabilities/F5/CVE-2019-6617.txt
@@ -46614,4 +46618,7 @@ CVE-2022-25297 - https://snyk.io/vuln/SNYK-UNMANAGED-DROGONFRAMEWORKDROGON-24072
 CVE-2022-25298 - https://snyk.io/vuln/SNYK-UNMANAGED-SPRINFALLWEBCC-2404182
 CVE-2022-25299 - https://snyk.io/vuln/SNYK-UNMANAGED-CESANTAMONGOOSE-2404180
 CVE-2022-25315 - https://github.com/libexpat/libexpat/pull/559
+CVE-2022-25329 - https://www.tenable.com/security/research/tra-2022-05
+CVE-2022-25330 - https://www.tenable.com/security/research/tra-2022-05
+CVE-2022-25331 - https://www.tenable.com/security/research/tra-2022-05
 CVE-2022-25375 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
