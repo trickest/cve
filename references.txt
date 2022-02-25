@@ -40836,6 +40836,7 @@ CVE-2020-2229 - http://packetstormsecurity.com/files/160443/Jenkins-2.235.3-Cros
 CVE-2020-2230 - http://packetstormsecurity.com/files/160443/Jenkins-2.235.3-Cross-Site-Scripting.html
 CVE-2020-2231 - http://packetstormsecurity.com/files/160616/Jenkins-2.251-LTS-2.235.3-Cross-Site-Scripting.html
 CVE-2020-22312 - https://github.com/wlx65003/HZNUOJ/issues/17
+CVE-2020-22352 - https://github.com/gpac/gpac/issues/1423
 CVE-2020-22425 - https://code610.blogspot.com/2020/04/postauth-sqli-in-centreon-1910-1el7.html,
 CVE-2020-22425 - https://github.com/c610/free/
 CVE-2020-22427 - https://code610.blogspot.com/2020/03/postauth-rce-bugs-in-nagiosxi-5611.html
@@ -40901,10 +40902,12 @@ CVE-2020-23161 - https://github.com/Outpost24/Pyrescom-Termod-PoC
 CVE-2020-23161 - https://outpost24.com/blog/multiple-vulnerabilities-discovered-in-Pyrescom-Termod4-smart-device
 CVE-2020-23162 - https://github.com/Outpost24/Pyrescom-Termod-PoC
 CVE-2020-23162 - https://outpost24.com/blog/multiple-vulnerabilities-discovered-in-Pyrescom-Termod4-smart-device
+CVE-2020-23171 - https://github.com/nim-lang/zip/issues/54
 CVE-2020-23172 - https://github.com/kuba--/zip/issues/123
 CVE-2020-23178 - https://github.com/PHPFusion/PHPFusion/issues/2314
 CVE-2020-23182 - https://github.com/phpfusion/PHPFusion/issues/2329
 CVE-2020-23214 - https://github.com/phpList/phplist3/issues/669
+CVE-2020-23217 - https://github.com/phpList/phplist3/issues/672
 CVE-2020-23266 - https://github.com/gpac/gpac/issues/1481
 CVE-2020-23267 - https://github.com/gpac/gpac/issues/1479
 CVE-2020-23269 - https://github.com/gpac/gpac/issues/1482
@@ -40960,6 +40963,7 @@ CVE-2020-23839 - https://www.exploit-db.com/exploits/49726
 CVE-2020-23849 - https://github.com/josdejong/jsoneditor/issues/1029
 CVE-2020-23851 - https://github.com/rockcarry/ffjpeg/issues/27
 CVE-2020-23852 - https://github.com/rockcarry/ffjpeg/issues/28
+CVE-2020-23856 - https://github.com/yangjiageng/PoC/blob/master/PoC_cflow_uaf_parser_line1284
 CVE-2020-23856 - https://lists.gnu.org/archive/html/bug-cflow/2020-07/msg00000.html
 CVE-2020-23861 - https://github.com/LibreDWG/libredwg/issues/248
 CVE-2020-23864 - http://daniels-it-blog.blogspot.com/2020/07/iobit-malware-fighter-arbitrary-code.html
