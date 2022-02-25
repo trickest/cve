@@ -2747,6 +2747,9 @@ CVE-2006-4424 - https://www.exploit-db.com/exploits/2254
 CVE-2006-4426 - https://www.exploit-db.com/exploits/2260
 CVE-2006-4427 - https://www.exploit-db.com/exploits/2255
 CVE-2006-4431 - http://marc.info/?l=full-disclosure&m=115642248226217&w=2
+CVE-2006-4431 - http://securityreason.com/securityalert/1466
+CVE-2006-4432 - http://securityreason.com/securityalert/1466
+CVE-2006-4433 - http://securityreason.com/securityalert/1466
 CVE-2006-4440 - https://www.exploit-db.com/exploits/2263
 CVE-2006-4445 - http://www.attrition.org/pipermail/vim/2006-August/001000.html
 CVE-2006-4446 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-067
@@ -24268,10 +24271,12 @@ CVE-2016-6662 - https://www.percona.com/blog/2016/09/12/percona-server-critical-
 CVE-2016-6663 - http://seclists.org/fulldisclosure/2016/Nov/4
 CVE-2016-6663 - https://legalhackers.com/advisories/MySQL-Maria-Percona-PrivEscRace-CVE-2016-6663-5616-Exploit.html
 CVE-2016-6663 - https://www.exploit-db.com/exploits/40678/
+CVE-2016-6663 - https://www.percona.com/blog/2016/11/02/percona-responds-to-cve-2016-6663-and-cve-2016-6664/
 CVE-2016-6664 - http://legalhackers.com/advisories/MySQL-Maria-Percona-RootPrivEsc-CVE-2016-6664-5617-Exploit.html
 CVE-2016-6664 - http://packetstormsecurity.com/files/139491/MySQL-MariaDB-PerconaDB-Root-Privilege-Escalation.html
 CVE-2016-6664 - http://seclists.org/fulldisclosure/2016/Nov/4
 CVE-2016-6664 - https://www.exploit-db.com/exploits/40679/
+CVE-2016-6664 - https://www.percona.com/blog/2016/11/02/percona-responds-to-cve-2016-6663-and-cve-2016-6664/
 CVE-2016-6668 - http://packetstormsecurity.com/files/139004/Atlassian-HipChat-Secret-Key-Disclosure.html
 CVE-2016-6671 - http://www.openwall.com/lists/oss-security/2016/08/12/6
 CVE-2016-6689 - https://www.exploit-db.com/exploits/40515/
@@ -46562,6 +46567,7 @@ CVE-2022-0726 - https://huntr.dev/bounties/8928ab08-7fcb-475e-8da7-18e8412c1ac3
 CVE-2022-0727 - https://huntr.dev/bounties/d1faa10f-0640-480c-bb52-089adb351e6e
 CVE-2022-0729 - https://huntr.dev/bounties/f3f3d992-7bd6-4ee5-a502-ae0e5f8016ea
 CVE-2022-0731 - https://huntr.dev/bounties/e242ab4e-fc70-4b2c-a42d-5b3ee4895de8
+CVE-2022-0746 - https://huntr.dev/bounties/b812ea22-0c02-46fe-b89f-04519dfb1ebd
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
