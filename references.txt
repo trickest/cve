@@ -458,6 +458,7 @@ CVE-2004-0771 - http://marc.info/?l=bugtraq&m=108668791510153
 CVE-2004-0775 - http://marc.info/?l=bugtraq&m=109223783402624&w=2
 CVE-2004-0790 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-019
 CVE-2004-0790 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-064
+CVE-2004-0791 - http://www.redhat.com/support/errata/RHSA-2005-017.html
 CVE-2004-0791 - http://www.securityfocus.com/archive/1/428028/100/0/threaded
 CVE-2004-0796 - http://bugzilla.redhat.com/bugzilla/show_bug.cgi?id=129337
 CVE-2004-0798 - https://www.exploit-db.com/exploits/566/
@@ -497,12 +498,15 @@ CVE-2004-1012 - http://marc.info/?l=bugtraq&m=110123023521619&w=2
 CVE-2004-1012 - http://security.e-matters.de/advisories/152004.html
 CVE-2004-1013 - http://marc.info/?l=bugtraq&m=110123023521619&w=2
 CVE-2004-1013 - http://security.e-matters.de/advisories/152004.html
+CVE-2004-1016 - http://www.redhat.com/support/errata/RHSA-2005-017.html
+CVE-2004-1017 - http://www.redhat.com/support/errata/RHSA-2005-017.html
 CVE-2004-1018 - http://marc.info/?l=bugtraq&m=110314318531298&w=2
 CVE-2004-1019 - http://marc.info/?l=bugtraq&m=110314318531298&w=2
 CVE-2004-1049 - http://marc.info/?l=bugtraq&m=110382891718076&w=2
 CVE-2004-1049 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-002
 CVE-2004-1050 - http://marc.info/?l=bugtraq&m=109942758911846&w=2
 CVE-2004-1052 - http://marc.info/?l=bugtraq&m=110011817627839&w=2
+CVE-2004-1057 - http://www.redhat.com/support/errata/RHSA-2005-017.html
 CVE-2004-1060 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-019
 CVE-2004-1061 - https://bugzilla.mozilla.org/show_bug.cgi?id=272620
 CVE-2004-1070 - http://www.isec.pl/vulnerabilities/isec-0017-binfmt_elf.txt
@@ -547,6 +551,8 @@ CVE-2004-1232 - http://marc.info/?l=bugtraq&m=110295777306493&w=2
 CVE-2004-1232 - http://www.man.poznan.pl/~security/gg-adv.txt
 CVE-2004-1233 - http://marc.info/?l=bugtraq&m=110295777306493&w=2
 CVE-2004-1233 - http://www.man.poznan.pl/~security/gg-adv.txt
+CVE-2004-1234 - http://www.redhat.com/support/errata/RHSA-2005-017.html
+CVE-2004-1235 - http://www.redhat.com/support/errata/RHSA-2005-017.html
 CVE-2004-1244 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-009
 CVE-2004-1305 - http://marc.info/?l=bugtraq&m=110382854111833&w=2
 CVE-2004-1305 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-002
@@ -561,6 +567,7 @@ CVE-2004-1329 - http://marc.info/?l=bugtraq&m=110355931920123&w=2
 CVE-2004-1329 - https://www.exploit-db.com/exploits/701
 CVE-2004-1330 - http://marc.info/?l=bugtraq&m=110355931920123&w=2
 CVE-2004-1331 - http://securityreason.com/securityalert/3220
+CVE-2004-1335 - http://www.redhat.com/support/errata/RHSA-2005-017.html
 CVE-2004-1361 - http://marc.info/?l=bugtraq&m=110383690219440&w=2
 CVE-2004-1392 - http://marc.info/?l=bugtraq&m=109898213806099&w=2
 CVE-2004-1395 - http://aluigi.altervista.org/adv/lithsock-adv.txt
@@ -729,6 +736,7 @@ CVE-2004-1983 - http://marc.info/?l=bugtraq&m=108360001130312&w=2
 CVE-2004-1983 - http://marc.info/?l=bugtraq&m=108420555920369&w=2
 CVE-2004-2003 - http://marc.info/?l=bugtraq&m=108386181021070&w=2
 CVE-2004-2012 - http://marc.info/?l=bugtraq&m=108432258920570&w=2
+CVE-2004-2014 - http://www.securityfocus.com/bid/10361
 CVE-2004-2017 - http://marc.info/?l=bugtraq&m=108481571131866&w=2
 CVE-2004-2033 - http://marc.info/?l=bugtraq&m=108559623703422&w=2
 CVE-2004-2037 - http://marc.info/?l=bugtraq&m=108577846011604&w=2
@@ -787,6 +795,8 @@ CVE-2004-2761 - http://www.phreedom.org/research/rogue-ca/
 CVE-2004-2761 - http://www.ubuntu.com/usn/usn-740-1
 CVE-2004-2761 - http://www.win.tue.nl/hashclash/SoftIntCodeSign/
 CVE-2004-2761 - http://www.win.tue.nl/hashclash/rogue-ca/
+CVE-2005-0001 - http://www.redhat.com/support/errata/RHSA-2005-017.html
+CVE-2005-0003 - http://www.redhat.com/support/errata/RHSA-2005-017.html
 CVE-2005-0022 - http://marc.info/?l=bugtraq&m=110824870908614&w=2
 CVE-2005-0023 - http://bugzilla.gnome.org/show_bug.cgi?id=317312
 CVE-2005-0044 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-012
@@ -21268,6 +21278,7 @@ CVE-2015-5481 - http://seclists.org/fulldisclosure/2015/Jul/53
 CVE-2015-5481 - https://security.dxw.com/advisories/reflected-xss-in-gd-bbpress-attachments-allows-an-attacker-to-do-almost-anything-an-admin-can/
 CVE-2015-5482 - https://packetstormsecurity.com/files/132656/wpgdbbpress-lfi.txt
 CVE-2015-5482 - https://security.dxw.com/advisories/local-file-include-vulnerability-in-gd-bbpress-attachments-allows-attackers-to-include-arbitrary-php-files/
+CVE-2015-5482 - https://wpvulndb.com/vulnerabilities/8087
 CVE-2015-5483 - http://packetstormsecurity.com/files/133349/WordPress-Private-Only-3.5.1-CSRF-Cross-Site-Scripting.html
 CVE-2015-5483 - http://seclists.org/fulldisclosure/2015/Aug/77
 CVE-2015-5483 - https://security.dxw.com/advisories/csrfxss-vulnerability-in-private-only-could-allow-an-attacker-to-do-almost-anything-an-admin-user-can/
@@ -29481,6 +29492,9 @@ CVE-2018-0975 - https://www.exploit-db.com/exploits/44458/
 CVE-2018-0980 - https://www.exploit-db.com/exploits/44653/
 CVE-2018-0982 - https://www.exploit-db.com/exploits/44888/
 CVE-2018-0986 - https://www.exploit-db.com/exploits/44402/
+CVE-2018-0988 - http://www.securityfocus.com/bid/103615
+CVE-2018-0991 - http://www.securityfocus.com/bid/103614
+CVE-2018-0997 - http://www.securityfocus.com/bid/103618
 CVE-2018-1000001 - http://seclists.org/oss-sec/2018/q1/38
 CVE-2018-1000001 - https://www.exploit-db.com/exploits/43775/
 CVE-2018-1000001 - https://www.exploit-db.com/exploits/44889/
@@ -29650,6 +29664,7 @@ CVE-2018-10106 - https://github.com/iceMatcha/Some-Vulnerabilities-of-D-link-Dir
 CVE-2018-10107 - https://github.com/iceMatcha/Some-Vulnerabilities-of-D-link-Dir815/blob/master/Vulnerabilities_Summary.md
 CVE-2018-10108 - https://github.com/iceMatcha/Some-Vulnerabilities-of-D-link-Dir815/blob/master/Vulnerabilities_Summary.md
 CVE-2018-10109 - https://www.exploit-db.com/exploits/44502/
+CVE-2018-1011 - http://www.securityfocus.com/bid/103611
 CVE-2018-10110 - http://packetstormsecurity.com/files/147184/D-Link-DIR-615-Cross-Site-Scripting.html
 CVE-2018-10110 - https://www.exploit-db.com/exploits/44473/
 CVE-2018-10111 - https://github.com/xiaoqx/pocs/tree/master/gegl
@@ -29675,6 +29690,7 @@ CVE-2018-10174 - http://packetstormsecurity.com/files/147260/Digital-Guardian-Ma
 CVE-2018-10175 - http://packetstormsecurity.com/files/147261/Digital-Guardian-Management-Console-7.1.2.0015-XXE-Injection.html
 CVE-2018-10176 - http://packetstormsecurity.com/files/147242/Digital-Guardian-Management-Console-7.1.2.0015-Arbitrary-File-Read.html
 CVE-2018-10177 - https://github.com/ImageMagick/ImageMagick/issues/1095
+CVE-2018-1018 - http://www.securityfocus.com/bid/103610
 CVE-2018-10183 - https://github.com/bigtreecms/BigTree-CMS/issues/333
 CVE-2018-10185 - https://github.com/yeyinshi/tuzicms/issues/1
 CVE-2018-10186 - https://github.com/radare/radare2/issues/9915
@@ -29682,6 +29698,7 @@ CVE-2018-10187 - https://github.com/radare/radare2/issues/9913
 CVE-2018-10188 - https://www.exploit-db.com/exploits/44496/
 CVE-2018-10191 - https://github.com/mruby/mruby/issues/3995
 CVE-2018-10197 - http://seclists.org/fulldisclosure/2018/Jul/29
+CVE-2018-1020 - http://www.securityfocus.com/bid/103612
 CVE-2018-10201 - http://www.kwell.net/kwell_blog/?p=5199
 CVE-2018-10201 - https://www.exploit-db.com/exploits/44497/
 CVE-2018-10221 - https://github.com/wuzhicms/wuzhicms/issues/129
@@ -29705,12 +29722,15 @@ CVE-2018-10258 - http://packetstormsecurity.com/files/147362/Shopy-Point-Of-Sale
 CVE-2018-10258 - https://www.exploit-db.com/exploits/44534/
 CVE-2018-10259 - http://packetstormsecurity.com/files/147383/HRSALE-The-Ultimate-HRM-1.0.2-Cross-Site-Scripting.html
 CVE-2018-10259 - https://www.exploit-db.com/exploits/44538/
+CVE-2018-1026 - http://www.securityfocus.com/bid/103613
 CVE-2018-10260 - http://packetstormsecurity.com/files/147382/HRSALE-The-Ultimate-HRM-1.0.2-Local-File-Inclusion.html
 CVE-2018-10260 - https://www.exploit-db.com/exploits/44539/
 CVE-2018-10266 - https://github.com/source-trace/beescms/issues/1
+CVE-2018-1027 - http://www.securityfocus.com/bid/103616
 CVE-2018-10285 - https://www.exploit-db.com/exploits/44515/
 CVE-2018-10286 - https://www.exploit-db.com/exploits/44515/
 CVE-2018-10289 - https://bugs.ghostscript.com/show_bug.cgi?id=699271
+CVE-2018-1029 - http://www.securityfocus.com/bid/103617
 CVE-2018-10294 - http://seclists.org/fulldisclosure/2018/May/3
 CVE-2018-10295 - https://github.com/chemcms/ChemCMS/issues/1
 CVE-2018-10309 - https://gist.github.com/B0UG/f0cfb356e23be3cd6ebea69566d6100a
@@ -34490,6 +34510,7 @@ CVE-2019-10009 - http://seclists.org/fulldisclosure/2019/Mar/47
 CVE-2019-10009 - https://seclists.org/fulldisclosure/2019/Mar/47
 CVE-2019-10009 - https://www.exploit-db.com/exploits/46611
 CVE-2019-10009 - https://www.exploit-db.com/exploits/46611/
+CVE-2019-10011 - https://medium.com/@mdavis332/higher-ed-erp-portal-vulnerability-create-your-own-accounts-d865bd22cdd8
 CVE-2019-10013 - http://packetstormsecurity.com/files/155500/axTLS-2.1.5-Denial-Of-Service.html
 CVE-2019-10013 - https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/advisories-504842
 CVE-2019-10018 - https://forum.xpdfreader.com/viewtopic.php?f=3&t=41276
@@ -35848,6 +35869,10 @@ CVE-2019-14750 - https://www.exploit-db.com/exploits/47226
 CVE-2019-14751 - https://github.com/mssalvatore/CVE-2019-14751_PoC
 CVE-2019-14751 - https://salvatoresecurity.com/zip-slip-in-nltk-cve-2019-14751/
 CVE-2019-1476 - http://packetstormsecurity.com/files/155653/AppXSvc-17763-Arbitrary-File-Overwrite.html
+CVE-2019-14765 - https://gist.github.com/sm0k/5de26614282669b0bcfa719b87c17305
+CVE-2019-14766 - https://gist.github.com/sm0k/5de26614282669b0bcfa719b87c17305
+CVE-2019-14767 - https://gist.github.com/sm0k/5de26614282669b0bcfa719b87c17305
+CVE-2019-14768 - https://gist.github.com/sm0k/5de26614282669b0bcfa719b87c17305
 CVE-2019-14782 - https://packetstormsecurity.com/files/155676/Control-Web-Panel-0.9.8.864-phpMyAdmin-Password-Disclosure.html
 CVE-2019-14783 - http://packetstormsecurity.com/files/154615/Samsung-Mobile-Android-FotaAgent-Arbitrary-File-Creation.html
 CVE-2019-14804 - http://packetstormsecurity.com/files/154018/UNA-10.0.0-RC1-Cross-Site-Scripting.html
@@ -36823,6 +36848,7 @@ CVE-2019-19035 - https://bugzilla.redhat.com/show_bug.cgi?id=1765647
 CVE-2019-19036 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19036
 CVE-2019-19044 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.11
 CVE-2019-19045 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.11
+CVE-2019-19045 - https://github.com/torvalds/linux/commit/c8c2a057fdc7de1cd16f4baa51425b932a42eb39
 CVE-2019-19047 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.11
 CVE-2019-19048 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.9
 CVE-2019-19049 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.10

@@ -27297,9 +27297,7 @@ CVE-2019-16996 - https://github.com/jweny/pocassistdb
 CVE-2019-16997 - https://github.com/0ps/pocassistdb
 CVE-2019-16997 - https://github.com/jweny/pocassistdb
 CVE-2019-17003 - https://github.com/arijitdirghanji/100DaysofLearning
-CVE-2019-17003 - https://github.com/bot8080/awesomeBugbounty
 CVE-2019-17003 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
-CVE-2019-17004 - https://github.com/bot8080/awesomeBugbounty
 CVE-2019-17004 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 CVE-2019-17006 - https://github.com/project-zot/zot
 CVE-2019-17026 - https://github.com/0xT11/CVE-POC
@@ -42781,20 +42779,6 @@ CVE-2021-32030 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-32099 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-32099 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-32172 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-32180 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32181 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32182 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32183 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32184 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32185 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32186 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32187 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32188 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32189 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32190 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32191 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32192 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-32193 - https://github.com/Yu3H0/IoT_CVE
 CVE-2021-32202 - https://github.com/l00neyhacker/CVE-2021-32202
 CVE-2021-32202 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3223 - https://github.com/ARPSyndicate/cvemon
@@ -42952,8 +42936,6 @@ CVE-2021-33357 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-3336 - https://github.com/boschresearch/pq-wolfSSL
 CVE-2021-3336 - https://github.com/onelife/Arduino_wolfssl
 CVE-2021-3336 - https://github.com/wolfssl-jp/wolfssl-private
-CVE-2021-33373 - https://github.com/Yu3H0/IoT_CVE
-CVE-2021-33374 - https://github.com/Yu3H0/IoT_CVE
 CVE-2021-33393 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-33403 - https://github.com/MRdoulestar/MRdoulestar
 CVE-2021-33403 - https://github.com/MRdoulestar/SC-RCVD
@@ -44270,6 +44252,7 @@ CVE-2021-40870 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-40875 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40875 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-40875 - https://github.com/SakuraSamuraii/derailed
+CVE-2021-40875 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-4089 - https://github.com/Haxatron/Haxatron
 CVE-2021-40904 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40904 - https://github.com/nomi-sec/PoC-in-GitHub
