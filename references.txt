@@ -10113,6 +10113,7 @@ CVE-2009-3103 - http://g-laurent.blogspot.com/2009/09/windows-vista7-smb20-negot
 CVE-2009-3103 - http://www.exploit-db.com/exploits/9594
 CVE-2009-3103 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-050
 CVE-2009-3111 - http://www.openwall.com/lists/oss-security/2009/09/09/1
+CVE-2009-3112 - http://www.oxidforge.org/wiki/Security_bulletins/2009-001
 CVE-2009-3114 - http://www.scip.ch/?vuldb.4021
 CVE-2009-3126 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-062
 CVE-2009-3127 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-067
@@ -11753,6 +11754,7 @@ CVE-2010-4570 - http://www.bugzilla.org/security/3.2.9/
 CVE-2010-4572 - http://www.bugzilla.org/security/3.2.9/
 CVE-2010-4588 - http://blogs.technet.com/b/srd/archive/2011/01/07/assessing-the-risk-of-public-issues-currently-being-tracked-by-the-msrc.aspx
 CVE-2010-4597 - http://www.exploit-db.com/exploits/15767
+CVE-2010-4604 - http://www.securityfocus.com/archive/1/515263/100/0/threaded
 CVE-2010-4607 - http://www.exploit-db.com/exploits/15799
 CVE-2010-4608 - http://www.exploit-db.com/exploits/15799
 CVE-2010-4609 - http://www.exploit-db.com/exploits/15800
@@ -36889,6 +36891,7 @@ CVE-2019-19198 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisorie
 CVE-2019-19199 - http://seclists.org/fulldisclosure/2020/Sep/49
 CVE-2019-19199 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2019-049.txt
 CVE-2019-19200 - http://packetstormsecurity.com/files/159455/MailDepot-2032-SP2-2.2.1242-Authorization-Bypass.html
+CVE-2019-19203 - https://github.com/ManhNDd/CVE-2019-19203
 CVE-2019-19203 - https://github.com/kkos/oniguruma/issues/163
 CVE-2019-19208 - http://packetstormsecurity.com/files/162753/Codiad-2.8.4-Remote-Code-Execution.html
 CVE-2019-19208 - https://herolab.usd.de/en/security-advisories/
@@ -42001,6 +42004,7 @@ CVE-2020-29282 - https://github.com/BigTiger2020/BloodX-CMS/blob/main/README.md
 CVE-2020-29282 - https://www.exploit-db.com/exploits/48786
 CVE-2020-29283 - https://github.com/BigTiger2020/Online-Doctor-Appointment-Booking-System-PHP/blob/main/README.md
 CVE-2020-29284 - https://www.exploit-db.com/exploits/48984
+CVE-2020-29285 - https://github.com/BigTiger2020/Point-of-Sales/blob/main/README.md
 CVE-2020-29287 - https://www.exploit-db.com/exploits/49056
 CVE-2020-29288 - https://www.exploit-db.com/exploits/48936
 CVE-2020-29303 - http://packetstormsecurity.com/files/160452/WordPress-DirectoriesPro-1.3.45-Cross-Site-Scripting.html
