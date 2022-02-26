@@ -11917,6 +11917,7 @@ CVE-2010-5299 - http://packetstormsecurity.com/files/125723/MicroP-0.1.1.1600-Bu
 CVE-2010-5300 - http://packetstormsecurity.com/files/126216/Jzip-2.0.0.132900-Buffer-Overflow.html
 CVE-2010-5300 - http://seclists.org/fulldisclosure/2010/Apr/79
 CVE-2010-5300 - http://www.exploit-db.com/exploits/32899
+CVE-2010-5312 - https://www.drupal.org/sa-core-2022-002
 CVE-2010-5322 - http://packetstormsecurity.com/files/130487/Zeuscart-4-Cross-Site-Scripting-SQL-Injection.html
 CVE-2010-5324 - http://tucanalamigo.blogspot.com/2010/04/pdc-de-zdi-10-078.html
 CVE-2010-5330 - https://www.exploit-db.com/exploits/14146
@@ -14511,6 +14512,11 @@ CVE-2013-0329 - http://www.cloudbees.com/jenkins-advisory/jenkins-security-advis
 CVE-2013-0330 - http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-02-16.cb
 CVE-2013-0331 - http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-02-16.cb
 CVE-2013-0338 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
+CVE-2013-0340 - http://seclists.org/fulldisclosure/2021/Sep/33
+CVE-2013-0340 - http://seclists.org/fulldisclosure/2021/Sep/34
+CVE-2013-0340 - http://seclists.org/fulldisclosure/2021/Sep/35
+CVE-2013-0340 - http://seclists.org/fulldisclosure/2021/Sep/38
+CVE-2013-0340 - http://seclists.org/fulldisclosure/2021/Sep/39
 CVE-2013-0351 - http://www.oracle.com/technetwork/topics/security/javacpufeb2013-1841061.html
 CVE-2013-0401 - http://www.oracle.com/technetwork/topics/security/javacpuapr2013-1928497.html
 CVE-2013-0402 - http://www.oracle.com/technetwork/topics/security/javacpuapr2013-1928497.html
@@ -22514,6 +22520,9 @@ CVE-2016-0728 - https://security.netapp.com/advisory/ntap-20160211-0001/
 CVE-2016-0728 - https://www.exploit-db.com/exploits/39277/
 CVE-2016-0729 - http://packetstormsecurity.com/files/135949/Apache-Xerces-C-XML-Parser-Buffer-Overflow.html
 CVE-2016-0736 - https://www.exploit-db.com/exploits/40961/
+CVE-2016-0742 - http://seclists.org/fulldisclosure/2021/Sep/36
+CVE-2016-0746 - http://seclists.org/fulldisclosure/2021/Sep/36
+CVE-2016-0747 - http://seclists.org/fulldisclosure/2021/Sep/36
 CVE-2016-0752 - https://www.exploit-db.com/exploits/40561/
 CVE-2016-0755 - http://packetstormsecurity.com/files/135695/Slackware-Security-Advisory-curl-Updates.html
 CVE-2016-0763 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
@@ -22923,6 +22932,9 @@ CVE-2016-1421 - https://tools.cisco.com/security/center/content/CiscoSecurityAdv
 CVE-2016-1421 - https://www.tenable.com/security/research/tra-2020-24
 CVE-2016-1446 - http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160714-wms
 CVE-2016-1447 - http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160714-wms1
+CVE-2016-1448 - http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160714-wms2
+CVE-2016-1449 - http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160714-wms3
+CVE-2016-1450 - http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160714-wms4
 CVE-2016-1464 - http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160831-meetings-player
 CVE-2016-1464 - https://www.exploit-db.com/exploits/40508/
 CVE-2016-1489 - http://packetstormsecurity.com/files/135378/Lenovo-ShareIT-Information-Disclosure-Hardcoded-Password.html
@@ -24337,6 +24349,7 @@ CVE-2016-7098 - http://lists.gnu.org/archive/html/bug-wget/2016-08/msg00083.html
 CVE-2016-7098 - http://lists.gnu.org/archive/html/bug-wget/2016-08/msg00134.html
 CVE-2016-7098 - https://www.exploit-db.com/exploits/40824/
 CVE-2016-7101 - http://www.openwall.com/lists/oss-security/2016/09/26/8
+CVE-2016-7103 - https://www.drupal.org/sa-core-2022-002
 CVE-2016-7103 - https://www.tenable.com/security/tns-2016-19
 CVE-2016-7119 - http://www.dnnsoftware.com/community/security/security-center
 CVE-2016-7124 - https://bugs.php.net/bug.php?id=72663
@@ -28657,6 +28670,7 @@ CVE-2017-7494 - https://www.exploit-db.com/exploits/42060/
 CVE-2017-7494 - https://www.exploit-db.com/exploits/42084/
 CVE-2017-7502 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2017-7515 - https://bugs.freedesktop.org/show_bug.cgi?id=101208
+CVE-2017-7529 - http://seclists.org/fulldisclosure/2021/Sep/36
 CVE-2017-7542 - https://help.ecostruxureit.com/display/public/UADCE725/Security+fixes+in+StruxureWare+Data+Center+Expert+v7.6.0
 CVE-2017-7544 - https://sourceforge.net/p/libexif/bugs/130/
 CVE-2017-7551 - https://pagure.io/389-ds-base/issue/49336
@@ -31173,6 +31187,7 @@ CVE-2018-15565 - https://github.com/daveismyname/simple-cms/issues/3
 CVE-2018-15568 - https://github.com/fmsdwifull/tp5cms/issues/3
 CVE-2018-15571 - https://hackpuntes.com/cve-2018-15571-wordpress-plugin-export-users-to-csv-1-1-1-csv-injection/
 CVE-2018-15571 - https://www.exploit-db.com/exploits/45206/
+CVE-2018-15573 - http://seclists.org/fulldisclosure/2021/Dec/18
 CVE-2018-15576 - http://packetstormsecurity.com/files/149018/Easylogin-Pro-1.3.0-Remote-Code-Execution.html
 CVE-2018-15576 - https://www.exploit-db.com/exploits/45227/
 CVE-2018-15586 - http://packetstormsecurity.com/files/152703/Johnny-You-Are-Fired.html
@@ -31518,6 +31533,9 @@ CVE-2018-16833 - http://packetstormsecurity.com/files/149436/ManageEngine-Deskto
 CVE-2018-16836 - https://www.exploit-db.com/exploits/45385/
 CVE-2018-16839 - https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2018-16839
 CVE-2018-16839 - https://github.com/curl/curl/commit/f3a24d7916b9173c69a3e0ee790102993833d6c5
+CVE-2018-16843 - http://seclists.org/fulldisclosure/2021/Sep/36
+CVE-2018-16844 - http://seclists.org/fulldisclosure/2021/Sep/36
+CVE-2018-16845 - http://seclists.org/fulldisclosure/2021/Sep/36
 CVE-2018-16858 - http://packetstormsecurity.com/files/152560/LibreOffice-Macro-Code-Execution.html
 CVE-2018-16858 - https://www.exploit-db.com/exploits/46727/
 CVE-2018-16864 - http://www.openwall.com/lists/oss-security/2021/07/20/2
@@ -37104,6 +37122,7 @@ CVE-2019-19614 - https://excellium-services.com/cert-xlm-advisory/
 CVE-2019-19615 - https://wiki.freepbx.org/display/FOP/List+of+Securities+Vulnerabilities
 CVE-2019-19631 - https://know.bishopfox.com/advisories
 CVE-2019-19632 - https://know.bishopfox.com/advisories
+CVE-2019-19634 - https://github.com/jra89/CVE-2019-19634
 CVE-2019-19634 - https://medium.com/@jra8908/cve-2019-19634-arbitrary-file-upload-in-class-upload-php-ccaf9e13875e
 CVE-2019-19642 - https://www.dark-sec.net/2019/12/supermicro-ipmi-exploitation.html
 CVE-2019-19646 - https://www.sqlite.org/
@@ -37350,6 +37369,7 @@ CVE-2019-20217 - https://medium.com/@s1kr10s/d-link-dir-859-rce-unauthenticated-
 CVE-2019-20217 - https://medium.com/@s1kr10s/d-link-dir-859-rce-unauthenticated-cve-2019-20216-cve-2019-20217-es-e11ca6168d35
 CVE-2019-20219 - https://github.com/miniupnp/ngiflib/issues/15
 CVE-2019-20224 - http://packetstormsecurity.com/files/155897/Pandora-7.0NG-Remote-Code-Execution.html
+CVE-2019-20326 - https://github.com/Fysac/CVE-2019-20326
 CVE-2019-20330 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2019-20334 - https://bugzilla.nasm.us/show_bug.cgi?id=3392548#c4
 CVE-2019-20334 - https://bugzilla.nasm.us/show_bug.cgi?id=3392638
@@ -37371,6 +37391,7 @@ CVE-2019-20365 - https://cybersecurityworks.com/zerodays/cve-2019-20365-openfire
 CVE-2019-20365 - https://issues.igniterealtime.org/browse/OF-1955
 CVE-2019-20366 - https://cybersecurityworks.com/zerodays/cve-2019-20366-openfire.html
 CVE-2019-20366 - https://issues.igniterealtime.org/browse/OF-1955
+CVE-2019-20372 - http://seclists.org/fulldisclosure/2021/Sep/36
 CVE-2019-20374 - https://github.com/typora/typora-issues/issues/3124
 CVE-2019-20384 - https://bugs.gentoo.org/692492
 CVE-2019-20388 - https://www.oracle.com/security-alerts/cpujul2020.html
@@ -38768,7 +38789,9 @@ CVE-2020-10220 - http://packetstormsecurity.com/files/156950/rConfig-3.9.4-searc
 CVE-2020-10220 - https://github.com/v1k1ngfr/exploits-rconfig/blob/master/rconfig_CVE-2020-10220.py
 CVE-2020-10220 - https://github.com/v1k1ngfr/exploits-rconfig/blob/master/rconfig_sqli.py
 CVE-2020-10221 - http://packetstormsecurity.com/files/156687/rConfig-3.93-Authenticated-Remote-Code-Execution.html
+CVE-2020-10222 - https://github.com/nafiez/nafiez.github.io/blob/master/_posts/2020-03-05-fuzzing-heap-corruption-nitro-pdf-vulnerability.md
 CVE-2020-10222 - https://nafiez.github.io/security/vulnerability/corruption/fuzzing/2020/03/05/fuzzing-heap-corruption-nitro-pdf-vulnerability.html
+CVE-2020-10223 - https://github.com/nafiez/nafiez.github.io/blob/master/_posts/2020-03-05-fuzzing-heap-corruption-nitro-pdf-vulnerability.md
 CVE-2020-10223 - https://nafiez.github.io/security/vulnerability/corruption/fuzzing/2020/03/05/fuzzing-heap-corruption-nitro-pdf-vulnerability.html
 CVE-2020-10224 - https://www.exploit-db.com/exploits/47887
 CVE-2020-10225 - https://www.exploit-db.com/exploits/47881
@@ -38927,6 +38950,7 @@ CVE-2020-10515 - https://herolab.usd.de/security-advisories/
 CVE-2020-10531 - https://unicode-org.atlassian.net/browse/ICU-20958
 CVE-2020-10532 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2020-001/-credential-disclosure-in-watchguard-fireware-ad-helper-component
 CVE-2020-1054 - http://packetstormsecurity.com/files/160515/Microsoft-Windows-DrawIconEx-Local-Privilege-Escalation.html
+CVE-2020-10567 - https://github.com/trippo/ResponsiveFilemanager/issues/600
 CVE-2020-10568 - https://medium.com/@arall/sitepress-multilingual-cms-wplugin-wpml-4-3-7-b-2-9c9486c13577
 CVE-2020-10569 - http://packetstormsecurity.com/files/157314/Sysaid-20.1.11-b26-Remote-Command-Execution.html
 CVE-2020-10596 - http://packetstormsecurity.com/files/157908/OpenCart-3.0.3.2-Cross-Site-Scripting.html
@@ -41281,6 +41305,7 @@ CVE-2020-25043 - https://support.kaspersky.com/general/vulnerability.aspx?el=124
 CVE-2020-25044 - https://support.kaspersky.com/general/vulnerability.aspx?el=12430#290720
 CVE-2020-25045 - https://support.kaspersky.com/general/vulnerability.aspx?el=12430#290720
 CVE-2020-25068 - https://www.youtube.com/watch?v=CLAHE0qUHXs
+CVE-2020-25071 - https://medium.com/@muffydium/a-tale-of-reflected-xss-to-stored-which-ultimately-resulted-into-a-cve-82981f8648d7
 CVE-2020-25106 - http://packetstormsecurity.com/files/160666/SUPREMO-4.1.3.2348-Privilege-Escalation.html
 CVE-2020-25106 - https://seclists.org/fulldisclosure/2020/Dec/42
 CVE-2020-2513 - https://www.oracle.com/security-alerts/cpujul2020.html
@@ -42399,6 +42424,26 @@ CVE-2020-36142 - https://muteb.io/2020/12/29/BloofoxCMS-Multiple-Vulnerabilities
 CVE-2020-36154 - https://www.exploit-db.com/exploits/49143
 CVE-2020-36197 - http://packetstormsecurity.com/files/162849/QNAP-MusicStation-MalwareRemover-File-Upload-Command-Injection.html
 CVE-2020-36198 - http://packetstormsecurity.com/files/162849/QNAP-MusicStation-MalwareRemover-File-Upload-Command-Injection.html
+CVE-2020-36221 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36221 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36222 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36222 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36223 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36223 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36224 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36224 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36225 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36225 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36226 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36226 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36227 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36227 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36228 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36228 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36229 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36229 - http://seclists.org/fulldisclosure/2021/May/65
+CVE-2020-36230 - http://seclists.org/fulldisclosure/2021/May/64
+CVE-2020-36230 - http://seclists.org/fulldisclosure/2021/May/65
 CVE-2020-36241 - https://gitlab.gnome.org/GNOME/gnome-autoar/-/issues/7
 CVE-2020-36284 - https://www.dropbox.com/s/6smwnbrp0kgsgrc/poc_code.py?dl=0
 CVE-2020-36285 - https://www.dropbox.com/s/6smwnbrp0kgsgrc/poc_code.py?dl=0
@@ -43704,6 +43749,7 @@ CVE-2021-22899 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/S
 CVE-2021-22900 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44784/?kA23Z000000boUWSAY
 CVE-2021-22911 - http://packetstormsecurity.com/files/162997/Rocket.Chat-3.12.1-NoSQL-Injection-Code-Execution.html
 CVE-2021-22911 - http://packetstormsecurity.com/files/163419/Rocket.Chat-3.12.1-NoSQL-Injection-Code-Execution.html
+CVE-2021-22925 - http://seclists.org/fulldisclosure/2021/Sep/39
 CVE-2021-22986 - http://packetstormsecurity.com/files/162059/F5-iControl-Server-Side-Request-Forgery-Remote-Command-Execution.html
 CVE-2021-22986 - http://packetstormsecurity.com/files/162066/F5-BIG-IP-16.0.x-Remote-Code-Execution.html
 CVE-2021-23024 - http://packetstormsecurity.com/files/163264/F5-BIG-IQ-VE-8.0.0-2923215-Remote-Root.html
@@ -43888,6 +43934,7 @@ CVE-2021-23673 - https://snyk.io/vuln/SNYK-JS-PEKEUPLOAD-1584360
 CVE-2021-23682 - https://snyk.io/vuln/SNYK-JS-LITESPEEDJS-2359250
 CVE-2021-23682 - https://snyk.io/vuln/SNYK-PHP-APPWRITESERVERCE-2401820
 CVE-2021-23700 - https://snyk.io/vuln/SNYK-JS-MERGEDEEP2-1727593
+CVE-2021-23702 - https://snyk.io/vuln/SNYK-JS-OBJECTEXTEND-2401470
 CVE-2021-23718 - https://snyk.io/vuln/SNYK-JS-SSRFAGENT-1584362
 CVE-2021-23727 - https://snyk.io/vuln/SNYK-PYTHON-CELERY-2314953
 CVE-2021-23760 - https://snyk.io/vuln/SNYK-JS-KEYGET-2342624
@@ -43915,6 +43962,8 @@ CVE-2021-23840 - https://kc.mcafee.com/corporate/index?page=content&id=SB10366
 CVE-2021-23840 - https://www.tenable.com/security/tns-2021-03
 CVE-2021-23840 - https://www.tenable.com/security/tns-2021-09
 CVE-2021-23840 - https://www.tenable.com/security/tns-2021-10
+CVE-2021-23841 - http://seclists.org/fulldisclosure/2021/May/67
+CVE-2021-23841 - http://seclists.org/fulldisclosure/2021/May/68
 CVE-2021-23841 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44846
 CVE-2021-23841 - https://www.tenable.com/security/tns-2021-03
 CVE-2021-23841 - https://www.tenable.com/security/tns-2021-09
@@ -44082,6 +44131,7 @@ CVE-2021-24727 - https://www.trustwave.com/en-us/resources/security-resources/se
 CVE-2021-24728 - https://www.trustwave.com/en-us/resources/security-resources/security-advisories/?fid=29172
 CVE-2021-24741 - https://medium.com/@lijohnjefferson/multiple-sql-injection-unauthenticated-in-support-board-v-3-3-3-3e9b4214a4f9
 CVE-2021-24750 - http://packetstormsecurity.com/files/165433/WordPress-WP-Visitor-Statistics-4.7-SQL-Injection.html
+CVE-2021-24762 - http://packetstormsecurity.com/files/166072/WordPress-Perfect-Survey-1.5.1-SQL-Injection.html
 CVE-2021-24833 - https://wpscan.com/vulnerability/7cb39087-fbab-463d-9592-003e3fca6d34
 CVE-2021-24862 - http://packetstormsecurity.com/files/165746/WordPress-RegistrationMagic-V-5.0.1.5-SQL-Injection.html
 CVE-2021-24900 - https://packetstormsecurity.com/files/164632/
@@ -44089,6 +44139,7 @@ CVE-2021-24915 - https://gist.github.com/tpmiller87/6c05596fe27dd6f69f1aaba4cbb9
 CVE-2021-24931 - http://packetstormsecurity.com/files/165946/WordPress-Secure-Copy-Content-Protection-And-Content-Locking-2.8.1-SQL-Injection.html
 CVE-2021-24946 - http://packetstormsecurity.com/files/165742/WordPress-Modern-Events-Calendar-6.1-SQL-Injection.html
 CVE-2021-24983 - https://wpscan.com/vulnerability/31fdabb0-bc74-4d25-b0cd-c872aae6cb2f
+CVE-2021-25076 - http://packetstormsecurity.com/files/166071/WordPress-WP-User-Frontend-3.5.25-SQL-Injection.html
 CVE-2021-25155 - http://packetstormsecurity.com/files/163522/Aruba-Instant-IAP-Remote-Code-Execution.html
 CVE-2021-25155 - http://packetstormsecurity.com/files/163524/Aruba-Instant-8.7.1.0-Arbitrary-File-Modification.html
 CVE-2021-25156 - http://packetstormsecurity.com/files/163522/Aruba-Instant-IAP-Remote-Code-Execution.html
@@ -44261,6 +44312,7 @@ CVE-2021-26296 - http://seclists.org/fulldisclosure/2021/Feb/66
 CVE-2021-26303 - https://packetstormsecurity.com/files/161114/Daily-Expense-Tracker-System-1.0-Cross-Site-Scripting.html
 CVE-2021-26304 - https://packetstormsecurity.com/files/161114/Daily-Expense-Tracker-System-1.0-Cross-Site-Scripting.html
 CVE-2021-26333 - http://packetstormsecurity.com/files/164202/AMD-Chipset-Driver-Information-Disclosure-Memory-Leak.html
+CVE-2021-26333 - http://seclists.org/fulldisclosure/2021/Sep/24
 CVE-2021-26414 - http://packetstormsecurity.com/files/163206/Windows-Kerberos-AppContainer-Enterprise-Authentication-Capability-Bypass.html
 CVE-2021-26419 - http://packetstormsecurity.com/files/162570/Internet-Explorer-jscript9.dll-Memory-Corruption.html
 CVE-2021-26549 - http://packetstormsecurity.com/files/161335/SmartFoxServer-2X-2.17.0-God-Mode-Console-WebSocket-Cross-Site-Scripting.html
@@ -44418,6 +44470,7 @@ CVE-2021-27368 - https://github.com/monicahq/monica/pull/4543
 CVE-2021-27369 - https://github.com/monicahq/monica/issues/4888
 CVE-2021-27369 - https://github.com/monicahq/monica/pull/4543
 CVE-2021-27370 - http://packetstormsecurity.com/files/161501/Monica-2.19.1-Cross-Site-Scripting.html
+CVE-2021-27370 - https://github.com/monicahq/monica/issues/4888
 CVE-2021-27371 - https://github.com/monicahq/monica/issues/4888
 CVE-2021-27371 - https://github.com/monicahq/monica/pull/4543
 CVE-2021-27405 - https://github.com/progfay/scrapbox-parser/pull/519
@@ -44530,6 +44583,8 @@ CVE-2021-28144 - http://packetstormsecurity.com/files/161757/D-Link-DIR-3060-1.1
 CVE-2021-28144 - http://seclists.org/fulldisclosure/2021/Mar/23
 CVE-2021-28153 - https://gitlab.gnome.org/GNOME/glib/-/issues/2325
 CVE-2021-28155 - https://dl.packetstormsecurity.net/papers/general/braktooth.pdf
+CVE-2021-28160 - https://blog-ssh3ll.medium.com/acexy-wireless-n-wifi-repeater-vulnerabilities-8bd5d14a2990
+CVE-2021-28161 - https://github.com/eclipse-theia/theia/issues/8794
 CVE-2021-28164 - http://packetstormsecurity.com/files/164590/Jetty-9.4.37.v20210219-Information-Disclosure.html
 CVE-2021-28211 - https://bugzilla.tianocore.org/show_bug.cgi?id=1816
 CVE-2021-28233 - https://github.com/brackeen/ok-file-formats/issues/11
@@ -44587,6 +44642,8 @@ CVE-2021-28807 - https://www.shielder.it/advisories/qnap-qcenter-virtual-stored-
 CVE-2021-28903 - https://github.com/CESNET/libyang/issues/1453
 CVE-2021-28927 - http://libretro.com
 CVE-2021-28935 - http://packetstormsecurity.com/files/162287/CMS-Made-Simple-2.2.15-Cross-Site-Scripting.html
+CVE-2021-28936 - https://blog-ssh3ll.medium.com/acexy-wireless-n-wifi-repeater-vulnerabilities-8bd5d14a2990
+CVE-2021-28937 - https://blog-ssh3ll.medium.com/acexy-wireless-n-wifi-repeater-vulnerabilities-8bd5d14a2990
 CVE-2021-28950 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.11.8
 CVE-2021-28958 - https://blog.stmcyber.com/vulns/cve-2021-28958/
 CVE-2021-28958 - https://www.manageengine.com
@@ -44746,6 +44803,17 @@ CVE-2021-30603 - http://packetstormsecurity.com/files/164259/Chrome-HRTFDatabase
 CVE-2021-30625 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2021-1352
 CVE-2021-30637 - http://packetstormsecurity.com/files/162195/htmly-2.8.0-Cross-Site-Scripting.html
 CVE-2021-30639 - https://kc.mcafee.com/corporate/index?page=content&id=SB10366
+CVE-2021-30858 - http://seclists.org/fulldisclosure/2021/Sep/25
+CVE-2021-30858 - http://seclists.org/fulldisclosure/2021/Sep/27
+CVE-2021-30858 - http://seclists.org/fulldisclosure/2021/Sep/29
+CVE-2021-30858 - http://seclists.org/fulldisclosure/2021/Sep/38
+CVE-2021-30858 - http://seclists.org/fulldisclosure/2021/Sep/39
+CVE-2021-30860 - http://seclists.org/fulldisclosure/2021/Sep/25
+CVE-2021-30860 - http://seclists.org/fulldisclosure/2021/Sep/26
+CVE-2021-30860 - http://seclists.org/fulldisclosure/2021/Sep/27
+CVE-2021-30860 - http://seclists.org/fulldisclosure/2021/Sep/28
+CVE-2021-30860 - http://seclists.org/fulldisclosure/2021/Sep/38
+CVE-2021-30860 - http://seclists.org/fulldisclosure/2021/Sep/39
 CVE-2021-30917 - http://packetstormsecurity.com/files/165075/Apple-ColorSync-CMMNDimLinear-Interpolate-Uninitialized-Memory.html
 CVE-2021-30934 - http://www.openwall.com/lists/oss-security/2022/01/21/2
 CVE-2021-30936 - http://www.openwall.com/lists/oss-security/2022/01/21/2
@@ -45079,11 +45147,14 @@ CVE-2021-3278 - https://www.exploit-db.com/exploits/49163
 CVE-2021-32816 - https://securitylab.github.com/advisories/GHSL-2021-027-redos-ProtonMail/
 CVE-2021-32817 - https://securitylab.github.com/advisories/GHSL-2021-019-express-hbs/
 CVE-2021-32818 - https://securitylab.github.com/advisories/GHSL-2021-025-haml-coffee/
+CVE-2021-32819 - https://securitylab.github.com/advisories/GHSL-2021-023-squirrelly/
+CVE-2021-32820 - https://securitylab.github.com/advisories/GHSL-2021-018-express-handlebars/
 CVE-2021-32822 - https://securitylab.github.com/advisories/GHSL-2021-020-pillarjs-hbs/
 CVE-2021-32825 - https://securitylab.github.com/advisories/GHSL-2020-258-zipslip-bblfshd/
 CVE-2021-32826 - https://securitylab.github.com/advisories/GHSL-2021-053-proxyee-down/
 CVE-2021-32827 - https://securitylab.github.com/advisories/GHSL-2021-059-mockserver/
 CVE-2021-32829 - https://blog.orange.tw/2019/02/abusing-meta-programming-for-unauthenticated-rce.html
+CVE-2021-32829 - https://securitylab.github.com/advisories/GHSL-2021-065-zstack/
 CVE-2021-32830 - https://securitylab.github.com/advisories/GHSL-2021-061-diez-generation-cmd-injection/
 CVE-2021-32831 - https://securitylab.github.com/advisories/GHSL-2021-066-totaljs-totaljs/
 CVE-2021-32833 - https://securitylab.github.com/advisories/GHSL-2021-051-emby/
@@ -45390,6 +45461,7 @@ CVE-2021-35941 - https://www.westerndigital.com/support/productsecurity/wdc-2100
 CVE-2021-35956 - http://packetstormsecurity.com/files/163343/AKCP-sensorProbe-SPX476-Cross-Site-Scripting.html
 CVE-2021-35956 - https://tbutler.org/2021/06/28/cve-2021-35956
 CVE-2021-35957 - https://advisories.stormshield.eu
+CVE-2021-3596 - https://github.com/ImageMagick/ImageMagick/issues/2624
 CVE-2021-35973 - https://gynvael.coldwind.pl/?lang=en&id=736
 CVE-2021-3612 - https://lore.kernel.org/linux-input/20210620120030.1513655-1-avlarkin82@gmail.com/
 CVE-2021-36159 - https://gitlab.alpinelinux.org/alpine/apk-tools/-/issues/10749
@@ -45407,6 +45479,8 @@ CVE-2021-36387 - http://packetstormsecurity.com/files/164515/Yellowfin-Cross-Sit
 CVE-2021-36387 - https://packetstormsecurity.com/files/164515/Yellowfin-Cross-Site-Scripting-Insecure-Direct-Object-Reference.html
 CVE-2021-36388 - https://packetstormsecurity.com/files/164515/Yellowfin-Cross-Site-Scripting-Insecure-Direct-Object-Reference.html
 CVE-2021-36389 - http://packetstormsecurity.com/files/164515/Yellowfin-Cross-Site-Scripting-Insecure-Direct-Object-Reference.html
+CVE-2021-36412 - https://github.com/gpac/gpac/issues/1838
+CVE-2021-3645 - https://huntr.dev/bounties/ef387a9e-ca3c-4c21-80e3-d34a6a896262
 CVE-2021-36450 - https://medium.com/@1nf0sk/cve-2021-36450-cross-site-scripting-xss-6f5d8d7db740
 CVE-2021-36450 - https://sushantvkamble.blogspot.com/2021/11/cross-site-scripting-xss.html
 CVE-2021-3646 - https://huntr.dev/bounties/32e30ecf-31fa-45f6-8552-47250ef0e613
@@ -45420,6 +45494,7 @@ CVE-2021-36623 - https://www.exploit-db.com/exploits/50106
 CVE-2021-36624 - https://www.exploit-db.com/exploits/50105
 CVE-2021-3664 - https://huntr.dev/bounties/1625557993985-unshiftio/url-parse
 CVE-2021-36654 - http://packetstormsecurity.com/files/163737/CMSuno-1.7-Cross-Site-Scripting.html
+CVE-2021-3666 - https://huntr.dev/bounties/1-other-fiznool/body-parser-xml
 CVE-2021-36690 - https://www.sqlite.org/forum/forumpost/718c0a8d17
 CVE-2021-36695 - https://www.r29k.com/articles/bb/stored-xss-in-deskpro#anchor1
 CVE-2021-36696 - https://www.r29k.com/articles/bb/stored-xss-in-deskpro#anchor2
@@ -45428,6 +45503,7 @@ CVE-2021-36706 - https://www.ayrx.me/prolink-prc2402m-multiple-vulnerabilities/#
 CVE-2021-36707 - https://www.ayrx.me/prolink-prc2402m-multiple-vulnerabilities/#ledonoff-command-injection
 CVE-2021-36708 - https://www.ayrx.me/prolink-prc2402m-multiple-vulnerabilities/#sysinit-password-reset
 CVE-2021-36748 - https://blog.sorcery.ie
+CVE-2021-36748 - https://blog.sorcery.ie/posts/ph_simpleblog_sqli/
 CVE-2021-36762 - https://www.kb.cert.org/vuls/id/608209
 CVE-2021-36766 - http://packetstormsecurity.com/files/163564/Concrete5-8.5.5-Phar-Deserialization.html
 CVE-2021-36773 - https://news.ycombinator.com/item?id=27833752
@@ -45454,6 +45530,7 @@ CVE-2021-3709 - https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1934308
 CVE-2021-3710 - https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1933832
 CVE-2021-3712 - https://kc.mcafee.com/corporate/index?page=content&id=SB10366
 CVE-2021-37144 - https://github.com/cskaza/cszcms/issues/32
+CVE-2021-37145 - https://support.polycom.com/content/support.html
 CVE-2021-37157 - https://www.exploit-db.com/exploits/50373
 CVE-2021-37158 - https://www.exploit-db.com/exploits/50373
 CVE-2021-37220 - https://bugs.ghostscript.com/show_bug.cgi?id=703791
@@ -45485,8 +45562,11 @@ CVE-2021-37402 - http://seclists.org/fulldisclosure/2021/Jul/33
 CVE-2021-37403 - http://seclists.org/fulldisclosure/2021/Jul/33
 CVE-2021-37412 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2021-040.txt
 CVE-2021-37415 - https://www.manageengine.com
+CVE-2021-37416 - https://blog.stmcyber.com/vulns/cve-2021-37416/
+CVE-2021-37417 - https://blog.stmcyber.com/vulns/cve-2021-37417/
 CVE-2021-37419 - https://www.manageengine.com
 CVE-2021-37420 - https://www.manageengine.com
+CVE-2021-37421 - https://blog.stmcyber.com/vulns/cve-2021-37421/
 CVE-2021-37424 - https://www.manageengine.com
 CVE-2021-37425 - http://seclists.org/fulldisclosure/2021/Aug/12
 CVE-2021-37425 - https://www.redteam-pentesting.de/advisories/rt-sa-2021-002
@@ -45852,6 +45932,7 @@ CVE-2021-3963 - https://huntr.dev/bounties/3abf308b-7dbd-4864-b1a9-5c45b876def8
 CVE-2021-3968 - https://huntr.dev/bounties/00d62924-a7b4-4a61-ba29-acab2eaa1528
 CVE-2021-3973 - https://huntr.dev/bounties/ce6e8609-77c6-4e17-b9fc-a2e5abed052e
 CVE-2021-3974 - https://huntr.dev/bounties/e402cb2c-8ec4-4828-a692-c95f8e0de6d4
+CVE-2021-3976 - https://huntr.dev/bounties/0567048a-118c-42ec-9f94-b55533017406
 CVE-2021-3977 - https://huntr.dev/bounties/99c4ed09-b66f-474a-bd74-eeccf9339fde
 CVE-2021-3980 - https://huntr.dev/bounties/1f43f11e-4bd8-451f-a244-dc9541cdc0ac
 CVE-2021-3983 - https://huntr.dev/bounties/c96f3480-dccf-4cc2-99a4-d2b3a7462413
@@ -45975,13 +46056,16 @@ CVE-2021-41090 - https://github.com/grafana/agent/pull/1152
 CVE-2021-4110 - https://huntr.dev/bounties/4ce5dc47-2512-4c87-8609-453adc8cad20
 CVE-2021-4111 - https://huntr.dev/bounties/8afc8981-baff-4082-b640-be535b29eb9a
 CVE-2021-41110 - https://www.fatalerrors.org/a/analysis-of-the-snakeyaml-deserialization-in-java-security.html
+CVE-2021-4115 - https://gitlab.freedesktop.org/polkit/polkit/-/issues/141
 CVE-2021-4116 - https://huntr.dev/bounties/7561bae7-9053-4dc8-aa59-b71acfb1712c
 CVE-2021-41168 - https://github.com/reddit/snudown/security/advisories/GHSA-6gvv-9q92-w5f6
 CVE-2021-41171 - https://www.exploit-db.com/docs/50436
 CVE-2021-4118 - https://huntr.dev/bounties/31832f0c-e5bb-4552-a12c-542f81f111e6
 CVE-2021-41182 - https://www.drupal.org/sa-contrib-2022-004
 CVE-2021-41182 - https://www.drupal.org/sa-core-2022-002
+CVE-2021-41183 - https://www.drupal.org/sa-contrib-2022-004
 CVE-2021-41183 - https://www.drupal.org/sa-core-2022-001
+CVE-2021-41183 - https://www.drupal.org/sa-core-2022-002
 CVE-2021-41184 - https://www.drupal.org/sa-core-2022-001
 CVE-2021-4119 - https://huntr.dev/bounties/135f2d7d-ab0b-4351-99b9-889efac46fca
 CVE-2021-4121 - https://huntr.dev/bounties/6da878de-acdb-4b97-b9ff-9674c3f0881d
@@ -45997,6 +46081,7 @@ CVE-2021-41314 - https://gynvael.coldwind.pl/?id=742
 CVE-2021-41318 - http://packetstormsecurity.com/files/164359/WhatsUpGold-21.0.3-Cross-Site-Scripting.html
 CVE-2021-4132 - https://huntr.dev/bounties/7eb80e7c-bb7a-478d-9760-0ea2fa9dc0c2
 CVE-2021-41322 - https://packetstormsecurity.com/files/140753/Polycom-VVX-Web-Interface-Privilege-Escalation.html
+CVE-2021-41322 - https://support.polycom.com/content/support.html
 CVE-2021-41323 - https://charonv.net/Pydio-Broken-Access-Control/
 CVE-2021-41324 - https://charonv.net/Pydio-Broken-Access-Control/
 CVE-2021-41325 - https://charonv.net/Pydio-Broken-Access-Control/
@@ -46104,6 +46189,7 @@ CVE-2021-42099 - https://www.manageengine.com
 CVE-2021-42110 - https://excellium-services.com/cert-xlm-advisory/CVE-2021-42110
 CVE-2021-42112 - https://www.on-x.com/sites/default/files/on-x_-_security_advisory_-_limesurvey_-_cve-2021-42112.pdf
 CVE-2021-42168 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/oretnom23/CVE-nu11-17-092921
+CVE-2021-42169 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/oretnom23/CVE-nu11-21-100521
 CVE-2021-42169 - https://www.exploit-db.com/exploits/50403
 CVE-2021-42216 - https://huntr.dev/bounties/419f4e8a-ee15-4f80-bcbf-5c83513515dd
 CVE-2021-42220 - https://packetstormsecurity.com/files/164544/Dolibarr-ERP-CRM-14.0.2-Cross-Site-Scripting-Privilege-Escalation.html
@@ -46113,6 +46199,7 @@ CVE-2021-42224 - http://packetstormsecurity.com/files/164514/IFSC-Code-Finder-Pr
 CVE-2021-42224 - https://www.exploit-db.com/exploits/50391
 CVE-2021-42237 - http://packetstormsecurity.com/files/164988/Sitecore-Experience-Platform-XP-Remote-Code-Execution.html
 CVE-2021-42252 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.14.6
+CVE-2021-42321 - http://packetstormsecurity.com/files/166153/Microsoft-Exchange-Server-Remote-Code-Execution.html
 CVE-2021-42325 - http://packetstormsecurity.com/files/164800/Froxlor-0.10.29.1-SQL-Injection.html
 CVE-2021-42325 - https://www.exploit-db.com/exploits/50502
 CVE-2021-42362 - http://packetstormsecurity.com/files/165376/WordPress-Popular-Posts-5.3.2-Remote-Code-Execution.html
@@ -46148,6 +46235,7 @@ CVE-2021-42664 - http://packetstormsecurity.com/files/164618/Engineers-Online-Po
 CVE-2021-42664 - https://www.exploit-db.com/exploits/50451
 CVE-2021-42665 - https://www.exploit-db.com/exploits/50452
 CVE-2021-42666 - https://www.exploit-db.com/exploits/50453
+CVE-2021-42670 - https://github.com/TheHackingRabbi/CVE-2021-42670
 CVE-2021-42681 - https://www.sentinelone.com/labs/usb-over-ethernet-multiple-privilege-escalation-vulnerabilities-in-aws-and-other-major-cloud-services/
 CVE-2021-42682 - https://www.sentinelone.com/labs/usb-over-ethernet-multiple-privilege-escalation-vulnerabilities-in-aws-and-other-major-cloud-services/
 CVE-2021-42683 - https://www.sentinelone.com/labs/usb-over-ethernet-multiple-privilege-escalation-vulnerabilities-in-aws-and-other-major-cloud-services/
@@ -46197,6 +46285,7 @@ CVE-2021-43043 - https://helpdesk.kaseya.com/hc/en-gb/articles/4412762258961
 CVE-2021-43044 - https://helpdesk.kaseya.com/hc/en-gb/articles/4412762258961
 CVE-2021-43056 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.14.15
 CVE-2021-43057 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.14.8
+CVE-2021-43062 - http://packetstormsecurity.com/files/166055/Fortinet-Fortimail-7.0.1-Cross-Site-Scripting.html
 CVE-2021-43113 - https://pastebin.com/BXnkY9YY
 CVE-2021-43130 - https://github.com/nu11secur1ty/CVE-mitre/tree/main/CVE-2021-43130
 CVE-2021-43130 - https://www.exploit-db.com/exploits/50158
@@ -46217,6 +46306,7 @@ CVE-2021-43339 - https://www.exploit-db.com/exploits/50469
 CVE-2021-43389 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.14.15
 CVE-2021-43396 - https://sourceware.org/bugzilla/show_bug.cgi?id=28524
 CVE-2021-43397 - http://packetstormsecurity.com/files/164997/LiquidFiles-3.5.13-Privilege-Escalation.html
+CVE-2021-43399 - https://blog.inhq.net/posts/yubico-yubihsm-shell-vuln3/
 CVE-2021-43405 - http://packetstormsecurity.com/files/164795/FusionPBX-4.5.29-Remote-Code-Execution.html
 CVE-2021-43409 - https://appcheck-ng.com/wordpress-microsoft-office-365-azure-ad-login-persistent-cross-site-scripting/
 CVE-2021-43409 - https://www.wpo365.com/change-log/
@@ -46260,6 +46350,8 @@ CVE-2021-44042 - https://docs.uipath.com/robot/docs/uipath-assistant
 CVE-2021-44043 - https://docs.uipath.com/apps/v2021.10/docs/2021-10-1
 CVE-2021-44043 - https://docs.uipath.com/robot/docs/uipath-assistant
 CVE-2021-44077 - http://packetstormsecurity.com/files/165400/ManageEngine-ServiceDesk-Plus-Remote-Code-Execution.html
+CVE-2021-44114 - https://medium.com/@mayhem7999/cve-2021-44114-957145c1773
+CVE-2021-44142 - https://bugzilla.samba.org/show_bug.cgi?id=14914
 CVE-2021-44151 - http://packetstormsecurity.com/files/165191/Reprise-License-Manager-14.2-Session-Hijacking.html
 CVE-2021-44152 - http://packetstormsecurity.com/files/165186/Reprise-License-Manager-14.2-Unauthenticated-Password-Change.html
 CVE-2021-44153 - http://packetstormsecurity.com/files/165194/Reprise-License-Manager-14.2-Remote-Binary-Execution.html
@@ -46286,6 +46378,8 @@ CVE-2021-44427 - https://gitlab.com/francoisjacquet/rosariosis/-/issues/328
 CVE-2021-44428 - https://www.exploit-db.com/exploits/50535
 CVE-2021-44429 - https://packetstormsecurity.com/files/165058/Serva-4.4.0-TFTP-Remote-Buffer-Overflow.html
 CVE-2021-44521 - https://jfrog.com/blog/cve-2021-44521-exploiting-apache-cassandra-user-defined-functions-for-remote-code-execution/
+CVE-2021-44565 - https://gitlab.com/francoisjacquet/rosariosis/-/issues/307
+CVE-2021-44567 - https://gitlab.com/francoisjacquet/rosariosis/-/issues/308
 CVE-2021-44648 - https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/issues/136
 CVE-2021-44648 - https://sahildhar.github.io/blogpost/GdkPixbuf-Heap-Buffer-Overflow-in-lzw_decoder_new/
 CVE-2021-44649 - https://sahildhar.github.io/blogpost/Django-CMS-Reflected-XSS-Vulnerability/
@@ -46294,9 +46388,13 @@ CVE-2021-44653 - https://www.exploit-db.com/exploits/50561
 CVE-2021-44655 - https://www.exploit-db.com/exploits/50560
 CVE-2021-44657 - https://podalirius.net/en/articles/python-vulnerabilities-code-execution-in-jinja-templates/
 CVE-2021-44659 - https://youtu.be/WW_a3znugl0
+CVE-2021-44663 - https://riklutz.nl/2021/10/30/unauthenticated-file-upload-to-remote-code-execution-in-xerte/
+CVE-2021-44664 - https://riklutz.nl/2021/11/03/authenticated-file-upload-to-remote-code-execution-in-xerte/
 CVE-2021-44676 - https://www.manageengine.com
 CVE-2021-44686 - https://bugs.launchpad.net/calibre/+bug/1951979
 CVE-2021-44692 - https://www.cygenta.co.uk/post/buddyboss
+CVE-2021-44730 - http://www.openwall.com/lists/oss-security/2022/02/23/1
+CVE-2021-44731 - http://www.openwall.com/lists/oss-security/2022/02/23/1
 CVE-2021-44829 - http://packetstormsecurity.com/files/165684/WebACMS-2.1.0-Cross-Site-Scripting.html
 CVE-2021-44829 - http://seclists.org/fulldisclosure/2022/Jan/41
 CVE-2021-44829 - https://blog.to.com/advisory-webacms-2-1-0-cross-site-scripting/
@@ -46322,6 +46420,7 @@ CVE-2021-45085 - https://gitlab.gnome.org/GNOME/epiphany/-/issues/1612
 CVE-2021-45086 - https://gitlab.gnome.org/GNOME/epiphany/-/issues/1612
 CVE-2021-45087 - https://gitlab.gnome.org/GNOME/epiphany/-/issues/1612
 CVE-2021-45088 - https://gitlab.gnome.org/GNOME/epiphany/-/issues/1612
+CVE-2021-45092 - http://packetstormsecurity.com/files/166068/Thinfinity-VirtualUI-2.5.41.0-IFRAME-Injection.html
 CVE-2021-45098 - https://redmine.openinfosecfoundation.org/issues/4710
 CVE-2021-45105 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
 CVE-2021-45222 - https://appsource.microsoft.com/en-us/product/web-apps/constructionindustrysolutionslimited-5057232.coinsconstructioncloud?tab=overview
@@ -46421,6 +46520,7 @@ CVE-2021-46201 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vend
 CVE-2021-46203 - https://github.com/taogogo/taocms/issues/13
 CVE-2021-46204 - https://github.com/taogogo/taocms/issues/14
 CVE-2021-46243 - https://github.com/HDFGroup/hdf5/issues/1326
+CVE-2021-46247 - https://drive.google.com/drive/folders/1lSaxWKiNKRkeZxQanEMpt906aUgDGUk_?usp=sharing
 CVE-2021-46255 - https://github.com/eyoucms/eyoucms/issues/21
 CVE-2021-46283 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.12.13
 CVE-2021-46307 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/Projectworlds/2022/Online%20Examination%20System
@@ -46447,8 +46547,11 @@ CVE-2021-46345 - https://github.com/jerryscript-project/jerryscript/issues/4920
 CVE-2021-46346 - https://github.com/jerryscript-project/jerryscript/issues/4939
 CVE-2021-46349 - https://github.com/jerryscript-project/jerryscript/issues/4937
 CVE-2021-46350 - https://github.com/jerryscript-project/jerryscript/issues/4936
+CVE-2021-46354 - http://packetstormsecurity.com/files/166069/Thinfinity-VirtualUI-2.5.26.2-Information-Disclosure.html
 CVE-2021-46355 - https://medium.com/@windsormoreira/ocs-inventory-2-9-1-cross-site-scripting-xss-cve-2021-46355-a88d72606b7e
+CVE-2021-46368 - https://packetstormsecurity.com/files/165404/TRIGONE-Remote-System-Monitor-3.61-Unquoted-Service-Path.html
 CVE-2021-46368 - https://www.exploit-db.com/exploits/50633
+CVE-2021-46372 - https://www.huntr.dev/bounties/eb681144-04f2-4eaa-98b6-c8cffbcb1601/
 CVE-2021-46388 - https://drive.google.com/drive/folders/1FDtxZayLeSITcqP72c7FsTOpAFGFePVE
 CVE-2021-46398 - http://packetstormsecurity.com/files/165885/FileBrowser-2.17.2-Code-Execution-Cross-Site-Request-Forgery.html
 CVE-2021-46398 - https://febin0x4e4a.blogspot.com/2022/01/critical-csrf-in-filebrowser.html
@@ -46458,6 +46561,7 @@ CVE-2021-46398 - https://systemweakness.com/critical-csrf-to-rce-in-filebrowser-
 CVE-2021-46427 - https://www.exploit-db.com/exploits/50673
 CVE-2021-46428 - https://cxsecurity.com/issue/WLB-2022010093
 CVE-2021-46428 - https://www.exploit-db.com/exploits/50672
+CVE-2021-46462 - https://github.com/nginx/njs/issues/449
 CVE-2021-46474 - https://github.com/pcmacdon/jsish/issues/57
 CVE-2021-46481 - https://github.com/pcmacdon/jsish/issues/55
 CVE-2021-46504 - https://github.com/pcmacdon/jsish/issues/51
@@ -46628,12 +46732,15 @@ CVE-2022-0714 - https://huntr.dev/bounties/db70e8db-f309-4f3c-986c-e69d2415c3b3
 CVE-2022-0717 - https://huntr.dev/bounties/27a851a5-7ebf-409b-854f-b2614771e8f9
 CVE-2022-0719 - https://huntr.dev/bounties/bcdce15b-7f40-4971-a061-c25c6053c312
 CVE-2022-0721 - https://huntr.dev/bounties/ae267d39-9750-4c69-be8b-4f915da089fb
+CVE-2022-0723 - https://huntr.dev/bounties/16b0547b-1bb3-493c-8a00-5b6a11fca1c5
 CVE-2022-0724 - https://huntr.dev/bounties/0cdc4a29-dada-4264-b326-8b65b4f11062
 CVE-2022-0726 - https://huntr.dev/bounties/8928ab08-7fcb-475e-8da7-18e8412c1ac3
 CVE-2022-0727 - https://huntr.dev/bounties/d1faa10f-0640-480c-bb52-089adb351e6e
 CVE-2022-0729 - https://huntr.dev/bounties/f3f3d992-7bd6-4ee5-a502-ae0e5f8016ea
 CVE-2022-0731 - https://huntr.dev/bounties/e242ab4e-fc70-4b2c-a42d-5b3ee4895de8
 CVE-2022-0746 - https://huntr.dev/bounties/b812ea22-0c02-46fe-b89f-04519dfb1ebd
+CVE-2022-0762 - https://huntr.dev/bounties/125b5244-5099-485e-bf75-e5f1ed80dd48
+CVE-2022-0763 - https://huntr.dev/bounties/6de9c621-740d-4d7a-9d77-d90c6c87f3b6
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34

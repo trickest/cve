@@ -15298,6 +15298,7 @@ CVE-2017-7494 - https://github.com/infosecmahi/awesome-pentest
 CVE-2017-7494 - https://github.com/jklinges14/Cyber-Security-Final-Project
 CVE-2017-7494 - https://github.com/joxeankoret/CVE-2017-7494
 CVE-2017-7494 - https://github.com/kumardineshwar/linux-kernel-exploits
+CVE-2017-7494 - https://github.com/lexisrepo/External-Enumeration
 CVE-2017-7494 - https://github.com/lolici123/ScriptsAndCommands
 CVE-2017-7494 - https://github.com/m0mkris/linux-kernel-exploits
 CVE-2017-7494 - https://github.com/mahyarx/pentest-tools
@@ -34548,6 +34549,10 @@ CVE-2020-1764 - https://github.com/ticarpi/jwt_tool
 CVE-2020-18268 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-18324 - https://github.com/hamm0nz/CVE-2020-18324
 CVE-2020-18324 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-18325 - https://github.com/hamm0nz/CVE-2020-18325
+CVE-2020-18325 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-18326 - https://github.com/hamm0nz/CVE-2020-18326
+CVE-2020-18326 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-1838 - https://github.com/GageShan/gcrawler
 CVE-2020-18392 - https://github.com/wcventure/MemLock-Fuzz
 CVE-2020-18527 - https://github.com/Al1ex/Al1ex
@@ -39460,6 +39465,7 @@ CVE-2021-1656 - https://github.com/waleedassar/CVE-2021-1656
 CVE-2021-1665 - https://github.com/googleprojectzero/winafl
 CVE-2021-1665 - https://github.com/hardik05/winafl-powermopt
 CVE-2021-1675 - https://github.com/0x727/usefull-elevation-of-privilege
+CVE-2021-1675 - https://github.com/0xaniketB/HackTheBox-Driver
 CVE-2021-1675 - https://github.com/0xffee/Layer2HackerDao
 CVE-2021-1675 - https://github.com/0xsyr0/OSCP
 CVE-2021-1675 - https://github.com/3gstudent/Invoke-BuildAnonymousSMBServer
@@ -43232,6 +43238,7 @@ CVE-2021-34523 - https://github.com/r0eXpeR/supplier
 CVE-2021-34523 - https://github.com/signorrayan/RedTeam_toolkit
 CVE-2021-34527 - https://github.com/0x6d69636b/windows_hardening
 CVE-2021-34527 - https://github.com/0x727/usefull-elevation-of-privilege
+CVE-2021-34527 - https://github.com/0xaniketB/HackTheBox-Driver
 CVE-2021-34527 - https://github.com/0xirison/PrintNightmare-Patcher
 CVE-2021-34527 - https://github.com/3gstudent/Invoke-BuildAnonymousSMBServer
 CVE-2021-34527 - https://github.com/ARPSyndicate/cvemon
@@ -44965,6 +44972,7 @@ CVE-2021-43798 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-43798 - https://github.com/Ilovewomen/Grafana_CVE
 CVE-2021-43798 - https://github.com/JiuBanSec/Grafana-CVE-2021-43798
 CVE-2021-43798 - https://github.com/Mr-xn/CVE-2021-43798
+CVE-2021-43798 - https://github.com/MzzdToT/Grafana_fileread
 CVE-2021-43798 - https://github.com/ScorpionsMAX/CVE-2021-43798-Grafana-POC
 CVE-2021-43798 - https://github.com/Tom-Cooper11/Grafana-File-Read
 CVE-2021-43798 - https://github.com/Vulnmachines/grafana-unauth-file-read
@@ -44978,6 +44986,7 @@ CVE-2021-43798 - https://github.com/kenuosec/grafanaExp
 CVE-2021-43798 - https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read
 CVE-2021-43798 - https://github.com/n1sh1th/CVE-POC
 CVE-2021-43798 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-43798 - https://github.com/s1gh/CVE-2021-43798
 CVE-2021-43798 - https://github.com/salvador-arreola/prometheus-grafana-telegram-k8s
 CVE-2021-43798 - https://github.com/scopion/CVE-2021-43799
 CVE-2021-43798 - https://github.com/taielab/awesome-hacking-lists
@@ -45470,6 +45479,7 @@ CVE-2021-46108 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-46113 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-46557 - https://github.com/Zeyad-Azima/Zeyad-Azima
 CVE-2021-46558 - https://github.com/Zeyad-Azima/Zeyad-Azima
+CVE-2021-46702 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-6857 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-6857 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-6857 - https://github.com/zi0n8/CVE-2021-6857
@@ -45544,6 +45554,7 @@ CVE-2022-0432 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-0435 - https://github.com/bollwarm/SecToolSet
 CVE-2022-0476 - https://github.com/wtdcode/wtdcode
 CVE-2022-0509 - https://github.com/OpenGitLab/Bug-Storage
+CVE-2022-0517 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-0529 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0529 - https://github.com/ByteHackr/unzip_poc
 CVE-2022-0529 - https://github.com/nomi-sec/PoC-in-GitHub
