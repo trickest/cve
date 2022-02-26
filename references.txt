@@ -1986,6 +1986,8 @@ CVE-2006-0768 - http://www.piotrbania.com/all/adv/kadu-fun.txt
 CVE-2006-0775 - http://www.evuln.com/vulns/74/summary.html
 CVE-2006-0776 - http://www.evuln.com/vulns/77/summary.html
 CVE-2006-0777 - http://www.evuln.com/vulns/76/summary.html
+CVE-2006-0778 - http://www.securityfocus.com/archive/1/425084/100/0/threaded
+CVE-2006-0779 - http://www.securityfocus.com/archive/1/425084/100/0/threaded
 CVE-2006-0780 - http://evuln.com/vulns/81/summary.html
 CVE-2006-0781 - http://evuln.com/vulns/81/summary.html
 CVE-2006-0782 - http://evuln.com/vulns/81/summary.html
@@ -29572,6 +29574,7 @@ CVE-2018-1000542 - https://0dd.zone/2018/06/02/Netbeans-MMD-Plugin-XXE/
 CVE-2018-1000544 - https://github.com/rubyzip/rubyzip/issues/369
 CVE-2018-1000546 - https://0dd.zone/2018/05/31/TripleA-XXE/
 CVE-2018-1000548 - http://0dd.zone/2018/04/23/UMLet-XXE/
+CVE-2018-1000548 - https://github.com/umlet/umlet/issues/500
 CVE-2018-1000619 - https://drive.google.com/open?id=195h-LirGiIVKxioyusw3SvmLp8BljPxe
 CVE-2018-1000632 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2018-1000638 - https://github.com/bg5sbk/MiniCMS/issues/20
@@ -29879,6 +29882,7 @@ CVE-2018-10709 - https://www.exploit-db.com/exploits/45716/
 CVE-2018-10710 - https://www.exploit-db.com/exploits/45716/
 CVE-2018-10711 - https://www.exploit-db.com/exploits/45716/
 CVE-2018-10712 - https://www.exploit-db.com/exploits/45716/
+CVE-2018-10716 - https://github.com/rebol0x6c/2345_msg_poc
 CVE-2018-10718 - https://momo5502.com/blog/?p=34
 CVE-2018-10718 - https://www.exploit-db.com/exploits/44987/
 CVE-2018-10733 - https://bugzilla.redhat.com/show_bug.cgi?id=1574844
@@ -29900,6 +29904,7 @@ CVE-2018-10775 - https://drive.google.com/drive/u/1/folders/1qtq272m7jJaEUPGFLvy
 CVE-2018-10779 - http://bugzilla.maptools.org/show_bug.cgi?id=2788
 CVE-2018-10780 - https://bugzilla.redhat.com/show_bug.cgi?id=1575201
 CVE-2018-10790 - https://docs.google.com/document/d/1OSwQjtyALgV3OulmWGaTqZrSzk7Ta-xGrcLI0I7SPyM
+CVE-2018-10790 - https://github.com/axiomatic-systems/Bento4/issues/390
 CVE-2018-10795 - https://cxsecurity.com/issue/WLB-2018050029
 CVE-2018-10796 - https://github.com/anhkgg/poc/tree/master/2345%20security%20guard/2345NetFirewall.sys-0x00222014
 CVE-2018-10801 - http://bugzilla.maptools.org/show_bug.cgi?id=2790
@@ -40849,6 +40854,7 @@ CVE-2020-22673 - https://github.com/gpac/gpac/issues/1342
 CVE-2020-22674 - https://github.com/gpac/gpac/issues/1346
 CVE-2020-22675 - https://github.com/gpac/gpac/issues/1344
 CVE-2020-22677 - https://github.com/gpac/gpac/issues/1341
+CVE-2020-22678 - https://github.com/gpac/gpac/issues/1339
 CVE-2020-22679 - https://github.com/gpac/gpac/issues/1345
 CVE-2020-22721 - https://syhack.wordpress.com/2020/04/18/pnotes-insecure-file-upload-vulnerability-code-execution/
 CVE-2020-22722 - https://syhack.wordpress.com/2020/04/21/rapid-scada-local-privilege-escalation-vulnerability/
@@ -41800,6 +41806,7 @@ CVE-2020-28347 - https://github.com/rdomanski/Exploits_and_Advisories/blob/maste
 CVE-2020-28347 - https://github.com/rdomanski/Exploits_and_Advisories/blob/master/advisories/Pwn2Own/Tokyo2020/minesweeper.md
 CVE-2020-28351 - http://packetstormsecurity.com/files/159987/ShoreTel-Conferencing-19.46.1802.0-Cross-Site-Scripting.html
 CVE-2020-28361 - https://packetstormsecurity.com/files/159030/Kamailio-5.4.0-Header-Smuggling.html
+CVE-2020-28373 - https://github.com/cpeggg/Netgear-upnpd-poc
 CVE-2020-28374 - http://packetstormsecurity.com/files/161229/Kernel-Live-Patch-Security-Notice-LSN-0074-1.html
 CVE-2020-28374 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.10.7
 CVE-2020-28408 - https://mattschmidt.net/2020/11/10/dundas-persistent-xss/

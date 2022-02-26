@@ -1,4 +1,4 @@
-CVE-0000-0000 - https://github.com/YaFou/Changelog-specification
+CVE-0000-0000 - https://github.com/Konstantinos-Papanagnou/CMSpit
 CVE-1999-0001 - https://github.com/flowground/anchore-io-connector
 CVE-1999-0001 - https://github.com/jimmyislive/gocve
 CVE-1999-0001 - https://github.com/quentinmayo/get_nvd_data_from_online_to_csv
@@ -14,13 +14,10 @@ CVE-1999-0019 - https://github.com/BlackburnHax/inntinn
 CVE-1999-0067 - https://github.com/ForAllSecure/VulnerabilitiesLab
 CVE-1999-0067 - https://github.com/lauravoicu/Common-Vulnerabilities-Exposures
 CVE-1999-0070 - https://github.com/starnightcyber/vul-info-collect
-CVE-1999-0201 - https://github.com/chkp-dhouari/CloudGuard-ShiftLeft-CICD
-CVE-1999-0236 - https://github.com/starnightcyber/vul-info-collect
 CVE-1999-0256 - https://github.com/PKSJTeam/Metasploit
 CVE-1999-0256 - https://github.com/iricartb/buffer-overflow-warftp-1.65
 CVE-1999-0256 - https://github.com/x00itachi/metasploit-exploit-search-online
 CVE-1999-0524 - https://github.com/mikemackintosh/ruby-qualys
-CVE-1999-0532 - https://github.com/HeiTang/ZYXEl-CTF-WriteUp
 CVE-1999-0661 - https://github.com/phx/cvescan
 CVE-1999-0678 - https://github.com/archerysec/archerysec-api-doc
 CVE-1999-0678 - https://github.com/starnightcyber/vul-info-collect
@@ -4765,9 +4762,6 @@ CVE-2014-0999 - https://github.com/martingalloar/martingalloar
 CVE-2014-10037 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2014-10069 - https://github.com/Manouchehri/hitron-cfg-decrypter
 CVE-2014-10401 - https://github.com/404notf0und/CVE-Flow
-CVE-2014-1111111111111111111111 - https://github.com/yesmar/cve
-CVE-2014-11111111111111111111111 - https://github.com/yesmar/cve
-CVE-2014-111111111111111111111111 - https://github.com/yesmar/cve
 CVE-2014-1266 - https://github.com/geeksniper/reverse-engineering-toolkit
 CVE-2014-1303 - https://github.com/RKX1209/CVE-2014-1303
 CVE-2014-1303 - https://github.com/omarkurt/cve-2014-0130
@@ -5240,8 +5234,6 @@ CVE-2014-4699 - https://github.com/xssfile/linux-kernel-exploits
 CVE-2014-4699 - https://github.com/yige666/linux-kernel-exploits
 CVE-2014-4699 - https://github.com/zyjsuper/linux-kernel-exploits
 CVE-2014-4715 - https://github.com/p1ay8y3ar/cve_monitor
-CVE-2014-4878 - https://github.com/HacTF/poc--exp
-CVE-2014-4878 - https://github.com/wateroot/poc-exp
 CVE-2014-4878 - https://github.com/wrlu/Vulnerabilities
 CVE-2014-4932 - https://github.com/RJSOG/cve-scrapper
 CVE-2014-4940 - https://github.com/ARPSyndicate/kenzer-templates
@@ -6028,6 +6020,7 @@ CVE-2015-1427 - https://github.com/lp008/Hack-readme
 CVE-2015-1427 - https://github.com/marcocesarato/Shell-BotKiller
 CVE-2015-1427 - https://github.com/shildenbrand/Exploits
 CVE-2015-1427 - https://github.com/superfish9/pt
+CVE-2015-1427 - https://github.com/waqeen/cyber_security21
 CVE-2015-1437 - https://github.com/s3curityb3ast/s3curityb3ast.github.io
 CVE-2015-1463 - https://github.com/mrash/afl-cve
 CVE-2015-1465 - https://github.com/thdusdl1219/CVE-Study
@@ -6382,6 +6375,7 @@ CVE-2015-3306 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2015-3306 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2015-3306 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2015-3306 - https://github.com/vshaliii/Funbox2-rookie
+CVE-2015-3306 - https://github.com/waqeen/cyber_security21
 CVE-2015-3306 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2015-3316 - https://github.com/thdusdl1219/CVE-Study
 CVE-2015-3317 - https://github.com/thdusdl1219/CVE-Study
@@ -6520,6 +6514,7 @@ CVE-2015-4472 - https://github.com/mrash/afl-cve
 CVE-2015-4491 - https://github.com/thdusdl1219/CVE-Study
 CVE-2015-4495 - https://github.com/vincd/CVE-2015-4495
 CVE-2015-4512 - https://github.com/thdusdl1219/CVE-Study
+CVE-2015-4582 - https://github.com/safe6Sec/wlsEnv
 CVE-2015-4588 - https://github.com/andir/nixos-issue-db-example
 CVE-2015-4590 - https://github.com/mrash/afl-cve
 CVE-2015-4599 - https://github.com/80vul/phpcodz
@@ -7800,9 +7795,6 @@ CVE-2016-1000219 - https://github.com/RedHatProductSecurity/cve-pylib
 CVE-2016-1000229 - https://github.com/ossf-cve-benchmark/CVE-2016-1000229
 CVE-2016-1000243 - https://github.com/justinsteven/advisories
 CVE-2016-1000244 - https://github.com/justinsteven/advisories
-CVE-2016-1000252 - https://github.com/onelogin/python-saml
-CVE-2016-1000253 - https://github.com/onelogin/php-saml
-CVE-2016-1000253 - https://github.com/onewelcome/php-saml
 CVE-2016-1000339 - https://github.com/wolpert/crypto
 CVE-2016-1000340 - https://github.com/dotanuki-labs/android-oss-cves-research
 CVE-2016-10009 - https://github.com/biswajitde/dsm_ips
@@ -7934,6 +7926,7 @@ CVE-2016-10033 - https://github.com/tvirus-01/PHP_mail
 CVE-2016-10033 - https://github.com/vaartjesd/test
 CVE-2016-10033 - https://github.com/vatann07/BloodConnect
 CVE-2016-10033 - https://github.com/vedavith/mailer
+CVE-2016-10033 - https://github.com/waqeen/cyber_security21
 CVE-2016-10033 - https://github.com/wesandradealves/sitio_email_api_demo
 CVE-2016-10033 - https://github.com/windypermadi/PHP-Mailer
 CVE-2016-10033 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
@@ -10428,6 +10421,7 @@ CVE-2016-9297 - https://github.com/geeknik/cve-fuzzing-poc
 CVE-2016-9299 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 CVE-2016-9299 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2016-9299 - https://github.com/klausware/Java-Deserialization-Cheat-Sheet
+CVE-2016-9299 - https://github.com/mandiant/heyserial
 CVE-2016-9299 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
 CVE-2016-9299 - https://github.com/superfish9/pt
 CVE-2016-9313 - https://github.com/thdusdl1219/CVE-Study
@@ -10966,6 +10960,7 @@ CVE-2017-0199 - https://github.com/xiaoy-sec/Pentest_Note
 CVE-2017-0199 - https://github.com/zhang040723/web
 CVE-2017-0202 - https://github.com/googleprojectzero/domato
 CVE-2017-0204 - https://github.com/ryhanson/CVE-2017-0204
+CVE-2017-0213 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2017-0213 - https://github.com/AfvanMoopen/tryhackme-
 CVE-2017-0213 - https://github.com/Al1ex/WindowsElevation
 CVE-2017-0213 - https://github.com/AndreaOm/awesome-stars
@@ -11688,10 +11683,12 @@ CVE-2017-1002101 - https://github.com/Metarget/metarget
 CVE-2017-1002101 - https://github.com/Pray3r/cloud-native-security
 CVE-2017-1002101 - https://github.com/bgeesaman/subpath-exploit
 CVE-2017-1002101 - https://github.com/h34dless/kubernetes-pocs
+CVE-2017-1002101 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2017-1002101 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2017-1002101 - https://github.com/reni2study/Cloud-Native-Security2
 CVE-2017-1002101 - https://github.com/ssst0n3/docker_archive
 CVE-2017-1002101 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
+CVE-2017-1002102 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2017-10053 - https://github.com/dkiser/vulners-yum-scanner
 CVE-2017-10067 - https://github.com/dkiser/vulners-yum-scanner
 CVE-2017-10074 - https://github.com/dkiser/vulners-yum-scanner
@@ -12147,8 +12144,6 @@ CVE-2017-11856 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2017-11856 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2017-11858 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2017-11858 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
-CVE-2017-11859 - https://github.com/qazbnm456/awesome-cve-poc
-CVE-2017-11859 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2017-11861 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2017-11861 - https://github.com/tunz/js-vuln-db
 CVE-2017-11861 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
@@ -13087,7 +13082,6 @@ CVE-2017-15821 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15823 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15830 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15831 - https://github.com/jiayy/android_vuln_poc-exp
-CVE-2017-15832 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15836 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15854 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15906 - https://github.com/project7io/nmap
@@ -13474,9 +13468,6 @@ CVE-2017-18077 - https://github.com/ossf-cve-benchmark/CVE-2017-18077
 CVE-2017-18078 - https://github.com/blackberry/UBCIS
 CVE-2017-18078 - https://github.com/flyrev/security-scan-ci-presentation
 CVE-2017-18120 - https://github.com/andir/nixos-issue-db-example
-CVE-2017-18148 - https://github.com/jiayy/android_vuln_poc-exp
-CVE-2017-18150 - https://github.com/jiayy/android_vuln_poc-exp
-CVE-2017-18153 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-18207 - https://github.com/phonito/phonito-vulnerable-container
 CVE-2017-18214 - https://github.com/Steem-FOSSbot/steem-fossbot-voter
 CVE-2017-18214 - https://github.com/engn33r/awesome-redos-security
@@ -14359,6 +14350,7 @@ CVE-2017-5638 - https://github.com/ggolawski/struts-rce
 CVE-2017-5638 - https://github.com/gmu-swe/rivulet
 CVE-2017-5638 - https://github.com/gobysec/Goby
 CVE-2017-5638 - https://github.com/gsfish/S2-Reaper
+CVE-2017-5638 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2017-5638 - https://github.com/hellochunqiu/PayloadsAllTheThings
 CVE-2017-5638 - https://github.com/hktalent/myhktools
 CVE-2017-5638 - https://github.com/homjxi0e/CVE-2017-5638
@@ -15659,6 +15651,7 @@ CVE-2017-8422 - https://github.com/stealth/plasmapulsar
 CVE-2017-8461 - https://github.com/aRustyDev/C844
 CVE-2017-8461 - https://github.com/peterpt/eternal_check
 CVE-2017-8464 - https://github.com/3gstudent/CVE-2017-8464-EXP
+CVE-2017-8464 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2017-8464 - https://github.com/Al1ex/WindowsElevation
 CVE-2017-8464 - https://github.com/Apri1y/Red-Team-links
 CVE-2017-8464 - https://github.com/Ascotbe/Kernelhub
@@ -16605,6 +16598,7 @@ CVE-2018-0735 - https://github.com/revl-ca/scan-docker-image
 CVE-2018-0735 - https://github.com/romangol/cryptoMisuse
 CVE-2018-0737 - https://github.com/S8Cloud/sslpatch
 CVE-2018-0737 - https://github.com/hannob/tls-what-can-go-wrong
+CVE-2018-0743 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2018-0743 - https://github.com/Jkrasher/WindowsThreatResearch_JKrasher
 CVE-2018-0743 - https://github.com/Micr067/windows-kernel-exploits
 CVE-2018-0743 - https://github.com/QChiLan/win-exploit
@@ -16759,6 +16753,7 @@ CVE-2018-0824 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-0824 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2018-0825 - https://github.com/whiteHat001/Kernel-Security
 CVE-2018-0826 - https://github.com/punishell/WindowsLegacyCVE
+CVE-2018-0833 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2018-0833 - https://github.com/Al1ex/WindowsElevation
 CVE-2018-0833 - https://github.com/Ascotbe/Kernelhub
 CVE-2018-0833 - https://github.com/Jkrasher/WindowsThreatResearch_JKrasher
@@ -17123,6 +17118,7 @@ CVE-2018-1000886 - https://github.com/tzf-key/MemLock_Benchmark
 CVE-2018-10016 - https://github.com/junxzm1990/afl-pt
 CVE-2018-1002100 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2018-1002100 - https://github.com/Metarget/metarget
+CVE-2018-1002100 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2018-1002101 - https://github.com/0xT11/CVE-POC
 CVE-2018-1002103 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2018-1002103 - https://github.com/Metarget/cloud-native-security-book
@@ -17140,6 +17136,7 @@ CVE-2018-1002105 - https://github.com/cloudyuga/kubecon19-eu
 CVE-2018-1002105 - https://github.com/evict/poc_CVE-2018-1002105
 CVE-2018-1002105 - https://github.com/g3rzi/HackingKubernetes
 CVE-2018-1002105 - https://github.com/gravitational/cve-2018-1002105
+CVE-2018-1002105 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2018-1002105 - https://github.com/k8s-sec/k8s-sec.github.io
 CVE-2018-1002105 - https://github.com/merlinxcy/ToolBox
 CVE-2018-1002105 - https://github.com/owen800q/Awesome-Stars
@@ -17253,6 +17250,7 @@ CVE-2018-10372 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-10373 - https://github.com/aflsmart/aflsmart
 CVE-2018-10373 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-10376 - https://github.com/zhanlulab/Exploit_SMT_ProxyOverflow
+CVE-2018-1038 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2018-1038 - https://github.com/Ascotbe/Kernelhub
 CVE-2018-1038 - https://github.com/Jkrasher/WindowsThreatResearch_JKrasher
 CVE-2018-1038 - https://github.com/Micr067/windows-kernel-exploits
@@ -17284,7 +17282,6 @@ CVE-2018-10392 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-10393 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-1040 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-1040 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
-CVE-2018-10467 - https://github.com/0xT11/CVE-POC
 CVE-2018-10467 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-10468 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-10468 - https://github.com/sec-bit/awesome-buggy-erc20-tokens
@@ -17381,7 +17378,6 @@ CVE-2018-10676 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-10678 - https://github.com/0xT11/CVE-POC
 CVE-2018-10685 - https://github.com/strongcourage/uafbench
 CVE-2018-10689 - https://github.com/andir/nixos-issue-db-example
-CVE-2018-10715 - https://github.com/0xT11/CVE-POC
 CVE-2018-10717 - https://github.com/nafiez/Vulnerability-Research
 CVE-2018-10718 - https://github.com/momo5502/cod-exploits
 CVE-2018-10732 - https://github.com/0xT11/CVE-POC
@@ -17463,7 +17459,6 @@ CVE-2018-1098 - https://github.com/asa1997/topgear_test
 CVE-2018-1098 - https://github.com/sonatype-nexus-community/nancy
 CVE-2018-1099 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-1099 - https://github.com/sonatype-nexus-community/nancy
-CVE-2018-10993 - https://github.com/imaginal/otplogin
 CVE-2018-10994 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-10994 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-10998 - https://github.com/andir/nixos-issue-db-example
@@ -17935,8 +17930,6 @@ CVE-2018-1259 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2018-1259 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-1259 - https://github.com/superfish9/pt
 CVE-2018-12596 - https://github.com/0xT11/CVE-POC
-CVE-2018-12597 - https://github.com/0xT11/CVE-POC
-CVE-2018-12598 - https://github.com/0xT11/CVE-POC
 CVE-2018-1260 - https://github.com/Cryin/Paper
 CVE-2018-1260 - https://github.com/SexyBeast233/SecBooks
 CVE-2018-12601 - https://github.com/xiaoqx/pocs
@@ -18246,8 +18239,6 @@ CVE-2018-1312 - https://github.com/vshaliii/Funbox2-rookie
 CVE-2018-1313 - https://github.com/0xT11/CVE-POC
 CVE-2018-1313 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2018-1313 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2018-13149 - https://github.com/qazbnm456/awesome-cve-poc
-CVE-2018-13149 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-1323 - https://github.com/0xT11/CVE-POC
 CVE-2018-1323 - https://github.com/immunIT/CVE-2018-11759
 CVE-2018-1323 - https://github.com/qazbnm456/awesome-cve-poc
@@ -18343,8 +18334,6 @@ CVE-2018-13412 - https://github.com/AJ-SA/Zoho-ManageEngine
 CVE-2018-13419 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-13420 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-13421 - https://github.com/ZhengMinghui1234/enfuzzer
-CVE-2018-13452 - https://github.com/qazbnm456/awesome-cve-poc
-CVE-2018-13452 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-13784 - https://github.com/0xT11/CVE-POC
 CVE-2018-13784 - https://github.com/ambionics/prestashop-exploits
 CVE-2018-13784 - https://github.com/zapalm/prestashop-security-vulnerability-checker
@@ -18836,7 +18825,6 @@ CVE-2018-16119 - https://github.com/hdbreaker/CVE-2018-16119
 CVE-2018-16133 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-16133 - https://github.com/EmreOvunc/CyBroHttpServer-v1.0.3-Directory-Traversal
 CVE-2018-16134 - https://github.com/EmreOvunc/CyBroHttpServer-v1.0.3-Reflected-XSS
-CVE-2018-16135 - https://github.com/0xT11/CVE-POC
 CVE-2018-16156 - https://github.com/0xT11/CVE-POC
 CVE-2018-16167 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-16177 - https://github.com/p1ay8y3ar/cve_monitor
@@ -18859,9 +18847,8 @@ CVE-2018-16325 - https://github.com/0xT11/CVE-POC
 CVE-2018-16333 - https://github.com/ZIllR0/Routers
 CVE-2018-16335 - https://github.com/Marsman1996/pocs
 CVE-2018-16336 - https://github.com/Marsman1996/pocs
-CVE-2018-16341 - https://github.com/0xT11/CVE-POC
 CVE-2018-16341 - https://github.com/ARPSyndicate/kenzer-templates
-CVE-2018-16341 - https://github.com/Ondrik8/byPass_AV
+CVE-2018-16341 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2018-16341 - https://github.com/sobinge/nuclei-templates
 CVE-2018-16356 - https://github.com/SexyBeast233/SecBooks
 CVE-2018-16357 - https://github.com/SexyBeast233/SecBooks
@@ -18976,14 +18963,6 @@ CVE-2018-16782 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-16794 - https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups
 CVE-2018-16807 - https://github.com/mxmssh/manul
 CVE-2018-16809 - https://github.com/p1ay8y3ar/cve_monitor
-CVE-2018-16823 - https://github.com/PAGalaxyLab/VulInfo
-CVE-2018-16824 - https://github.com/PAGalaxyLab/VulInfo
-CVE-2018-16825 - https://github.com/PAGalaxyLab/VulInfo
-CVE-2018-16826 - https://github.com/PAGalaxyLab/VulInfo
-CVE-2018-16827 - https://github.com/PAGalaxyLab/VulInfo
-CVE-2018-16828 - https://github.com/PAGalaxyLab/VulInfo
-CVE-2018-16829 - https://github.com/PAGalaxyLab/VulInfo
-CVE-2018-16830 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-16831 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-16836 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-16839 - https://github.com/KorayAgaya/TrivyWeb
@@ -19067,6 +19046,7 @@ CVE-2018-17021 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17022 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17023 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17024 - https://github.com/0xT11/CVE-POC
+CVE-2018-1703 - https://github.com/rmadamson/rmadamson
 CVE-2018-17042 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-17043 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-17057 - https://github.com/AfvanMoopen/tryhackme-
@@ -19167,14 +19147,12 @@ CVE-2018-17359 - https://github.com/revl-ca/scan-docker-image
 CVE-2018-17360 - https://github.com/phonito/phonito-vulnerable-container
 CVE-2018-17360 - https://github.com/revl-ca/scan-docker-image
 CVE-2018-17418 - https://github.com/0xT11/CVE-POC
-CVE-2018-17424 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17427 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-17431 - https://github.com/0xT11/CVE-POC
 CVE-2018-17431 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-17431 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2018-17431 - https://github.com/Fadavvi/CVE-2018-17431-PoC
 CVE-2018-17431 - https://github.com/sobinge/nuclei-templates
-CVE-2018-17453 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17456 - https://github.com/0xT11/CVE-POC
 CVE-2018-17456 - https://github.com/AnonymKing/CVE-2017-1000117
 CVE-2018-17456 - https://github.com/AnonymKing/CVE-2018-17456
@@ -19210,6 +19188,7 @@ CVE-2018-17499 - https://github.com/nutc4k3/amazing-iot-security
 CVE-2018-17500 - https://github.com/nutc4k3/amazing-iot-security
 CVE-2018-17502 - https://github.com/nutc4k3/amazing-iot-security
 CVE-2018-17552 - https://github.com/anhquan99/DetectSQLInjectionPyshark
+CVE-2018-1776 - https://github.com/rmadamson/rmadamson
 CVE-2018-17765 - https://github.com/404notf0und/CVE-Flow
 CVE-2018-17766 - https://github.com/404notf0und/CVE-Flow
 CVE-2018-17767 - https://github.com/404notf0und/CVE-Flow
@@ -19223,7 +19202,6 @@ CVE-2018-17774 - https://github.com/404notf0und/CVE-Flow
 CVE-2018-17780 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-17780 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-1782 - https://github.com/rmadamson/rmadamson
-CVE-2018-17853 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17854 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-17873 - https://github.com/0xT11/CVE-POC
 CVE-2018-17900 - https://github.com/center-for-threat-informed-defense/attack_to_cve
@@ -19252,7 +19230,6 @@ CVE-2018-18026 - https://github.com/0xT11/CVE-POC
 CVE-2018-18026 - https://github.com/DownWithUp/CVE-2018-18026
 CVE-2018-18026 - https://github.com/DownWithUp/CVE-Stockpile
 CVE-2018-18064 - https://github.com/revl-ca/scan-docker-image
-CVE-2018-18067 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-18069 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-18069 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2018-18069 - https://github.com/sobinge/nuclei-templates
@@ -19265,6 +19242,7 @@ CVE-2018-18240 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-18264 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-18264 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2018-18264 - https://github.com/g3rzi/HackingKubernetes
+CVE-2018-18264 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2018-18281 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2018-18281 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2018-18282 - https://github.com/ossf-cve-benchmark/CVE-2018-18282
@@ -19279,7 +19257,6 @@ CVE-2018-18384 - https://github.com/revl-ca/scan-docker-image
 CVE-2018-18384 - https://github.com/ronomon/zip
 CVE-2018-18387 - https://github.com/0xT11/CVE-POC
 CVE-2018-18387 - https://github.com/TheeBlind/CVE-2018-18387
-CVE-2018-18421 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-18439 - https://github.com/f-secure-foundry/advisories
 CVE-2018-18440 - https://github.com/f-secure-foundry/advisories
 CVE-2018-18472 - https://github.com/odolezal/notes
@@ -19296,23 +19273,18 @@ CVE-2018-18500 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2018-18500 - https://github.com/sophoslabs/CVE-2018-18500
 CVE-2018-18520 - https://github.com/flyrev/security-scan-ci-presentation
 CVE-2018-18521 - https://github.com/flyrev/security-scan-ci-presentation
-CVE-2018-18522 - https://github.com/PAGalaxyLab/VulInfo
-CVE-2018-18523 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-18531 - https://github.com/PuZhiweizuishuai/community
 CVE-2018-18531 - https://github.com/livehub-root/livehub-java
-CVE-2018-18549 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-18556 - https://github.com/mirchr/security-research
 CVE-2018-18557 - https://github.com/revl-ca/scan-docker-image
 CVE-2018-18570 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-18572 - https://github.com/WSP-LAB/FUSE
-CVE-2018-18574 - https://github.com/WSP-LAB/FUSE
 CVE-2018-18581 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-18582 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-18583 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-18628 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-18628 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2018-18629 - https://github.com/mirchr/security-research
-CVE-2018-18637 - https://github.com/WSP-LAB/FUSE
 CVE-2018-18649 - https://github.com/0xT11/CVE-POC
 CVE-2018-18649 - https://github.com/deadcyph3r/Awesome-Collection
 CVE-2018-18649 - https://github.com/izj007/wechat
@@ -19380,7 +19352,6 @@ CVE-2018-18966 - https://github.com/WSP-LAB/FUSE
 CVE-2018-1904 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2018-19048 - https://github.com/ossf-cve-benchmark/CVE-2018-19048
 CVE-2018-19052 - https://github.com/fklement/hades
-CVE-2018-19062 - https://github.com/WSP-LAB/FUSE
 CVE-2018-19084 - https://github.com/DownWithUp/CVE-Stockpile
 CVE-2018-19085 - https://github.com/DownWithUp/CVE-Stockpile
 CVE-2018-19086 - https://github.com/DownWithUp/CVE-Stockpile
@@ -19404,7 +19375,6 @@ CVE-2018-19127 - https://github.com/ab1gale/phpcms-2008-CVE-2018-19127
 CVE-2018-19131 - https://github.com/0xT11/CVE-POC
 CVE-2018-19131 - https://github.com/JonathanWilbur/CVE-2018-19131
 CVE-2018-19146 - https://github.com/WSP-LAB/FUSE
-CVE-2018-19172 - https://github.com/WSP-LAB/FUSE
 CVE-2018-19184 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-19185 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-19185 - https://github.com/fouzhe/security
@@ -19438,7 +19408,6 @@ CVE-2018-19395 - https://github.com/syadg123/pigat
 CVE-2018-19395 - https://github.com/teamssix/pigat
 CVE-2018-19396 - https://github.com/syadg123/pigat
 CVE-2018-19396 - https://github.com/teamssix/pigat
-CVE-2018-19419 - https://github.com/WSP-LAB/FUSE
 CVE-2018-19420 - https://github.com/WSP-LAB/FUSE
 CVE-2018-19421 - https://github.com/WSP-LAB/FUSE
 CVE-2018-19422 - https://github.com/WSP-LAB/FUSE
@@ -20211,7 +20180,6 @@ CVE-2018-3252 - https://github.com/taielab/awesome-hacking-lists
 CVE-2018-3252 - https://github.com/zema1/oracle-vuln-crawler
 CVE-2018-3253 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-3253 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
-CVE-2018-3260 - https://github.com/0xT11/CVE-POC
 CVE-2018-3260 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2018-3260 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-3260 - https://github.com/uhub/awesome-c
@@ -20864,8 +20832,6 @@ CVE-2018-5296 - https://github.com/tzf-key/MemLock_Benchmark
 CVE-2018-5308 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-5309 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-5316 - https://github.com/ARPSyndicate/kenzer-templates
-CVE-2018-5318 - https://github.com/qazbnm456/awesome-cve-poc
-CVE-2018-5318 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-5333 - https://github.com/Al1ex/LinuxEelvation
 CVE-2018-5333 - https://github.com/De4dCr0w/Linux-kernel-EoP-exp
 CVE-2018-5333 - https://github.com/bcoles/kernel-exploits
@@ -21691,7 +21657,6 @@ CVE-2018-7752 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-7812 - https://github.com/SadFud/Exploits
 CVE-2018-7876 - https://github.com/ICSE2020-MemLock/MemLock_Benchmark
 CVE-2018-7876 - https://github.com/tzf-key/MemLock_Benchmark
-CVE-2018-7935 - https://github.com/0xT11/CVE-POC
 CVE-2018-7935 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-8000 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-8001 - https://github.com/andir/nixos-issue-db-example
@@ -21787,6 +21752,7 @@ CVE-2018-8115 - https://github.com/0xT11/CVE-POC
 CVE-2018-8115 - https://github.com/aquasecurity/scan-cve-2018-8115
 CVE-2018-8115 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-8120 - https://github.com/0xT11/CVE-POC
+CVE-2018-8120 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2018-8120 - https://github.com/Al1ex/WindowsElevation
 CVE-2018-8120 - https://github.com/Apri1y/Red-Team-links
 CVE-2018-8120 - https://github.com/Ascotbe/Kernelhub
@@ -22075,6 +22041,7 @@ CVE-2018-8421 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-8421 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-8423 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2018-8440 - https://github.com/0xT11/CVE-POC
+CVE-2018-8440 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2018-8440 - https://github.com/Ascotbe/Kernelhub
 CVE-2018-8440 - https://github.com/Jkrasher/WindowsThreatResearch_JKrasher
 CVE-2018-8440 - https://github.com/Micr067/windows-kernel-exploits
@@ -22105,6 +22072,7 @@ CVE-2018-8440 - https://github.com/yiyebuhuijia/windows-kernel-exploits
 CVE-2018-8449 - https://github.com/punishell/WindowsLegacyCVE
 CVE-2018-8453 - https://github.com/0xT11/CVE-POC
 CVE-2018-8453 - https://github.com/0xpetros/windows-privilage-escalation
+CVE-2018-8453 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2018-8453 - https://github.com/Ascotbe/Kernelhub
 CVE-2018-8453 - https://github.com/ExpLife0011/awesome-windows-kernel-security-development
 CVE-2018-8453 - https://github.com/FULLSHADE/WindowsExploitationResources
@@ -22230,6 +22198,7 @@ CVE-2018-8625 - https://github.com/googleprojectzero/domato
 CVE-2018-8631 - https://github.com/googleprojectzero/domato
 CVE-2018-8631 - https://github.com/tunz/js-vuln-db
 CVE-2018-8639 - https://github.com/0xT11/CVE-POC
+CVE-2018-8639 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2018-8639 - https://github.com/Ascotbe/Kernelhub
 CVE-2018-8639 - https://github.com/Jkrasher/WindowsThreatResearch_JKrasher
 CVE-2018-8639 - https://github.com/Micr067/windows-kernel-exploits
@@ -22302,7 +22271,6 @@ CVE-2018-8811 - https://github.com/MrR3boot/CVE-Hunting
 CVE-2018-8813 - https://github.com/MrR3boot/CVE-Hunting
 CVE-2018-8814 - https://github.com/MrR3boot/CVE-Hunting
 CVE-2018-8815 - https://github.com/MrR3boot/CVE-Hunting
-CVE-2018-8816 - https://github.com/junxzm1990/afl-pt
 CVE-2018-8819 - https://github.com/deadcyph3r/Awesome-Collection
 CVE-2018-8819 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-8819 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
@@ -22448,10 +22416,6 @@ CVE-2018-9306 - https://github.com/xiaoqx/pocs
 CVE-2018-9312 - https://github.com/parallelbeings/usb-device-security
 CVE-2018-9320 - https://github.com/parallelbeings/usb-device-security
 CVE-2018-9322 - https://github.com/parallelbeings/usb-device-security
-CVE-2018-9341 - https://github.com/HacTF/poc--exp
-CVE-2018-9341 - https://github.com/qazbnm456/awesome-cve-poc
-CVE-2018-9341 - https://github.com/wateroot/poc-exp
-CVE-2018-9341 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-9358 - https://github.com/JiounDai/Bluedroid
 CVE-2018-9358 - https://github.com/likescam/Bluedroid
 CVE-2018-9359 - https://github.com/qazbnm456/awesome-cve-poc
@@ -22462,16 +22426,11 @@ CVE-2018-9361 - https://github.com/JiounDai/Bluedroid
 CVE-2018-9361 - https://github.com/likescam/Bluedroid
 CVE-2018-9361 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-9361 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
-CVE-2018-9375 - https://github.com/0xT11/CVE-POC
 CVE-2018-9375 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2018-9411 - https://github.com/0xT11/CVE-POC
 CVE-2018-9411 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2018-9411 - https://github.com/qazbnm456/awesome-cve-poc
-CVE-2018-9411 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-9442 - https://github.com/codexlynx/hardware-attacks-state-of-the-art
 CVE-2018-9445 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-9445 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
-CVE-2018-9468 - https://github.com/0xT11/CVE-POC
 CVE-2018-9468 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-9493 - https://github.com/0xT11/CVE-POC
 CVE-2018-9493 - https://github.com/IOActive/AOSP-DownloadProviderDbDumper
@@ -22484,7 +22443,6 @@ CVE-2018-9523 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2018-9539 - https://github.com/0xT11/CVE-POC
 CVE-2018-9539 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-9539 - https://github.com/tamirzb/CVE-2018-9539
-CVE-2018-9546 - https://github.com/0xT11/CVE-POC
 CVE-2018-9546 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-9568 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2018-9845 - https://github.com/ARPSyndicate/kenzer-templates
@@ -23134,6 +23092,7 @@ CVE-2019-0797 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2019-0797 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2019-0801 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-0803 - https://github.com/0xT11/CVE-POC
+CVE-2019-0803 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2019-0803 - https://github.com/Al1ex/WindowsElevation
 CVE-2019-0803 - https://github.com/Ascotbe/Kernelhub
 CVE-2019-0803 - https://github.com/CnHack3r/Penetration_PoC
@@ -23310,6 +23269,7 @@ CVE-2019-10008 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-10008 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-10008 - https://github.com/ignis-sec/CVE-2019-10008
 CVE-2019-1002100 - https://github.com/Marquesledivan/terraform-aws-k8s
+CVE-2019-1002100 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-1002100 - https://github.com/novemberrain-test/k8s-aws
 CVE-2019-1002100 - https://github.com/saipasham/kub_test-
 CVE-2019-1002100 - https://github.com/scholzj/aws-kubernetes
@@ -23327,6 +23287,7 @@ CVE-2019-1002101 - https://github.com/brompwnie/CVE-2019-1002101-Helpers
 CVE-2019-1002101 - https://github.com/brompwnie/botb
 CVE-2019-1002101 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-1002101 - https://github.com/g3rzi/HackingKubernetes
+CVE-2019-1002101 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-1002101 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-1002101 - https://github.com/heroku/bheu19-attacking-cloud-builds
 CVE-2019-1002101 - https://github.com/k1LoW/oshka
@@ -23854,6 +23815,7 @@ CVE-2019-11242 - https://github.com/cohesity/SecAdvisory
 CVE-2019-11244 - https://github.com/Lee-SungYoung/Kube-Six
 CVE-2019-11245 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2019-11245 - https://github.com/alphaSeclab/sec-daily-2019
+CVE-2019-11245 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-11245 - https://github.com/reni2study/Cloud-Native-Security2
 CVE-2019-11246 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2019-11246 - https://github.com/Metarget/metarget
@@ -23862,19 +23824,23 @@ CVE-2019-11246 - https://github.com/koronkowy/koronkowy
 CVE-2019-11246 - https://github.com/tvdvoorde/cks
 CVE-2019-11246 - https://github.com/vedmichv/CKS-Certified-Kubernetes-Security-Specialist
 CVE-2019-11247 - https://github.com/g3rzi/HackingKubernetes
+CVE-2019-11247 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-11247 - https://github.com/stackrox/blog-examples
 CVE-2019-11248 - https://github.com/0xT11/CVE-POC
 CVE-2019-11248 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-11248 - https://github.com/Elsfa7-110/kenzer-templates
+CVE-2019-11248 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-11248 - https://github.com/sobinge/nuclei-templates
 CVE-2019-11249 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2019-11249 - https://github.com/Metarget/metarget
+CVE-2019-11249 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-1125 - https://github.com/0xT11/CVE-POC
 CVE-2019-1125 - https://github.com/bitdefender/swapgs-attack-poc
 CVE-2019-1125 - https://github.com/codexlynx/hardware-attacks-state-of-the-art
 CVE-2019-1125 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-1125 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-1125 - https://github.com/timidri/puppet-meltdown
+CVE-2019-11250 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-11250 - https://github.com/k1LoW/oshka
 CVE-2019-11251 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2019-11251 - https://github.com/Metarget/metarget
@@ -24145,6 +24111,7 @@ CVE-2019-11358 - https://github.com/EpRoboRaiders/freight-frenzy-test
 CVE-2019-11358 - https://github.com/EricLottman/6.2ftc20-21-PADEMIC-EDITION-master
 CVE-2019-11358 - https://github.com/Esquimalt-Atom-Smashers/Chomper_not_working
 CVE-2019-11358 - https://github.com/Ethanporath/FtcRobotController-master
+CVE-2019-11358 - https://github.com/Ethanporath/Team-20290-BostonBasketbots
 CVE-2019-11358 - https://github.com/EvanBartekYeet/FTCRobitControlVNew
 CVE-2019-11358 - https://github.com/EvanBartekYeet/NewTestRambotics
 CVE-2019-11358 - https://github.com/EvanCWolfe/VicRobotics2020-2021
@@ -24269,6 +24236,7 @@ CVE-2019-11358 - https://github.com/Ilgneous/Trollbot4546
 CVE-2019-11358 - https://github.com/Im-not-a-bot/roboPiotr
 CVE-2019-11358 - https://github.com/Innov8FIRST/UltimateGoal
 CVE-2019-11358 - https://github.com/InspirationRobotics/inspiration_ftc
+CVE-2019-11358 - https://github.com/IoanaAdrian/FreightFrenzySoftHoarders
 CVE-2019-11358 - https://github.com/Iobotics/FTC-2021-FreightFrenzy
 CVE-2019-11358 - https://github.com/IronEaglesRobotics/FreightFrenzy
 CVE-2019-11358 - https://github.com/IronReign/FreightFrenzyPipeline
@@ -24682,6 +24650,7 @@ CVE-2019-11358 - https://github.com/adiga1773/pio2021
 CVE-2019-11358 - https://github.com/aditWorkspace/SkyStone-master
 CVE-2019-11358 - https://github.com/admiralwaffle4/InvictaCode-21-22
 CVE-2019-11358 - https://github.com/ahmedCoder12424/FtcRobotController
+CVE-2019-11358 - https://github.com/ajenkins13/robotics5017
 CVE-2019-11358 - https://github.com/akumar13-you/CRMS8424-FreightFrenzy
 CVE-2019-11358 - https://github.com/alexDHS0/FtcRobotController-10630-master
 CVE-2019-11358 - https://github.com/alexDHS0/FtcRobotController-master
@@ -24718,6 +24687,7 @@ CVE-2019-11358 - https://github.com/avinashalamgari/VenomPracticeCode-2020-21
 CVE-2019-11358 - https://github.com/ayuram/FtcRobotController
 CVE-2019-11358 - https://github.com/banks-4239/FtcRobotController
 CVE-2019-11358 - https://github.com/barbaralau3/FTC_2021_FREIGHT-FRENZY
+CVE-2019-11358 - https://github.com/barreirobots/FtcRobotController-master
 CVE-2019-11358 - https://github.com/batcarrot/Freight-Frenzy-2021-master-2
 CVE-2019-11358 - https://github.com/baylocke/UltimateGoalRepo
 CVE-2019-11358 - https://github.com/bcbro/14663-UltimateGoal_2021
@@ -24792,6 +24762,7 @@ CVE-2019-11358 - https://github.com/ft17099/FtcRobotController
 CVE-2019-11358 - https://github.com/ftc-16244/FreightFrenzy
 CVE-2019-11358 - https://github.com/ftc-16244/IL_FTC_Minibots
 CVE-2019-11358 - https://github.com/ftc-9773/UltimateGoal
+CVE-2019-11358 - https://github.com/ftc-team-8013/Ultimate-Goal
 CVE-2019-11358 - https://github.com/ftc-team-8813/ftc_app
 CVE-2019-11358 - https://github.com/ftc10131/UltimateGoal
 CVE-2019-11358 - https://github.com/ftc11109/FtcRobotController2020
@@ -24941,6 +24912,7 @@ CVE-2019-11358 - https://github.com/minhle30964/FTC-Team-17288-Season-2020-2021
 CVE-2019-11358 - https://github.com/modengann/Robotics
 CVE-2019-11358 - https://github.com/motherboard7444/2021-FTC-FreightFrenzy-master
 CVE-2019-11358 - https://github.com/motherboard7444/2021-Freight-Frenzy-7.0
+CVE-2019-11358 - https://github.com/mrHurst/ChouTimeRobotics
 CVE-2019-11358 - https://github.com/mrisatmo/Connection2021
 CVE-2019-11358 - https://github.com/n0tchmc/FTC4890
 CVE-2019-11358 - https://github.com/neobots2903/FtcRobotController-2021
@@ -25729,7 +25701,6 @@ CVE-2019-1278 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-1278 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2019-12780 - https://github.com/travispaul/node-nvd-search
 CVE-2019-12780 - https://github.com/travispaul/node-nvd-search-cli
-CVE-2019-12796 - https://github.com/0xT11/CVE-POC
 CVE-2019-12796 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-12796 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-1280 - https://github.com/alphaSeclab/sec-daily-2019
@@ -26150,7 +26121,6 @@ CVE-2019-13574 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-13574 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-13574 - https://github.com/masahiro331/CVE-2019-13574
 CVE-2019-13599 - https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE
-CVE-2019-13600 - https://github.com/0xT11/CVE-POC
 CVE-2019-13600 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-13600 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-13603 - https://github.com/sungjungk/fp-scanner-hacking
@@ -26203,7 +26173,6 @@ CVE-2019-13765 - https://github.com/allpaca/chrome-sbx-db
 CVE-2019-13767 - https://github.com/allpaca/chrome-sbx-db
 CVE-2019-13768 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-13768 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2019-13768 - https://github.com/yuvaly0/exploits
 CVE-2019-1378 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-1385 - https://github.com/0xT11/CVE-POC
 CVE-2019-1385 - https://github.com/deadjakk/patch-checker
@@ -26484,6 +26453,7 @@ CVE-2019-14540 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-C
 CVE-2019-14540 - https://github.com/yahoo/cubed
 CVE-2019-1458 - https://github.com/0xT11/CVE-POC
 CVE-2019-1458 - https://github.com/0xpetros/windows-privilage-escalation
+CVE-2019-1458 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2019-1458 - https://github.com/Ascotbe/Kernelhub
 CVE-2019-1458 - https://github.com/CnHack3r/Penetration_PoC
 CVE-2019-1458 - https://github.com/DreamoneOnly/CVE-2019-1458-malware
@@ -27245,6 +27215,7 @@ CVE-2019-16882 - https://github.com/Artisan-Lab/Rust-memory-safety-bugs
 CVE-2019-16884 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2019-16884 - https://github.com/Metarget/metarget
 CVE-2019-16884 - https://github.com/PRISHIta123/Securing_Open_Source_Components_on_Containers
+CVE-2019-16884 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-16884 - https://github.com/ssst0n3/docker_archive
 CVE-2019-16889 - https://github.com/0xT11/CVE-POC
 CVE-2019-16889 - https://github.com/developer3000S/PoC-in-GitHub
@@ -27258,7 +27229,6 @@ CVE-2019-16897 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-16902 - https://github.com/Almorabea/Arforms-Exploit
 CVE-2019-16905 - https://github.com/phx/cvescan
 CVE-2019-16905 - https://github.com/siddicky/git-and-crumpets
-CVE-2019-16911 - https://github.com/rochesecurity/Roche-CVEs
 CVE-2019-16917 - https://github.com/irbishop/CVEs
 CVE-2019-16920 - https://github.com/0ps/pocassistdb
 CVE-2019-16920 - https://github.com/0xT11/CVE-POC
@@ -27299,10 +27269,6 @@ CVE-2019-16996 - https://github.com/jweny/pocassistdb
 CVE-2019-16997 - https://github.com/0ps/pocassistdb
 CVE-2019-16997 - https://github.com/jweny/pocassistdb
 CVE-2019-17003 - https://github.com/arijitdirghanji/100DaysofLearning
-CVE-2019-17003 - https://github.com/bot8080/awesomeBugbounty
-CVE-2019-17003 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
-CVE-2019-17004 - https://github.com/bot8080/awesomeBugbounty
-CVE-2019-17004 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 CVE-2019-17006 - https://github.com/project-zot/zot
 CVE-2019-17026 - https://github.com/0xT11/CVE-POC
 CVE-2019-17026 - https://github.com/HackOvert/awesome-bugs
@@ -27666,6 +27632,7 @@ CVE-2019-1821 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-1821 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-1821 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-1821 - https://github.com/k8gege/CiscoExploit
+CVE-2019-18211 - https://github.com/mandiant/heyserial
 CVE-2019-18212 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-18213 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-18217 - https://github.com/google/honggfuzz
@@ -27773,11 +27740,6 @@ CVE-2019-18683 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2019-18683 - https://github.com/sanjana123-cloud/CVE-2019-18683
 CVE-2019-18683 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2019-18683 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
-CVE-2019-18775 - https://github.com/sjmini/icse2020-Solidity
-CVE-2019-18776 - https://github.com/sjmini/icse2020-Solidity
-CVE-2019-18777 - https://github.com/sjmini/icse2020-Solidity
-CVE-2019-18778 - https://github.com/sjmini/icse2020-Solidity
-CVE-2019-18779 - https://github.com/sjmini/icse2020-Solidity
 CVE-2019-1881 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2019-18818 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-18839 - https://github.com/fuzzlove/FUDforum-XSS-RCE
@@ -27833,6 +27795,7 @@ CVE-2019-18935 - https://github.com/bao7uo/RAU_crypto
 CVE-2019-18935 - https://github.com/becrevex/Telerik_CVE-2019-18935
 CVE-2019-18935 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-18935 - https://github.com/hectorgie/PoC-in-GitHub
+CVE-2019-18935 - https://github.com/mandiant/heyserial
 CVE-2019-18935 - https://github.com/mcgyver5/scrap_telerik
 CVE-2019-18935 - https://github.com/murataydemir/CVE-2019-18935
 CVE-2019-18935 - https://github.com/noperator/CVE-2019-18935
@@ -27919,7 +27882,6 @@ CVE-2019-19246 - https://github.com/kkos/oniguruma
 CVE-2019-19246 - https://github.com/onivim/esy-oniguruma
 CVE-2019-19246 - https://github.com/winlibs/oniguruma
 CVE-2019-19248 - https://github.com/alphaSeclab/sec-daily-2019
-CVE-2019-19268 - https://github.com/0xT11/CVE-POC
 CVE-2019-19268 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19268 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-19270 - https://github.com/vshaliii/Funbox2-rookie
@@ -27940,7 +27902,6 @@ CVE-2019-19363 - https://github.com/jacob-baines/concealed_position
 CVE-2019-19368 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-19368 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2019-19368 - https://github.com/sobinge/nuclei-templates
-CVE-2019-19369 - https://github.com/0xT11/CVE-POC
 CVE-2019-19369 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19369 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-19377 - https://github.com/xairy/linux-kernel-exploitation
@@ -27961,7 +27922,6 @@ CVE-2019-19507 - https://github.com/ossf-cve-benchmark/CVE-2019-19507
 CVE-2019-19509 - https://github.com/Orange-Cyberdefense/CVE-repository
 CVE-2019-19509 - https://github.com/SexyBeast233/SecBooks
 CVE-2019-19509 - https://github.com/v1k1ngfr/exploits-rconfig
-CVE-2019-19511 - https://github.com/0xT11/CVE-POC
 CVE-2019-19511 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19511 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-19520 - https://github.com/0xT11/CVE-POC
@@ -27994,10 +27954,8 @@ CVE-2019-19596 - https://github.com/SexyBeast233/SecBooks
 CVE-2019-19596 - https://github.com/ianxtianxt/gitbook-xss
 CVE-2019-19603 - https://github.com/garethr/snykout
 CVE-2019-19604 - https://github.com/meherarfaoui09/meher
-CVE-2019-19633 - https://github.com/0xT11/CVE-POC
 CVE-2019-19633 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19633 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2019-19633 - https://github.com/jra89/CVE-2019-19633
 CVE-2019-19634 - https://github.com/0xT11/CVE-POC
 CVE-2019-19634 - https://github.com/CnHack3r/Penetration_PoC
 CVE-2019-19634 - https://github.com/Mr-xn/Penetration_Testing_POC
@@ -28012,19 +27970,14 @@ CVE-2019-19634 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 CVE-2019-19634 - https://github.com/yedada-wei/-
 CVE-2019-19634 - https://github.com/yedada-wei/gongkaishouji
 CVE-2019-19645 - https://github.com/garethr/snykout
-CVE-2019-19651 - https://github.com/0xT11/CVE-POC
 CVE-2019-19651 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19651 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2019-19652 - https://github.com/0xT11/CVE-POC
 CVE-2019-19652 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19652 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2019-19653 - https://github.com/0xT11/CVE-POC
 CVE-2019-19653 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19653 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2019-19654 - https://github.com/0xT11/CVE-POC
 CVE-2019-19654 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19654 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2019-19658 - https://github.com/0xT11/CVE-POC
 CVE-2019-19658 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19658 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-19699 - https://github.com/0xT11/CVE-POC
@@ -28182,8 +28135,6 @@ CVE-2019-19846 - https://github.com/SexyBeast233/SecBooks
 CVE-2019-19846 - https://github.com/schokokeksorg/freewvs
 CVE-2019-1987 - https://github.com/0xT11/CVE-POC
 CVE-2019-1987 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2019-19871 - https://github.com/0xT11/CVE-POC
-CVE-2019-19871 - https://github.com/VDISEC/CVE-2019-19871-AuditGuide
 CVE-2019-19871 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-19871 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-19882 - https://github.com/garethr/snykout
@@ -28232,7 +28183,6 @@ CVE-2019-20059 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-20059 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-20059 - https://github.com/jra89/CVE-2019-20059
 CVE-2019-20082 - https://github.com/pr0v3rbs/FirmAE
-CVE-2019-20084 - https://github.com/pr0v3rbs/FirmAE
 CVE-2019-20085 - https://github.com/0xT11/CVE-POC
 CVE-2019-20085 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-20085 - https://github.com/AleDiBen/NVMS1000-Exploit
@@ -28875,11 +28825,9 @@ CVE-2019-3980 - https://github.com/S3cur3Th1sSh1t/Pentest-Tools
 CVE-2019-3980 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-3980 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-3980 - https://github.com/warferik/CVE-2019-3980
-CVE-2019-4233 - https://github.com/UrbanCode/jenkins-publisher-ucd-plugin
 CVE-2019-4279 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 CVE-2019-4279 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
 CVE-2019-4450 - https://github.com/0x0FB0/MiscSploits
-CVE-2019-48814 - https://github.com/0xT11/CVE-POC
 CVE-2019-48814 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-48814 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-5007 - https://github.com/msantos/cvecat
@@ -29082,6 +29030,7 @@ CVE-2019-5736 - https://github.com/cometkim/awesome-list
 CVE-2019-5736 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-5736 - https://github.com/epsteina16/Docker-Escape-Miner
 CVE-2019-5736 - https://github.com/geropl/CVE-2019-5736
+CVE-2019-5736 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2019-5736 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-5736 - https://github.com/heroku/bheu19-attacking-cloud-builds
 CVE-2019-5736 - https://github.com/jakubkrawczyk/cve-2019-5736
@@ -29113,6 +29062,7 @@ CVE-2019-5736 - https://github.com/stillan00b/CVE-2019-5736
 CVE-2019-5736 - https://github.com/taielab/awesome-hacking-lists
 CVE-2019-5736 - https://github.com/twistlock/RunC-CVE-2019-5736
 CVE-2019-5736 - https://github.com/twistlock/whoc
+CVE-2019-5736 - https://github.com/waqeen/cyber_security21
 CVE-2019-5736 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2019-5736 - https://github.com/yyqs2008/CVE-2019-5736-PoC-2
 CVE-2019-5736 - https://github.com/zhonghual1206/biyi-sealidentify
@@ -29492,7 +29442,6 @@ CVE-2019-6988 - https://github.com/FritzJo/pacheck
 CVE-2019-6988 - https://github.com/ICSE2020-MemLock/MemLock_Benchmark
 CVE-2019-6988 - https://github.com/tzf-key/MemLock_Benchmark
 CVE-2019-6991 - https://github.com/rishaldwivedi/Public_Disclosure
-CVE-2019-6998 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-6999 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-7045 - https://github.com/googleprojectzero/winafl
 CVE-2019-7045 - https://github.com/hardik05/winafl-powermopt
@@ -29909,7 +29858,6 @@ CVE-2019-8609 - https://github.com/sslab-gatech/freedom
 CVE-2019-8611 - https://github.com/googleprojectzero/fuzzilli
 CVE-2019-8622 - https://github.com/googleprojectzero/fuzzilli
 CVE-2019-8623 - https://github.com/googleprojectzero/fuzzilli
-CVE-2019-8627 - https://github.com/0xT11/CVE-POC
 CVE-2019-8627 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-8627 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-8629 - https://github.com/Captainarash/parafuzz
@@ -29949,7 +29897,6 @@ CVE-2019-8691 - https://github.com/Captainarash/parafuzz
 CVE-2019-8693 - https://github.com/Captainarash/parafuzz
 CVE-2019-8694 - https://github.com/Captainarash/parafuzz
 CVE-2019-8718 - https://github.com/userlandkernel/USBusted
-CVE-2019-8720 - https://github.com/sslab-gatech/freedom
 CVE-2019-8761 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2019-8761 - https://github.com/pipiscrew/timeline
 CVE-2019-8765 - https://github.com/googleprojectzero/fuzzilli
@@ -30530,7 +30477,6 @@ CVE-2020-0423 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2020-0423 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-0423 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2020-0424 - https://github.com/TinyNiko/android_bulletin_notes
-CVE-2020-0436 - https://github.com/projectceladon/trusty-release-binaries
 CVE-2020-0437 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2020-0438 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2020-0439 - https://github.com/TinyNiko/android_bulletin_notes
@@ -31062,6 +31008,7 @@ CVE-2020-0779 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-0779 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2020-0782 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-0787 - https://github.com/0xT11/CVE-POC
+CVE-2020-0787 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2020-0787 - https://github.com/Al1ex/WindowsElevation
 CVE-2020-0787 - https://github.com/Ascotbe/Kernelhub
 CVE-2020-0787 - https://github.com/CnHack3r/Penetration_PoC
@@ -31113,6 +31060,7 @@ CVE-2020-0796 - https://github.com/5l1v3r1/CVE-2020-0796-PoC-and-Scan
 CVE-2020-0796 - https://github.com/5l1v3r1/SMBGhost_Crash_Poc
 CVE-2020-0796 - https://github.com/5l1v3r1/cve-2020-0802
 CVE-2020-0796 - https://github.com/5l1v3r1/smbghost-5
+CVE-2020-0796 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2020-0796 - https://github.com/ASkyeye/RAGINGBULL
 CVE-2020-0796 - https://github.com/Aekras1a/CVE-2020-0796-PoC
 CVE-2020-0796 - https://github.com/Al1ex/WindowsElevation
@@ -31542,6 +31490,7 @@ CVE-2020-10189 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-10189 - https://github.com/huike007/penetration_poc
 CVE-2020-10189 - https://github.com/huike007/poc
 CVE-2020-10189 - https://github.com/lovechinacoco/https-github.com-mai-lang-chai-Middleware-Vulnerability-detection
+CVE-2020-10189 - https://github.com/mandiant/heyserial
 CVE-2020-10189 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
 CVE-2020-10189 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-10189 - https://github.com/tdtc7/qps
@@ -31942,8 +31891,6 @@ CVE-2020-10865 - https://github.com/umarfarook882/Avast_Multiple_Vulnerability_D
 CVE-2020-10866 - https://github.com/umarfarook882/Avast_Multiple_Vulnerability_Disclosure
 CVE-2020-10867 - https://github.com/umarfarook882/Avast_Multiple_Vulnerability_Disclosure
 CVE-2020-10868 - https://github.com/umarfarook882/Avast_Multiple_Vulnerability_Disclosure
-CVE-2020-10872 - https://github.com/0xbigshaq/php7-internals
-CVE-2020-10873 - https://github.com/0xbigshaq/php7-internals
 CVE-2020-10878 - https://github.com/Azure/publish-security-assessments
 CVE-2020-10878 - https://github.com/dragon7-fc/misc
 CVE-2020-10878 - https://github.com/garethr/snykout
@@ -32423,11 +32370,9 @@ CVE-2020-11738 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2020-11738 - https://github.com/sobinge/nuclei-templates
 CVE-2020-1179 - https://github.com/googleprojectzero/winafl
 CVE-2020-1179 - https://github.com/hardik05/winafl-powermopt
-CVE-2020-11794 - https://github.com/0xT11/CVE-POC
 CVE-2020-11794 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-11794 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-11794 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2020-11794 - https://github.com/w4cky/CVE-2020-11794
 CVE-2020-1180 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-11800 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-11800 - https://github.com/r0eXpeR/redteam_vul
@@ -32685,7 +32630,6 @@ CVE-2020-1250 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1252 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1252 - https://github.com/Cheroxx/Patch-Tuesday-Updates
 CVE-2020-1256 - https://github.com/404notf0und/CVE-Flow
-CVE-2020-12586 - https://github.com/alwentiu/COVIDSafe-CVE-2020-12856
 CVE-2020-12593 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-12621 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-12629 - https://github.com/0xT11/CVE-POC
@@ -32696,13 +32640,10 @@ CVE-2020-12629 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-12670 - https://github.com/MauroEldritch/mauroeldritch
 CVE-2020-12676 - https://github.com/CompassSecurity/SAMLRaider
 CVE-2020-12676 - https://github.com/FusionAuth/fusionauth-samlv2
-CVE-2020-12688 - https://github.com/0xT11/CVE-POC
-CVE-2020-12688 - https://github.com/TheCyberGeek/Centreon-20.04
 CVE-2020-12688 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-12688 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-12688 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-12691 - https://github.com/jckling/jckling
-CVE-2020-12694 - https://github.com/ndaprela/bugs
 CVE-2020-12695 - https://github.com/0xT11/CVE-POC
 CVE-2020-12695 - https://github.com/CnHack3r/Penetration_PoC
 CVE-2020-12695 - https://github.com/Mr-xn/Penetration_Testing_POC
@@ -32899,13 +32840,11 @@ CVE-2020-13162 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-13162 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-13162 - https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162-
 CVE-2020-13162 - https://github.com/shubham0d/SymBlock
-CVE-2020-13165 - https://github.com/hannob/pgpbugs
 CVE-2020-13167 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-13167 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2020-13167 - https://github.com/sobinge/nuclei-templates
 CVE-2020-13168 - https://github.com/lodestone-security/CVEs
 CVE-2020-1317 - https://github.com/alphaSeclab/sec-daily-2020
-CVE-2020-13172 - https://github.com/immunityinc/Advisories
 CVE-2020-1319 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1319 - https://github.com/Cheroxx/Patch-Tuesday-Updates
 CVE-2020-1319 - https://github.com/linhlhq/TinyAFL
@@ -32998,7 +32937,6 @@ CVE-2020-1345 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-13450 - https://github.com/br0xpl/gotenberg_hack
 CVE-2020-13451 - https://github.com/br0xpl/gotenberg_hack
 CVE-2020-13452 - https://github.com/br0xpl/gotenberg_hack
-CVE-2020-13457 - https://github.com/0xT11/CVE-POC
 CVE-2020-13457 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-13457 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-13457 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -33094,6 +33032,7 @@ CVE-2020-1362 - https://github.com/yedada-wei/-
 CVE-2020-1362 - https://github.com/yedada-wei/gongkaishouji
 CVE-2020-13622 - https://github.com/googleprojectzero/fuzzilli
 CVE-2020-13623 - https://github.com/googleprojectzero/fuzzilli
+CVE-2020-13629 - https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking
 CVE-2020-13629 - https://github.com/V33RU/IoTSecurity101
 CVE-2020-13629 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-13629 - https://github.com/mishmashclone/V33RU-IoTSecurity101
@@ -33447,8 +33386,6 @@ CVE-2020-14311 - https://github.com/puzzleos/uefi-shim_review
 CVE-2020-14311 - https://github.com/rhboot/shim-review
 CVE-2020-14311 - https://github.com/vathpela/shim-review
 CVE-2020-14318 - https://github.com/DNTYO/F5_Vulnerability
-CVE-2020-14321 - https://github.com/0xT11/CVE-POC
-CVE-2020-14321 - https://github.com/HoangKien1020/CVE-2020-14321
 CVE-2020-14321 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-14321 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-14321 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -33492,6 +33429,7 @@ CVE-2020-14386 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2020-14386 - https://github.com/Metarget/metarget
 CVE-2020-14386 - https://github.com/cgwalters/cve-2020-14386
 CVE-2020-14386 - https://github.com/developer3000S/PoC-in-GitHub
+CVE-2020-14386 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2020-14386 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-14386 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-14386 - https://github.com/reni2study/Cloud-Native-Security2
@@ -34015,10 +33953,8 @@ CVE-2020-15392 - https://github.com/inflixim4be/CVE-2020-15367
 CVE-2020-15392 - https://github.com/inflixim4be/CVE-2020-15392
 CVE-2020-15392 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-15394 - https://github.com/trungtin1998/cve
-CVE-2020-15399 - https://github.com/0xT11/CVE-POC
 CVE-2020-15399 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-15399 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2020-15399 - https://github.com/mkelepce/CVE-2020-15399
 CVE-2020-15399 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-15415 - https://github.com/peanuts62/IOT_CVE
 CVE-2020-15436 - https://github.com/p1ay8y3ar/cve_monitor
@@ -34038,7 +33974,6 @@ CVE-2020-15505 - https://github.com/cvebase/cvebase.com
 CVE-2020-15505 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
 CVE-2020-15505 - https://github.com/sobinge/nuclei-templates
 CVE-2020-15506 - https://github.com/BitTheByte/BitTraversal
-CVE-2020-15524 - https://github.com/immunityinc/Advisories
 CVE-2020-15562 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-15568 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-15568 - https://github.com/sobinge/nuclei-templates
@@ -35014,7 +34949,6 @@ CVE-2020-23160 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-23160 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-23161 - https://github.com/Outpost24/Pyrescom-Termod-PoC
 CVE-2020-23162 - https://github.com/Outpost24/Pyrescom-Termod-PoC
-CVE-2020-2333 - https://github.com/0xT11/CVE-POC
 CVE-2020-2333 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-2333 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-2333 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -35032,20 +34966,6 @@ CVE-2020-23517 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2020-23545 - https://github.com/nhiephon/Research
 CVE-2020-23546 - https://github.com/nhiephon/Research
 CVE-2020-23549 - https://github.com/nhiephon/Research
-CVE-2020-23550 - https://github.com/nhiephon/Research
-CVE-2020-23551 - https://github.com/nhiephon/Research
-CVE-2020-23552 - https://github.com/nhiephon/Research
-CVE-2020-23553 - https://github.com/nhiephon/Research
-CVE-2020-23554 - https://github.com/nhiephon/Research
-CVE-2020-23555 - https://github.com/nhiephon/Research
-CVE-2020-23556 - https://github.com/nhiephon/Research
-CVE-2020-23557 - https://github.com/nhiephon/Research
-CVE-2020-23558 - https://github.com/nhiephon/Research
-CVE-2020-23559 - https://github.com/nhiephon/Research
-CVE-2020-23560 - https://github.com/nhiephon/Research
-CVE-2020-23561 - https://github.com/nhiephon/Research
-CVE-2020-23562 - https://github.com/nhiephon/Research
-CVE-2020-23563 - https://github.com/nhiephon/Research
 CVE-2020-23575 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-23576 - https://github.com/Zeyad-Azima/Zeyad-Azima
 CVE-2020-23659 - https://github.com/p1ay8y3ar/cve_monitor
@@ -35063,6 +34983,7 @@ CVE-2020-23740 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-23740 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-23741 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-23741 - https://github.com/hectorgie/PoC-in-GitHub
+CVE-2020-23792 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2020-23811 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-23814 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-23824 - https://github.com/404notf0und/CVE-Flow
@@ -35164,6 +35085,7 @@ CVE-2020-24227 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-24227 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-24227 - https://github.com/nathunandwani/CVE-2020-24227
 CVE-2020-24227 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-24259 - https://github.com/V0lk3n/OSMR-CheatSheet
 CVE-2020-24312 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-24312 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2020-24312 - https://github.com/sobinge/nuclei-templates
@@ -35172,7 +35094,6 @@ CVE-2020-24313 - https://github.com/zer0detail/Echidna
 CVE-2020-24314 - https://github.com/zer0detail/Echidna
 CVE-2020-24315 - https://github.com/zer0detail/Echidna
 CVE-2020-24316 - https://github.com/zer0detail/Echidna
-CVE-2020-24350 - https://github.com/immunityinc/Advisories
 CVE-2020-24355 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-24364 - https://github.com/theart42/cves
 CVE-2020-24379 - https://github.com/404notf0und/CVE-Flow
@@ -35236,7 +35157,6 @@ CVE-2020-24586 - https://github.com/vanhoefm/fragattacks
 CVE-2020-24587 - https://github.com/vanhoefm/fragattacks
 CVE-2020-24588 - https://github.com/vanhoefm/fragattacks
 CVE-2020-24589 - https://github.com/ARPSyndicate/kenzer-templates
-CVE-2020-24597 - https://github.com/0xT11/CVE-POC
 CVE-2020-24597 - https://github.com/HoangKien1020/CVE-2020-24597
 CVE-2020-24597 - https://github.com/HoangKien1020/CVE-2021-23132
 CVE-2020-24597 - https://github.com/developer3000S/PoC-in-GitHub
@@ -35495,8 +35415,6 @@ CVE-2020-25287 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-25287 - https://github.com/jenaye/pligg
 CVE-2020-25291 - https://github.com/YinWC/2021hvv_vul
 CVE-2020-25375 - https://github.com/zer0detail/Echidna
-CVE-2020-25376 - https://github.com/zer0detail/Echidna
-CVE-2020-25377 - https://github.com/zer0detail/Echidna
 CVE-2020-25378 - https://github.com/zer0detail/Echidna
 CVE-2020-25379 - https://github.com/zer0detail/Echidna
 CVE-2020-25380 - https://github.com/zer0detail/Echidna
@@ -35532,7 +35450,6 @@ CVE-2020-25487 - https://github.com/Ko-kn3t/CVE-2020-25487
 CVE-2020-25487 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-25487 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-25487 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2020-25488 - https://github.com/0xT11/CVE-POC
 CVE-2020-25488 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-25488 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-25488 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -35612,12 +35529,9 @@ CVE-2020-25515 - https://github.com/Ko-kn3t/CVE-2020-25515
 CVE-2020-25515 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-25515 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-25515 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2020-25518 - https://github.com/0xT11/CVE-POC
 CVE-2020-25518 - https://github.com/developer3000S/PoC-in-GitHub
-CVE-2020-25518 - https://github.com/g-rubert/wordpress_DoS
 CVE-2020-25518 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-25518 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2020-25519 - https://github.com/g-rubert/wordpress_DoS
 CVE-2020-25528 - https://github.com/noobpk/noobpk
 CVE-2020-2553 - https://github.com/5l1v3r1/CVE-2020-2553
 CVE-2020-2553 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -35792,7 +35706,6 @@ CVE-2020-25749 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-25751 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-25769 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-25769 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2020-25769 - https://github.com/immunityinc/Advisories
 CVE-2020-25769 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-25780 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-25780 - https://github.com/ARPSyndicate/kenzer-templates
@@ -35843,6 +35756,7 @@ CVE-2020-26061 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-26061 - https://github.com/missing0x00/CVE-2020-26061
 CVE-2020-26061 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-26073 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2020-26073 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2020-26088 - https://github.com/evdenis/cvehound
 CVE-2020-26116 - https://github.com/twu/skjold
 CVE-2020-26124 - https://github.com/ARPSyndicate/cvemon
@@ -36060,6 +35974,7 @@ CVE-2020-27223 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-27223 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-27348 - https://github.com/psifertex/ctf-vs-the-real-world
 CVE-2020-27352 - https://github.com/Metarget/awesome-cloud-native-security
+CVE-2020-27352 - https://github.com/reni2study/Cloud-Native-Security2
 CVE-2020-27358 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-27358 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-27358 - https://github.com/hectorgie/PoC-in-GitHub
@@ -36074,6 +35989,9 @@ CVE-2020-27368 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-27372 - https://github.com/H4niz/CVE
 CVE-2020-27386 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-27387 - https://github.com/ARPSyndicate/cvemon
+CVE-2020-27503 - https://github.com/M507/Miner
+CVE-2020-27504 - https://github.com/M507/Miner
+CVE-2020-27505 - https://github.com/M507/Miner
 CVE-2020-27533 - https://github.com/EdgeSecurityTeam/Vulnerability
 CVE-2020-27533 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-2756 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
@@ -36106,8 +36024,6 @@ CVE-2020-27662 - https://github.com/indevi0us/indevi0us
 CVE-2020-27663 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-27663 - https://github.com/indevi0us/indevi0us
 CVE-2020-27666 - https://github.com/ossf-cve-benchmark/CVE-2020-27666
-CVE-2020-27685 - https://github.com/codedninja/Teradek-Livestream-Broadcaster-RCE
-CVE-2020-27686 - https://github.com/codedninja/Teradek-Livestream-Broadcaster-RCE
 CVE-2020-27687 - https://github.com/vin01/CVEs
 CVE-2020-27688 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-27688 - https://github.com/developer3000S/PoC-in-GitHub
@@ -36376,6 +36292,7 @@ CVE-2020-2853 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2020-28588 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2020-28637 - https://github.com/The-Cracker-Technology/jwt_tool
 CVE-2020-28637 - https://github.com/mishmashclone/ticarpi-jwt_tool
+CVE-2020-28637 - https://github.com/puckiestyle/jwt_tool
 CVE-2020-28637 - https://github.com/ticarpi/jwt_tool
 CVE-2020-28642 - https://github.com/EdgeSecurityTeam/Vulnerability
 CVE-2020-28642 - https://github.com/SexyBeast233/SecBooks
@@ -36453,6 +36370,7 @@ CVE-2020-28874 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-28877 - https://github.com/peanuts62/IOT_CVE
 CVE-2020-28913 - https://github.com/EdgeSecurityTeam/Vulnerability
 CVE-2020-28913 - https://github.com/koronkowy/koronkowy
+CVE-2020-28913 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-28926 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-28926 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-28926 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -36480,7 +36398,6 @@ CVE-2020-28976 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-29007 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-29007 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-29007 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2020-29007 - https://github.com/mmiszczyk/lilypond-scheme-hacking
 CVE-2020-29070 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-29070 - https://github.com/aslanemre/cve-2020-29070
 CVE-2020-29070 - https://github.com/developer3000S/PoC-in-GitHub
@@ -36610,6 +36527,7 @@ CVE-2020-2978 - https://github.com/emad-almousa/CVE-2020-2978
 CVE-2020-2978 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-2978 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-3019 - https://github.com/EdgeSecurityTeam/Vulnerability
+CVE-2020-3019 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-3111 - https://github.com/epi052/CiscoNotes
 CVE-2020-3118 - https://github.com/epi052/CiscoNotes
 CVE-2020-3119 - https://github.com/epi052/CiscoNotes
@@ -36682,7 +36600,6 @@ CVE-2020-3433 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-3433 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-3433 - https://github.com/r0eXpeR/supplier
 CVE-2020-3434 - https://github.com/goichot/CVE-2020-3433
-CVE-2020-34343 - https://github.com/goichot/CVE-2020-3433
 CVE-2020-3435 - https://github.com/goichot/CVE-2020-3433
 CVE-2020-3451 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-3451 - https://github.com/avboy1337/cisco-RV34x-RCE
@@ -37033,6 +36950,7 @@ CVE-2020-36218 - https://github.com/Artisan-Lab/Rust-memory-safety-bugs
 CVE-2020-36219 - https://github.com/Artisan-Lab/Rust-memory-safety-bugs
 CVE-2020-3622 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-36220 - https://github.com/Artisan-Lab/Rust-memory-safety-bugs
+CVE-2020-36239 - https://github.com/mandiant/heyserial
 CVE-2020-3624 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-36242 - https://github.com/indece-official/clair-client
 CVE-2020-36242 - https://github.com/sonatype-nexus-community/jake
@@ -37227,7 +37145,6 @@ CVE-2020-4280 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-4305 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2020-4337 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-4362 - https://github.com/Rapid7cn/Nexpose_vck
-CVE-2020-43736 - https://github.com/xss10086/code
 CVE-2020-4414 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-4427 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-4428 - https://github.com/ARPSyndicate/cvemon
@@ -37290,7 +37207,6 @@ CVE-2020-5014 - https://github.com/copethomas/datapower-redis-rce-exploit
 CVE-2020-5014 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-5014 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-5024 - https://github.com/emotest1/emo_emo
-CVE-2020-5029 - https://github.com/GovindPalakkal/EvilRip
 CVE-2020-5135 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-5135 - https://github.com/r0eXpeR/supplier
 CVE-2020-5144 - https://github.com/r0eXpeR/supplier
@@ -37914,6 +37830,7 @@ CVE-2020-6650 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-6650 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-6650 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-6802 - https://github.com/andreburgaud/robotspy
+CVE-2020-6817 - https://github.com/engn33r/awesome-redos-security
 CVE-2020-6844 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-6845 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-6854 - https://github.com/afinepl/research
@@ -37938,11 +37855,8 @@ CVE-2020-6888 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-6888 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-6888 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-6888 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2020-6925 - https://github.com/NickstaDB/PoC
 CVE-2020-6925 - https://github.com/alphaSeclab/sec-daily-2020
-CVE-2020-6926 - https://github.com/NickstaDB/PoC
 CVE-2020-6926 - https://github.com/alphaSeclab/sec-daily-2020
-CVE-2020-6927 - https://github.com/NickstaDB/PoC
 CVE-2020-6927 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-6948 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-6949 - https://github.com/SexyBeast233/SecBooks
@@ -37980,7 +37894,6 @@ CVE-2020-7209 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-7209 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-7209 - https://github.com/sobinge/nuclei-templates
 CVE-2020-7221 - https://github.com/SexyBeast233/SecBooks
-CVE-2020-72381 - https://github.com/0xT11/CVE-POC
 CVE-2020-72381 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-72381 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-7241 - https://github.com/V1n1v131r4/Exploiting-WP-Database-Backup-WordPress-Plugin
@@ -38620,6 +38533,7 @@ CVE-2020-8558 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-8558 - https://github.com/cdk-team/CDK
 CVE-2020-8558 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-8558 - https://github.com/g3rzi/HackingKubernetes
+CVE-2020-8558 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2020-8558 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-8558 - https://github.com/jassics/awesome-aws-security
 CVE-2020-8558 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -38864,9 +38778,7 @@ CVE-2020-8863 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-8864 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-8871 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-8871 - https://github.com/dlehgus1023/VirtualBox_IO-Fuzz
-CVE-2020-8888 - https://github.com/0xT11/CVE-POC
 CVE-2020-8888 - https://github.com/ARPSyndicate/cvemon
-CVE-2020-8888 - https://github.com/SnipJoe/CVE-2020-8888
 CVE-2020-8888 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-8888 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-8888 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -39408,6 +39320,8 @@ CVE-2020-9992 - https://github.com/nitishbadole/PENTESTING-BIBLE
 CVE-2020-9992 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-9992 - https://github.com/phant0n/PENTESTING-BIBLE
 CVE-2020-9999 - https://github.com/tdcoming/CVE-2020-9999
+CVE-2021-0000 - https://github.com/m-mizutani/octovy
+CVE-2021-00001 - https://github.com/hamayanhamayan/all-suspicious-requests
 CVE-2021-0086 - https://github.com/vusec/fpvi-scsb
 CVE-2021-0089 - https://github.com/JUSDJTIN/Speculative-Code-Store-Bypass-POC
 CVE-2021-0089 - https://github.com/vusec/fpvi-scsb
@@ -39464,6 +39378,7 @@ CVE-2021-0338 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2021-0339 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2021-0340 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2021-0341 - https://github.com/TinyNiko/android_bulletin_notes
+CVE-2021-036934 - https://github.com/mwarnerblu/GoHN
 CVE-2021-0390 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2021-0391 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2021-0392 - https://github.com/TinyNiko/android_bulletin_notes
@@ -39483,6 +39398,7 @@ CVE-2021-0920 - https://github.com/enterprisemodules/vulnerability_demo
 CVE-2021-0928 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-0928 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-0928 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-10086 - https://github.com/xiaoyun-1/CVE-2021-10086
 CVE-2021-1048 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2021-1056 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-1056 - https://github.com/SexyBeast233/SecBooks
@@ -39492,6 +39408,7 @@ CVE-2021-1056 - https://github.com/pokerfaceSad/CVE-2021-1056
 CVE-2021-1090 - https://github.com/0xf4b1/bsod-kernel-fuzzing
 CVE-2021-1095 - https://github.com/0xf4b1/bsod-kernel-fuzzing
 CVE-2021-1096 - https://github.com/0xf4b1/bsod-kernel-fuzzing
+CVE-2021-11123 - https://github.com/chenanu123/cve-2021-11123
 CVE-2021-1347 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-1366 - https://github.com/r0eXpeR/supplier
 CVE-2021-1472 - https://github.com/ARPSyndicate/cvemon
@@ -39596,6 +39513,7 @@ CVE-2021-1675 - https://github.com/dxnboy/redteam
 CVE-2021-1675 - https://github.com/edsonjt81/CVE-2021-1675
 CVE-2021-1675 - https://github.com/edsonjt81/SpoolSploit
 CVE-2021-1675 - https://github.com/eng-amarante/CyberSecurity
+CVE-2021-1675 - https://github.com/eversinc33/NimNightmare
 CVE-2021-1675 - https://github.com/evilashz/CVE-2021-1675-LPE-EXP
 CVE-2021-1675 - https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675
 CVE-2021-1675 - https://github.com/galoget/PrintNightmare-CVE-2021-1675-CVE-2021-34527
@@ -39666,6 +39584,7 @@ CVE-2021-1727 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-1730 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2021-1730 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-1732 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-1732 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2021-1732 - https://github.com/Al1ex/WindowsElevation
 CVE-2021-1732 - https://github.com/Ascotbe/Kernelhub
 CVE-2021-1732 - https://github.com/BeneficialCode/CVE-2021-1732
@@ -39855,6 +39774,7 @@ CVE-2021-20332 - https://github.com/Artisan-Lab/Rust-memory-safety-bugs
 CVE-2021-20353 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 CVE-2021-20353 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
 CVE-2021-20353 - https://github.com/r00t4dm/r00t4dm
+CVE-2021-2037 - https://github.com/r0eXpeR/supplier
 CVE-2021-20453 - https://github.com/r00t4dm/r00t4dm
 CVE-2021-20454 - https://github.com/r00t4dm/r00t4dm
 CVE-2021-2047 - https://github.com/somatrasss/weblogic2021
@@ -39904,6 +39824,7 @@ CVE-2021-21042 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-21042 - https://github.com/r1l4-i3pur1l4/CVE-2021-21042
 CVE-2021-2108 - https://github.com/somatrasss/weblogic2021
 CVE-2021-21086 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-21086 - https://github.com/infobyte/Exploit-CVE-2021-21086
 CVE-2021-21086 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-21086 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-21087 - https://github.com/EdgeSecurityTeam/Vulnerability
@@ -40235,6 +40156,7 @@ CVE-2021-21972 - https://github.com/SexyBeast233/SecBooks
 CVE-2021-21972 - https://github.com/SouthWind0/southwind0.github.io
 CVE-2021-21972 - https://github.com/TaroballzChen/CVE-2021-21972
 CVE-2021-21972 - https://github.com/Udyz/CVE-2021-21972
+CVE-2021-21972 - https://github.com/Vulnmachines/VmWare-vCenter-vulnerability
 CVE-2021-21972 - https://github.com/Whitehorse-rainbow/-Infiltration-summary
 CVE-2021-21972 - https://github.com/bhassani/Recent-CVE
 CVE-2021-21972 - https://github.com/bhdresh/SnortRules
@@ -40307,6 +40229,7 @@ CVE-2021-21975 - https://github.com/SouthWind0/southwind0.github.io
 CVE-2021-21975 - https://github.com/TheTh1nk3r/exp_hub
 CVE-2021-21975 - https://github.com/Timirepo/CVE_Exploits
 CVE-2021-21975 - https://github.com/Vulnmachines/VMWare-CVE-2021-21975
+CVE-2021-21975 - https://github.com/Vulnmachines/VmWare-vCenter-vulnerability
 CVE-2021-21975 - https://github.com/bigblackhat/oFx
 CVE-2021-21975 - https://github.com/dorkerdevil/CVE-2021-21975
 CVE-2021-21975 - https://github.com/jweny/pocassistdb
@@ -40341,6 +40264,8 @@ CVE-2021-21978 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 CVE-2021-21979 - https://github.com/ssst0n3/my_vulnerabilities
 CVE-2021-21979 - https://github.com/ssst0n3/ssst0n3
 CVE-2021-21980 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-21980 - https://github.com/Osyanina/westone-CVE-2021-21980-scanner
+CVE-2021-21980 - https://github.com/dorkerdevil/LongTail-AMF
 CVE-2021-21980 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-21980 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-21983 - https://github.com/ARPSyndicate/cvemon
@@ -40389,6 +40314,7 @@ CVE-2021-22005 - https://github.com/TaroballzChen/CVE-2021-22005-metasploit
 CVE-2021-22005 - https://github.com/TheTh1nk3r/exp_hub
 CVE-2021-22005 - https://github.com/TiagoSergio/CVE-2021-22005
 CVE-2021-22005 - https://github.com/Timirepo/CVE_Exploits
+CVE-2021-22005 - https://github.com/Vulnmachines/VmWare-vCenter-vulnerability
 CVE-2021-22005 - https://github.com/X1pe0/VMWare-CVE-Check
 CVE-2021-22005 - https://github.com/hanc00l/some_pocsuite
 CVE-2021-22005 - https://github.com/nday-ldgz/ZoomEye-dork
@@ -40455,6 +40381,7 @@ CVE-2021-22201 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-22204 - https://github.com/0xsyr0/OSCP
 CVE-2021-22204 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-22204 - https://github.com/Al1ex/CVE-2021-22205
+CVE-2021-22204 - https://github.com/Asaad27/CVE-2021-22204-RSE
 CVE-2021-22204 - https://github.com/AssassinUKG/CVE-2021-22204
 CVE-2021-22204 - https://github.com/CsEnox/Gitlab-Exiftool-RCE
 CVE-2021-22204 - https://github.com/EdgeSecurityTeam/Vulnerability
@@ -40545,12 +40472,14 @@ CVE-2021-22555 - https://github.com/cgwalters/container-cve-2021-22555
 CVE-2021-22555 - https://github.com/cpuu/LinuxKernelCVE
 CVE-2021-22555 - https://github.com/ctrsploit/ctrsploit
 CVE-2021-22555 - https://github.com/daletoniris/CVE-2021-22555-esc-priv
+CVE-2021-22555 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2021-22555 - https://github.com/huike007/penetration_poc
 CVE-2021-22555 - https://github.com/joydo/CVE-Writeups
 CVE-2021-22555 - https://github.com/reni2study/Cloud-Native-Security2
 CVE-2021-22555 - https://github.com/ssst0n3/ctrsploit_archived
 CVE-2021-22555 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-22555 - https://github.com/xairy/linux-kernel-exploitation
+CVE-2021-22555 - https://github.com/xyjl-ly/CVE-2021-22555-Exploit
 CVE-2021-22569 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-22569 - https://github.com/CodeIntelligenceTesting/jazzer
 CVE-2021-22569 - https://github.com/Mario-Kart-Felix/A-potential-Denial-of-Service-issue-in-protobuf-java
@@ -41132,9 +41061,11 @@ CVE-2021-25735 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-25737 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2021-25737 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-25737 - https://github.com/reni2study/Cloud-Native-Security2
+CVE-2021-25740 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2021-25741 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-25741 - https://github.com/Metarget/awesome-cloud-native-security
 CVE-2021-25741 - https://github.com/Metarget/metarget
+CVE-2021-25741 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2021-25741 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-25741 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-25742 - https://github.com/cruise-automation/k-rail
@@ -41209,6 +41140,7 @@ CVE-2021-26084 - https://github.com/rudrapwn/source-code-review
 CVE-2021-26084 - https://github.com/smallpiggy/cve-2021-26084-confluence
 CVE-2021-26084 - https://github.com/taythebot/CVE-2021-26084
 CVE-2021-26084 - https://github.com/toowoxx/docker-confluence-patched
+CVE-2021-26084 - https://github.com/tzwlhack/ShuiZe_0x727
 CVE-2021-26084 - https://github.com/wdjcy/CVE-2021-26084
 CVE-2021-26084 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-26084 - https://github.com/wolf1892/confluence-rce-poc
@@ -41467,6 +41399,7 @@ CVE-2021-26855 - https://github.com/srvaccount/CVE-2021-26855-PoC
 CVE-2021-26855 - https://github.com/stressboi/hafnium-exchange-splunk-csvs
 CVE-2021-26855 - https://github.com/superfish9/pt
 CVE-2021-26855 - https://github.com/taielab/awesome-hacking-lists
+CVE-2021-26855 - https://github.com/thau0x01/poc_proxylogon
 CVE-2021-26855 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-26855 - https://github.com/vehemont/nvdlib
 CVE-2021-26855 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
@@ -41648,6 +41581,7 @@ CVE-2021-27135 - https://github.com/Awisefew/Lof4j
 CVE-2021-27135 - https://github.com/dileepdkumar/https-github.com-cisagov-log4j-affected-dbv2
 CVE-2021-27137 - https://github.com/EdgeSecurityTeam/Vulnerability
 CVE-2021-27137 - https://github.com/SouthWind0/southwind0.github.io
+CVE-2021-27137 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-27180 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-27180 - https://github.com/chudyPB/MDaemon-Advisories
 CVE-2021-27180 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -41869,6 +41803,9 @@ CVE-2021-27965 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-28041 - https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network
 CVE-2021-28073 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-28073 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2021-28073 - https://github.com/Elsfa7-110/kenzer-templates
+CVE-2021-28073 - https://github.com/errorecho/CVEs-Collection
+CVE-2021-28073 - https://github.com/zmylml/yangzifun
 CVE-2021-28079 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-28079 - https://github.com/g33xter/CVE-2021-28079
 CVE-2021-28079 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -41992,6 +41929,7 @@ CVE-2021-28799 - https://github.com/r0eXpeR/supplier
 CVE-2021-28807 - https://github.com/ShielderSec/poc
 CVE-2021-28814 - https://github.com/thomasfady/QNAP_QSA-21-25
 CVE-2021-28831 - https://github.com/thecyberbaby/Trivy-by-aquaSecurity
+CVE-2021-2885 - https://github.com/Tlc123456/CVE
 CVE-2021-28854 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-28854 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-28854 - https://github.com/JHHAX/VICIdial
@@ -42129,6 +42067,7 @@ CVE-2021-29813 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-29814 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-29815 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-29816 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-2982 - https://github.com/JohnHammond/CVE-2012-2982
 CVE-2021-29832 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-29833 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-29842 - https://github.com/p1ay8y3ar/cve_monitor
@@ -42528,6 +42467,7 @@ CVE-2021-31440 - https://github.com/ChoKyuWon/exploit_articles
 CVE-2021-31440 - https://github.com/bsauce/kernel-exploit-factory
 CVE-2021-31440 - https://github.com/bsauce/kernel-security-learning
 CVE-2021-31440 - https://github.com/digamma-ai/CVE-2020-8835-verification
+CVE-2021-31440 - https://github.com/hacking-kubernetes/hacking-kubernetes.info
 CVE-2021-31474 - https://github.com/SexyBeast233/SecBooks
 CVE-2021-31474 - https://github.com/Y4er/CVE-2021-35215
 CVE-2021-31474 - https://github.com/n1sh1th/CVE-POC
@@ -42765,6 +42705,7 @@ CVE-2021-31862 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-31862 - https://github.com/RobertDra/CVE-2021-31862
 CVE-2021-31862 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-31862 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-31874 - https://github.com/STMCyber/CVEs
 CVE-2021-31879 - https://github.com/dgardella/KCC
 CVE-2021-31879 - https://github.com/epequeno/devops-demo
 CVE-2021-31932 - https://github.com/cmaruti/reports
@@ -42783,6 +42724,12 @@ CVE-2021-32030 - https://github.com/koronkowy/koronkowy
 CVE-2021-32030 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-32099 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-32099 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-32124 - https://github.com/Ainevsia/CVE-Request
+CVE-2021-32125 - https://github.com/Ainevsia/CVE-Request
+CVE-2021-32126 - https://github.com/Ainevsia/CVE-Request
+CVE-2021-32127 - https://github.com/Ainevsia/CVE-Request
+CVE-2021-32128 - https://github.com/Ainevsia/CVE-Request
+CVE-2021-32129 - https://github.com/Ainevsia/CVE-Request
 CVE-2021-32172 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-32180 - https://github.com/Yu3H0/IoT_CVE
 CVE-2021-32181 - https://github.com/Yu3H0/IoT_CVE
@@ -42813,6 +42760,7 @@ CVE-2021-32305 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-3239 - https://github.com/yshneyderman/CS590J-Capstone
 CVE-2021-32424 - https://github.com/Galapag0s/Trendnet_TW100-S4W1CA
 CVE-2021-32426 - https://github.com/Galapag0s/Trendnet_TW100-S4W1CA
+CVE-2021-32452 - https://github.com/Somerset-Recon/furbo-research
 CVE-2021-32471 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-32471 - https://github.com/Spacial/awesome-csirt
 CVE-2021-32471 - https://github.com/intrinsic-propensity/intrinsic-propensity.github.io
@@ -42848,6 +42796,7 @@ CVE-2021-32682 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-32682 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-32706 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-32724 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-32724 - https://github.com/MaximeSchlegel/CVE-2021-32724-Target
 CVE-2021-32724 - https://github.com/justinsteven/advisories
 CVE-2021-32724 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-32724 - https://github.com/p1ay8y3ar/cve_monitor
@@ -42933,6 +42882,7 @@ CVE-2021-33045 - https://github.com/mcw0/PoC
 CVE-2021-33045 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-33045 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-33055 - https://github.com/STMCyber/CVEs
+CVE-2021-3306 - https://github.com/CarlosG13/CVE-2021-33026
 CVE-2021-3310 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3310 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-3310 - https://github.com/piffd0s/CVE-2021-3310
@@ -42955,7 +42905,9 @@ CVE-2021-33357 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-3336 - https://github.com/boschresearch/pq-wolfSSL
 CVE-2021-3336 - https://github.com/onelife/Arduino_wolfssl
 CVE-2021-3336 - https://github.com/wolfssl-jp/wolfssl-private
+CVE-2021-33373 - https://github.com/GANGE666/Vulnerabilities
 CVE-2021-33373 - https://github.com/Yu3H0/IoT_CVE
+CVE-2021-33374 - https://github.com/GANGE666/Vulnerabilities
 CVE-2021-33374 - https://github.com/Yu3H0/IoT_CVE
 CVE-2021-33393 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-33403 - https://github.com/MRdoulestar/MRdoulestar
@@ -43017,6 +42969,7 @@ CVE-2021-33574 - https://github.com/thegeeklab/audit-exporter
 CVE-2021-33587 - https://github.com/engn33r/awesome-redos-security
 CVE-2021-3360 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3360 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-3360 - https://github.com/tcbutler320/CVE-2021-3360
 CVE-2021-33623 - https://github.com/marcosrg9/YouTubeTV
 CVE-2021-33624 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-33624 - https://github.com/Kakashiiiiy/CVE-2021-33624
@@ -43029,6 +42982,7 @@ CVE-2021-33703 - https://github.com/Onapsis/vulnerability_advisories
 CVE-2021-33705 - https://github.com/Onapsis/vulnerability_advisories
 CVE-2021-33707 - https://github.com/Onapsis/vulnerability_advisories
 CVE-2021-33739 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-33739 - https://github.com/ASR511-OO7/windows-kernel-exploits
 CVE-2021-33739 - https://github.com/Ascotbe/Kernelhub
 CVE-2021-33739 - https://github.com/Jkrasher/WindowsThreatResearch_JKrasher
 CVE-2021-33739 - https://github.com/SecWiki/windows-kernel-exploits
@@ -43118,6 +43072,8 @@ CVE-2021-34041 - https://github.com/Al1ex/Al1ex
 CVE-2021-34042 - https://github.com/Al1ex/Al1ex
 CVE-2021-34045 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-34045 - https://github.com/Al1ex/Al1ex
+CVE-2021-34045 - https://github.com/Al1ex/CVE-2021-34045
+CVE-2021-34045 - https://github.com/MzzdToT/CVE-2021-34045
 CVE-2021-34045 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-34046 - https://github.com/Al1ex/Al1ex
 CVE-2021-34047 - https://github.com/Al1ex/Al1ex
@@ -43405,6 +43361,7 @@ CVE-2021-35003 - https://github.com/rdomanski/Exploits_and_Advisories
 CVE-2021-35004 - https://github.com/rdomanski/Exploits_and_Advisories
 CVE-2021-35042 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-35042 - https://github.com/SexyBeast233/SecBooks
+CVE-2021-35042 - https://github.com/YouGina/CVE-2021-35042
 CVE-2021-35042 - https://github.com/errorecho/CVEs-Collection
 CVE-2021-35042 - https://github.com/mrlihd/CVE-2021-35042
 CVE-2021-35042 - https://github.com/r4vi/CVE-2021-35042
@@ -43500,8 +43457,10 @@ CVE-2021-3560 - https://github.com/oxagast/oxasploits
 CVE-2021-3560 - https://github.com/puckiestyle/CVE-2021-4034
 CVE-2021-3560 - https://github.com/secnigma/CVE-2021-3560-Polkit-Privilege-Esclation
 CVE-2021-3560 - https://github.com/swapravo/polkadots
+CVE-2021-3560 - https://github.com/tyyu3/mitre_example
 CVE-2021-3560 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-35616 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-35616 - https://github.com/Ofirhamam/OracleOTM
 CVE-2021-35616 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-35616 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-35617 - https://github.com/hktalent/weblogic1411
@@ -43525,6 +43484,7 @@ CVE-2021-35956 - https://github.com/tcbutler320/CVE-2021-35956
 CVE-2021-35973 - https://github.com/SexyBeast233/SecBooks
 CVE-2021-35975 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-35975 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-35975 - https://github.com/trump88/CVE-2021-35975
 CVE-2021-3609 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2021-36090 - https://github.com/CodeIntelligenceTesting/jazzer
 CVE-2021-3612 - https://github.com/doshyt/cve-monitor
@@ -43558,6 +43518,7 @@ CVE-2021-3628 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-36286 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3634 - https://github.com/GitHubForSnap/podcast-dl-gael
 CVE-2021-3634 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-36355 - https://github.com/Mayfly277/vulns
 CVE-2021-36355 - https://github.com/Orange-Cyberdefense/CVE-repository
 CVE-2021-36380 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36380 - https://github.com/ARPSyndicate/kenzer-templates
@@ -43565,6 +43526,7 @@ CVE-2021-36387 - https://github.com/cyberaz0r/Yellowfin-Multiple-Vulnerabilities
 CVE-2021-36388 - https://github.com/cyberaz0r/Yellowfin-Multiple-Vulnerabilities
 CVE-2021-36389 - https://github.com/cyberaz0r/Yellowfin-Multiple-Vulnerabilities
 CVE-2021-36392 - https://github.com/luukverhoeven/luukverhoeven
+CVE-2021-36394 - https://github.com/dinhbaouit/CVE-2021-36394
 CVE-2021-3646 - https://github.com/ajmalabubakkr/CVE
 CVE-2021-36530 - https://github.com/Marsman1996/pocs
 CVE-2021-36531 - https://github.com/Marsman1996/pocs
@@ -43572,12 +43534,14 @@ CVE-2021-3654 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3654 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-36563 - https://github.com/Edgarloyola/CVE-2021-36563
 CVE-2021-36563 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-36580 - https://github.com/shifa123/shifa123
 CVE-2021-36581 - https://github.com/l00neyhacker/CVE-2021-36581
 CVE-2021-36581 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-36582 - https://github.com/l00neyhacker/CVE-2021-36582
 CVE-2021-36582 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3671 - https://github.com/dispera/giant-squid
 CVE-2021-36740 - https://github.com/aakindur/Awesome-Vulnerable-Apps
+CVE-2021-36740 - https://github.com/detectify/Varnish-H2-Request-Smuggling
 CVE-2021-36740 - https://github.com/vavkamil/awesome-vulnerable-apps
 CVE-2021-36741 - https://github.com/v-p-b/avpwn
 CVE-2021-36742 - https://github.com/v-p-b/avpwn
@@ -43613,6 +43577,7 @@ CVE-2021-36934 - https://github.com/0xsyr0/OSCP
 CVE-2021-36934 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36934 - https://github.com/Ascotbe/Kernelhub
 CVE-2021-36934 - https://github.com/CrackerCat/HiveNightmare
+CVE-2021-36934 - https://github.com/FireFart/hivenightmare
 CVE-2021-36934 - https://github.com/GossiTheDog/HiveNightmare
 CVE-2021-36934 - https://github.com/HuskyHacks/ShadowSteal
 CVE-2021-36934 - https://github.com/JoranSlingerland/CVE-2021-36934
@@ -43663,6 +43628,7 @@ CVE-2021-36936 - https://github.com/cfalta/MicrosoftWontFixList
 CVE-2021-36942 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36942 - https://github.com/cfalta/MicrosoftWontFixList
 CVE-2021-36942 - https://github.com/crisprss/PetitPotam
+CVE-2021-36942 - https://github.com/kwburns/Efsr-Client
 CVE-2021-36942 - https://github.com/ly4k/PetitPotam
 CVE-2021-36942 - https://github.com/r0eXpeR/supplier
 CVE-2021-36942 - https://github.com/topotam/PetitPotam
@@ -43688,6 +43654,7 @@ CVE-2021-3712 - https://github.com/leonov-av/scanvus
 CVE-2021-3712 - https://github.com/lucky-sideburn/secpod_wrap
 CVE-2021-37144 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2021-37144 - https://github.com/nightfury99/CVE-IDs
+CVE-2021-3715 - https://github.com/Markakd/kernel_exploit
 CVE-2021-37152 - https://github.com/SecurityAnalysts/CVE-2021-37152
 CVE-2021-37185 - https://github.com/ic3sw0rd/S7_plus_Crash
 CVE-2021-37204 - https://github.com/ic3sw0rd/S7_plus_Crash
@@ -43695,7 +43662,14 @@ CVE-2021-37205 - https://github.com/ic3sw0rd/S7_plus_Crash
 CVE-2021-37216 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-37216 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-37343 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-3737 - https://github.com/GitHubForSnap/matrix-commander-gael
+CVE-2021-3740 - https://github.com/ajmalabubakkr/CVE
+CVE-2021-3741 - https://github.com/ajmalabubakkr/CVE
+CVE-2021-37413 - https://github.com/martinkubecka/CVE-References
 CVE-2021-37414 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-37419 - https://github.com/STMCyber/CVEs
+CVE-2021-3742 - https://github.com/ajmalabubakkr/CVE
+CVE-2021-37420 - https://github.com/STMCyber/CVEs
 CVE-2021-37422 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-37423 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3747 - https://github.com/p1ay8y3ar/cve_monitor
@@ -43724,6 +43698,7 @@ CVE-2021-37580 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-37580 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-37580 - https://github.com/rabbitsafe/CVE-2021-37580
 CVE-2021-37580 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
+CVE-2021-37589 - https://github.com/luca-regne/CVE-2021-37589
 CVE-2021-37593 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2021-37593 - https://github.com/nightfury99/CVE-IDs
 CVE-2021-37594 - https://github.com/googleprojectzero/winafl
@@ -43749,6 +43724,7 @@ CVE-2021-37748 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-37750 - https://github.com/leonov-av/scanvus
 CVE-2021-37761 - https://github.com/r0eXpeR/supplier
 CVE-2021-3781 - https://github.com/okumuralab/bibun8
+CVE-2021-37832 - https://github.com/AK-blank/CVE-2021-37832
 CVE-2021-37832 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-37832 - https://github.com/dievus/CVE-2021-37832
 CVE-2021-37832 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -43801,8 +43777,10 @@ CVE-2021-38295 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3831 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-38314 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-38314 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2021-38314 - https://github.com/byteofjoshua/CVE-2021-38314
 CVE-2021-38314 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-38314 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-38314 - https://github.com/phrantom/cve-2021-38314
 CVE-2021-3835 - https://github.com/szymonh/szymonh
 CVE-2021-3837 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-3838 - https://github.com/Haxatron/Haxatron
@@ -43819,6 +43797,7 @@ CVE-2021-38560 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-38560 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3857 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-38583 - https://github.com/charlesbickel/CVE-2021-38583
+CVE-2021-38601 - https://github.com/5l1v3r1/CVE-2021-38601
 CVE-2021-38602 - https://github.com/KielVaughn/CVE-2021-38602
 CVE-2021-38603 - https://github.com/KielVaughn/CVE-2021-38603
 CVE-2021-38604 - https://github.com/dispera/giant-squid
@@ -43890,6 +43869,7 @@ CVE-2021-38705 - https://github.com/sudonoodle/CVE-2021-38705
 CVE-2021-38706 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-38706 - https://github.com/sudonoodle/CVE-2021-38706
 CVE-2021-38707 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-38707 - https://github.com/sudonoodle/CVE-2021-38707
 CVE-2021-38710 - https://github.com/security-n/CVE-2021-38710
 CVE-2021-3874 - https://github.com/Haxatron/Haxatron
 CVE-2021-38751 - https://github.com/ARPSyndicate/cvemon
@@ -43935,6 +43915,7 @@ CVE-2021-3927 - https://github.com/cemonatk/onefuzzyway
 CVE-2021-39273 - https://github.com/nikip72/CVE-2021-39273-CVE-2021-39274
 CVE-2021-39274 - https://github.com/nikip72/CVE-2021-39273-CVE-2021-39274
 CVE-2021-3928 - https://github.com/cemonatk/onefuzzyway
+CVE-2021-39287 - https://github.com/Fearless523/CVE-2021-39287-Stored-XSS
 CVE-2021-3931 - https://github.com/Haxatron/Haxatron
 CVE-2021-39316 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39316 - https://github.com/ARPSyndicate/kenzer-templates
@@ -43964,9 +43945,13 @@ CVE-2021-39433 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3944 - https://github.com/Haxatron/Haxatron
 CVE-2021-3945 - https://github.com/0x0021h/expbox
 CVE-2021-3945 - https://github.com/noobpk/noobpk
+CVE-2021-39475 - https://github.com/W4RCL0UD/CVE-2021-39475
+CVE-2021-39476 - https://github.com/W4RCL0UD/CVE-2021-39476
 CVE-2021-3950 - https://github.com/noobpk/noobpk
 CVE-2021-39501 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39501 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2021-39512 - https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver
+CVE-2021-3952 - https://github.com/r0eXpeR/supplier
 CVE-2021-39623 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39623 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-39623 - https://github.com/p1ay8y3ar/cve_monitor
@@ -44120,6 +44105,8 @@ CVE-2021-40352 - https://github.com/zeroc00I/CVE-2021-09-03
 CVE-2021-40353 - https://github.com/5qu1n7/CVE-2021-40353
 CVE-2021-40353 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-40373 - https://github.com/maikroservice/CVE-2021-40373
+CVE-2021-40374 - https://github.com/DCKento/CVE-2021-40374
+CVE-2021-40375 - https://github.com/DCKento/CVE-2021-40375
 CVE-2021-4043 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-4043 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-4043 - https://github.com/oreosec/pwnkit
@@ -44217,12 +44204,16 @@ CVE-2021-40449 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 CVE-2021-40449 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-4045 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-4045 - https://github.com/binganao/vulns-2022
+CVE-2021-4045 - https://github.com/hacefresko/CVE-2021-4045-PoC
 CVE-2021-4045 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-40450 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-40450 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-40490 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-40492 - https://github.com/5qu1n7/CVE-2021-40492
 CVE-2021-40492 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-40512 - https://github.com/war4uthor/CVE-2021-40512
+CVE-2021-40513 - https://github.com/war4uthor/CVE-2021-40513
+CVE-2021-40514 - https://github.com/war4uthor/CVE-2021-40514
 CVE-2021-40528 - https://github.com/brandoncamenisch/release-the-code-litecoin
 CVE-2021-40531 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40531 - https://github.com/jonpalmisc/CVE-2021-40531
@@ -44277,10 +44268,13 @@ CVE-2021-40875 - https://github.com/SakuraSamuraii/derailed
 CVE-2021-40875 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-4089 - https://github.com/Haxatron/Haxatron
 CVE-2021-40904 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-40904 - https://github.com/Edgarloyola/CVE-2021-40904
 CVE-2021-40904 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-40905 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-40905 - https://github.com/Edgarloyola/CVE-2021-40905
 CVE-2021-40905 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-40906 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-40906 - https://github.com/Edgarloyola/CVE-2021-40906
 CVE-2021-40906 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-40960 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40960 - https://github.com/ARPSyndicate/kenzer-templates
@@ -44313,9 +44307,11 @@ CVE-2021-4104 - https://github.com/whitesource-ps/ws-bulk-report-generator
 CVE-2021-4104 - https://github.com/whitesource/log4j-detect-distribution
 CVE-2021-41061 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41073 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-41074 - https://github.com/dillonkirsch/CVE-2021-41074
 CVE-2021-41081 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41081 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41081 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-41081 - https://github.com/sudaiv/CVE-2021-41081
 CVE-2021-41082 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41083 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41088 - https://github.com/p1ay8y3ar/cve_monitor
@@ -44370,6 +44366,7 @@ CVE-2021-41277 - https://github.com/Seals6/CVE-2021-41277
 CVE-2021-41277 - https://github.com/TheLastVvV/CVE-2021-41277
 CVE-2021-41277 - https://github.com/Vulnmachines/Metabase_CVE-2021-41277
 CVE-2021-41277 - https://github.com/bigblackhat/oFx
+CVE-2021-41277 - https://github.com/healthjimmy/Some-scripts
 CVE-2021-41277 - https://github.com/kaizensecurity/CVE-2021-41277
 CVE-2021-41277 - https://github.com/kap1ush0n/CVE-2021-41277
 CVE-2021-41277 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -44377,6 +44374,7 @@ CVE-2021-41277 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41277 - https://github.com/tahtaciburak/CVE-2021-41277
 CVE-2021-41277 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-41277 - https://github.com/z3n70/CVE-2021-41277
+CVE-2021-41277 - https://github.com/zer0yu/CVE-2021-41277
 CVE-2021-41291 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41291 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-41293 - https://github.com/ARPSyndicate/cvemon
@@ -44398,9 +44396,11 @@ CVE-2021-41351 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41357 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41357 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-41379 - https://github.com/AlexandrVIvanov/InstallerFileTakeOver
+CVE-2021-41379 - https://github.com/Octoberfest7/OSEP-Tools
 CVE-2021-41379 - https://github.com/Octoberfest7/Tools
 CVE-2021-41379 - https://github.com/devopscoder331/CVE_InstallerFileTakeOver
 CVE-2021-41379 - https://github.com/dxnboy/redteam
+CVE-2021-41379 - https://github.com/jbaines-r7/shakeitoff
 CVE-2021-41379 - https://github.com/klinix5/InstallerFileTakeOver
 CVE-2021-41379 - https://github.com/noname1007/InstallerFileTakeOver
 CVE-2021-41379 - https://github.com/puckiestyle/InstallerFileTakeOver
@@ -44469,6 +44469,7 @@ CVE-2021-41728 - https://github.com/Dir0x/CVE-2021-41728
 CVE-2021-41728 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41728 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41730 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-41730 - https://github.com/IBUILI/CVE-2021-41730
 CVE-2021-41730 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41733 - https://github.com/PentesterGuruji/CVE-2021-41773
 CVE-2021-41773 - https://github.com/0day666/Vulnerability-verification
@@ -44560,6 +44561,7 @@ CVE-2021-41773 - https://github.com/r00tVen0m/CVE-2021-41773
 CVE-2021-41773 - https://github.com/ranggaggngntt/CVE-2021-41773
 CVE-2021-41773 - https://github.com/scarmandef/CVE-2021-41773
 CVE-2021-41773 - https://github.com/shellreaper/CVE-2021-41773
+CVE-2021-41773 - https://github.com/shiomiyan/CVE-2021-41773
 CVE-2021-41773 - https://github.com/signorrayan/RedTeam_toolkit
 CVE-2021-41773 - https://github.com/superfish9/pt
 CVE-2021-41773 - https://github.com/superzerosec/CVE-2021-41773
@@ -44579,6 +44581,7 @@ CVE-2021-41816 - https://github.com/lifeparticle/Ruby-Cheatsheet
 CVE-2021-41817 - https://github.com/lifeparticle/Ruby-Cheatsheet
 CVE-2021-41819 - https://github.com/lifeparticle/Ruby-Cheatsheet
 CVE-2021-41822 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-41822 - https://github.com/badboycxcc/CVE-2021-41822
 CVE-2021-41822 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41826 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41826 - https://github.com/ARPSyndicate/kenzer-templates
@@ -44592,6 +44595,7 @@ CVE-2021-41962 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41962 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41962 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-42006 - https://github.com/carter-yagemann/ARCUS
+CVE-2021-42008 - https://github.com/0xdevil/CVE-2021-42008
 CVE-2021-42008 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42008 - https://github.com/Al1ex/LinuxEelvation
 CVE-2021-42008 - https://github.com/BachoSeven/stellestelline
@@ -44599,6 +44603,7 @@ CVE-2021-42008 - https://github.com/bcoles/kasld
 CVE-2021-42008 - https://github.com/bsauce/kernel-exploit-factory
 CVE-2021-42008 - https://github.com/bsauce/kernel-security-learning
 CVE-2021-42008 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-42008 - https://github.com/numanturle/CVE-2021-42008
 CVE-2021-42008 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-42008 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2021-42013 - https://github.com/0day666/Vulnerability-verification
@@ -44729,10 +44734,12 @@ CVE-2021-42321 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42321 - https://github.com/DarkSprings/CVE-2021-42321
 CVE-2021-42321 - https://github.com/FDlucifer/Proxy-Attackchain
 CVE-2021-42321 - https://github.com/Mr-xn/Penetration_Testing_POC
+CVE-2021-42321 - https://github.com/mandiant/heyserial
 CVE-2021-42321 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42321 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-42321 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-42323 - https://github.com/szymonh/szymonh
+CVE-2021-42325 - https://github.com/AK-blank/CVE-2021-42325-
 CVE-2021-42325 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42325 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42327 - https://github.com/ARPSyndicate/cvemon
@@ -44837,6 +44844,7 @@ CVE-2021-42714 - https://github.com/RonnieSalomonsen/My-CVEs
 CVE-2021-42739 - https://github.com/JaskaranNarula/Host_Errata_Info
 CVE-2021-42810 - https://github.com/RonnieSalomonsen/My-CVEs
 CVE-2021-42835 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-42835 - https://github.com/netanelc305/PlEXcalaison
 CVE-2021-42835 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42835 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-42836 - https://github.com/engn33r/awesome-redos-security
@@ -44937,17 +44945,26 @@ CVE-2021-43789 - https://github.com/binganao/vulns-2022
 CVE-2021-43789 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-43789 - https://github.com/numanturle/CVE-2021-43789
 CVE-2021-43789 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-43798 - https://github.com/A-D-Team/grafanaExp
 CVE-2021-43798 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-43798 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2021-43798 - https://github.com/Mr-xn/CVE-2021-43798
+CVE-2021-43798 - https://github.com/ScorpionsMAX/CVE-2021-43798-Grafana-POC
+CVE-2021-43798 - https://github.com/Vulnmachines/grafana-unauth-file-read
+CVE-2021-43798 - https://github.com/asaotomo/CVE-2021-43798-Grafana-Exp
 CVE-2021-43798 - https://github.com/bigblackhat/oFx
 CVE-2021-43798 - https://github.com/d-rn/vulBox
 CVE-2021-43798 - https://github.com/harsh-bothra/learn365
+CVE-2021-43798 - https://github.com/jas502n/Grafana-CVE-2021-43798
+CVE-2021-43798 - https://github.com/kenuosec/grafanaExp
 CVE-2021-43798 - https://github.com/n1sh1th/CVE-POC
 CVE-2021-43798 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-43798 - https://github.com/salvador-arreola/prometheus-grafana-telegram-k8s
 CVE-2021-43798 - https://github.com/taielab/awesome-hacking-lists
 CVE-2021-43798 - https://github.com/tanjiti/sec_profile
+CVE-2021-43798 - https://github.com/taythebot/CVE-2021-43798
 CVE-2021-43798 - https://github.com/woods-sega/woodswiki
+CVE-2021-43798 - https://github.com/zer0yu/CVE-2021-43798
 CVE-2021-43799 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-43799 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-43799 - https://github.com/p1ay8y3ar/cve_monitor
@@ -44976,7 +44993,9 @@ CVE-2021-43883 - https://github.com/0x727/usefull-elevation-of-privilege
 CVE-2021-43883 - https://github.com/0xsyr0/OSCP
 CVE-2021-43883 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-43883 - https://github.com/Ascotbe/Kernelhub
+CVE-2021-43883 - https://github.com/Octoberfest7/OSEP-Tools
 CVE-2021-43883 - https://github.com/Octoberfest7/Tools
+CVE-2021-43883 - https://github.com/jbaines-r7/shakeitoff
 CVE-2021-43883 - https://github.com/klinix5/InstallerFileTakeOver
 CVE-2021-43883 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-43883 - https://github.com/p1ay8y3ar/cve_monitor
@@ -45115,6 +45134,7 @@ CVE-2021-44228 - https://github.com/logpresso/CVE-2021-44228-Scanner
 CVE-2021-44228 - https://github.com/lucab85/ansible-role-log4shell
 CVE-2021-44228 - https://github.com/lucab85/log4j-cve-2021-44228
 CVE-2021-44228 - https://github.com/lukibahr/unifi-controller-helm-chart
+CVE-2021-44228 - https://github.com/mandiant/heyserial
 CVE-2021-44228 - https://github.com/mark-5-9/mark59
 CVE-2021-44228 - https://github.com/mark-5-9/mark59-wip
 CVE-2021-44228 - https://github.com/maxgfr/awesome-stars
@@ -45174,8 +45194,10 @@ CVE-2021-44228 - https://github.com/whitesource-ps/ws-bulk-report-generator
 CVE-2021-44228 - https://github.com/whitesource/log4j-detect-distribution
 CVE-2021-44228 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-44228 - https://github.com/zlatinb/mucats
+CVE-2021-44255 - https://github.com/pizza-power/motioneye-authenticated-RCE
 CVE-2021-44270 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44270 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-44270 - https://github.com/pinpinsec/Anviz-Access-Control-Authentication-Bypass
 CVE-2021-4428 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-4428 - https://github.com/kward/log4sh
 CVE-2021-4428 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -45428,6 +45450,9 @@ CVE-2021-46557 - https://github.com/Zeyad-Azima/Zeyad-Azima
 CVE-2021-46558 - https://github.com/Zeyad-Azima/Zeyad-Azima
 CVE-2021-6857 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-6857 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-6857 - https://github.com/zi0n8/CVE-2021-6857
+CVE-2021-6901 - https://github.com/mooneee/cve-2021-6901
+CVE-2021-9999 - https://github.com/Reach-Z/CVE-2021-9999
 CVE-2022-0085 - https://github.com/Haxatron/Haxatron
 CVE-2022-0086 - https://github.com/Haxatron/Haxatron
 CVE-2022-0129 - https://github.com/dlehgus1023/dlehgus1023
@@ -45495,6 +45520,7 @@ CVE-2022-0419 - https://github.com/0xShad3/vulnerabilities
 CVE-2022-0432 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0432 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-0435 - https://github.com/bollwarm/SecToolSet
+CVE-2022-0476 - https://github.com/wtdcode/wtdcode
 CVE-2022-0509 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2022-0529 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0529 - https://github.com/ByteHackr/unzip_poc
@@ -45511,6 +45537,8 @@ CVE-2022-0588 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2022-0589 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2022-0653 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0653 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2022-0676 - https://github.com/wtdcode/wtdcode
+CVE-2022-0695 - https://github.com/wtdcode/wtdcode
 CVE-2022-1000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20019 - https://github.com/p1ay8y3ar/cve_monitor
@@ -45712,6 +45740,7 @@ CVE-2022-23131 - https://github.com/trganda/CVE-2022-23131
 CVE-2022-23131 - https://github.com/zwjjustdoit/cve-2022-23131
 CVE-2022-23132 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2022-23133 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2022-23134 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23134 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2022-23178 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23178 - https://github.com/ARPSyndicate/kenzer-templates
@@ -45767,6 +45796,7 @@ CVE-2022-23408 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2022-23408 - https://github.com/wolfSSL/wolfssl
 CVE-2022-23435 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2022-23597 - https://github.com/msrkp/electron-research
+CVE-2022-23642 - https://github.com/wuhan005/wuhan005
 CVE-2022-23806 - https://github.com/guidovranken/cryptofuzz
 CVE-2022-23808 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23808 - https://github.com/ARPSyndicate/kenzer-templates
@@ -45870,4 +45900,3 @@ CVE-2022-25375 - https://github.com/szymonh/szymonh
 CVE-2022-77777 - https://github.com/rezasarvani/CVE-2022-77777
 CVE-2104-4114 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
 CVE-2106-2504 - https://github.com/xairy/linux-kernel-exploitation
-CVE-2190-17026 - https://github.com/maxpl0it/CVE-2019-17026-Exploit
