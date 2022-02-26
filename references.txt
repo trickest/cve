@@ -29952,6 +29952,7 @@ CVE-2018-10790 - https://github.com/axiomatic-systems/Bento4/issues/390
 CVE-2018-10795 - https://cxsecurity.com/issue/WLB-2018050029
 CVE-2018-10796 - https://github.com/anhkgg/poc/tree/master/2345%20security%20guard/2345NetFirewall.sys-0x00222014
 CVE-2018-10801 - http://bugzilla.maptools.org/show_bug.cgi?id=2790
+CVE-2018-10806 - https://github.com/philippe/FrogCMS/issues/10
 CVE-2018-10809 - http://packetstormsecurity.com/files/147538/2345-Security-Guard-3.7-Denial-Of-Service.html
 CVE-2018-10809 - https://www.exploit-db.com/exploits/44600/
 CVE-2018-10814 - http://packetstormsecurity.com/files/149326/SynaMan-40-Build-1488-SMTP-Credential-Disclosure.html
@@ -32909,6 +32910,7 @@ CVE-2018-21031 - https://www.exploit-db.com/docs/47790
 CVE-2018-21034 - https://www.soluble.ai/blog/argo-cves-2020
 CVE-2018-21037 - https://github.com/intelliants/subrion/issues/638
 CVE-2018-21159 - https://kb.netgear.com/000059471/Security-Advisory-for-Security-Misconfiguration-on-ReadyNAS-OS-6-PSV-2017-1999
+CVE-2018-21189 - https://kb.netgear.com/000055168/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2606
 CVE-2018-21203 - https://kb.netgear.com/000055146/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-PSV-2017-2589
 CVE-2018-21218 - https://kb.netgear.com/000055119/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2483
 CVE-2018-21221 - https://kb.netgear.com/000055116/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2459
@@ -36626,6 +36628,7 @@ CVE-2019-17387 - https://immersivelabs.com/2019/12/04/aviatrix-vpn-client-vulner
 CVE-2019-17388 - https://immersivelabs.com/2019/12/04/aviatrix-vpn-client-vulnerability/
 CVE-2019-17390 - https://improsec.com
 CVE-2019-17391 - https://www.espressif.com/en/news/Security_Advisory_Concerning_Fault_Injection_and_eFuse_Protections
+CVE-2019-17392 - https://knowledgebase.progress.com/articles/Article/Security-Advisory-for-Resolving-Security-vulnerabilities-November-2019
 CVE-2019-17393 - http://packetstormsecurity.com/files/154873/Tomedo-Server-1.7.3-Information-Disclosure-Weak-Cryptography.html
 CVE-2019-17393 - http://seclists.org/fulldisclosure/2019/Oct/33
 CVE-2019-17394 - https://pastebin.com/h8v0qxZH
@@ -36907,6 +36910,7 @@ CVE-2019-19034 - http://packetstormsecurity.com/files/157731/ManageEngine-AssetE
 CVE-2019-19034 - http://seclists.org/fulldisclosure/2020/May/36
 CVE-2019-19035 - https://bugzilla.redhat.com/show_bug.cgi?id=1765647
 CVE-2019-19036 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19036
+CVE-2019-19039 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19039
 CVE-2019-19044 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.11
 CVE-2019-19045 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.11
 CVE-2019-19045 - https://github.com/torvalds/linux/commit/c8c2a057fdc7de1cd16f4baa51425b932a42eb39
@@ -37185,6 +37189,7 @@ CVE-2019-19906 - https://www.openldap.org/its/index.cgi/Incoming?id=9123
 CVE-2019-19912 - http://packetstormsecurity.com/files/156951/codeBeamer-9.5-Cross-Site-Scripting.html
 CVE-2019-19913 - http://packetstormsecurity.com/files/156951/codeBeamer-9.5-Cross-Site-Scripting.html
 CVE-2019-19913 - http://seclists.org/fulldisclosure/2020/Apr/9
+CVE-2019-19916 - https://github.com/V1n1v131r4/MIME-Confusion-Attack-on-Midori-Browser/blob/master/README.md
 CVE-2019-19916 - https://portswigger.net/research/bypassing-csp-using-polyglot-jpegs
 CVE-2019-19921 - https://github.com/opencontainers/runc/issues/2197
 CVE-2019-19922 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.9
@@ -42350,6 +42355,7 @@ CVE-2020-35782 - https://kb.netgear.com/000062636/Security-Advisory-for-Missing-
 CVE-2020-35782 - https://research.nccgroup.com/2021/03/08/technical-advisory-multiple-vulnerabilities-in-netgear-prosafe-plus-jgs516pe-gs116ev2-switches/
 CVE-2020-35783 - https://research.nccgroup.com/2021/03/08/technical-advisory-multiple-vulnerabilities-in-netgear-prosafe-plus-jgs516pe-gs116ev2-switches/
 CVE-2020-35801 - https://research.nccgroup.com/2021/03/08/technical-advisory-multiple-vulnerabilities-in-netgear-prosafe-plus-jgs516pe-gs116ev2-switches/
+CVE-2020-35810 - https://kb.netgear.com/000062645/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-and-WiFi-System-PSV-2018-0491
 CVE-2020-35846 - http://packetstormsecurity.com/files/162282/Cockpit-CMS-0.11.1-NoSQL-Injection-Remote-Command-Execution.html
 CVE-2020-35847 - http://packetstormsecurity.com/files/162282/Cockpit-CMS-0.11.1-NoSQL-Injection-Remote-Command-Execution.html
 CVE-2020-35847 - http://packetstormsecurity.com/files/163762/Cockpit-CMS-0.11.1-NoSQL-Injection.html
@@ -46758,6 +46764,7 @@ CVE-2022-25315 - https://github.com/libexpat/libexpat/pull/559
 CVE-2022-25329 - https://www.tenable.com/security/research/tra-2022-05
 CVE-2022-25330 - https://www.tenable.com/security/research/tra-2022-05
 CVE-2022-25331 - https://www.tenable.com/security/research/tra-2022-05
+CVE-2022-25359 - https://packetstormsecurity.com/files/166103/ICL-ScadaFlex-II-SCADA-Controllers-SC-1-SC-2-1.03.07-Remote-File-Modification.html
 CVE-2022-25375 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
 CVE-2022-25402 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
 CVE-2022-25403 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md

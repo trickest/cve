@@ -40951,6 +40951,7 @@ CVE-2021-24931 - https://github.com/Hacker5preme/Exploits
 CVE-2021-24946 - https://github.com/Hacker5preme/Exploits
 CVE-2021-24947 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-24947 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2021-24947 - https://github.com/kazet/wpgarlic
 CVE-2021-24985 - https://github.com/mirac7/codegraph
 CVE-2021-24991 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-24991 - https://github.com/ARPSyndicate/kenzer-templates
@@ -40963,7 +40964,9 @@ CVE-2021-25052 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-25052 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-25063 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-25063 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2021-25067 - https://github.com/kazet/wpgarlic
 CVE-2021-25074 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-25075 - https://github.com/kazet/wpgarlic
 CVE-2021-25076 - https://github.com/Hacker5preme/Exploits
 CVE-2021-25122 - https://github.com/DNTYO/F5_Vulnerability
 CVE-2021-25122 - https://github.com/vshaliii/Basic-Pentesting-2-Vulnhub-Walkthrough
@@ -42372,6 +42375,7 @@ CVE-2021-31166 - https://github.com/bgsilvait/WIn-CVE-2021-31166
 CVE-2021-31166 - https://github.com/cisagov/Malcolm
 CVE-2021-31166 - https://github.com/corelight/CVE-2021-31166
 CVE-2021-31166 - https://github.com/huike007/penetration_poc
+CVE-2021-31166 - https://github.com/mvlnetdev/CVE-2021-31166-detection-rules
 CVE-2021-31166 - https://github.com/n1sh1th/CVE-POC
 CVE-2021-31166 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-31166 - https://github.com/p0dalirius/CVE-2022-21907-http.sys
@@ -42863,6 +42867,7 @@ CVE-2021-3297 - https://github.com/lovechinacoco/https-github.com-mai-lang-chai-
 CVE-2021-3297 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-32983 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-32991 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-32997 - https://github.com/karimhabush/cyberowl
 CVE-2021-33003 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-33007 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-33019 - https://github.com/p1ay8y3ar/cve_monitor
@@ -44316,6 +44321,7 @@ CVE-2021-4104 - https://github.com/whitesource-ps/ws-bulk-report-generator
 CVE-2021-4104 - https://github.com/whitesource/log4j-detect-distribution
 CVE-2021-41061 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41073 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-41074 - https://github.com/dillonkirsch/CVE-2021-41074
 CVE-2021-41081 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41081 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41081 - https://github.com/p1ay8y3ar/cve_monitor
@@ -44957,15 +44963,19 @@ CVE-2021-43798 - https://github.com/A-D-Team/grafanaExp
 CVE-2021-43798 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-43798 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-43798 - https://github.com/Ilovewomen/Grafana_CVE
+CVE-2021-43798 - https://github.com/JiuBanSec/Grafana-CVE-2021-43798
 CVE-2021-43798 - https://github.com/Mr-xn/CVE-2021-43798
 CVE-2021-43798 - https://github.com/ScorpionsMAX/CVE-2021-43798-Grafana-POC
+CVE-2021-43798 - https://github.com/Tom-Cooper11/Grafana-File-Read
 CVE-2021-43798 - https://github.com/Vulnmachines/grafana-unauth-file-read
 CVE-2021-43798 - https://github.com/asaotomo/CVE-2021-43798-Grafana-Exp
 CVE-2021-43798 - https://github.com/bigblackhat/oFx
 CVE-2021-43798 - https://github.com/d-rn/vulBox
 CVE-2021-43798 - https://github.com/harsh-bothra/learn365
+CVE-2021-43798 - https://github.com/j-jasson/CVE-2021-43798-grafana_fileread
 CVE-2021-43798 - https://github.com/jas502n/Grafana-CVE-2021-43798
 CVE-2021-43798 - https://github.com/kenuosec/grafanaExp
+CVE-2021-43798 - https://github.com/lfz97/CVE-2021-43798-Grafana-File-Read
 CVE-2021-43798 - https://github.com/n1sh1th/CVE-POC
 CVE-2021-43798 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-43798 - https://github.com/salvador-arreola/prometheus-grafana-telegram-k8s
@@ -45551,6 +45561,7 @@ CVE-2022-0653 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0653 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-0676 - https://github.com/wtdcode/wtdcode
 CVE-2022-0695 - https://github.com/wtdcode/wtdcode
+CVE-2022-0750 - https://github.com/karimhabush/cyberowl
 CVE-2022-1000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20019 - https://github.com/p1ay8y3ar/cve_monitor
@@ -45818,6 +45829,7 @@ CVE-2022-23808 - https://github.com/Gabriel-Lima232/PHPMyAdmin-5.1.1-PoC
 CVE-2022-23808 - https://github.com/dipakpanchal456/CVE-2022-23808
 CVE-2022-23808 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-23808 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2022-23835 - https://github.com/karimhabush/cyberowl
 CVE-2022-23850 - https://github.com/Asteriska8/Poc_Fuzzing
 CVE-2022-23871 - https://github.com/truonghuuphuc/CVE
 CVE-2022-23872 - https://github.com/truonghuuphuc/CVE
@@ -45838,6 +45850,7 @@ CVE-2022-24086 - https://github.com/Mr-xn/CVE-2022-24086
 CVE-2022-24086 - https://github.com/binganao/vulns-2022
 CVE-2022-24086 - https://github.com/df2k2/m2-tech
 CVE-2022-24086 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-24086 - https://github.com/shakeman8/CVE-2022-24086-RCE
 CVE-2022-24086 - https://github.com/wambo-co/magento-1.9-cve-2022-24086
 CVE-2022-24087 - https://github.com/df2k2/m2-tech
 CVE-2022-24112 - https://github.com/ARPSyndicate/cvemon
@@ -45879,8 +45892,12 @@ CVE-2022-24693 - https://github.com/lukejenkins/CVE-2022-24693
 CVE-2022-24693 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-24707 - https://github.com/indevi0us/indevi0us
 CVE-2022-24708 - https://github.com/indevi0us/indevi0us
+CVE-2022-24709 - https://github.com/karimhabush/cyberowl
+CVE-2022-24947 - https://github.com/karimhabush/cyberowl
+CVE-2022-24948 - https://github.com/karimhabush/cyberowl
 CVE-2022-24954 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-24955 - https://github.com/dlehgus1023/dlehgus1023
+CVE-2022-24986 - https://github.com/karimhabush/cyberowl
 CVE-2022-25018 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25018 - https://github.com/MoritzHuppert/CVE-2022-25018
 CVE-2022-25018 - https://github.com/nomi-sec/PoC-in-GitHub
