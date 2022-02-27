@@ -36998,6 +36998,7 @@ CVE-2019-19079 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3
 CVE-2019-19080 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.4
 CVE-2019-19081 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.4
 CVE-2019-19083 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.8
+CVE-2019-19113 - https://github.com/newbee-ltd/newbee-mall/issues/1
 CVE-2019-19115 - https://safebreach.com/Post/Nahimic-APO-Software-Component-Driver-Deployed-with-MSI-Computers-DLL-Search-Order-Hijacking-and-Potential-Abuses-CVE-2019-19115
 CVE-2019-1912 - http://packetstormsecurity.com/files/154667/Realtek-Managed-Switch-Controller-RTL83xx-Stack-Overflow.html
 CVE-2019-19127 - http://packetstormsecurity.com/files/156903/SITS-Vision-9.7.0-Authentication-Bypass.html
@@ -37219,6 +37220,7 @@ CVE-2019-19813 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19813
 CVE-2019-19814 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19814
 CVE-2019-19815 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19815
 CVE-2019-19816 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19816
+CVE-2019-19820 - https://github.com/nafiez/nafiez.github.io/blob/master/_posts/2019-12-04-kyrol-internet-security-invalid-pointer-vulnerability.md
 CVE-2019-19820 - https://nafiez.github.io/security/vulnerability/2019/12/04/kyrol-internet-security-invalid-pointer-vulnerability.html
 CVE-2019-19822 - http://packetstormsecurity.com/files/156083/Realtek-SDK-Information-Disclosure-Code-Execution.html
 CVE-2019-19822 - http://seclists.org/fulldisclosure/2020/Jan/36
@@ -37477,6 +37479,7 @@ CVE-2019-20499 - http://packetstormsecurity.com/files/156952/DLINK-DWL-2600-Auth
 CVE-2019-20499 - https://www.exploit-db.com/exploits/46841
 CVE-2019-20500 - https://www.exploit-db.com/exploits/46841
 CVE-2019-20501 - https://www.exploit-db.com/exploits/46841
+CVE-2019-20502 - https://github.com/s1kr10s/EasyChatServer-DOS
 CVE-2019-20503 - http://seclists.org/fulldisclosure/2020/May/52
 CVE-2019-20503 - http://seclists.org/fulldisclosure/2020/May/55
 CVE-2019-20503 - http://seclists.org/fulldisclosure/2020/May/59
@@ -41470,6 +41473,7 @@ CVE-2020-25362 - https://www.exploit-db.com/exploits/48771
 CVE-2020-25385 - https://github.com/EmreOvunc/Nagios-Log-Server-2.1.7-Persistent-Cross-Site-Scripting
 CVE-2020-25398 - https://github.com/h3llraiser/CVE-2020-25398
 CVE-2020-25399 - https://github.com/h3llraiser/CVE-2020-25399
+CVE-2020-25409 - https://nikhilkumar01.medium.com/cve-2020-25409-5ecbe735c004
 CVE-2020-25412 - https://sourceforge.net/p/gnuplot/bugs/2303/
 CVE-2020-25427 - https://github.com/gpac/gpac/issues/1406
 CVE-2020-25449 - https://packetstormsecurity.com/files/159070/Cabot-0.11.12-Cross-Site-Scripting.html
@@ -42971,6 +42975,7 @@ CVE-2020-7210 - https://sec-consult.com/en/blog/advisories/cross-site-request-fo
 CVE-2020-7210 - https://seclists.org/bugtraq/2020/Jan/35
 CVE-2020-7213 - http://almorabea.net/en/2020/01/19/write-up-for-the-parallel-vulnerability-cve-2020-7213/
 CVE-2020-7229 - https://github.com/niteosoft/simplejobscript/issues/7
+CVE-2020-7234 - https://sku11army.blogspot.com/2020/01/ruckus-wireless-authenticated-stored.html
 CVE-2020-7241 - https://github.com/V1n1v131r4/Exploiting-WP-Database-Backup-WordPress-Plugin/blob/master/README.md
 CVE-2020-7246 - http://packetstormsecurity.com/files/156063/qdPM-9.1-Remote-Code-Execution.html
 CVE-2020-7246 - http://packetstormsecurity.com/files/156571/qdPM-Remote-Code-Execution.html
