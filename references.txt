@@ -397,6 +397,7 @@ CVE-2004-0345 - http://marc.info/?l=bugtraq&m=107816217901923&w=2
 CVE-2004-0348 - http://marc.info/?l=bugtraq&m=107833097705486&w=2
 CVE-2004-0350 - http://marc.info/?l=bugtraq&m=107833097705486&w=2
 CVE-2004-0351 - http://marc.info/?l=bugtraq&m=107833097705486&w=2
+CVE-2004-0385 - http://www.kb.cert.org/vuls/id/413006
 CVE-2004-0394 - http://lwn.net/Articles/81773/
 CVE-2004-0396 - http://marc.info/?l=bugtraq&m=108498454829020&w=2
 CVE-2004-0396 - http://security.e-matters.de/advisories/072004.html
@@ -37425,6 +37426,7 @@ CVE-2019-19034 - http://packetstormsecurity.com/files/157731/ManageEngine-AssetE
 CVE-2019-19034 - http://seclists.org/fulldisclosure/2020/May/36
 CVE-2019-19035 - https://bugzilla.redhat.com/show_bug.cgi?id=1765647
 CVE-2019-19036 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19036
+CVE-2019-19037 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19037
 CVE-2019-19039 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19039
 CVE-2019-19044 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.11
 CVE-2019-19045 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.11
@@ -42897,6 +42899,7 @@ CVE-2020-29239 - https://www.exploit-db.com/exploits/49159
 CVE-2020-29240 - https://www.exploit-db.com/exploits/49137
 CVE-2020-29247 - https://www.exploit-db.com/exploits/49102
 CVE-2020-29254 - https://youtu.be/Uc3sRBitu50
+CVE-2020-29257 - https://asfiyashaikh20.medium.com/exploit-for-cve-2020-29257-reflected-cross-site-scripting-xss-vulnerability-4a7bf9ae7d80
 CVE-2020-29258 - https://asfiyashaikh20.medium.com/exploit-for-cve-2020-29258-reflected-cross-site-scripting-xss-vulnerability-957f365a1f3b
 CVE-2020-29259 - https://asfiyashaikh20.medium.com/cve-2020-29259-persistent-xss-2ef63cc5cee6
 CVE-2020-29280 - https://github.com/BigTiger2020/Victor-CMS-/blob/main/README.md
