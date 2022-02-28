@@ -13856,6 +13856,7 @@ CVE-2012-3524 - http://www.exploit-db.com/exploits/21323
 CVE-2012-3544 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2012-3544 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2012-3569 - http://packetstormsecurity.com/files/120101/VMWare-OVF-Tools-Format-String.html
+CVE-2012-3569 - http://www.vmware.com/security/advisories/VMSA-2012-0015.html
 CVE-2012-3577 - http://packetstormsecurity.org/files/113287/WordPress-Nmedia-WP-Member-Conversation-1.35.0-Shell-Upload.html
 CVE-2012-3578 - http://packetstormsecurity.org/files/113323/WordPress-FCChat-Widget-2.x-Shell-Upload.html
 CVE-2012-3579 - http://packetstormsecurity.com/files/116277/Symantec-Messaging-Gateway-9.5-Default-SSH-Password.html
@@ -14237,6 +14238,8 @@ CVE-2012-5450 - http://packetstormsecurity.org/files/117951/CMS-Made-Simple-1.11
 CVE-2012-5452 - http://packetstormsecurity.org/files/116434/Subrion-CMS-2.2.1-Cross-Site-Scripting.html
 CVE-2012-5452 - http://packetstormsecurity.org/files/117460/Subrion-CMS-2.2.1-XSS-CSRF-SQL-Injection.html
 CVE-2012-5452 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2012-5105.php
+CVE-2012-5458 - http://www.vmware.com/security/advisories/VMSA-2012-0015.html
+CVE-2012-5459 - http://www.vmware.com/security/advisories/VMSA-2012-0015.html
 CVE-2012-5470 - http://www.exploit-db.com/exploits/21889/
 CVE-2012-5517 - http://www.kernel.org/pub/linux/kernel/v3.x/
 CVE-2012-5532 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
@@ -25484,12 +25487,19 @@ CVE-2017-10708 - https://launchpad.net/bugs/1700573
 CVE-2017-10711 - https://www.seekurity.com/blog/general/reflected-xss-vulnerability-in-simplerisk/
 CVE-2017-10711 - https://www.youtube.com/watch?v=jOUKEYW0RQw
 CVE-2017-10718 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
+CVE-2017-10718 - https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf
 CVE-2017-10719 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
+CVE-2017-10719 - https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf
 CVE-2017-10720 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
+CVE-2017-10720 - https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf
 CVE-2017-10721 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
+CVE-2017-10721 - https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf
 CVE-2017-10722 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
+CVE-2017-10722 - https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf
 CVE-2017-10723 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
+CVE-2017-10723 - https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf
 CVE-2017-10724 - http://packetstormsecurity.com/files/153241/Shekar-Endoscope-Weak-Default-Settings-Memory-Corruption.html
+CVE-2017-10724 - https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf
 CVE-2017-10790 - https://bugzilla.redhat.com/show_bug.cgi?id=1464141
 CVE-2017-10795 - https://github.com/intelliants/subrion/issues/467
 CVE-2017-10801 - https://www.seekurity.com/blog/advisories/cross-sitescripting-vulnerability-in-phpsocial-aka-phpdolphin-social-network-script/
@@ -41691,6 +41701,7 @@ CVE-2020-22201 - https://github.com/blindkey/cve_like/issues/4
 CVE-2020-22203 - https://github.com/blindkey/cve_like/issues/6
 CVE-2020-22208 - https://github.com/blindkey/cve_like/issues/10
 CVE-2020-22209 - https://github.com/blindkey/cve_like/issues/12
+CVE-2020-22210 - https://github.com/blindkey/cve_like/issues/11
 CVE-2020-22211 - https://github.com/blindkey/cve_like/issues/13
 CVE-2020-22249 - https://drive.google.com/open?id=1znDU4fDKA_seg16mJLLtgaaFfvmf-mS6
 CVE-2020-22251 - https://github.com/phpList/phplist3/issues/660
