@@ -7174,7 +7174,9 @@ CVE-2015-8215 - https://github.com/thdusdl1219/CVE-Study
 CVE-2015-8223 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2015-8225 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2015-8226 - https://github.com/jiayy/android_vuln_poc-exp
+CVE-2015-8237 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 CVE-2015-8237 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
+CVE-2015-8238 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 CVE-2015-8238 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
 CVE-2015-8239 - https://github.com/justinsteven/sudo_digest_toctou_poc_CVE-2015-8239
 CVE-2015-8241 - https://github.com/mrash/afl-cve
@@ -7284,6 +7286,7 @@ CVE-2015-8539 - https://github.com/thdusdl1219/CVE-Study
 CVE-2015-8540 - https://github.com/project-zot/zot
 CVE-2015-8543 - https://github.com/guoygang/vul-guoygang
 CVE-2015-8543 - https://github.com/thdusdl1219/CVE-Study
+CVE-2015-8545 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 CVE-2015-8545 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
 CVE-2015-8548 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2015-8548 - https://github.com/tunz/js-vuln-db
@@ -8736,7 +8739,6 @@ CVE-2016-3308 - https://github.com/fei9747/WindowsElevation
 CVE-2016-3308 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2016-3308 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2016-3308 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
-CVE-2016-33083309 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2016-3309 - https://github.com/Apri1y/Red-Team-links
 CVE-2016-3309 - https://github.com/Ascotbe/Kernelhub
 CVE-2016-3309 - https://github.com/CrackerCat/Kernel-Security-Development
@@ -14700,6 +14702,7 @@ CVE-2017-5929 - https://github.com/ilmari666/cybsec
 CVE-2017-5929 - https://github.com/yahoo/cubed
 CVE-2017-5933 - https://github.com/nonce-disrespect/nonce-disrespect
 CVE-2017-5941 - https://github.com/gitaalekhyapaul/vuln-app
+CVE-2017-5941 - https://github.com/howed-neighbor/CS467
 CVE-2017-5946 - https://github.com/innoq/security_report
 CVE-2017-5947 - https://github.com/beerisgood/Smartphone_Security
 CVE-2017-5948 - https://github.com/qazbnm456/awesome-cve-poc
@@ -23858,7 +23861,6 @@ CVE-2019-1129 - https://github.com/S3cur3Th1sSh1t/SharpByeBear
 CVE-2019-1129 - https://github.com/S3cur3Th1sSh1t/WinPwn
 CVE-2019-1129 - https://github.com/pwninx/WinPwn
 CVE-2019-1129 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
-CVE-2019-11291130 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2019-1130 - https://github.com/S3cur3Th1sSh1t/SharpByeBear
 CVE-2019-1130 - https://github.com/deadjakk/patch-checker
 CVE-2019-1130 - https://github.com/hlldz/dazzleUP
@@ -39453,6 +39455,7 @@ CVE-2021-1590 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-1591 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-1592 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-1602 - https://github.com/Yu3H0/IoT_CVE
+CVE-2021-1636 - https://github.com/ben3636/wiper-no-wiping
 CVE-2021-1643 - https://github.com/linhlhq/TinyAFL
 CVE-2021-1644 - https://github.com/linhlhq/TinyAFL
 CVE-2021-1647 - https://github.com/dmlgzs/cve-2021-1647
@@ -44985,6 +44988,7 @@ CVE-2021-43798 - https://github.com/MzzdToT/Grafana_fileread
 CVE-2021-43798 - https://github.com/ScorpionsMAX/CVE-2021-43798-Grafana-POC
 CVE-2021-43798 - https://github.com/Tom-Cooper11/Grafana-File-Read
 CVE-2021-43798 - https://github.com/Vulnmachines/grafana-unauth-file-read
+CVE-2021-43798 - https://github.com/allblue147/Grafana
 CVE-2021-43798 - https://github.com/asaotomo/CVE-2021-43798-Grafana-Exp
 CVE-2021-43798 - https://github.com/bigblackhat/oFx
 CVE-2021-43798 - https://github.com/culprits/Grafana_POC-CVE-2021-43798

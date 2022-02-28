@@ -5177,6 +5177,7 @@ CVE-2007-5316 - https://www.exploit-db.com/exploits/4504
 CVE-2007-5321 - https://www.exploit-db.com/exploits/4494
 CVE-2007-5322 - https://www.exploit-db.com/exploits/4506
 CVE-2007-5333 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2007-5342 - http://www.redhat.com/support/errata/RHSA-2008-0862.html
 CVE-2007-5342 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-5344 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-069
 CVE-2007-5347 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-069
@@ -5214,6 +5215,7 @@ CVE-2007-5455 - https://www.exploit-db.com/exploits/4529
 CVE-2007-5456 - http://securityreason.com/securityalert/3222
 CVE-2007-5457 - https://www.exploit-db.com/exploits/4521
 CVE-2007-5458 - https://www.exploit-db.com/exploits/4523
+CVE-2007-5461 - http://www.redhat.com/support/errata/RHSA-2008-0862.html
 CVE-2007-5461 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-5461 - https://www.exploit-db.com/exploits/4530
 CVE-2007-5464 - http://aluigi.altervista.org/adv/lfscbof-adv.txt
@@ -6185,6 +6187,7 @@ CVE-2008-1218 - https://www.exploit-db.com/exploits/5257
 CVE-2008-1229 - https://www.exploit-db.com/exploits/5112
 CVE-2008-1230 - https://www.exploit-db.com/exploits/5112
 CVE-2008-1231 - https://www.exploit-db.com/exploits/5112
+CVE-2008-1232 - http://www.redhat.com/support/errata/RHSA-2008-0862.html
 CVE-2008-1232 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-1247 - https://www.exploit-db.com/exploits/5313
 CVE-2008-1247 - https://www.exploit-db.com/exploits/5926
@@ -6480,6 +6483,7 @@ CVE-2008-1934 - https://www.exploit-db.com/exploits/5481
 CVE-2008-1935 - https://www.exploit-db.com/exploits/5488
 CVE-2008-1936 - https://www.exploit-db.com/exploits/5450
 CVE-2008-1939 - https://www.exploit-db.com/exploits/5475
+CVE-2008-1947 - http://www.redhat.com/support/errata/RHSA-2008-0862.html
 CVE-2008-1947 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-1954 - https://www.exploit-db.com/exploits/5485
 CVE-2008-1957 - https://www.exploit-db.com/exploits/5483
@@ -6649,6 +6653,7 @@ CVE-2008-2353 - https://www.exploit-db.com/exploits/5647
 CVE-2008-2355 - https://www.exploit-db.com/exploits/5637
 CVE-2008-2356 - https://www.exploit-db.com/exploits/5635
 CVE-2008-2357 - http://seclists.org/fulldisclosure/2008/May/0488.html
+CVE-2008-2370 - http://www.redhat.com/support/errata/RHSA-2008-0862.html
 CVE-2008-2370 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2008-2390 - https://www.exploit-db.com/exploits/5511
 CVE-2008-2393 - https://www.exploit-db.com/exploits/5654
@@ -6913,6 +6918,7 @@ CVE-2008-2921 - https://www.exploit-db.com/exploits/5819
 CVE-2008-2922 - https://www.exploit-db.com/exploits/5817
 CVE-2008-2935 - http://www.ocert.org/advisories/ocert-2008-009.html
 CVE-2008-2936 - https://www.exploit-db.com/exploits/6337
+CVE-2008-2938 - http://www.redhat.com/support/errata/RHSA-2008-0862.html
 CVE-2008-2938 - https://www.exploit-db.com/exploits/6229
 CVE-2008-2947 - http://www.kb.cert.org/vuls/id/923508
 CVE-2008-2947 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-058
@@ -27617,6 +27623,7 @@ CVE-2017-18199 - https://savannah.gnu.org/bugs/?52264
 CVE-2017-18212 - https://github.com/jerryscript-project/jerryscript/issues/2140
 CVE-2017-18219 - https://sourceforge.net/p/graphicsmagick/bugs/459/
 CVE-2017-18220 - https://sourceforge.net/p/graphicsmagick/bugs/438/
+CVE-2017-18222 - http://www.securityfocus.com/bid/103349
 CVE-2017-18229 - https://sourceforge.net/p/graphicsmagick/bugs/461/
 CVE-2017-18242 - https://bugzilla.libav.org/show_bug.cgi?id=1093
 CVE-2017-18243 - https://bugzilla.libav.org/show_bug.cgi?id=1088
@@ -27690,6 +27697,7 @@ CVE-2017-18924 - https://codeburst.io/missing-the-point-in-securing-oauth-2-0-83
 CVE-2017-18926 - https://www.openwall.com/lists/oss-security/2017/06/07/1
 CVE-2017-2096 - http://jvn.jp/en/jp/JVN50197114/index.html
 CVE-2017-2122 - https://www.tenable.com/security/tns-2017-01
+CVE-2017-2137 - https://kb.netgear.com/000038443/Security-Advisory-for-Insecure-SOAP-Access-in-ProSAFE-Plus-Configuration-Utility-PSV-2017-1997
 CVE-2017-2353 - https://www.exploit-db.com/exploits/41164/
 CVE-2017-2360 - https://www.exploit-db.com/exploits/41165/
 CVE-2017-2361 - https://www.exploit-db.com/exploits/41443/
@@ -28457,6 +28465,7 @@ CVE-2017-6590 - https://bugs.launchpad.net/ubuntu/+source/network-manager-applet
 CVE-2017-6622 - https://www.exploit-db.com/exploits/42888/
 CVE-2017-6736 - https://github.com/artkond/cisco-snmp-rce
 CVE-2017-6736 - https://www.exploit-db.com/exploits/43450/
+CVE-2017-6802 - https://github.com/Yeraze/ytnef/issues/34
 CVE-2017-6803 - http://hyp3rlinx.altervista.org/advisories/FTP-VOYAGER-SCHEDULER-CSRF-REMOTE-CMD-EXECUTION.txt
 CVE-2017-6803 - http://packetstormsecurity.com/files/141567/FTP-Voyager-Scheduler-16.2.0-CSRF-Denial-Of-Service.html
 CVE-2017-6803 - https://www.exploit-db.com/exploits/41574/
@@ -34985,6 +34994,8 @@ CVE-2019-1125 - http://packetstormsecurity.com/files/156337/SWAPGS-Attack-Proof-
 CVE-2019-11269 - http://packetstormsecurity.com/files/153299/Spring-Security-OAuth-2.3-Open-Redirection.html
 CVE-2019-11269 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2019-11287 - https://github.com/DrunkenShells/Disclosures/tree/master/CVE-2019-11287-DoS%20via%20Heap%20Overflow-RabbitMQ%20Web%20Management%20Plugin
+CVE-2019-11326 - https://mezdanak.de/2019/06/21/iot-full-disclosure-topcon-positioning-net-g5-receiver/
+CVE-2019-11327 - https://mezdanak.de/2019/06/21/iot-full-disclosure-topcon-positioning-net-g5-receiver/
 CVE-2019-11328 - http://www.openwall.com/lists/oss-security/2019/05/16/1
 CVE-2019-11332 - https://cisk123456.blogspot.com/2019/04/mkcms-v50.html
 CVE-2019-11334 - http://packetstormsecurity.com/files/153280/Tzumi-Electronics-Klic-Lock-Authentication-Bypass.html
