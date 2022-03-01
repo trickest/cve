@@ -5412,6 +5412,7 @@ CVE-2007-6255 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2007-6258 - https://www.exploit-db.com/exploits/5330
 CVE-2007-6258 - https://www.exploit-db.com/exploits/5386
 CVE-2007-6261 - http://www.digit-labs.org/files/exploits/xnu-macho-dos.c
+CVE-2007-6262 - http://www.coresecurity.com/?action=item&id=2035
 CVE-2007-6268 - http://marc.info/?l=bugtraq&m=119678724111351&w=2
 CVE-2007-6269 - http://marc.info/?l=bugtraq&m=119678724111351&w=2
 CVE-2007-6270 - http://marc.info/?l=bugtraq&m=119678724111351&w=2
@@ -29866,6 +29867,7 @@ CVE-2018-10186 - https://github.com/radare/radare2/issues/9915
 CVE-2018-10187 - https://github.com/radare/radare2/issues/9913
 CVE-2018-10188 - https://www.exploit-db.com/exploits/44496/
 CVE-2018-10191 - https://github.com/mruby/mruby/issues/3995
+CVE-2018-10193 - https://www.youtube.com/watch?v=wTcYWZwq3TE
 CVE-2018-10197 - http://seclists.org/fulldisclosure/2018/Jul/29
 CVE-2018-1020 - http://www.securityfocus.com/bid/103612
 CVE-2018-10201 - http://www.kwell.net/kwell_blog/?p=5199
@@ -47901,6 +47903,7 @@ CVE-2022-0539 - https://huntr.dev/bounties/5f41b182-dda2-4c6f-9668-2a9afaed53af
 CVE-2022-0554 - https://huntr.dev/bounties/7e8f6cd0-b5ee-48a2-8255-6a86f4c46c71
 CVE-2022-0557 - http://packetstormsecurity.com/files/166077/Microweber-1.2.11-Shell-Upload.html
 CVE-2022-0557 - https://huntr.dev/bounties/660c89af-2de5-41bc-aada-9e4e78142db8
+CVE-2022-0557 - https://www.exploit-db.com/exploits/50768
 CVE-2022-0558 - https://huntr.dev/bounties/8fffc95f-14ae-457b-aecc-be4716a8b91c
 CVE-2022-0559 - https://huntr.dev/bounties/aa80adb7-e900-44a5-ad05-91f3ccdfc81e
 CVE-2022-0560 - https://huntr.dev/bounties/c9d586e7-0fa1-47ab-a2b3-b890e8dc9b25
@@ -47958,6 +47961,7 @@ CVE-2022-0726 - https://huntr.dev/bounties/8928ab08-7fcb-475e-8da7-18e8412c1ac3
 CVE-2022-0727 - https://huntr.dev/bounties/d1faa10f-0640-480c-bb52-089adb351e6e
 CVE-2022-0729 - https://huntr.dev/bounties/f3f3d992-7bd6-4ee5-a502-ae0e5f8016ea
 CVE-2022-0731 - https://huntr.dev/bounties/e242ab4e-fc70-4b2c-a42d-5b3ee4895de8
+CVE-2022-0743 - https://huntr.dev/bounties/32ea4ddb-5b41-4bf9-b5a1-ef455fe2d293
 CVE-2022-0746 - https://huntr.dev/bounties/b812ea22-0c02-46fe-b89f-04519dfb1ebd
 CVE-2022-0762 - https://huntr.dev/bounties/125b5244-5099-485e-bf75-e5f1ed80dd48
 CVE-2022-0763 - https://huntr.dev/bounties/6de9c621-740d-4d7a-9d77-d90c6c87f3b6
@@ -48058,6 +48062,7 @@ CVE-2022-23366 - http://packetstormsecurity.com/files/165948/Hospital-Management
 CVE-2022-23378 - https://github.com/TheGetch/CVE-2022-23378
 CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-3.0.3-Path-Traversal.html
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
+CVE-2022-23907 - http://dev.cmsmadesimple.org/bug/view/12503
 CVE-2022-23967 - https://github.com/MaherAzzouzi/CVE-2022-23967
 CVE-2022-23968 - https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/
 CVE-2022-24124 - http://packetstormsecurity.com/files/166163/Casdoor-1.13.0-SQL-Injection.html
@@ -48102,3 +48107,5 @@ CVE-2022-25403 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
 CVE-2022-25417 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/3
 CVE-2022-25418 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/2
 CVE-2022-26159 - https://podalirius.net/en/cves/2022-26159/
+CVE-2022-26181 - https://github.com/dropbox/lepton/issues/154
+CVE-2022-26332 - https://www.exploit-db.com/exploits/50788
