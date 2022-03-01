@@ -17163,7 +17163,6 @@ CVE-2018-1002206 - https://github.com/snyk/zip-slip-vulnerability
 CVE-2018-1002208 - https://github.com/snyk/zip-slip-vulnerability
 CVE-2018-1002209 - https://github.com/snyk/zip-slip-vulnerability
 CVE-2018-10023 - https://github.com/p1ay8y3ar/cve_monitor
-CVE-2018-1003000 - https://github.com/veo/vscan
 CVE-2018-10068 - https://github.com/MrR3boot/CVE-Hunting
 CVE-2018-10071 - https://github.com/bigric3/windrvr1260_poc3
 CVE-2018-10072 - https://github.com/bigric3/windrvr1260_poc4
@@ -18852,7 +18851,6 @@ CVE-2018-16335 - https://github.com/Marsman1996/pocs
 CVE-2018-16336 - https://github.com/Marsman1996/pocs
 CVE-2018-16341 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-16341 - https://github.com/Elsfa7-110/kenzer-templates
-CVE-2018-16341 - https://github.com/sobinge/nuclei-templates
 CVE-2018-16356 - https://github.com/SexyBeast233/SecBooks
 CVE-2018-16357 - https://github.com/SexyBeast233/SecBooks
 CVE-2018-16370 - https://github.com/0xT11/CVE-POC
@@ -24504,6 +24502,7 @@ CVE-2019-11358 - https://github.com/Serylda/503RoadJopper
 CVE-2019-11358 - https://github.com/Serylda/Temporary-11503UltimateGoal
 CVE-2019-11358 - https://github.com/ShinigamiHiruzen/SteamOs
 CVE-2019-11358 - https://github.com/ShivenV/FTC-FREIGHT-FRENZY-2021-22
+CVE-2019-11358 - https://github.com/Shreyas765/9686-FreightFrenzy
 CVE-2019-11358 - https://github.com/ShrishChou/BioBotsFreightFrenzy
 CVE-2019-11358 - https://github.com/SilasBehnke/UltimateGoal
 CVE-2019-11358 - https://github.com/SilkPDX/New7100Controller
@@ -25300,6 +25299,7 @@ CVE-2019-11707 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-11707 - https://github.com/googleprojectzero/fuzzilli
 CVE-2019-11707 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-11707 - https://github.com/m1ghtym0/browser-pwn
+CVE-2019-11707 - https://github.com/securesystemslab/PKRU-Safe
 CVE-2019-11707 - https://github.com/tunnelshade/cve-2019-11707
 CVE-2019-11707 - https://github.com/vigneshsrao/CVE-2019-11707
 CVE-2019-11708 - https://github.com/0vercl0k/0vercl0k
@@ -40666,6 +40666,7 @@ CVE-2021-2333 - https://github.com/radtek/cve_checklist
 CVE-2021-23337 - https://github.com/Refinitiv-API-Samples/Example.EWA.TypeScript.WebApplication
 CVE-2021-23337 - https://github.com/andisfar/LaunchQtCreator
 CVE-2021-23337 - https://github.com/anthonykirby/lora-packet
+CVE-2021-23337 - https://github.com/cduplantis/blank
 CVE-2021-23337 - https://github.com/marcosrg9/YouTubeTV
 CVE-2021-23337 - https://github.com/p-rog/cve-analyser
 CVE-2021-23337 - https://github.com/samoylenko/sample-vulnerable-app-nodejs-express
@@ -40975,6 +40976,7 @@ CVE-2021-24926 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-24926 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-24931 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-24931 - https://github.com/Hacker5preme/Exploits
+CVE-2021-24946 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-24946 - https://github.com/Hacker5preme/Exploits
 CVE-2021-24947 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-24947 - https://github.com/ARPSyndicate/kenzer-templates
@@ -42379,6 +42381,7 @@ CVE-2021-30907 - https://github.com/joydo/CVE-Writeups
 CVE-2021-30909 - https://github.com/joydo/CVE-Writeups
 CVE-2021-30916 - https://github.com/joydo/CVE-Writeups
 CVE-2021-30924 - https://github.com/darling-x0r/0day_dos_apple
+CVE-2021-30955 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-30955 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-30970 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2021-30970 - https://github.com/joydo/CVE-Writeups
@@ -42645,7 +42648,6 @@ CVE-2021-3156 - https://github.com/xtaran/sshudo
 CVE-2021-3156 - https://github.com/yaunsky/cve-2021-3156
 CVE-2021-3156 - https://github.com/ymrsmns/CVE-2021-3156
 CVE-2021-3157 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-3157 - https://github.com/CrackerCat/cve-2021-3157
 CVE-2021-3157 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2021-3157 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-31581 - https://github.com/ARPSyndicate/cvemon
@@ -42804,7 +42806,6 @@ CVE-2021-32305 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-3239 - https://github.com/yshneyderman/CS590J-Capstone
 CVE-2021-32424 - https://github.com/Galapag0s/Trendnet_TW100-S4W1CA
 CVE-2021-32426 - https://github.com/Galapag0s/Trendnet_TW100-S4W1CA
-CVE-2021-32452 - https://github.com/Somerset-Recon/furbo-research
 CVE-2021-32471 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-32471 - https://github.com/Spacial/awesome-csirt
 CVE-2021-32471 - https://github.com/intrinsic-propensity/intrinsic-propensity.github.io
@@ -43713,7 +43714,6 @@ CVE-2021-37343 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3737 - https://github.com/GitHubForSnap/matrix-commander-gael
 CVE-2021-3740 - https://github.com/ajmalabubakkr/CVE
 CVE-2021-3741 - https://github.com/ajmalabubakkr/CVE
-CVE-2021-37413 - https://github.com/martinkubecka/CVE-References
 CVE-2021-37414 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-37419 - https://github.com/STMCyber/CVEs
 CVE-2021-3742 - https://github.com/ajmalabubakkr/CVE
@@ -45095,6 +45095,7 @@ CVE-2021-44217 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-44217 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-44223 - https://github.com/vavkamil/wp-update-confusion
 CVE-2021-44228 - https://github.com/0xsyr0/OSCP
+CVE-2021-44228 - https://github.com/1in9e/Apache-Log4j2-RCE
 CVE-2021-44228 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44228 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-44228 - https://github.com/AndriyKalashnykov/spring-on-k8s
@@ -45127,13 +45128,16 @@ CVE-2021-44228 - https://github.com/J0B10/Minzomat
 CVE-2021-44228 - https://github.com/J0B10/Voteban
 CVE-2021-44228 - https://github.com/Jean-Francois-C/Windows-Penetration-Testing
 CVE-2021-44228 - https://github.com/KONNEKTIO/konnekt-docs
+CVE-2021-44228 - https://github.com/KosmX/CVE-2021-44228-example
 CVE-2021-44228 - https://github.com/Log4s/log4s
 CVE-2021-44228 - https://github.com/LoliKingdom/NukeJndiLookupFromLog4j
+CVE-2021-44228 - https://github.com/MarkusBordihn/BOs-Critical-Version-Forcer
 CVE-2021-44228 - https://github.com/MedKH1684/Log4j-Vulnerability-Exploitation
 CVE-2021-44228 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2021-44228 - https://github.com/NUMde/compass-num-conformance-checker
 CVE-2021-44228 - https://github.com/Neo23x0/log4shell-detector
 CVE-2021-44228 - https://github.com/NiftyBank/java-app
+CVE-2021-44228 - https://github.com/NorthwaveSecurity/log4jcheck
 CVE-2021-44228 - https://github.com/OsiriX-Foundation/karnak
 CVE-2021-44228 - https://github.com/OtherDevOpsGene/kubernetes-security-tools
 CVE-2021-44228 - https://github.com/PAXSTORE/paxstore-openapi-java-sdk
@@ -45186,6 +45190,7 @@ CVE-2021-44228 - https://github.com/getsentry/sentry-java
 CVE-2021-44228 - https://github.com/git-bom/bomsh
 CVE-2021-44228 - https://github.com/goofball222/unifi
 CVE-2021-44228 - https://github.com/gredler/aegis4j
+CVE-2021-44228 - https://github.com/greymd/CVE-2021-44228
 CVE-2021-44228 - https://github.com/guerzon/guerzon
 CVE-2021-44228 - https://github.com/hex0wn/learn-java-bug
 CVE-2021-44228 - https://github.com/hotpotcookie/lol4j-white-box
@@ -45207,6 +45212,7 @@ CVE-2021-44228 - https://github.com/kvbutler/solr8-rehl8.5-fips-sip
 CVE-2021-44228 - https://github.com/kward/log4sh
 CVE-2021-44228 - https://github.com/kyoshiaki/docker-compose-wordpress
 CVE-2021-44228 - https://github.com/leonjza/log4jpwn
+CVE-2021-44228 - https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228
 CVE-2021-44228 - https://github.com/linuxserver/davos
 CVE-2021-44228 - https://github.com/linuxserver/docker-fleet
 CVE-2021-44228 - https://github.com/linuxserver/docker-unifi-controller
@@ -45227,10 +45233,12 @@ CVE-2021-44228 - https://github.com/mgreau/log4shell-cpatch
 CVE-2021-44228 - https://github.com/mguessan/davmail
 CVE-2021-44228 - https://github.com/microsoft/ApplicationInsights-Java
 CVE-2021-44228 - https://github.com/mklinkj/log4j2-test
+CVE-2021-44228 - https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes
 CVE-2021-44228 - https://github.com/nedenwalker/spring-boot-app-using-gradle
 CVE-2021-44228 - https://github.com/nedenwalker/spring-boot-app-with-log4j-vuln
 CVE-2021-44228 - https://github.com/netarchivesuite/solrwayback
 CVE-2021-44228 - https://github.com/newrelic/java-log-extensions
+CVE-2021-44228 - https://github.com/nkoneko/VictimApp
 CVE-2021-44228 - https://github.com/nlmaca/Wowza_Installers
 CVE-2021-44228 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-44228 - https://github.com/nroduit/Weasis
@@ -45324,6 +45332,7 @@ CVE-2021-44832 - https://github.com/NiftyBank/java-app
 CVE-2021-44832 - https://github.com/Qualys/log4jscanwin
 CVE-2021-44832 - https://github.com/aws/aws-msk-iam-auth
 CVE-2021-44832 - https://github.com/domwood/kiwi-kafka
+CVE-2021-44832 - https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228
 CVE-2021-44832 - https://github.com/logpresso/CVE-2021-44228-Scanner
 CVE-2021-44832 - https://github.com/marklogic/marklogic-contentpump
 CVE-2021-44832 - https://github.com/mergebase/csv-compare
@@ -45385,6 +45394,7 @@ CVE-2021-45046 - https://github.com/integralads/dependency-deep-scan-utilities
 CVE-2021-45046 - https://github.com/jacobalberty/unifi-docker
 CVE-2021-45046 - https://github.com/justb4/docker-jmeter
 CVE-2021-45046 - https://github.com/kdpuvvadi/Omada-Ansible
+CVE-2021-45046 - https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228
 CVE-2021-45046 - https://github.com/logpresso/CVE-2021-44228-Scanner
 CVE-2021-45046 - https://github.com/mergebase/csv-compare
 CVE-2021-45046 - https://github.com/nlmaca/Wowza_Installers
@@ -45418,6 +45428,7 @@ CVE-2021-45105 - https://github.com/binkley/modern-java-practices
 CVE-2021-45105 - https://github.com/davejwilson/azure-spark-pools-log4j
 CVE-2021-45105 - https://github.com/imTigger/webapp-hardware-bridge
 CVE-2021-45105 - https://github.com/jacobalberty/unifi-docker
+CVE-2021-45105 - https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228
 CVE-2021-45105 - https://github.com/logpresso/CVE-2021-44228-Scanner
 CVE-2021-45105 - https://github.com/mergebase/csv-compare
 CVE-2021-45105 - https://github.com/mosaic-hgw/jMeter
@@ -45635,6 +45646,7 @@ CVE-2022-0653 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0653 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-0676 - https://github.com/wtdcode/wtdcode
 CVE-2022-0695 - https://github.com/wtdcode/wtdcode
+CVE-2022-0725 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0725 - https://github.com/ByteHackr/keepass_poc
 CVE-2022-0725 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0750 - https://github.com/karimhabush/cyberowl
@@ -46030,6 +46042,7 @@ CVE-2022-26157 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-26158 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-26158 - https://github.com/l00neyhacker/CVE-2022-26158
 CVE-2022-26158 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-26159 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-26159 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-26159 - https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML
 CVE-2022-6099 - https://github.com/rastidoust/rastidoust.github.io

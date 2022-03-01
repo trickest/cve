@@ -24664,7 +24664,9 @@ CVE-2016-8812 - https://www.exploit-db.com/exploits/40660/
 CVE-2016-8855 - https://packetstormsecurity.com/files/141655/Sitecore-Experience-Platform-8.1-Update-3-Cross-Site-Scripting.html
 CVE-2016-8855 - https://www.exploit-db.com/exploits/41618/
 CVE-2016-8863 - https://www.tenable.com/security/research/tra-2017-10
+CVE-2016-8869 - https://medium.com/@showthread/joomla-3-6-4-account-creation-elevated-privileges-write-up-and-exploit-965d8fb46fa2#.rq4qh1v4r
 CVE-2016-8869 - https://www.exploit-db.com/exploits/40637/
+CVE-2016-8870 - https://medium.com/@showthread/joomla-3-6-4-account-creation-elevated-privileges-write-up-and-exploit-965d8fb46fa2#.rq4qh1v4r
 CVE-2016-8870 - https://www.exploit-db.com/exploits/40637/
 CVE-2016-8887 - http://www.openwall.com/lists/oss-security/2016/10/23/6
 CVE-2016-8897 - http://www.openwall.com/lists/oss-security/2016/09/30/5
@@ -26524,6 +26526,7 @@ CVE-2017-14931 - https://github.com/skysider/openexif_vulnerabilities
 CVE-2017-14932 - https://sourceware.org/bugzilla/show_bug.cgi?id=22204
 CVE-2017-14933 - https://sourceware.org/bugzilla/show_bug.cgi?id=22210
 CVE-2017-14934 - https://sourceware.org/bugzilla/show_bug.cgi?id=22219
+CVE-2017-14937 - https://www.researchgate.net/publication/321183727_Security_Evaluation_of_an_Airbag-ECU_by_Reusing_Threat_Modeling_Artefacts
 CVE-2017-14938 - http://www.securityfocus.com/bid/101212
 CVE-2017-14938 - https://blogs.gentoo.org/ago/2017/09/26/binutils-memory-allocation-failure-in-_bfd_elf_slurp_version_tables-elf-c/
 CVE-2017-14939 - https://blogs.gentoo.org/ago/2017/09/26/binutils-heap-based-buffer-overflow-in-read_1_byte-dwarf2-c/
@@ -27764,6 +27767,7 @@ CVE-2017-18635 - https://github.com/ShielderSec/cve-2017-18635
 CVE-2017-18635 - https://www.shielder.it/blog/exploiting-an-old-novnc-xss-cve-2017-18635-in-openstack/
 CVE-2017-18638 - https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html#second-bug-internal-graphite-ssrf
 CVE-2017-18639 - https://www.exploit-db.com/exploits/42792
+CVE-2017-18738 - https://kb.netgear.com/000051517/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-and-Extenders-PSV-2017-0706
 CVE-2017-18924 - https://codeburst.io/missing-the-point-in-securing-oauth-2-0-83968708b467
 CVE-2017-18926 - https://www.openwall.com/lists/oss-security/2017/06/07/1
 CVE-2017-2096 - http://jvn.jp/en/jp/JVN50197114/index.html
@@ -37948,6 +37952,7 @@ CVE-2019-20636 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.12
 CVE-2019-20675 - https://kb.netgear.com/000061464/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-WiFi-Systems-PSV-2018-0544
 CVE-2019-20689 - https://kb.netgear.com/000061450/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-Gateways-and-Extenders-PSV-2018-0132
 CVE-2019-20718 - https://kb.netgear.com/000061210/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-and-Gateways-PSV-2018-0195
+CVE-2019-20746 - https://kb.netgear.com/000060973/Security-Advisory-for-Reflected-Cross-Site-Scripting-on-Some-Routers-Gateways-and-WiFi-Systems-PSV-2018-0252
 CVE-2019-20760 - https://kb.netgear.com/000060639/Security-Advisory-for-Authentication-Bypass-on-R9000-PSV-2018-0615
 CVE-2019-20798 - https://github.com/cherokee/webserver/issues/1227
 CVE-2019-20798 - https://logicaltrust.net/blog/2019/11/cherokee.html
@@ -39382,7 +39387,9 @@ CVE-2020-10251 - https://github.com/ImageMagick/ImageMagick/issues/1859
 CVE-2020-10256 - https://support.1password.com/kb/202010/
 CVE-2020-10257 - https://www.wordfence.com/blog/2020/03/zero-day-vulnerability-in-themerex-addons-now-patched/
 CVE-2020-10262 - https://github.com/Jian-Xian/CVE-POC/blob/master/CVE-2020-10262.md
+CVE-2020-10262 - https://www.youtube.com/watch?v=Cr5DupGxmL4
 CVE-2020-10263 - https://github.com/Jian-Xian/CVE-POC/blob/master/CVE-2020-10263.md
+CVE-2020-10263 - https://www.youtube.com/watch?v=Cr5DupGxmL4
 CVE-2020-10283 - https://github.com/aliasrobotics/RVD/issues/3316
 CVE-2020-10289 - https://github.com/ros/actionlib/pull/171
 CVE-2020-10290 - https://github.com/aliasrobotics/RVD/issues/1495
@@ -40087,6 +40094,7 @@ CVE-2020-11953 - https://sec-consult.com/en/blog/advisories/multiple-critical-vu
 CVE-2020-11955 - https://sec-consult.com/en/blog/advisories/multiple-critical-vulnerabilities-in-multiple-rittal-products-based-on-same-software/
 CVE-2020-11956 - https://sec-consult.com/en/blog/advisories/multiple-critical-vulnerabilities-in-multiple-rittal-products-based-on-same-software/
 CVE-2020-11958 - https://github.com/skvadrik/re2c/commit/c4603ba5ce229db83a2a4fb93e6d4b4e3ec3776a
+CVE-2020-11959 - https://privacy.mi.com/trust#/security/vulnerability-management/vulnerability-announcement/detail?id=14
 CVE-2020-11971 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-11972 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-11973 - https://www.oracle.com/security-alerts/cpujan2021.html
@@ -42392,6 +42400,7 @@ CVE-2020-26882 - https://www.playframework.com/security/vulnerability
 CVE-2020-26883 - https://www.playframework.com/security/vulnerability
 CVE-2020-26887 - http://packetstormsecurity.com/files/159606/FRITZ-Box-7.20-DNS-Rebinding-Protection-Bypass.html
 CVE-2020-26887 - https://www.redteam-pentesting.de/en/advisories/-advisories-publicised-vulnerability-analyses
+CVE-2020-26924 - https://kb.netgear.com/000062328/Security-Advisory-for-Sensitive-Information-Disclosure-on-Some-Wireless-Access-Points-PSV-2020-0141
 CVE-2020-26943 - https://launchpad.net/bugs/1895688
 CVE-2020-26947 - https://github.com/monero-project/monero-gui/issues/3142#issuecomment-705940446
 CVE-2020-26950 - https://bugzilla.mozilla.org/show_bug.cgi?id=1675905
@@ -43690,6 +43699,7 @@ CVE-2020-6857 - http://seclists.org/fulldisclosure/2020/Jan/29
 CVE-2020-6857 - http://seclists.org/fulldisclosure/2020/Jan/35
 CVE-2020-6857 - https://seclists.org/bugtraq/2020/Jan/30
 CVE-2020-6858 - https://github.com/HotelsDotCom/styx/security/advisories/GHSA-6v7p-v754-j89v
+CVE-2020-6859 - https://wpvulndb.com/vulnerabilities/10041
 CVE-2020-6860 - https://github.com/hoene/libmysofa/issues/96
 CVE-2020-6861 - https://deadcode.me/blog/2020/04/25/Ledger-Monero-app-spend-key-extraction.html
 CVE-2020-6862 - http://packetstormsecurity.com/files/159135/ZTE-F602W-CAPTCHA-Bypass.html
@@ -44372,6 +44382,7 @@ CVE-2021-1645 - http://seclists.org/fulldisclosure/2021/Mar/33
 CVE-2021-1675 - http://packetstormsecurity.com/files/163349/Microsoft-PrintNightmare-Proof-Of-Concept.html
 CVE-2021-1675 - http://packetstormsecurity.com/files/163351/PrintNightmare-Windows-Spooler-Service-Remote-Code-Execution.html
 CVE-2021-1732 - http://packetstormsecurity.com/files/161880/Win32k-ConsoleControl-Offset-Confusion.html
+CVE-2021-1732 - http://packetstormsecurity.com/files/166169/Win32k-ConsoleControl-Offset-Confusion-Privilege-Escalation.html
 CVE-2021-1810 - http://packetstormsecurity.com/files/164375/Gatekeeper-Bypass-Proof-Of-Concept.html
 CVE-2021-1886 - https://www.qualcomm.com/company/product-security/bulletins/july-2021-bulletin
 CVE-2021-1887 - https://www.qualcomm.com/company/product-security/bulletins/july-2021-bulletin
@@ -47951,6 +47962,7 @@ CVE-2022-0746 - https://huntr.dev/bounties/b812ea22-0c02-46fe-b89f-04519dfb1ebd
 CVE-2022-0762 - https://huntr.dev/bounties/125b5244-5099-485e-bf75-e5f1ed80dd48
 CVE-2022-0763 - https://huntr.dev/bounties/6de9c621-740d-4d7a-9d77-d90c6c87f3b6
 CVE-2022-0764 - https://huntr.dev/bounties/001d1c29-805a-4035-93bb-71a0e81da3e5
+CVE-2022-0768 - https://huntr.dev/bounties/9b14cc46-ec08-4940-83cc-9f986b2a5903
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -47981,6 +47993,7 @@ CVE-2022-21681 - https://github.com/markedjs/marked/security/advisories/GHSA-5v2
 CVE-2022-21689 - https://github.com/onionshare/onionshare/security/advisories/GHSA-jh82-c5jw-pxpc
 CVE-2022-21711 - https://github.com/liyansong2018/elfspirit/issues/1
 CVE-2022-21817 - https://nvidia.custhelp.com/app/answers/detail/a_id/5318
+CVE-2022-21882 - http://packetstormsecurity.com/files/166169/Win32k-ConsoleControl-Offset-Confusion-Privilege-Escalation.html
 CVE-2022-21907 - http://packetstormsecurity.com/files/165566/HTTP-Protocol-Stack-Denial-Of-Service-Remote-Code-Execution.html
 CVE-2022-21907 - https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907
 CVE-2022-22107 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22107
@@ -48047,6 +48060,7 @@ CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
 CVE-2022-23967 - https://github.com/MaherAzzouzi/CVE-2022-23967
 CVE-2022-23968 - https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/
+CVE-2022-24124 - http://packetstormsecurity.com/files/166163/Casdoor-1.13.0-SQL-Injection.html
 CVE-2022-24129 - https://github.com/sbaresearch/advisories/tree/public/2022/SBA-ADV-20220127-01_Shibboleth_IdP_OIDC_OP_Plugin_SSRF
 CVE-2022-24196 - https://github.com/itext/itext7/pull/78
 CVE-2022-24197 - https://github.com/itext/itext7/pull/78
@@ -48087,3 +48101,4 @@ CVE-2022-25402 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
 CVE-2022-25403 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
 CVE-2022-25417 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/3
 CVE-2022-25418 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/2
+CVE-2022-26159 - https://podalirius.net/en/cves/2022-26159/
