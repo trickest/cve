@@ -392,6 +392,7 @@ CVE-2004-0305 - http://marc.info/?l=bugtraq&m=107712159425226&w=2
 CVE-2004-0314 - http://marc.info/?l=bugtraq&m=107757029514146&w=2
 CVE-2004-0319 - http://marc.info/?l=bugtraq&m=107756639427140&w=2
 CVE-2004-0321 - http://marc.info/?l=bugtraq&m=107756001412888&w=2
+CVE-2004-0332 - http://www.securityfocus.com/bid/9754
 CVE-2004-0339 - http://marc.info/?l=bugtraq&m=107799508130700&w=2
 CVE-2004-0345 - http://marc.info/?l=bugtraq&m=107816217901923&w=2
 CVE-2004-0348 - http://marc.info/?l=bugtraq&m=107833097705486&w=2
@@ -21752,6 +21753,8 @@ CVE-2015-7271 - http://en.community.dell.com/techcenter/extras/m/white_papers/20
 CVE-2015-7272 - http://en.community.dell.com/techcenter/extras/m/white_papers/20441859
 CVE-2015-7273 - http://en.community.dell.com/techcenter/extras/m/white_papers/20441859
 CVE-2015-7274 - http://en.community.dell.com/techcenter/extras/m/white_papers/20441859
+CVE-2015-7274 - http://www.securityfocus.com/bid/97545
+CVE-2015-7274 - http://www.securityfocus.com/bid/97546
 CVE-2015-7275 - http://en.community.dell.com/techcenter/extras/m/white_papers/20441859
 CVE-2015-7285 - http://www.kb.cert.org/vuls/id/428280
 CVE-2015-7285 - http://www.kb.cert.org/vuls/id/BLUU-A3NQAL
@@ -23413,6 +23416,7 @@ CVE-2016-2851 - https://www.exploit-db.com/exploits/39550/
 CVE-2016-2851 - https://www.x41-dsec.de/lab/advisories/x41-2016-001-libotr/
 CVE-2016-2855 - http://packetstormsecurity.com/files/137025/Huawei-Mobile-Broadband-HL-Service-22.001.25.00.03-Local-Privilege-Escalation.html
 CVE-2016-2855 - http://seclists.org/fulldisclosure/2016/May/34
+CVE-2016-3029 - http://www.ibm.com/support/docview.wss?uid=swg21995345
 CVE-2016-3053 - https://www.exploit-db.com/exploits/40709/
 CVE-2016-3062 - https://bugzilla.libav.org/show_bug.cgi?id=929
 CVE-2016-3063 - https://security.netapp.com/advisory/ntap-20160310-0004/
@@ -24572,6 +24576,7 @@ CVE-2016-8025 - https://www.exploit-db.com/exploits/40911/
 CVE-2016-8027 - https://kc.mcafee.com/corporate/index?page=content&id=SB10187
 CVE-2016-8201 - https://www.kb.cert.org/vuls/id/192371
 CVE-2016-8220 - https://docs.pivotal.io/gemfire-cf/relnotes.html
+CVE-2016-8235 - http://www.securityfocus.com/bid/97543
 CVE-2016-8332 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2016-8366 - https://www.exploit-db.com/exploits/45586/
 CVE-2016-8371 - https://www.exploit-db.com/exploits/45590/
@@ -25273,6 +25278,7 @@ CVE-2017-1002000 - https://www.exploit-db.com/exploits/41540/
 CVE-2017-1002001 - https://www.exploit-db.com/exploits/41540/
 CVE-2017-1002002 - https://www.exploit-db.com/exploits/41540/
 CVE-2017-1002003 - https://www.exploit-db.com/exploits/41540/
+CVE-2017-1002008 - https://wpvulndb.com/vulnerabilities/8777
 CVE-2017-1002008 - https://www.exploit-db.com/exploits/41622/
 CVE-2017-10026 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2017-10033 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
@@ -27952,6 +27958,14 @@ CVE-2017-2988 - https://www.exploit-db.com/exploits/41421/
 CVE-2017-2992 - https://www.exploit-db.com/exploits/41420/
 CVE-2017-3006 - http://hyp3rlinx.altervista.org/advisories/ADOBE-CREATIVE-CLOUD-PRIVILEGE-ESCALATION.txt
 CVE-2017-3006 - https://www.exploit-db.com/exploits/41878/
+CVE-2017-3011 - http://www.securityfocus.com/bid/97548
+CVE-2017-3012 - http://www.securityfocus.com/bid/97547
+CVE-2017-3013 - http://www.securityfocus.com/bid/97547
+CVE-2017-3034 - http://www.securityfocus.com/bid/97548
+CVE-2017-3042 - http://www.securityfocus.com/bid/97549
+CVE-2017-3048 - http://www.securityfocus.com/bid/97549
+CVE-2017-3049 - http://www.securityfocus.com/bid/97549
+CVE-2017-3055 - http://www.securityfocus.com/bid/97549
 CVE-2017-3061 - https://www.exploit-db.com/exploits/42018/
 CVE-2017-3064 - https://www.exploit-db.com/exploits/42019/
 CVE-2017-3066 - https://www.exploit-db.com/exploits/43993/
@@ -28258,6 +28272,7 @@ CVE-2017-5638 - https://www.exploit-db.com/exploits/41614/
 CVE-2017-5641 - https://www.kb.cert.org/vuls/id/307983
 CVE-2017-5645 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2017-5645 - https://www.oracle.com/security-alerts/cpujul2020.html
+CVE-2017-5651 - http://www.securityfocus.com/bid/97544
 CVE-2017-5662 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2017-5664 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2017-5665 - https://blogs.gentoo.org/ago/2017/01/29/mp3splt-null-pointer-dereference-in-splt_cue_export_to_file-cue-c/
