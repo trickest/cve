@@ -31271,6 +31271,9 @@ CVE-2018-14894 - http://packetstormsecurity.com/files/152489/CyberArk-EPM-10.2.1
 CVE-2018-14894 - https://mustafakemalcan.com/cyberark-epm-file-block-bypass-cve-2018-14894/
 CVE-2018-14894 - https://www.exploit-db.com/exploits/46688/
 CVE-2018-14894 - https://www.youtube.com/watch?v=B0VpK0poTco
+CVE-2018-14905 - https://medium.com/stolabs/security-issues-on-3cx-web-service-d9dc7f1bea79
+CVE-2018-14906 - https://medium.com/stolabs/security-issues-on-3cx-web-service-d9dc7f1bea79
+CVE-2018-14907 - https://medium.com/stolabs/security-issues-on-3cx-web-service-d9dc7f1bea79
 CVE-2018-14911 - https://github.com/yxcmf/ukcms/issues/1
 CVE-2018-14912 - https://www.exploit-db.com/exploits/45195/
 CVE-2018-14916 - http://packetstormsecurity.com/files/152453/Loytec-LGATE-902-XSS-Traversal-File-Deletion.html
@@ -41722,6 +41725,7 @@ CVE-2020-22056 - https://trac.ffmpeg.org/ticket/8304
 CVE-2020-22079 - https://github.com/Lyc-heng/routers/blob/main/routers/stack1.md
 CVE-2020-22122 - https://github.com/876054426/vul/blob/master/ljcms_sql.md
 CVE-2020-22148 - https://github.com/Piwigo/Piwigo/issues/1157
+CVE-2020-22158 - https://sku11army.blogspot.com/2020/02/ericsson-multiple-stored-reflected-xss.html
 CVE-2020-22198 - http://www.hackdig.com/?02/hack-8391.htm
 CVE-2020-22198 - https://github.com/blindkey/DedeCMSv5/issues/1
 CVE-2020-22201 - https://github.com/blindkey/cve_like/issues/4
@@ -41860,6 +41864,7 @@ CVE-2020-23835 - https://www.exploit-db.com/exploits/48813
 CVE-2020-23836 - https://www.exploit-db.com/exploits/48738
 CVE-2020-23837 - https://www.exploit-db.com/exploits/48745
 CVE-2020-23839 - http://packetstormsecurity.com/files/162016/GetSimple-CMS-3.3.16-Cross-Site-Scripting-Shell-Upload.html
+CVE-2020-23839 - https://github.com/boku7/CVE-2020-23839
 CVE-2020-23839 - https://www.exploit-db.com/exploits/49726
 CVE-2020-23849 - https://github.com/josdejong/jsoneditor/issues/1029
 CVE-2020-23851 - https://github.com/rockcarry/ffjpeg/issues/27
@@ -47982,6 +47987,8 @@ CVE-2022-0762 - https://huntr.dev/bounties/125b5244-5099-485e-bf75-e5f1ed80dd48
 CVE-2022-0763 - https://huntr.dev/bounties/6de9c621-740d-4d7a-9d77-d90c6c87f3b6
 CVE-2022-0764 - https://huntr.dev/bounties/001d1c29-805a-4035-93bb-71a0e81da3e5
 CVE-2022-0768 - https://huntr.dev/bounties/9b14cc46-ec08-4940-83cc-9f986b2a5903
+CVE-2022-0776 - https://huntr.dev/bounties/be2b7ee4-f487-42e1-874a-6bcc410e4001
+CVE-2022-0777 - https://huntr.dev/bounties/b36be8cd-544f-42bd-990d-aa1a46df44d7
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -48074,6 +48081,7 @@ CVE-2022-23316 - https://github.com/taogogo/taocms/issues/15
 CVE-2022-23320 - https://www.triaxiomsecurity.com/xmpie-ustore-vulnerabilities-discovered/
 CVE-2022-23321 - https://www.triaxiomsecurity.com/xmpie-ustore-vulnerabilities-discovered/
 CVE-2022-23366 - http://packetstormsecurity.com/files/165948/Hospital-Management-Startup-1.0-SQL-Injection.html
+CVE-2022-23377 - https://www.exploit-db.com/exploits/50665
 CVE-2022-23378 - https://github.com/TheGetch/CVE-2022-23378
 CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-3.0.3-Path-Traversal.html
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
