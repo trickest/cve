@@ -29747,6 +29747,7 @@ CVE-2018-1000546 - https://0dd.zone/2018/05/31/TripleA-XXE/
 CVE-2018-1000548 - http://0dd.zone/2018/04/23/UMLet-XXE/
 CVE-2018-1000548 - https://github.com/umlet/umlet/issues/500
 CVE-2018-1000619 - https://drive.google.com/open?id=195h-LirGiIVKxioyusw3SvmLp8BljPxe
+CVE-2018-1000621 - https://github.com/Nhoya/MycroftAI-RCE
 CVE-2018-1000632 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2018-1000638 - https://github.com/bg5sbk/MiniCMS/issues/20
 CVE-2018-1000653 - https://gist.github.com/Lz1y/3388fa886a3e10edd2a7e93d3c3e5b6c
@@ -33160,6 +33161,7 @@ CVE-2018-21029 - https://github.com/systemd/systemd/issues/9397
 CVE-2018-21031 - https://www.exploit-db.com/docs/47790
 CVE-2018-21034 - https://www.soluble.ai/blog/argo-cves-2020
 CVE-2018-21037 - https://github.com/intelliants/subrion/issues/638
+CVE-2018-21136 - https://kb.netgear.com/000060224/Security-Advisory-for-Sensitive-Information-Disclosure-on-Some-Modem-Routers-PSV-2018-0100
 CVE-2018-21159 - https://kb.netgear.com/000059471/Security-Advisory-for-Security-Misconfiguration-on-ReadyNAS-OS-6-PSV-2017-1999
 CVE-2018-21189 - https://kb.netgear.com/000055168/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2606
 CVE-2018-21203 - https://kb.netgear.com/000055146/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-PSV-2017-2589
@@ -42692,6 +42694,7 @@ CVE-2020-28267 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-
 CVE-2020-28268 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2020-28268
 CVE-2020-28269 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2020-28269
 CVE-2020-28270 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2020-28270
+CVE-2020-28271 - https://github.com/sharpred/deepHas/commit/2fe011713a6178c50f7deb6f039a8e5435981e20
 CVE-2020-28271 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2020-28271
 CVE-2020-28272 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2020-28272
 CVE-2020-28273 - https://www.whitesourcesoftware.com/vulnerability-database
@@ -47997,6 +48000,8 @@ CVE-2022-0764 - https://huntr.dev/bounties/001d1c29-805a-4035-93bb-71a0e81da3e5
 CVE-2022-0768 - https://huntr.dev/bounties/9b14cc46-ec08-4940-83cc-9f986b2a5903
 CVE-2022-0776 - https://huntr.dev/bounties/be2b7ee4-f487-42e1-874a-6bcc410e4001
 CVE-2022-0777 - https://huntr.dev/bounties/b36be8cd-544f-42bd-990d-aa1a46df44d7
+CVE-2022-0824 - https://huntr.dev/bounties/d0049a96-de90-4b1a-9111-94de1044f295
+CVE-2022-0829 - https://huntr.dev/bounties/f2d0389f-d7d1-4f34-9f9d-268b0a0da05e
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
