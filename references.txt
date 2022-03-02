@@ -33118,6 +33118,7 @@ CVE-2018-20792 - https://www.exploit-db.com/exploits/45987
 CVE-2018-20793 - https://www.exploit-db.com/exploits/45987
 CVE-2018-20794 - https://www.exploit-db.com/exploits/45987
 CVE-2018-20795 - https://www.exploit-db.com/exploits/45987
+CVE-2018-20806 - https://github.com/lota/phamm/issues/24
 CVE-2018-20808 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877/
 CVE-2018-20809 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877/
 CVE-2018-20810 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877/
@@ -35606,6 +35607,7 @@ CVE-2019-11873 - https://www.telekom.com/en/corporate-responsibility/data-protec
 CVE-2019-11875 - http://packetstormsecurity.com/files/153007/Blue-Prism-Robotic-Process-Automation-RPA-Privilege-Escalation.html
 CVE-2019-11875 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2019-002.txt
 CVE-2019-11877 - https://medium.com/@igor.lrgomes/cve-2019-11877-credentials-stealing-through-xss-on-pix-link-repeater-9a98c344f58e
+CVE-2019-11878 - https://www.youtube.com/watch?v=SnyPJtDDMFQ
 CVE-2019-11880 - http://packetstormsecurity.com/files/152910/CommSy-8.6.5-SQL-Injection.html
 CVE-2019-11881 - https://github.com/MauroEldritch/VanCleef
 CVE-2019-11884 - https://seclists.org/bugtraq/2019/Jun/26
@@ -37552,6 +37554,8 @@ CVE-2019-1936 - https://seclists.org/bugtraq/2019/Aug/49
 CVE-2019-19363 - http://packetstormsecurity.com/files/156082/Ricoh-Printer-Driver-Local-Privilege-Escalation.html
 CVE-2019-19363 - http://packetstormsecurity.com/files/156251/Ricoh-Driver-Privilege-Escalation.html
 CVE-2019-19363 - http://seclists.org/fulldisclosure/2020/Jan/34
+CVE-2019-19366 - https://gist.github.com/xax007/94183b11bdfe579fd860a37e74cd3a8e
+CVE-2019-19367 - https://gist.github.com/xax007/94183b11bdfe579fd860a37e74cd3a8e
 CVE-2019-19368 - http://packetstormsecurity.com/files/155719/Rumpus-FTP-Web-File-Manager-8.2.9.1-Cross-Site-Scripting.html
 CVE-2019-1937 - http://packetstormsecurity.com/files/154239/Cisco-UCS-IMC-Supervisor-Authentication-Bypass-Command-Injection.html
 CVE-2019-1937 - http://packetstormsecurity.com/files/154308/Cisco-UCS-Director-Unauthenticated-Remote-Code-Execution.html
