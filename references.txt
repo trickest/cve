@@ -37432,6 +37432,7 @@ CVE-2019-1899 - https://www.tenable.com/security/research/tra-2019-29
 CVE-2019-18990 - https://www.synopsys.com/blogs/software-security/cyrc-advisory-sept2020/
 CVE-2019-18991 - https://www.synopsys.com/blogs/software-security/cyrc-advisory-sept2020/
 CVE-2019-19007 - https://medium.com/@rsantos_14778/1500b407dccc
+CVE-2019-19011 - https://github.com/miniupnp/ngiflib/issues/16
 CVE-2019-19012 - https://github.com/kkos/oniguruma/issues/164
 CVE-2019-19012 - https://github.com/tarantula-team/CVE-2019-19012
 CVE-2019-19013 - https://packetstormsecurity.com/files/155426/Pagekit-CMS-1.0.17-Cross-Site-Request-Forgery.html
@@ -37499,6 +37500,7 @@ CVE-2019-19200 - http://packetstormsecurity.com/files/159455/MailDepot-2032-SP2-
 CVE-2019-19203 - https://github.com/ManhNDd/CVE-2019-19203
 CVE-2019-19203 - https://github.com/kkos/oniguruma/issues/163
 CVE-2019-19204 - https://github.com/ManhNDd/CVE-2019-19204
+CVE-2019-19204 - https://github.com/tarantula-team/CVE-2019-19204
 CVE-2019-19208 - http://packetstormsecurity.com/files/162753/Codiad-2.8.4-Remote-Code-Execution.html
 CVE-2019-19208 - https://herolab.usd.de/en/security-advisories/
 CVE-2019-19208 - https://herolab.usd.de/security-advisories/usd-2019-0049/
@@ -39904,6 +39906,7 @@ CVE-2020-11494 - http://packetstormsecurity.com/files/159565/Kernel-Live-Patch-S
 CVE-2020-11497 - http://packetstormsecurity.com/files/158931/WordPress-NAB-Transact-WooCommerce-2.1.0-Payment-Bypass.html
 CVE-2020-11497 - http://seclists.org/fulldisclosure/2020/Aug/13
 CVE-2020-11503 - https://community.sophos.com/b/security-blog/posts/advisory-potential-rce-through-heap-overflow-in-awarrensmtp-cve-2020-11503
+CVE-2020-11507 - https://forums.malwarebytes.com/topic/258140-release-adwcleaner-804/
 CVE-2020-11511 - http://packetstormsecurity.com/files/163538/WordPress-LearnPress-Privilege-Escalation.html
 CVE-2020-11528 - https://github.com/14isnot40/vul_discovery/blob/06d04dbbc6f792a82321c00376d4dbf3add00f4f/poc/bit2spr%20vulnerability%20discovery.md.pdf
 CVE-2020-11529 - https://github.com/getgrav/grav/commit/2eae104c7a4bf32bc26cb8073d5c40464bfda3f7
@@ -42425,6 +42428,7 @@ CVE-2020-26887 - https://www.redteam-pentesting.de/en/advisories/-advisories-pub
 CVE-2020-26924 - https://kb.netgear.com/000062328/Security-Advisory-for-Sensitive-Information-Disclosure-on-Some-Wireless-Access-Points-PSV-2020-0141
 CVE-2020-26943 - https://launchpad.net/bugs/1895688
 CVE-2020-26947 - https://github.com/monero-project/monero-gui/issues/3142#issuecomment-705940446
+CVE-2020-26950 - http://packetstormsecurity.com/files/166175/Firefox-MCallGetProperty-Write-Side-Effects-Use-After-Free.html
 CVE-2020-26950 - https://bugzilla.mozilla.org/show_bug.cgi?id=1675905
 CVE-2020-26953 - https://bugzilla.mozilla.org/show_bug.cgi?id=1656741
 CVE-2020-26959 - https://bugzilla.mozilla.org/show_bug.cgi?id=1669466
@@ -48094,6 +48098,11 @@ CVE-2022-24196 - https://github.com/itext/itext7/pull/78
 CVE-2022-24197 - https://github.com/itext/itext7/pull/78
 CVE-2022-24198 - https://github.com/itext/itext7/pull/78
 CVE-2022-24223 - http://packetstormsecurity.com/files/165922/Atom-CMS-2.0-SQL-Injection.html
+CVE-2022-24251 - https://www.whiteoaksecurity.com/blog/extensis-portfolio-vulnerability-disclosure/
+CVE-2022-24252 - https://www.whiteoaksecurity.com/blog/extensis-portfolio-vulnerability-disclosure/
+CVE-2022-24253 - https://www.whiteoaksecurity.com/blog/extensis-portfolio-vulnerability-disclosure/
+CVE-2022-24254 - https://www.whiteoaksecurity.com/blog/extensis-portfolio-vulnerability-disclosure/
+CVE-2022-24255 - https://www.whiteoaksecurity.com/blog/extensis-portfolio-vulnerability-disclosure/
 CVE-2022-24263 - http://packetstormsecurity.com/files/165882/Hospital-Management-System-4.0-SQL-Injection.html
 CVE-2022-24266 - https://github.com/CuppaCMS/CuppaCMS/issues/17
 CVE-2022-24448 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.5
@@ -48104,6 +48113,7 @@ CVE-2022-24677 - https://github.com/hyyyp/HYBBS2/issues/34
 CVE-2022-24959 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.5
 CVE-2022-24976 - https://www.openwall.com/lists/oss-security/2022/01/30/4
 CVE-2022-24977 - https://r0.haxors.org/posts?id=8
+CVE-2022-25012 - https://www.exploit-db.com/exploits/50130
 CVE-2022-25076 - https://github.com/EPhaha/IOT_vuln/blob/main/TOTOLink/A800R/README.md
 CVE-2022-25079 - https://github.com/EPhaha/IOT_vuln/blob/main/TOTOLink/A810R/README.md
 CVE-2022-25083 - https://github.com/EPhaha/IOT_vuln/blob/main/TOTOLink/A860R/README.md
