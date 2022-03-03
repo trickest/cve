@@ -15353,6 +15353,7 @@ CVE-2013-4744 - http://typo3.org/teams/security/security-bulletins/typo3-extensi
 CVE-2013-4748 - http://typo3.org/teams/security/security-bulletins/typo3-extensions/typo3-ext-sa-2013-001/
 CVE-2013-4759 - http://packetstormsecurity.com/files/122527/Magnolia-CMS-5.0.1-Community-Edition-Cross-Site-Scripting.html
 CVE-2013-4772 - http://packetstormsecurity.com/files/122314/D-Link-DIR-505L-DIR-826L-Authentication-Bypass.html
+CVE-2013-4777 - https://plus.google.com/110348415484169880343/posts/5ofgPNrSu3J
 CVE-2013-4784 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2013-4788 - http://hmarco.org/bugs/CVE-2013-4788.html
 CVE-2013-4788 - http://seclists.org/fulldisclosure/2015/Sep/23
@@ -15535,6 +15536,7 @@ CVE-2013-5855 - http://www.oracle.com/technetwork/topics/security/cpujul2014-197
 CVE-2013-5855 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2013-5930 - http://packetstormsecurity.com/files/123138/realestatephpscript-xss.txt
 CVE-2013-5931 - http://packetstormsecurity.com/files/123138/realestatephpscript-xss.txt
+CVE-2013-5933 - https://plus.google.com/110348415484169880343/posts/5ofgPNrSu3J
 CVE-2013-5939 - http://packetstormsecurity.com/files/123746/PHPCMS-Guestbook-Cross-Site-Scripting.html
 CVE-2013-5948 - http://seclists.org/fulldisclosure/2014/Apr/59
 CVE-2013-5952 - http://packetstormsecurity.com/files/125737
@@ -41787,6 +41789,7 @@ CVE-2020-20944 - https://blog.csdn.net/he_and/article/details/102698171
 CVE-2020-20945 - https://blog.csdn.net/he_and/article/details/102698171
 CVE-2020-20946 - https://blog.csdn.net/he_and/article/details/102698171
 CVE-2020-20949 - https://bi-zone.medium.com/silence-will-fall-or-how-it-can-take-2-years-to-get-your-vuln-registered-e6134846f5bb
+CVE-2020-20950 - http://microchip.com
 CVE-2020-20950 - https://bi-zone.medium.com/silence-will-fall-or-how-it-can-take-2-years-to-get-your-vuln-registered-e6134846f5bb
 CVE-2020-2096 - http://packetstormsecurity.com/files/155967/Jenkins-Gitlab-Hook-1.4.2-Cross-Site-Scripting.html
 CVE-2020-20975 - https://blog.csdn.net/qq_41770175/article/details/93486383
@@ -48250,6 +48253,7 @@ CVE-2022-0777 - https://huntr.dev/bounties/b36be8cd-544f-42bd-990d-aa1a46df44d7
 CVE-2022-0819 - https://huntr.dev/bounties/b03d4415-d4f9-48c8-9ae2-d3aa248027b5
 CVE-2022-0824 - https://huntr.dev/bounties/d0049a96-de90-4b1a-9111-94de1044f295
 CVE-2022-0829 - https://huntr.dev/bounties/f2d0389f-d7d1-4f34-9f9d-268b0a0da05e
+CVE-2022-0841 - https://huntr.dev/bounties/4f806dc9-2ecd-4e79-997e-5292f1bea9f1
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -48317,6 +48321,7 @@ CVE-2022-22890 - https://github.com/jerryscript-project/jerryscript/issues/4847
 CVE-2022-22891 - https://github.com/jerryscript-project/jerryscript/issues/4871
 CVE-2022-22894 - https://github.com/jerryscript-project/jerryscript/issues/4890
 CVE-2022-22899 - https://yoursecuritybores.me/coreftp-vulnerabilities/
+CVE-2022-22909 - https://github.com/0z09e/CVE-2022-22909
 CVE-2022-23043 - https://fluidattacks.com/advisories/simone/
 CVE-2022-23045 - https://fluidattacks.com/advisories/osbourne/
 CVE-2022-23046 - http://packetstormsecurity.com/files/165683/PHPIPAM-1.4.4-SQL-Injection.html
@@ -48346,6 +48351,7 @@ CVE-2022-23377 - https://www.exploit-db.com/exploits/50665
 CVE-2022-23378 - https://github.com/TheGetch/CVE-2022-23378
 CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-3.0.3-Path-Traversal.html
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
+CVE-2022-23878 - https://blog.csdn.net/miuzzx/article/details/122249953
 CVE-2022-23907 - http://dev.cmsmadesimple.org/bug/view/12503
 CVE-2022-23967 - https://github.com/MaherAzzouzi/CVE-2022-23967
 CVE-2022-23968 - https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/
