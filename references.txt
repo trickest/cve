@@ -6088,6 +6088,7 @@ CVE-2008-0878 - https://www.exploit-db.com/exploits/5156
 CVE-2008-0879 - http://packetstormsecurity.com/files/126697/PHP-Nuke-Web-Links-SQL-Injection.html
 CVE-2008-0880 - https://www.exploit-db.com/exploits/5155
 CVE-2008-0881 - https://www.exploit-db.com/exploits/5159
+CVE-2008-0894 - http://securityreason.com/securityalert/3685
 CVE-2008-0894 - https://bugzilla.mozilla.org/show_bug.cgi?id=408076
 CVE-2008-0905 - https://www.exploit-db.com/exploits/5162
 CVE-2008-0906 - https://www.exploit-db.com/exploits/5161
@@ -6169,6 +6170,7 @@ CVE-2008-1110 - https://www.exploit-db.com/exploits/1641
 CVE-2008-1116 - https://www.exploit-db.com/exploits/5188
 CVE-2008-1117 - http://aluigi.altervista.org/adv/timbuto-adv.txt
 CVE-2008-1117 - http://aluigi.org/poc/timbuto.zip
+CVE-2008-1117 - http://securityreason.com/securityalert/3741
 CVE-2008-1117 - https://www.exploit-db.com/exploits/4455
 CVE-2008-1117 - https://www.exploit-db.com/exploits/5238
 CVE-2008-1118 - https://www.exploit-db.com/exploits/5238
@@ -6237,6 +6239,7 @@ CVE-2008-1336 - https://www.exploit-db.com/exploits/5206
 CVE-2008-1336 - https://www.exploit-db.com/exploits/5447
 CVE-2008-1337 - http://aluigi.altervista.org/adv/timbuto-adv.txt
 CVE-2008-1337 - http://aluigi.org/poc/timbuto.zip
+CVE-2008-1337 - http://securityreason.com/securityalert/3741
 CVE-2008-1338 - http://aluigi.altervista.org/adv/perforces-adv.txt
 CVE-2008-1338 - http://aluigi.org/poc/perforces.zip
 CVE-2008-1344 - https://www.exploit-db.com/exploits/5246
@@ -7452,6 +7455,7 @@ CVE-2008-4144 - https://www.exploit-db.com/exploits/6364
 CVE-2008-4145 - https://www.exploit-db.com/exploits/6485
 CVE-2008-4146 - https://www.exploit-db.com/exploits/6482
 CVE-2008-4150 - https://www.exploit-db.com/exploits/6488
+CVE-2008-4151 - http://securityreason.com/securityalert/4297
 CVE-2008-4151 - https://www.exploit-db.com/exploits/6487
 CVE-2008-4154 - https://www.exploit-db.com/exploits/6281
 CVE-2008-4155 - https://www.exploit-db.com/exploits/6288
@@ -7877,6 +7881,8 @@ CVE-2008-5158 - http://aluigi.org/poc/wincomalpd.zip
 CVE-2008-5159 - http://aluigi.org/adv/wincomalpd-adv.txt
 CVE-2008-5159 - http://aluigi.org/poc/wincomalpd.zip
 CVE-2008-5160 - https://www.exploit-db.com/exploits/5184
+CVE-2008-5163 - http://securityreason.com/securityalert/4612
+CVE-2008-5164 - http://securityreason.com/securityalert/4612
 CVE-2008-5166 - https://www.exploit-db.com/exploits/5946
 CVE-2008-5167 - https://www.exploit-db.com/exploits/5955
 CVE-2008-5167 - https://www.exploit-db.com/exploits/6282
@@ -7973,6 +7979,9 @@ CVE-2008-5337 - https://www.exploit-db.com/exploits/7215
 CVE-2008-5338 - https://www.exploit-db.com/exploits/7215
 CVE-2008-5353 - http://blog.cr0.org/2009/05/write-once-own-everyone.html
 CVE-2008-5353 - http://landonf.bikemonkey.org/code/macosx/CVE-2008-5353.20090519.html
+CVE-2008-5361 - http://securityreason.com/securityalert/4692
+CVE-2008-5362 - http://securityreason.com/securityalert/4692
+CVE-2008-5363 - http://securityreason.com/securityalert/4692
 CVE-2008-5365 - https://www.exploit-db.com/exploits/7287
 CVE-2008-5377 - https://www.exploit-db.com/exploits/7550
 CVE-2008-5383 - https://www.exploit-db.com/exploits/7307
@@ -48244,6 +48253,7 @@ CVE-2022-0729 - https://huntr.dev/bounties/f3f3d992-7bd6-4ee5-a502-ae0e5f8016ea
 CVE-2022-0731 - https://huntr.dev/bounties/e242ab4e-fc70-4b2c-a42d-5b3ee4895de8
 CVE-2022-0743 - https://huntr.dev/bounties/32ea4ddb-5b41-4bf9-b5a1-ef455fe2d293
 CVE-2022-0746 - https://huntr.dev/bounties/b812ea22-0c02-46fe-b89f-04519dfb1ebd
+CVE-2022-0753 - https://huntr.dev/bounties/8ce4b776-1c53-45ec-bc5f-783077e2d324
 CVE-2022-0762 - https://huntr.dev/bounties/125b5244-5099-485e-bf75-e5f1ed80dd48
 CVE-2022-0763 - https://huntr.dev/bounties/6de9c621-740d-4d7a-9d77-d90c6c87f3b6
 CVE-2022-0764 - https://huntr.dev/bounties/001d1c29-805a-4035-93bb-71a0e81da3e5
@@ -48304,6 +48314,7 @@ CVE-2022-22123 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-
 CVE-2022-22124 - https://github.com/halo-dev/halo/issues/1575
 CVE-2022-22124 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22124
 CVE-2022-22125 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22125
+CVE-2022-22700 - https://fluidattacks.com/advisories/porter/
 CVE-2022-22701 - https://fluidattacks.com/advisories/hendrix/
 CVE-2022-22702 - https://fluidattacks.com/advisories/joplin/
 CVE-2022-22831 - http://packetstormsecurity.com/files/165863/Servisnet-Tessa-Authentication-Bypass.html
@@ -48332,6 +48343,8 @@ CVE-2022-23048 - https://exponentcms.lighthouseapp.com/projects/61783/tickets/14
 CVE-2022-23048 - https://fluidattacks.com/advisories/dylan/
 CVE-2022-23049 - https://exponentcms.lighthouseapp.com/projects/61783/tickets/1461
 CVE-2022-23049 - https://fluidattacks.com/advisories/cobain/
+CVE-2022-23051 - https://fluidattacks.com/advisories/brown/
+CVE-2022-23052 - https://fluidattacks.com/advisories/jett/
 CVE-2022-23102 - http://packetstormsecurity.com/files/165966/SIEMENS-SINEMA-Remote-Connect-1.0-SP3-HF1-Open-Redirection.html
 CVE-2022-23102 - http://seclists.org/fulldisclosure/2022/Feb/20
 CVE-2022-23119 - https://success.trendmicro.com/solution/000290104
@@ -48373,6 +48386,7 @@ CVE-2022-24613 - https://github.com/drewnoakes/metadata-extractor/issues/561
 CVE-2022-24614 - https://github.com/drewnoakes/metadata-extractor/issues/561
 CVE-2022-24676 - https://github.com/hyyyp/HYBBS2/issues/33
 CVE-2022-24677 - https://github.com/hyyyp/HYBBS2/issues/34
+CVE-2022-24723 - https://huntr.dev/bounties/82ef23b8-7025-49c9-b5fc-1bb9885788e5/
 CVE-2022-24959 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.5
 CVE-2022-24976 - https://www.openwall.com/lists/oss-security/2022/01/30/4
 CVE-2022-24977 - https://r0.haxors.org/posts?id=8
@@ -48386,6 +48400,7 @@ CVE-2022-25095 - https://www.exploit-db.com/exploits/50730
 CVE-2022-25096 - https://www.exploit-db.com/exploits/50732
 CVE-2022-25131 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_14/14.md
 CVE-2022-25139 - https://github.com/nginx/njs/issues/451
+CVE-2022-25220 - https://fluidattacks.com/advisories/armstrong/
 CVE-2022-25241 - http://packetstormsecurity.com/files/166074/FileCloud-21.2-Cross-Site-Request-Forgery.html
 CVE-2022-25241 - https://herolab.usd.de/security-advisories/
 CVE-2022-25242 - https://herolab.usd.de/security-advisories/
