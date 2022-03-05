@@ -32134,6 +32134,7 @@ CVE-2018-15979 - https://helpx.adobe.com/security/products/acrobat/apsb18-40.htm
 CVE-2018-15982 - https://www.exploit-db.com/exploits/46051/
 CVE-2018-16042 - https://pdf-insecurity.org/signature/evaluation_2018.html
 CVE-2018-16059 - https://www.exploit-db.com/exploits/45342/
+CVE-2018-1606 - http://www.ibm.com/support/docview.wss?uid=ibm10738301
 CVE-2018-16060 - http://packetstormsecurity.com/files/164538/Mitsubishi-Electric-INEA-SmartRTU-Source-Code-Disclosure.html
 CVE-2018-16061 - http://packetstormsecurity.com/files/164537/Mitsubishi-Electric-INEA-SmartRTU-Cross-Site-Scripting.html
 CVE-2018-16071 - https://www.exploit-db.com/exploits/45443/
@@ -32345,6 +32346,7 @@ CVE-2018-16866 - https://www.qualys.com/2019/01/09/system-down/system-down.txt
 CVE-2018-16868 - http://cat.eyalro.net/
 CVE-2018-16869 - http://cat.eyalro.net/
 CVE-2018-16870 - http://cat.eyalro.net/
+CVE-2018-1694 - http://www.ibm.com/support/docview.wss?uid=ibm10738301
 CVE-2018-16946 - https://github.com/EgeBalci/LG-Smart-IP-Device-Backup-Download
 CVE-2018-16946 - https://www.exploit-db.com/exploits/45394/
 CVE-2018-16965 - http://packetstormsecurity.com/files/149438/ManageEngine-SupportCenter-Plus-8.1.0-Cross-Site-Scripting.html
@@ -41830,6 +41832,8 @@ CVE-2020-18221 - https://github.com/typora/typora-issues/issues/2204
 CVE-2020-18259 - https://github.com/chilin89117/ED01-CMS/issues/1
 CVE-2020-18261 - https://github.com/chilin89117/ED01-CMS/issues/2
 CVE-2020-18265 - https://github.com/github123abc123/bird/issues/1
+CVE-2020-18326 - https://github.com/hamm0nz/CVE-2020-18326
+CVE-2020-18327 - https://gist.github.com/paatui/a3c7ca8cf12594b437d3854f13d76cb8
 CVE-2020-18395 - http://lists.gnu.org/archive/html/bug-gama/2019-04/msg00001.html
 CVE-2020-18442 - https://github.com/gdraheim/zziplib/issues/68
 CVE-2020-18454 - https://github.com/hillerlin/bycms/issues/1
@@ -42342,6 +42346,8 @@ CVE-2020-22840 - http://packetstormsecurity.com/files/161362/b2evolution-CMS-6.1
 CVE-2020-22840 - https://www.exploit-db.com/exploits/49554
 CVE-2020-22841 - http://packetstormsecurity.com/files/161363/b2evolution-CMS-6.11.6-Cross-Site-Scripting.html
 CVE-2020-22841 - https://www.exploit-db.com/exploits/49551
+CVE-2020-22844 - https://github.com/colorlight/mikrotik_poc/blob/master/two_vulns.md
+CVE-2020-22845 - https://github.com/colorlight/mikrotik_poc/blob/master/two_vulns.md
 CVE-2020-22864 - https://github.com/froala/wysiwyg-editor/issues/3880
 CVE-2020-22864 - https://www.youtube.com/watch?v=WE3b1iSnWJY
 CVE-2020-22874 - https://github.com/pcmacdon/jsish/issues/5
@@ -42766,6 +42772,8 @@ CVE-2020-25461 - https://github.com/Moddable-OpenSource/moddable/issues/441
 CVE-2020-25462 - https://github.com/Moddable-OpenSource/moddable/issues/432
 CVE-2020-25463 - https://github.com/Moddable-OpenSource/moddable/issues/440
 CVE-2020-25464 - https://github.com/Moddable-OpenSource/moddable/issues/431
+CVE-2020-25465 - https://github.com/Moddable-OpenSource/moddable/issues/442
+CVE-2020-25466 - https://github.com/crmeb/CRMEB/issues/22
 CVE-2020-25467 - https://bugs.launchpad.net/ubuntu/+source/lrzip/+bug/1893641
 CVE-2020-25467 - https://github.com/ckolivas/lrzip/issues/163
 CVE-2020-25472 - https://news.websec.nl
@@ -47244,6 +47252,7 @@ CVE-2021-35337 - https://www.exploit-db.com/exploits/50050
 CVE-2021-35343 - https://medium.com/@cyberdivision/cve-2021-35343-c5c298cbb2d4
 CVE-2021-35344 - https://github.com/justdan96/tsMuxer/issues/432
 CVE-2021-35346 - https://github.com/justdan96/tsMuxer/issues/436
+CVE-2021-35380 - https://www.exploit-db.com/exploits/50638
 CVE-2021-35380 - https://www.swascan.com/solari-di-udine/
 CVE-2021-3539 - https://www.rapid7.com/blog/post/2021/07/27/multiple-open-source-web-app-vulnerabilities-fixed/
 CVE-2021-35392 - https://www.iot-inspector.com/blog/advisory-multiple-issues-realtek-sdk-iot-supply-chain
