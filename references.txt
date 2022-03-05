@@ -42874,6 +42874,7 @@ CVE-2020-25890 - https://vitor-santos.medium.com/xss-in-kyocera-printer-ecosys-m
 CVE-2020-25901 - http://packetstormsecurity.com/files/160631/Spiceworks-7.5-HTTP-Header-Injection.html
 CVE-2020-25905 - https://packetstormsecurity.com/files/159132/Mobile-Shop-System-1.0-SQL-Injection.html
 CVE-2020-25917 - http://packetstormsecurity.com/files/160652/Stratodesk-NoTouch-Center-Privilege-Escalation.html
+CVE-2020-25925 - https://ashketchum.medium.com/cross-site-scripting-xss-in-webmail-calender-in-icewarp-webclient-cve-2020-25925-67e1cbc40bd9
 CVE-2020-25926 - https://www.kb.cert.org/vuls/id/608209
 CVE-2020-25927 - https://www.kb.cert.org/vuls/id/608209
 CVE-2020-25928 - https://www.kb.cert.org/vuls/id/608209
@@ -43816,6 +43817,7 @@ CVE-2020-35850 - https://github.com/cockpit-project/cockpit/issues/15077
 CVE-2020-35850 - https://github.com/passtheticket/vulnerability-research/blob/main/cockpitProject/README.md
 CVE-2020-35852 - https://github.com/riteshgohil/My_CVE/blob/main/CVE-2020-35852.md
 CVE-2020-35853 - https://www.exploit-db.com/exploits/49339
+CVE-2020-35854 - https://riteshgohil-25.medium.com/textpattern-4-8-4-is-affected-by-cross-site-scripting-xss-in-the-body-parameter-b9a3d7da2a88
 CVE-2020-35930 - https://github.com/seopanel/Seo-Panel/issues/201
 CVE-2020-35944 - https://www.wordfence.com/blog/2020/05/high-severity-vulnerabilities-in-pagelayer-plugin-affect-over-200000-wordpress-sites/
 CVE-2020-35945 - https://www.wordfence.com/blog/2020/08/critical-vulnerability-exposes-over-700000-sites-using-divi-extra-and-divi-builder/
