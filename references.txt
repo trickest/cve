@@ -24252,6 +24252,30 @@ CVE-2016-5195 - https://www.exploit-db.com/exploits/40611/
 CVE-2016-5195 - https://www.exploit-db.com/exploits/40616/
 CVE-2016-5195 - https://www.exploit-db.com/exploits/40839/
 CVE-2016-5195 - https://www.exploit-db.com/exploits/40847/
+CVE-2016-5203 - http://www.securityfocus.com/bid/94633
+CVE-2016-5204 - http://www.securityfocus.com/bid/94633
+CVE-2016-5205 - http://www.securityfocus.com/bid/94633
+CVE-2016-5206 - http://www.securityfocus.com/bid/94633
+CVE-2016-5207 - http://www.securityfocus.com/bid/94633
+CVE-2016-5208 - http://www.securityfocus.com/bid/94633
+CVE-2016-5209 - http://www.securityfocus.com/bid/94633
+CVE-2016-5210 - http://www.securityfocus.com/bid/94633
+CVE-2016-5211 - http://www.securityfocus.com/bid/94633
+CVE-2016-5212 - http://www.securityfocus.com/bid/94633
+CVE-2016-5213 - http://www.securityfocus.com/bid/94633
+CVE-2016-5214 - http://www.securityfocus.com/bid/94633
+CVE-2016-5215 - http://www.securityfocus.com/bid/94633
+CVE-2016-5216 - http://www.securityfocus.com/bid/94633
+CVE-2016-5217 - http://www.securityfocus.com/bid/94633
+CVE-2016-5218 - http://www.securityfocus.com/bid/94633
+CVE-2016-5219 - http://www.securityfocus.com/bid/94633
+CVE-2016-5220 - http://www.securityfocus.com/bid/94633
+CVE-2016-5221 - http://www.securityfocus.com/bid/94633
+CVE-2016-5222 - http://www.securityfocus.com/bid/94633
+CVE-2016-5223 - http://www.securityfocus.com/bid/94633
+CVE-2016-5224 - http://www.securityfocus.com/bid/94633
+CVE-2016-5225 - http://www.securityfocus.com/bid/94633
+CVE-2016-5226 - http://www.securityfocus.com/bid/94633
 CVE-2016-5228 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2016-5327.php
 CVE-2016-5228 - https://cxsecurity.com/issue/WLB-2016050136
 CVE-2016-5228 - https://www.exploit-db.com/exploits/40649/
@@ -25208,7 +25232,10 @@ CVE-2016-9635 - https://bugzilla.gnome.org/show_bug.cgi?id=774834
 CVE-2016-9635 - https://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-advancing-exploitation.html
 CVE-2016-9636 - https://bugzilla.gnome.org/show_bug.cgi?id=774834
 CVE-2016-9636 - https://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-advancing-exploitation.html
+CVE-2016-9650 - http://www.securityfocus.com/bid/94633
+CVE-2016-9651 - http://www.securityfocus.com/bid/94633
 CVE-2016-9651 - https://www.exploit-db.com/exploits/42175/
+CVE-2016-9652 - http://www.securityfocus.com/bid/94633
 CVE-2016-9682 - https://www.exploit-db.com/exploits/42342/
 CVE-2016-9722 - https://www.exploit-db.com/exploits/45005/
 CVE-2016-9773 - http://www.openwall.com/lists/oss-security/2016/12/01/4
@@ -36043,6 +36070,7 @@ CVE-2019-11510 - http://packetstormsecurity.com/files/154176/Pulse-Secure-SSL-VP
 CVE-2019-11510 - http://packetstormsecurity.com/files/154231/Pulse-Secure-SSL-VPN-File-Disclosure-NSE.html
 CVE-2019-11510 - https://badpackets.net/over-14500-pulse-secure-vpn-endpoints-vulnerable-to-cve-2019-11510/
 CVE-2019-11510 - https://devco.re/blog/2019/09/02/attacking-ssl-vpn-part-3-the-golden-Pulse-Secure-ssl-vpn-rce-chain-with-Twitter-as-case-study/
+CVE-2019-11511 - https://zeroauth.ltd/blog/2019/05/26/cve-2019-11511-zoho-manageengine-adselfservice-plus-xss/
 CVE-2019-11515 - https://cisk123456.blogspot.com/2019/04/gila-cms-1101.html
 CVE-2019-11517 - https://seclists.org/bugtraq/2019/Jun/10
 CVE-2019-1152 - http://packetstormsecurity.com/files/154096/Microsoft-Font-Subsetting-DLL-MakeFormat12MergedGlyphList-Heap-Corruption.html
@@ -36258,6 +36286,7 @@ CVE-2019-12314 - https://github.com/JameelNabbo/exploits/blob/master/Maconomy%20
 CVE-2019-12323 - http://hyp3rlinx.altervista.org
 CVE-2019-12323 - http://seclists.org/fulldisclosure/2019/Jun/28
 CVE-2019-12331 - https://herolab.usd.de/security-advisories/usd-2019-0046/
+CVE-2019-12346 - https://zeroauth.ltd/blog/2019/05/27/cve-2019-12346-miniorange-saml-sp-single-sign-on-wordpress-plugin-xss/
 CVE-2019-12347 - http://packetstormsecurity.com/files/153112/pfSense-2.4.4-p3-Cross-Site-Scripting.html
 CVE-2019-12347 - https://redmine.pfsense.org/issues/9554#change-40729
 CVE-2019-12348 - https://github.com/cby234/zzcms/issues/1
@@ -36452,6 +36481,7 @@ CVE-2019-12921 - https://github.com/d0ge/data-processing/blob/master/CVE-2019-12
 CVE-2019-12922 - http://packetstormsecurity.com/files/154483/phpMyAdmin-4.9.0.1-Cross-Site-Request-Forgery.html
 CVE-2019-12922 - http://seclists.org/fulldisclosure/2019/Sep/23
 CVE-2019-12922 - https://www.exploit-db.com/exploits/47385
+CVE-2019-12934 - https://zeroauth.ltd/blog/2019/07/17/cve-2019-12934-wp-code-highlightjs-wordpress-plugin-csrf-leads-to-blog-wide-injected-script-html/
 CVE-2019-12935 - http://packetstormsecurity.com/files/153145/Shopware-5.5.6-Cross-Site-Scripting.html
 CVE-2019-12938 - https://bitbucket.org/analogic/mailserver/issues/665/posteio-logs-leak
 CVE-2019-12942 - https://www.kth.se/polopoly_fs/1.923565.1568098364!/Vulnerability_Report_TTLock_State_Consistency.pdf
@@ -36827,6 +36857,7 @@ CVE-2019-14205 - https://github.com/markgruffer/markgruffer.github.io/blob/maste
 CVE-2019-14205 - https://markgruffer.github.io/2019/07/19/adaptive-images-for-wordpress-0-6-66-lfi-rce-file-deletion.html
 CVE-2019-14206 - https://github.com/markgruffer/markgruffer.github.io/blob/master/_posts/2019-07-19-adaptive-images-for-wordpress-0-6-66-lfi-rce-file-deletion.markdown
 CVE-2019-14206 - https://markgruffer.github.io/2019/07/19/adaptive-images-for-wordpress-0-6-66-lfi-rce-file-deletion.html
+CVE-2019-14216 - https://zeroauth.ltd/blog/2019/08/09/cve-2019-14216-svg-vector-icon-plugin-wordpress-plugin-vulnerable-to-csrf-and-arbitrary-file-upload-leading-to-remote-code-execution/
 CVE-2019-14221 - https://github.com/cccaaasser/1CRM-CVE/blob/master/CVE-2019-14221.md
 CVE-2019-14221 - https://www.exploit-db.com/exploits/47206
 CVE-2019-14225 - http://packetstormsecurity.com/files/154826/Open-Xchange-OX-App-Suite-SSRF-XSS-Information-Disclosure-Access-Controls.html
@@ -37161,6 +37192,7 @@ CVE-2019-15123 - https://www.gosecure.net/blog/2020/06/11/vera-vulnerable-to-aut
 CVE-2019-15126 - http://packetstormsecurity.com/files/156809/Broadcom-Wi-Fi-KR00K-Proof-Of-Concept.html
 CVE-2019-15126 - http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2020-003.txt
 CVE-2019-15126 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-wi-fi-info-disclosure
+CVE-2019-15128 - https://zeroauth.ltd/blog/2019/08/23/cve-2019-15128-if-svnadmin-through-1-6-2-allows-svnadmin-usercreate-php-csrf-to-create-a-user/
 CVE-2019-15129 - https://gist.github.com/izadgot/38a7dd553f8024ed3154134dae0414fd
 CVE-2019-15130 - https://gist.github.com/izadgot/38a7dd553f8024ed3154134dae0414fd
 CVE-2019-15140 - https://github.com/ImageMagick/ImageMagick/issues/1554
@@ -38414,6 +38446,7 @@ CVE-2019-20099 - https://www.tenable.com/security/research/tra-2020-05
 CVE-2019-20100 - https://ecosystem.atlassian.net/browse/APL-1390
 CVE-2019-20100 - https://www.tenable.com/security/research/tra-2020-06
 CVE-2019-20101 - https://ecosystem.atlassian.net/browse/AW-20
+CVE-2019-20104 - https://zeroauth.ltd/blog/2020/02/07/cve-2019-20104-atlassian-crowd-openid-client-vulnerable-to-remote-dos-via-xml-entity-expansion/
 CVE-2019-20105 - https://ecosystem.atlassian.net/browse/APL-1391
 CVE-2019-20139 - https://code610.blogspot.com/2019/12/multiple-xss-bugs-in-nagios-569.html
 CVE-2019-20140 - https://github.com/saitoha/libsixel/issues/122
@@ -41462,6 +41495,7 @@ CVE-2020-15050 - http://packetstormsecurity.com/files/158576/Bio-Star-2.8.2-Loca
 CVE-2020-15069 - https://community.sophos.com/b/security-blog/posts/advisory-buffer-overflow-vulnerability-in-user-portal
 CVE-2020-15117 - https://github.com/symless/synergy-core/security/advisories/GHSA-chfm-333q-gfpp
 CVE-2020-15149 - http://packetstormsecurity.com/files/159560/NodeBB-Forum-1.14.2-Account-Takeover.html
+CVE-2020-15149 - https://zeroauth.ltd/blog/2020/08/20/proof-of-concept-exploit-for-cve-2020-15149-nodebb-arbitrary-user-password-change/
 CVE-2020-15160 - http://packetstormsecurity.com/files/162140/PrestaShop-1.7.6.7-SQL-Injection.html
 CVE-2020-15180 - https://www.percona.com/blog/2020/10/30/cve-2020-15180-affects-percona-xtradb-cluster/
 CVE-2020-15182 - https://youtu.be/ffvKH3gwyRE
@@ -41751,6 +41785,7 @@ CVE-2020-16846 - http://packetstormsecurity.com/files/160039/SaltStack-Salt-REST
 CVE-2020-16849 - https://blog.scadafence.com/vulnerability-report-cve-2020-16849
 CVE-2020-16850 - https://blog.scadafence.com/vulnerability-in-mitsubishi-electric-melsec-iq-r-series
 CVE-2020-16875 - http://packetstormsecurity.com/files/159210/Microsoft-Exchange-Server-DlpUtils-AddTenantDlpPolicy-Remote-Code-Execution.html
+CVE-2020-1693 - https://zeroauth.ltd/blog/2020/02/18/proof-of-concept-exploit-for-cve-2020-1693-spacewalk/
 CVE-2020-16952 - http://packetstormsecurity.com/files/159612/Microsoft-SharePoint-SSI-ViewState-Remote-Code-Execution.html
 CVE-2020-16984 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2020-1128
 CVE-2020-16985 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2020-1130
@@ -42306,6 +42341,7 @@ CVE-2020-22056 - https://trac.ffmpeg.org/ticket/8304
 CVE-2020-22079 - https://github.com/Lyc-heng/routers/blob/main/routers/stack1.md
 CVE-2020-22122 - https://github.com/876054426/vul/blob/master/ljcms_sql.md
 CVE-2020-22148 - https://github.com/Piwigo/Piwigo/issues/1157
+CVE-2020-22150 - https://github.com/Piwigo/Piwigo/issues/1158
 CVE-2020-22158 - https://sku11army.blogspot.com/2020/02/ericsson-multiple-stored-reflected-xss.html
 CVE-2020-22198 - http://www.hackdig.com/?02/hack-8391.htm
 CVE-2020-22198 - https://github.com/blindkey/DedeCMSv5/issues/1
@@ -42352,6 +42388,7 @@ CVE-2020-22864 - https://github.com/froala/wysiwyg-editor/issues/3880
 CVE-2020-22864 - https://www.youtube.com/watch?v=WE3b1iSnWJY
 CVE-2020-22874 - https://github.com/pcmacdon/jsish/issues/5
 CVE-2020-22875 - https://github.com/pcmacdon/jsish/issues/10
+CVE-2020-22876 - https://github.com/ldarren/QuickJS/issues/11
 CVE-2020-22882 - https://github.com/Moddable-OpenSource/moddable/issues/351
 CVE-2020-22884 - https://github.com/espruino/Espruino/issues/1799
 CVE-2020-22885 - https://github.com/ccxvii/mujs/issues/133
@@ -43321,6 +43358,7 @@ CVE-2020-28440 - https://snyk.io/vuln/SNYK-JS-CORENLPJSINTERFACE-1050435
 CVE-2020-28442 - https://snyk.io/vuln/SNYK-JAVA-ORGWEBJARSBOWER-1050978
 CVE-2020-28442 - https://snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-1050979
 CVE-2020-28442 - https://snyk.io/vuln/SNYK-JS-JSDATA-1023655
+CVE-2020-28448 - https://github.com/evangelion1204/multi-ini/pull/37
 CVE-2020-28448 - https://snyk.io/vuln/SNYK-JS-MULTIINI-1048969
 CVE-2020-28449 - https://snyk.io/vuln/SNYK-JS-DECAL-1051007
 CVE-2020-28450 - https://snyk.io/vuln/SNYK-JS-DECAL-1051028
@@ -43469,6 +43507,7 @@ CVE-2020-28974 - http://www.openwall.com/lists/oss-security/2020/11/25/1
 CVE-2020-28974 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.9.7
 CVE-2020-28974 - https://seclists.org/oss-sec/2020/q4/104
 CVE-2020-28975 - http://packetstormsecurity.com/files/160281/SciKit-Learn-0.23.2-Denial-Of-Service.html
+CVE-2020-28975 - https://github.com/scikit-learn/scikit-learn/issues/18891
 CVE-2020-28976 - http://packetstormsecurity.com/files/160358/WordPress-Canto-1.3.0-Server-Side-Request-Forgery.html
 CVE-2020-28977 - http://packetstormsecurity.com/files/160358/WordPress-Canto-1.3.0-Server-Side-Request-Forgery.html
 CVE-2020-28978 - http://packetstormsecurity.com/files/160358/WordPress-Canto-1.3.0-Server-Side-Request-Forgery.html
@@ -44307,6 +44346,9 @@ CVE-2020-6844 - https://www.exploit-db.com/exploits/47960
 CVE-2020-6845 - https://websec.nl/news.php
 CVE-2020-6845 - https://www.exploit-db.com/exploits/47960
 CVE-2020-6847 - https://gist.github.com/Marshall-Hallenbeck/bf6a4a4f408bb7a5e0a47cb39dc1dbbe
+CVE-2020-6849 - https://zeroauth.ltd/blog/
+CVE-2020-6850 - https://zeroauth.ltd/blog/
+CVE-2020-6850 - https://zeroauth.ltd/blog/2020/01/28/cve-2020-6850-miniorange-saml-wp-plugin-before-4-8-84-is-vulnerable-to-xss-via-a-specially-crafted-saml-xml-response/
 CVE-2020-6851 - https://github.com/uclouvain/openjpeg/issues/1228
 CVE-2020-6851 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2020-6857 - http://hyp3rlinx.altervista.org
@@ -44358,6 +44400,7 @@ CVE-2020-7213 - http://almorabea.net/en/2020/01/19/write-up-for-the-parallel-vul
 CVE-2020-7229 - https://github.com/niteosoft/simplejobscript/issues/7
 CVE-2020-7234 - https://sku11army.blogspot.com/2020/01/ruckus-wireless-authenticated-stored.html
 CVE-2020-7241 - https://github.com/V1n1v131r4/Exploiting-WP-Database-Backup-WordPress-Plugin/blob/master/README.md
+CVE-2020-7241 - https://zeroauth.ltd/blog/2020/01/21/analysis-on-cve-2020-7241-misrepresenting-a-security-vulnerability/
 CVE-2020-7246 - http://packetstormsecurity.com/files/156063/qdPM-9.1-Remote-Code-Execution.html
 CVE-2020-7246 - http://packetstormsecurity.com/files/156571/qdPM-Remote-Code-Execution.html
 CVE-2020-7247 - http://packetstormsecurity.com/files/156137/OpenBSD-OpenSMTPD-Privilege-Escalation-Code-Execution.html
@@ -44851,6 +44894,7 @@ CVE-2020-9000 - https://websec.nl/blog/
 CVE-2020-9000 - https://websec.nl/blog/6127847280e759c7d31286d0/cve%20report%20august%202021/
 CVE-2020-9002 - https://websec.nl/blog/
 CVE-2020-9002 - https://websec.nl/blog/6127847280e759c7d31286d0/cve%20report%20august%202021/
+CVE-2020-9006 - https://zeroauth.ltd/blog/2020/02/16/cve-2020-9006-popup-builder-wp-plugin-sql-injection-via-php-deserialization/
 CVE-2020-9013 - https://www.exploit-db.com/docs/48175
 CVE-2020-9014 - https://github.com/FULLSHADE/Kernel-exploits
 CVE-2020-9014 - https://github.com/FULLSHADE/Kernel-exploits/tree/master/EMP_NSAU.sys
