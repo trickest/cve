@@ -28625,10 +28625,13 @@ CVE-2017-3599 - https://www.exploit-db.com/exploits/41954/
 CVE-2017-3599 - https://www.secforce.com/blog/2017/04/cve-2017-3599-pre-auth-mysql-remote-dos/
 CVE-2017-3622 - https://www.exploit-db.com/exploits/45479/
 CVE-2017-3623 - http://packetstormsecurity.com/files/155876/EBBISLAND-EBBSHAVE-6100-09-04-1441-Remote-Buffer-Overflow.html
+CVE-2017-3629 - http://www.oracle.com/technetwork/security-advisory/alert-cve-2017-3629-3757403.html
 CVE-2017-3629 - https://www.exploit-db.com/exploits/42270/
 CVE-2017-3629 - https://www.exploit-db.com/exploits/45625/
+CVE-2017-3630 - http://www.oracle.com/technetwork/security-advisory/alert-cve-2017-3629-3757403.html
 CVE-2017-3630 - https://www.exploit-db.com/exploits/42270/
 CVE-2017-3630 - https://www.exploit-db.com/exploits/45625/
+CVE-2017-3631 - http://www.oracle.com/technetwork/security-advisory/alert-cve-2017-3629-3757403.html
 CVE-2017-3631 - https://www.exploit-db.com/exploits/42270/
 CVE-2017-3631 - https://www.exploit-db.com/exploits/45625/
 CVE-2017-3632 - http://www.oracle.com/technetwork/security-advisory/cpujul2017-3236622.html
@@ -40163,8 +40166,11 @@ CVE-2020-10543 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-10567 - https://github.com/trippo/ResponsiveFilemanager/issues/600
 CVE-2020-10568 - https://medium.com/@arall/sitepress-multilingual-cms-wplugin-wpml-4-3-7-b-2-9c9486c13577
 CVE-2020-10569 - http://packetstormsecurity.com/files/157314/Sysaid-20.1.11-b26-Remote-Command-Execution.html
+CVE-2020-10570 - https://github.com/VijayT007/Vulnerability-Database/blob/master/Telegram:CVE-2020-10570
+CVE-2020-10591 - https://github.com/walmartlabs/concord/issues/22
 CVE-2020-10596 - http://packetstormsecurity.com/files/157908/OpenCart-3.0.3.2-Cross-Site-Scripting.html
 CVE-2020-10644 - http://packetstormsecurity.com/files/158226/Inductive-Automation-Ignition-Remote-Code-Execution.html
+CVE-2020-10665 - https://github.com/spaceraccoon/CVE-2020-10665
 CVE-2020-10666 - https://wiki.freepbx.org/display/FOP/List+of+Securities+Vulnerabilities
 CVE-2020-10667 - http://packetstormsecurity.com/files/156833/Oce-Colorwave-500-CSRF-XSS-Authentication-Bypass.html
 CVE-2020-10668 - http://packetstormsecurity.com/files/156833/Oce-Colorwave-500-CSRF-XSS-Authentication-Bypass.html
@@ -40183,6 +40189,7 @@ CVE-2020-10723 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-10724 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-10725 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-10726 - https://www.oracle.com/security-alerts/cpujan2021.html
+CVE-2020-10759 - https://github.com/justinsteven/advisories/blob/master/2020_fwupd_dangling_s3_bucket_and_CVE-2020-10759_signature_verification_bypass.md
 CVE-2020-10770 - http://packetstormsecurity.com/files/164499/Keycloak-12.0.1-Server-Side-Request-Forgery.html
 CVE-2020-10786 - https://gitlab.com/snippets/1954764
 CVE-2020-10787 - https://gitlab.com/snippets/1954764
@@ -40190,9 +40197,11 @@ CVE-2020-10807 - https://github.com/mitre/caldera/issues/1405
 CVE-2020-10808 - http://packetstormsecurity.com/files/157111/Vesta-Control-Panel-Authenticated-Remote-Code-Execution.html
 CVE-2020-10808 - http://packetstormsecurity.com/files/157219/Vesta-Control-Panel-Authenticated-Remote-Code-Execution.html
 CVE-2020-10808 - https://pentest.blog/vesta-control-panel-second-order-remote-code-execution-0day-step-by-step-analysis/
+CVE-2020-10809 - https://github.com/Loginsoft-Research/hdf5-reports/tree/master/Vuln_1
 CVE-2020-10809 - https://research.loginsoft.com/bugs/heap-overflow-in-decompress-c-hdf5-1-13-0/
 CVE-2020-10810 - https://github.com/Loginsoft-Research/hdf5-reports/tree/master/Vuln_3
 CVE-2020-10810 - https://research.loginsoft.com/bugs/null-pointer-dereference-in-h5ac-c-hdf5-1-13-0/
+CVE-2020-10811 - https://github.com/Loginsoft-Research/hdf5-reports/tree/master/Vuln_2
 CVE-2020-10811 - https://research.loginsoft.com/bugs/heap-buffer-overflow-in-h5olayout-c-hdf5-1-13-0/
 CVE-2020-10812 - https://github.com/Loginsoft-Research/hdf5-reports/tree/master/Vuln_4
 CVE-2020-10812 - https://research.loginsoft.com/bugs/null-pointer-dereference-in-h5fquery-c-hdf5-1-13-0/
@@ -40748,6 +40757,7 @@ CVE-2020-12049 - https://securitylab.github.com/advisories/GHSL-2020-057-DBus-Do
 CVE-2020-12050 - https://bugzilla.redhat.com/show_bug.cgi?id=1825762
 CVE-2020-12050 - https://sysdream.com/news/lab/
 CVE-2020-12050 - https://sysdream.com/news/lab/2020-05-25-cve-2020-12050-fedora-red-hat-centos-local-privilege-escalation-through-a-race-condition-in-the-sqliteodbc-installer-script/
+CVE-2020-12052 - https://community.grafana.com/t/release-notes-v6-7-x/27119
 CVE-2020-12054 - https://cxsecurity.com/issue/WLB-2020040144
 CVE-2020-1206 - http://packetstormsecurity.com/files/158053/SMBleed-Uninitialized-Kernel-Memory-Read-Proof-Of-Concept.html
 CVE-2020-12061 - https://eprint.iacr.org/2021/640.pdf
@@ -40778,6 +40788,7 @@ CVE-2020-12133 - http://packetstormsecurity.com/files/157383/Furukawa-Electric-C
 CVE-2020-12134 - https://www.zeroscience.mk/en/vulnerabilities/ZSL-2020-5562.php
 CVE-2020-12138 - https://eclypsium.com/2019/11/12/mother-of-all-drivers/
 CVE-2020-12138 - https://h0mbre.github.io/atillk64_exploit/
+CVE-2020-12245 - https://community.grafana.com/t/release-notes-v6-7-x/27119
 CVE-2020-12245 - https://github.com/grafana/grafana/blob/master/CHANGELOG.md#673-2020-04-23
 CVE-2020-12245 - https://github.com/grafana/grafana/pull/23816
 CVE-2020-12246 - https://medium.com/@Pavel.Step/security-analysis-of-the-smart-box-router-932f86dc8a9e
@@ -40974,6 +40985,7 @@ CVE-2020-1337 - http://packetstormsecurity.com/files/160028/Microsoft-Windows-Lo
 CVE-2020-1337 - http://packetstormsecurity.com/files/160993/Microsoft-Spooler-Local-Privilege-Elevation.html
 CVE-2020-13376 - https://sidechannel.tempestsi.com/path-traversal-vulnerability-in-securenvoy-impacts-on-remote-command-execution-through-file-upload-ec2e731bd50a
 CVE-2020-13379 - http://packetstormsecurity.com/files/158320/Grafana-7.0.1-Denial-Of-Service.html
+CVE-2020-13379 - https://community.grafana.com/t/release-notes-v6-7-x/27119
 CVE-2020-13379 - https://mostwanted002.cf/post/grafanados/
 CVE-2020-13380 - https://packetstormsecurity.com/files/158257/openSIS-7.4-SQL-Injection.html
 CVE-2020-13381 - http://packetstormsecurity.com/files/158331/openSIS-7.4-Unauthenticated-PHP-Code-Execution.html
@@ -41575,6 +41587,7 @@ CVE-2020-15598 - http://seclists.org/fulldisclosure/2020/Sep/32
 CVE-2020-15598 - https://coreruleset.org/20200914/cve-2020-15598/
 CVE-2020-15599 - https://www.exploit-db.com/exploits/48626
 CVE-2020-15600 - http://packetstormsecurity.com/files/158455/CMSUno-1.6-Cross-Site-Request-Forgery.html
+CVE-2020-15600 - https://github.com/boiteasite/cmsuno/issues/15
 CVE-2020-15643 - https://www.tenable.com/security/research/tra-2020-56
 CVE-2020-15644 - https://www.tenable.com/security/research/tra-2020-56
 CVE-2020-15645 - https://www.tenable.com/security/research/tra-2020-56
@@ -46343,6 +46356,7 @@ CVE-2021-27933 - http://seclists.org/fulldisclosure/2021/Apr/61
 CVE-2021-27946 - http://packetstormsecurity.com/files/161918/MyBB-1.8.25-SQL-Injection.html
 CVE-2021-27956 - https://raxis.com/blog/cve-2021-27956-manage-engine-xss
 CVE-2021-27956 - https://www.manageengine.com
+CVE-2021-27962 - https://community.grafana.com/t/release-notes-v6-7-x/27119
 CVE-2021-27964 - http://packetstormsecurity.com/files/161793/SonLogger-4.2.3.3-Shell-Upload.html
 CVE-2021-27969 - https://www.exploit-db.com/exploits/49670
 CVE-2021-27971 - http://packetstormsecurity.com/files/165690/Alps-Alpine-Touchpad-Driver-DLL-Injection.html
@@ -46383,6 +46397,9 @@ CVE-2021-28139 - https://dl.packetstormsecurity.net/papers/general/braktooth.pdf
 CVE-2021-28142 - http://packetstormsecurity.com/files/162182/CITSmart-ITSM-9.1.2.27-SQL-Injection.html
 CVE-2021-28144 - http://packetstormsecurity.com/files/161757/D-Link-DIR-3060-1.11b04-Command-Injection.html
 CVE-2021-28144 - http://seclists.org/fulldisclosure/2021/Mar/23
+CVE-2021-28146 - https://community.grafana.com/t/release-notes-v6-7-x/27119
+CVE-2021-28147 - https://community.grafana.com/t/release-notes-v6-7-x/27119
+CVE-2021-28148 - https://community.grafana.com/t/release-notes-v6-7-x/27119
 CVE-2021-28153 - https://gitlab.gnome.org/GNOME/glib/-/issues/2325
 CVE-2021-28155 - https://dl.packetstormsecurity.net/papers/general/braktooth.pdf
 CVE-2021-28160 - https://blog-ssh3ll.medium.com/acexy-wireless-n-wifi-repeater-vulnerabilities-8bd5d14a2990
@@ -48795,3 +48812,5 @@ CVE-2022-25418 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/2
 CVE-2022-26159 - https://podalirius.net/en/cves/2022-26159/
 CVE-2022-26181 - https://github.com/dropbox/lepton/issues/154
 CVE-2022-26332 - https://www.exploit-db.com/exploits/50788
+CVE-2022-26495 - https://lists.debian.org/nbd/2022/01/msg00037.html
+CVE-2022-26496 - https://lists.debian.org/nbd/2022/01/msg00037.html

@@ -22466,6 +22466,7 @@ CVE-2018-9361 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-9361 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-9375 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-9411 - https://github.com/hectorgie/PoC-in-GitHub
+CVE-2018-9442 - https://github.com/codexlynx/hardware-attacks-state-of-the-art
 CVE-2018-9445 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-9445 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-9468 - https://github.com/hectorgie/PoC-in-GitHub
@@ -27714,6 +27715,7 @@ CVE-2019-17621 - https://github.com/firmianay/IoT-vulhub
 CVE-2019-17621 - https://github.com/hasee2018/Penetration_Testing_POC
 CVE-2019-17621 - https://github.com/huike007/penetration_poc
 CVE-2019-17621 - https://github.com/huike007/poc
+CVE-2019-17621 - https://github.com/liyansong2018/firmware-analysis-plus
 CVE-2019-17621 - https://github.com/s1kr10s/D-Link-DIR-859-RCE
 CVE-2019-17621 - https://github.com/secenv/GoInputProxy
 CVE-2019-17621 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
@@ -42107,6 +42109,7 @@ CVE-2021-27963 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-27964 - https://github.com/erberkan/SonLogger-vulns
 CVE-2021-27965 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-27965 - https://github.com/Crystalware/CVE-2021-27965
+CVE-2021-27965 - https://github.com/Jeromeyoung/CVE-2021-27965
 CVE-2021-27965 - https://github.com/mathisvickie/CVE-2021-27965
 CVE-2021-27965 - https://github.com/mathisvickie/KMAC
 CVE-2021-27965 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -42295,6 +42298,7 @@ CVE-2021-29267 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-29280 - https://github.com/deadlysnowman3308/upgraded-ARP-Poisoning
 CVE-2021-29302 - https://github.com/EdgeSecurityTeam/Vulnerability
 CVE-2021-29302 - https://github.com/liyansong2018/CVE
+CVE-2021-29302 - https://github.com/liyansong2018/firmware-analysis-plus
 CVE-2021-29302 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-29337 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-29337 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -42567,6 +42571,7 @@ CVE-2021-30740 - https://github.com/gfam2801/fugu14-online
 CVE-2021-30740 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2021-30740 - https://github.com/nanerasingh/fugu14
 CVE-2021-30747 - https://github.com/Spacial/awesome-csirt
+CVE-2021-30747 - https://github.com/codexlynx/hardware-attacks-state-of-the-art
 CVE-2021-30747 - https://github.com/joydo/CVE-Writeups
 CVE-2021-30768 - https://github.com/LinusHenze/Fugu14
 CVE-2021-30768 - https://github.com/evilcorp1311/kkkk
@@ -43198,6 +43203,7 @@ CVE-2021-33045 - https://github.com/mcw0/PoC
 CVE-2021-33045 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-33045 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-33055 - https://github.com/STMCyber/CVEs
+CVE-2021-3306 - https://github.com/CarlosG13/CVE-2021-33026
 CVE-2021-3310 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3310 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-3310 - https://github.com/piffd0s/CVE-2021-3310
@@ -43421,6 +43427,8 @@ CVE-2021-3418 - https://github.com/neverware/shim-review
 CVE-2021-3418 - https://github.com/puzzleos/uefi-shim_review
 CVE-2021-3418 - https://github.com/rhboot/shim-review
 CVE-2021-3418 - https://github.com/vathpela/shim-review
+CVE-2021-34202 - https://github.com/liyansong2018/firmware-analysis-plus
+CVE-2021-34203 - https://github.com/liyansong2018/firmware-analysis-plus
 CVE-2021-34254 - https://github.com/afinepl/research
 CVE-2021-34270 - https://github.com/MRdoulestar/MRdoulestar
 CVE-2021-34270 - https://github.com/MRdoulestar/SC-RCVD
@@ -44434,7 +44442,6 @@ CVE-2021-40353 - https://github.com/5qu1n7/CVE-2021-40353
 CVE-2021-40353 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-40373 - https://github.com/ProjectOnez/ProjectOnez
 CVE-2021-40373 - https://github.com/maikroservice/CVE-2021-40373
-CVE-2021-40374 - https://github.com/DCKento/CVE-2021-40374
 CVE-2021-40375 - https://github.com/DCKento/CVE-2021-40375
 CVE-2021-4043 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-4043 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -45145,6 +45152,8 @@ CVE-2021-42574 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-42574 - https://github.com/pierDipi/unicode-control-characters-action
 CVE-2021-42574 - https://github.com/shiomiyan/CVE-2021-42574
 CVE-2021-42574 - https://github.com/waseeld/CVE-2021-42574
+CVE-2021-42592 - https://github.com/Zeyad-Azima/Zeyad-Azima
+CVE-2021-42593 - https://github.com/Zeyad-Azima/Zeyad-Azima
 CVE-2021-42662 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42662 - https://github.com/TheHackingRabbi/CVE-2021-42662
 CVE-2021-42662 - https://github.com/TheHackingRabbi/CVE-2021-42663
@@ -45701,6 +45710,7 @@ CVE-2021-44228 - https://github.com/takito1812/log4j-detect
 CVE-2021-44228 - https://github.com/tcoliver/IBM-SPSS-log4j-fixes
 CVE-2021-44228 - https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832
 CVE-2021-44228 - https://github.com/thl-cmk/CVE-log4j-check_mk-plugin
+CVE-2021-44228 - https://github.com/thomaspatzke/Log4Pot
 CVE-2021-44228 - https://github.com/tivuhh/log4noshell
 CVE-2021-44228 - https://github.com/tmax-cloud/install-EFK
 CVE-2021-44228 - https://github.com/toramanemre/log4j-rce-detect-waf-bypass
@@ -46134,6 +46144,7 @@ CVE-2022-0435 - https://github.com/bollwarm/SecToolSet
 CVE-2022-0476 - https://github.com/wtdcode/wtdcode
 CVE-2022-0492 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0492 - https://github.com/PaloAltoNetworks/can-ctr-escape-cve-2022-0492
+CVE-2022-0492 - https://github.com/SofianeHamlaoui/CVE-2022-0492-Checker
 CVE-2022-0492 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0509 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2022-0513 - https://github.com/tanjiti/sec_profile
@@ -46167,6 +46178,7 @@ CVE-2022-0768 - https://github.com/416e6e61/My-CVEs
 CVE-2022-0824 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0824 - https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell
 CVE-2022-0824 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-0829 - https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell
 CVE-2022-1000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20019 - https://github.com/p1ay8y3ar/cve_monitor
@@ -46294,6 +46306,7 @@ CVE-2022-21999 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-21999 - https://github.com/Awrrays/Pentest-Tips
 CVE-2022-21999 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-21999 - https://github.com/binganao/vulns-2022
+CVE-2022-21999 - https://github.com/duytruongpham/duytruongpham
 CVE-2022-21999 - https://github.com/ly4k/SpoolFool
 CVE-2022-21999 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21999 - https://github.com/sarutobi12/sarutobi12
