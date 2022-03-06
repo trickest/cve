@@ -24881,6 +24881,9 @@ CVE-2016-7795 - http://www.openwall.com/lists/oss-security/2016/09/30/1
 CVE-2016-7795 - https://github.com/systemd/systemd/issues/4234
 CVE-2016-7796 - http://www.openwall.com/lists/oss-security/2016/09/30/1
 CVE-2016-7796 - https://github.com/systemd/systemd/issues/4234#issuecomment-250441246
+CVE-2016-7809 - http://www.securityfocus.com/bid/94248
+CVE-2016-7810 - http://www.securityfocus.com/bid/94248
+CVE-2016-7811 - http://www.securityfocus.com/bid/94248
 CVE-2016-7851 - https://www.exploit-db.com/exploits/40742/
 CVE-2016-7866 - http://hyp3rlinx.altervista.org/advisories/ADOBE-ANIMATE-MEMORY-CORRUPTION-VULNERABILITY.txt
 CVE-2016-7866 - http://packetstormsecurity.com/files/140164/Adobe-Animate-15.2.1.95-Buffer-Overflow.html
@@ -38421,6 +38424,7 @@ CVE-2019-20049 - https://www.exploit-db.com/exploits/47761
 CVE-2019-20051 - https://github.com/upx/upx/issues/313
 CVE-2019-20053 - https://github.com/upx/upx/issues/314
 CVE-2019-20055 - https://code610.blogspot.com/2019/12/testing-ssrf-in-liquifireos.html
+CVE-2019-20057 - https://github.com/ProxymanApp/Proxyman/issues/364
 CVE-2019-20063 - https://github.com/hoene/libmysofa/issues/67
 CVE-2019-20071 - https://drive.google.com/open?id=1p4HJ5C20TqY0rVNffdD5Zd7S_bGvDhnk
 CVE-2019-20072 - https://drive.google.com/open?id=1IGRYVci8fxic0jJJb-pAfAK1kJ4V2yGM
@@ -38594,6 +38598,7 @@ CVE-2019-20799 - https://github.com/cherokee/webserver/issues/1222
 CVE-2019-20799 - https://github.com/cherokee/webserver/issues/1225
 CVE-2019-20799 - https://github.com/cherokee/webserver/issues/1226
 CVE-2019-20799 - https://logicaltrust.net/blog/2019/11/cherokee.html
+CVE-2019-20800 - https://github.com/cherokee/webserver/issues/1224
 CVE-2019-20800 - https://logicaltrust.net/blog/2019/11/cherokee.html
 CVE-2019-20801 - https://logicaltrust.net/blog/2019/12/documents.html#authorization
 CVE-2019-20802 - https://logicaltrust.net/blog/2019/12/documents.html#xss
@@ -40163,6 +40168,7 @@ CVE-2020-10531 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-10532 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2020-001/-credential-disclosure-in-watchguard-fireware-ad-helper-component
 CVE-2020-1054 - http://packetstormsecurity.com/files/160515/Microsoft-Windows-DrawIconEx-Local-Privilege-Escalation.html
 CVE-2020-10543 - https://www.oracle.com/security-alerts/cpujan2021.html
+CVE-2020-10564 - https://github.com/beerpwn/CVE/tree/master/WP-File-Upload_disclosure_report/
 CVE-2020-10567 - https://github.com/trippo/ResponsiveFilemanager/issues/600
 CVE-2020-10568 - https://medium.com/@arall/sitepress-multilingual-cms-wplugin-wpml-4-3-7-b-2-9c9486c13577
 CVE-2020-10569 - http://packetstormsecurity.com/files/157314/Sysaid-20.1.11-b26-Remote-Command-Execution.html
@@ -42694,6 +42700,7 @@ CVE-2020-24740 - https://github.com/pluck-cms/pluck/issues/81
 CVE-2020-24750 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-24753 - https://warcollar.com/cve-2020-24753.html
 CVE-2020-24765 - https://github.com/trump88/CVE-2020-24765
+CVE-2020-24786 - https://medium.com/@frycos/another-zoho-manageengine-story-7b472f1515f5
 CVE-2020-24791 - https://github.com/daylightstudio/FUEL-CMS/issues/561
 CVE-2020-24791 - https://github.com/leerina/vulnerability/blob/master/Fuel%20CMS%201.4.8%20SQLi%20vulnerability.txt
 CVE-2020-24791 - https://www.exploit-db.com/exploits/48778
