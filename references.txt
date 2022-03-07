@@ -14839,6 +14839,7 @@ CVE-2013-1979 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1979 - http://www.openwall.com/lists/oss-security/2013/04/29/1
 CVE-2013-20002 - https://en.0day.today/exploit/22090
 CVE-2013-20002 - https://packetstormsecurity.com/files/124149/WordPress-Elemin-Shell-Upload.html
+CVE-2013-20003 - https://orangecyberdefense.com/global/blog/sensepost/blackhat-conference-z-wave-security/
 CVE-2013-20003 - https://sensepost.com/cms/resources/conferences/2013/bh_zwave/Security%20Evaluation%20of%20Z-Wave_WP.pdf
 CVE-2013-2006 - https://bugs.launchpad.net/ossn/+bug/1168252
 CVE-2013-2010 - http://packetstormsecurity.com/files/130999/WordPress-W3-Total-Cache-PHP-Code-Execution.html
@@ -29330,6 +29331,7 @@ CVE-2017-7310 - https://www.exploit-db.com/exploits/44157/
 CVE-2017-7315 - http://seclists.org/fulldisclosure/2017/Jun/45
 CVE-2017-7316 - http://seclists.org/fulldisclosure/2017/Jun/45
 CVE-2017-7317 - http://seclists.org/fulldisclosure/2017/Jun/45
+CVE-2017-7325 - https://browser.yandex.com/security/changelogs/fixed-in-version-16-9
 CVE-2017-7351 - https://labs.nettitude.com/blog/cve-2017-7351-redcap-7-0-0-7-0-10-sql-injection/
 CVE-2017-7358 - https://www.exploit-db.com/exploits/41923/
 CVE-2017-7378 - https://blogs.gentoo.org/ago/2017/03/31/podofo-heap-based-buffer-overflow-in-podofopdfpainterexpandtabs-pdfpainter-cpp
@@ -36213,6 +36215,17 @@ CVE-2019-11841 - https://sec-consult.com/
 CVE-2019-11844 - http://packetstormsecurity.com/files/152790/RICOH-SP-4520DN-Printer-HTML-Injection.html
 CVE-2019-11845 - http://packetstormsecurity.com/files/152789/RICOH-SP-4510DN-Printer-HTML-Injection.html
 CVE-2019-11846 - http://packetstormsecurity.com/files/152788/dotCMS-5.1.1-HTML-Injection.html
+CVE-2019-11847 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11848 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11849 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11850 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11852 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11853 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11855 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11856 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11857 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11858 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
+CVE-2019-11859 - https://source.sierrawireless.com/resources/security-bulletins/sierra-wireless-technical-bulletin---swi-psa-2020-004/
 CVE-2019-11869 - https://www.wordfence.com/blog/2019/04/yuzo-related-posts-zero-day-vulnerability-exploited-in-the-wild/
 CVE-2019-11873 - https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/advisories-504842
 CVE-2019-11875 - http://packetstormsecurity.com/files/153007/Blue-Prism-Robotic-Process-Automation-RPA-Privilege-Escalation.html
