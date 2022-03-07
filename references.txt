@@ -14833,6 +14833,7 @@ CVE-2013-1959 - http://www.openwall.com/lists/oss-security/2013/04/29/1
 CVE-2013-1965 - http://struts.apache.org/development/2.x/docs/s2-012.html
 CVE-2013-1966 - http://struts.apache.org/development/2.x/docs/s2-013.html
 CVE-2013-1966 - https://cwiki.apache.org/confluence/display/WW/S2-013
+CVE-2013-1967 - https://github.com/johndyer/mediaelement/commit/9223dc6bfc50251a9a3cba0210e71be80fc38ecd
 CVE-2013-1977 - https://bugs.launchpad.net/devstack/+bug/1168252
 CVE-2013-1979 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-1979 - http://www.openwall.com/lists/oss-security/2013/04/29/1
@@ -34186,12 +34187,19 @@ CVE-2018-5359 - http://packetstormsecurity.com/files/145900/SysGauge-Server-3.6.
 CVE-2018-5359 - https://www.exploit-db.com/exploits/43588/
 CVE-2018-5360 - https://sourceforge.net/p/graphicsmagick/bugs/540/
 CVE-2018-5361 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/wpglobus.md
+CVE-2018-5361 - https://wpvulndb.com/vulnerabilities/9003
 CVE-2018-5362 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/wpglobus.md
+CVE-2018-5362 - https://wpvulndb.com/vulnerabilities/9003
 CVE-2018-5363 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/wpglobus.md
+CVE-2018-5363 - https://wpvulndb.com/vulnerabilities/9003
 CVE-2018-5364 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/wpglobus.md
+CVE-2018-5364 - https://wpvulndb.com/vulnerabilities/9003
 CVE-2018-5365 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/wpglobus.md
+CVE-2018-5365 - https://wpvulndb.com/vulnerabilities/9003
 CVE-2018-5366 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/wpglobus.md
+CVE-2018-5366 - https://wpvulndb.com/vulnerabilities/9003
 CVE-2018-5367 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/wpglobus.md
+CVE-2018-5367 - https://wpvulndb.com/vulnerabilities/9003
 CVE-2018-5368 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/SrbTransLatin.md
 CVE-2018-5369 - https://github.com/d4wner/Vulnerabilities-Report/blob/master/SrbTransLatin.md
 CVE-2018-5370 - http://packetstormsecurity.com/files/145872/Xnami-Image-Sharing-1.0-Cross-Site-Scripting.html
@@ -38586,6 +38594,7 @@ CVE-2019-20631 - https://github.com/gpac/gpac/issues/1270
 CVE-2019-20632 - https://github.com/gpac/gpac/issues/1271
 CVE-2019-20633 - https://savannah.gnu.org/bugs/index.php?56683
 CVE-2019-20636 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.12
+CVE-2019-20646 - https://kb.netgear.com/000061496/Security-Advisory-for-Admin-Credential-Disclosure-on-RAX40-PSV-2019-0237
 CVE-2019-20675 - https://kb.netgear.com/000061464/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-WiFi-Systems-PSV-2018-0544
 CVE-2019-20689 - https://kb.netgear.com/000061450/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-Gateways-and-Extenders-PSV-2018-0132
 CVE-2019-20718 - https://kb.netgear.com/000061210/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-and-Gateways-PSV-2018-0195
