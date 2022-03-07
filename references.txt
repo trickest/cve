@@ -30342,6 +30342,7 @@ CVE-2018-1000524 - https://github.com/fatcerberus/minisphere/pull/268
 CVE-2018-1000529 - https://github.com/martinfrancois/CVE-2018-1000529
 CVE-2018-1000534 - https://github.com/laurent22/joplin/issues/500
 CVE-2018-1000536 - https://github.com/luin/medis/issues/109
+CVE-2018-1000540 - https://github.com/oswetto/LoboEvolution/issues/38
 CVE-2018-1000542 - https://0dd.zone/2018/06/02/Netbeans-MMD-Plugin-XXE/
 CVE-2018-1000544 - https://github.com/rubyzip/rubyzip/issues/369
 CVE-2018-1000546 - https://0dd.zone/2018/05/31/TripleA-XXE/
@@ -32431,6 +32432,7 @@ CVE-2018-17057 - http://packetstormsecurity.com/files/152200/TCPDF-6.2.19-Deseri
 CVE-2018-17057 - http://packetstormsecurity.com/files/152360/LimeSurvey-Deserialization-Remote-Code-Execution.html
 CVE-2018-17057 - http://seclists.org/fulldisclosure/2019/Mar/36
 CVE-2018-17057 - https://www.exploit-db.com/exploits/46634/
+CVE-2018-17061 - https://medium.com/@Mthirup/hacking-your-own-antivirus-for-fun-and-profit-safe-browsing-gone-wrong-365db9d1d3f7
 CVE-2018-17062 - https://secwk.blogspot.com/2018/09/seacms-664-xss-vulnerability.html
 CVE-2018-17063 - https://github.com/PAGalaxyLab/VulInfo/tree/master/D-Link/DIR-816/cmd_injection_3
 CVE-2018-17064 - https://github.com/PAGalaxyLab/VulInfo/tree/master/D-Link/DIR-816/cmd_injection_2
@@ -38430,7 +38432,10 @@ CVE-2019-20016 - https://github.com/hoene/libmysofa/issues/83
 CVE-2019-20016 - https://github.com/hoene/libmysofa/issues/84
 CVE-2019-20017 - https://github.com/tbeu/matio/issues/127
 CVE-2019-20018 - https://github.com/tbeu/matio/issues/129
+CVE-2019-20019 - https://github.com/tbeu/matio/issues/130
+CVE-2019-20020 - https://github.com/tbeu/matio/issues/128
 CVE-2019-20021 - https://github.com/upx/upx/issues/315
+CVE-2019-20022 - https://github.com/saitoha/libsixel/issues/108
 CVE-2019-20023 - https://github.com/saitoha/libsixel/issues/120
 CVE-2019-20024 - https://github.com/saitoha/libsixel/issues/121
 CVE-2019-20044 - http://seclists.org/fulldisclosure/2020/May/53
@@ -38443,8 +38448,10 @@ CVE-2019-20048 - https://www.exploit-db.com/exploits/47761
 CVE-2019-20049 - https://packetstormsecurity.com/files/155595/Alcatel-Lucent-Omnivista-8770-Remote-Code-Execution.html
 CVE-2019-20049 - https://www.exploit-db.com/exploits/47761
 CVE-2019-20051 - https://github.com/upx/upx/issues/313
+CVE-2019-20052 - https://github.com/tbeu/matio/issues/131
 CVE-2019-20053 - https://github.com/upx/upx/issues/314
 CVE-2019-20055 - https://code610.blogspot.com/2019/12/testing-ssrf-in-liquifireos.html
+CVE-2019-20056 - https://github.com/saitoha/libsixel/issues/126
 CVE-2019-20057 - https://github.com/ProxymanApp/Proxyman/issues/364
 CVE-2019-20063 - https://github.com/hoene/libmysofa/issues/67
 CVE-2019-20071 - https://drive.google.com/open?id=1p4HJ5C20TqY0rVNffdD5Zd7S_bGvDhnk
@@ -38603,6 +38610,7 @@ CVE-2019-2054 - http://packetstormsecurity.com/files/154951/Kernel-Live-Patch-Se
 CVE-2019-20626 - https://medium.com/@victor_14768/replay-attacks-en-autos-206481dcfee1
 CVE-2019-20628 - https://github.com/gpac/gpac/issues/1269
 CVE-2019-20629 - https://github.com/gpac/gpac/issues/1264
+CVE-2019-20630 - https://github.com/gpac/gpac/issues/1268
 CVE-2019-20631 - https://github.com/gpac/gpac/issues/1270
 CVE-2019-20632 - https://github.com/gpac/gpac/issues/1271
 CVE-2019-20633 - https://savannah.gnu.org/bugs/index.php?56683
@@ -48542,6 +48550,7 @@ CVE-2022-0258 - https://huntr.dev/bounties/0df891e4-6412-4d9a-a9b7-d9df50311802
 CVE-2022-0261 - https://huntr.dev/bounties/fa795954-8775-4f23-98c6-d4d4d3fe8a82
 CVE-2022-0262 - https://huntr.dev/bounties/b38a4e14-5dcb-4e49-9990-494dc2a8fa0d
 CVE-2022-0263 - https://huntr.dev/bounties/96506857-06bc-4c84-88b7-4f397715bcf6
+CVE-2022-0265 - https://huntr.dev/bounties/d63972a2-b910-480a-a86b-d1f75d24d563
 CVE-2022-0268 - https://huntr.dev/bounties/67085545-331e-4469-90f3-a1a46a078d39
 CVE-2022-0269 - https://huntr.dev/bounties/a0470915-f6df-45b8-b3a2-01aebe764df0
 CVE-2022-0273 - https://huntr.dev/bounties/8f27686f-d698-4ab6-8ef0-899125792f13
@@ -48655,6 +48664,7 @@ CVE-2022-0691 - https://huntr.dev/bounties/57124ed5-4b68-4934-8325-2c546257f2e4
 CVE-2022-0692 - https://huntr.dev/bounties/4fb39400-e08b-47af-8c1f-5093c9a51203
 CVE-2022-0695 - https://huntr.dev/bounties/bdbddc0e-fb06-4211-a90b-7cbedcee2bea
 CVE-2022-0696 - https://huntr.dev/bounties/7416c2cb-1809-4834-8989-e84ff033f15f
+CVE-2022-0697 - https://huntr.dev/bounties/2d0301a2-10ff-48f4-a346-5a0e8707835b
 CVE-2022-0712 - https://huntr.dev/bounties/1e572820-e502-49d1-af0e-81833e2eb466
 CVE-2022-0713 - https://huntr.dev/bounties/d35b3dff-768d-4a09-a742-c18ca8f56d3c
 CVE-2022-0714 - https://huntr.dev/bounties/db70e8db-f309-4f3c-986c-e69d2415c3b3
@@ -48671,9 +48681,14 @@ CVE-2022-0743 - https://huntr.dev/bounties/32ea4ddb-5b41-4bf9-b5a1-ef455fe2d293
 CVE-2022-0746 - https://huntr.dev/bounties/b812ea22-0c02-46fe-b89f-04519dfb1ebd
 CVE-2022-0752 - https://huntr.dev/bounties/49940dd2-72c2-4607-857a-1fade7e8f080
 CVE-2022-0753 - https://huntr.dev/bounties/8ce4b776-1c53-45ec-bc5f-783077e2d324
+CVE-2022-0754 - https://huntr.dev/bounties/8afb7991-c6ed-42d9-bd9b-1cc83418df88
+CVE-2022-0755 - https://huntr.dev/bounties/cc767dbc-c676-44c1-a9d1-cd17ae77ee7e
+CVE-2022-0756 - https://huntr.dev/bounties/55164a63-62e4-4fb6-b4ca-87eca14f6f31
 CVE-2022-0762 - https://huntr.dev/bounties/125b5244-5099-485e-bf75-e5f1ed80dd48
 CVE-2022-0763 - https://huntr.dev/bounties/6de9c621-740d-4d7a-9d77-d90c6c87f3b6
 CVE-2022-0764 - https://huntr.dev/bounties/001d1c29-805a-4035-93bb-71a0e81da3e5
+CVE-2022-0766 - https://huntr.dev/bounties/7f2a5bb4-e6c7-4b6a-b8eb-face9e3add7b
+CVE-2022-0767 - https://huntr.dev/bounties/b26fc127-9b6a-4be7-a455-58aefbb62d9e
 CVE-2022-0768 - https://huntr.dev/bounties/9b14cc46-ec08-4940-83cc-9f986b2a5903
 CVE-2022-0776 - https://huntr.dev/bounties/be2b7ee4-f487-42e1-874a-6bcc410e4001
 CVE-2022-0777 - https://huntr.dev/bounties/b36be8cd-544f-42bd-990d-aa1a46df44d7
@@ -48683,7 +48698,11 @@ CVE-2022-0829 - https://huntr.dev/bounties/f2d0389f-d7d1-4f34-9f9d-268b0a0da05e
 CVE-2022-0838 - https://huntr.dev/bounties/bd2fb1f1-cc8b-4ef7-8e2b-4ca686d8d614
 CVE-2022-0839 - https://huntr.dev/bounties/f1ae5779-b406-4594-a8a3-d089c68d6e70
 CVE-2022-0841 - https://huntr.dev/bounties/4f806dc9-2ecd-4e79-997e-5292f1bea9f1
+CVE-2022-0845 - https://huntr.dev/bounties/a795bf93-c91e-4c79-aae8-f7d8bda92e2a
 CVE-2022-0848 - https://huntr.dev/bounties/3e91685f-cfb9-4ee4-abaf-9b712a8fd5a6
+CVE-2022-0849 - https://huntr.dev/bounties/29c5f76e-5f1f-43ab-a0c8-e31951e407b6
+CVE-2022-0868 - https://huntr.dev/bounties/5f4db013-64bd-4a6b-9dad-870c296b0b02
+CVE-2022-0869 - https://huntr.dev/bounties/ed335a88-f68c-4e4d-ac85-f29a51b03342
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
