@@ -5427,6 +5427,10 @@ CVE-2007-6235 - https://www.exploit-db.com/exploits/4683
 CVE-2007-6236 - https://www.exploit-db.com/exploits/4682
 CVE-2007-6238 - http://wabisabilabi.blogspot.com/2007/11/quicktime-zeroday-vulnerability-still.html
 CVE-2007-6240 - https://www.exploit-db.com/exploits/4687
+CVE-2007-6243 - http://www.securityfocus.com/bid/26929
+CVE-2007-6244 - http://www.securityfocus.com/bid/26929
+CVE-2007-6245 - http://www.securityfocus.com/bid/26929
+CVE-2007-6246 - http://www.securityfocus.com/bid/26929
 CVE-2007-6255 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-069
 CVE-2007-6258 - https://www.exploit-db.com/exploits/5330
 CVE-2007-6258 - https://www.exploit-db.com/exploits/5386
@@ -40413,6 +40417,7 @@ CVE-2020-10531 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-10532 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2020-001/-credential-disclosure-in-watchguard-fireware-ad-helper-component
 CVE-2020-1054 - http://packetstormsecurity.com/files/160515/Microsoft-Windows-DrawIconEx-Local-Privilege-Escalation.html
 CVE-2020-10543 - https://www.oracle.com/security-alerts/cpujan2021.html
+CVE-2020-10560 - https://github.com/LucidUnicorn/CVE-2020-10560-Key-Recovery
 CVE-2020-10564 - https://github.com/beerpwn/CVE/tree/master/WP-File-Upload_disclosure_report/
 CVE-2020-10567 - https://github.com/trippo/ResponsiveFilemanager/issues/600
 CVE-2020-10568 - https://medium.com/@arall/sitepress-multilingual-cms-wplugin-wpml-4-3-7-b-2-9c9486c13577
@@ -40811,6 +40816,8 @@ CVE-2020-11561 - https://youtu.be/-i2KtBgO3Kw
 CVE-2020-11576 - https://www.soluble.ai/blog/argo-cves-2020
 CVE-2020-11579 - https://shielder.it/
 CVE-2020-11579 - https://www.shielder.it/blog/mysql-and-cve-2020-11579-exploitation/
+CVE-2020-11583 - https://medium.com/@0x00crash/xss-reflected-in-plesk-onyx-and-obsidian-1173a3eaffb5
+CVE-2020-11584 - https://medium.com/@0x00crash/xss-reflected-in-plesk-onyx-and-obsidian-1173a3eaffb5
 CVE-2020-11608 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.6.1
 CVE-2020-11609 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.6.1
 CVE-2020-11610 - https://grimhacker.com/exploiting-xdlocalstorage-localstorage-and-postmessage/#Missing-TargetOrigin-Magic-iframe
