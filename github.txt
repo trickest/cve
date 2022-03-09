@@ -24290,6 +24290,7 @@ CVE-2019-11358 - https://github.com/FTC12973/ultimate-goal-12973
 CVE-2019-11358 - https://github.com/FTC13106/FreightFrenzyTeamCode
 CVE-2019-11358 - https://github.com/FTC14133/FTC14133-2020-2021
 CVE-2019-11358 - https://github.com/FTC14691-MechanicalMafia/2022_21_FreightFrenzy_14691
+CVE-2019-11358 - https://github.com/FTC16751/FtcRobotControllerTesting
 CVE-2019-11358 - https://github.com/FTC16854/FtcRobotController-FreightFrenzy
 CVE-2019-11358 - https://github.com/FTC20325MaximumResistance/Robot-code
 CVE-2019-11358 - https://github.com/FTC20337-SayWatt/2022_21_FreightFrenzy_20337
@@ -24487,6 +24488,7 @@ CVE-2019-11358 - https://github.com/MostlyOperational18119/FreightFrenzy-OpenCV
 CVE-2019-11358 - https://github.com/MotamoRO/CodeForFTC2021
 CVE-2019-11358 - https://github.com/MrPy5/FtcRobotController-master
 CVE-2019-11358 - https://github.com/Mukdonalds/IconManiacsQualifier2-master
+CVE-2019-11358 - https://github.com/MukilanKarthikeyan/FTC_Freight_Frenzy_NanoGurus
 CVE-2019-11358 - https://github.com/NBPS-Robotics/FTC-Code-Team-9987-2022
 CVE-2019-11358 - https://github.com/NBPS-Robotics/FTC_Ultimate_Goal_Eaglebotics_9986
 CVE-2019-11358 - https://github.com/NBPS-Robotics/FTC_Ultimate_Goal_Eaglebotics_9987
@@ -24606,6 +24608,7 @@ CVE-2019-11358 - https://github.com/RogueResistance/Meet4RR
 CVE-2019-11358 - https://github.com/RonakChaudhuri/FTC_Code_6200
 CVE-2019-11358 - https://github.com/Rownee/UltimateGoal
 CVE-2019-11358 - https://github.com/Rshah2067/2020-FTC-UltimateGoal-master
+CVE-2019-11358 - https://github.com/RunaAM/StimDC
 CVE-2019-11358 - https://github.com/RuthGajj05/FtcRobotController-master
 CVE-2019-11358 - https://github.com/SACHSTech/FTC19446-TTG
 CVE-2019-11358 - https://github.com/SACHSTech/FTC19447-TT2EB
@@ -38501,6 +38504,7 @@ CVE-2020-7934 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-7934 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-7934 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-7934 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-7943 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-7943 - https://github.com/puppetlabs/puppet_metrics_dashboard
 CVE-2020-7943 - https://github.com/puppetlabs/puppetlabs-puppet_metrics_collector
 CVE-2020-7958 - https://github.com/pandasauce/pandasauce
@@ -43219,6 +43223,7 @@ CVE-2021-32305 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-3239 - https://github.com/yshneyderman/CS590J-Capstone
 CVE-2021-32424 - https://github.com/Galapag0s/Trendnet_TW100-S4W1CA
 CVE-2021-32426 - https://github.com/Galapag0s/Trendnet_TW100-S4W1CA
+CVE-2021-32452 - https://github.com/Somerset-Recon/furbo-research
 CVE-2021-32471 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-32471 - https://github.com/Spacial/awesome-csirt
 CVE-2021-32471 - https://github.com/intrinsic-propensity/intrinsic-propensity.github.io
@@ -43366,7 +43371,9 @@ CVE-2021-33357 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-3336 - https://github.com/boschresearch/pq-wolfSSL
 CVE-2021-3336 - https://github.com/onelife/Arduino_wolfssl
 CVE-2021-3336 - https://github.com/wolfssl-jp/wolfssl-private
+CVE-2021-33373 - https://github.com/GANGE666/Vulnerabilities
 CVE-2021-33373 - https://github.com/Yu3H0/IoT_CVE
+CVE-2021-33374 - https://github.com/GANGE666/Vulnerabilities
 CVE-2021-33374 - https://github.com/Yu3H0/IoT_CVE
 CVE-2021-33393 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-33403 - https://github.com/MRdoulestar/MRdoulestar
@@ -44605,8 +44612,10 @@ CVE-2021-40353 - https://github.com/5qu1n7/CVE-2021-40353
 CVE-2021-40353 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-40373 - https://github.com/ProjectOnez/ProjectOnez
 CVE-2021-40373 - https://github.com/maikroservice/CVE-2021-40373
+CVE-2021-40374 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40374 - https://github.com/DCKento/CVE-2021-40374
 CVE-2021-40374 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-40375 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40375 - https://github.com/DCKento/CVE-2021-40375
 CVE-2021-40375 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-4043 - https://github.com/ARPSyndicate/cvemon
@@ -45738,6 +45747,7 @@ CVE-2021-44228 - https://github.com/crypt0jan/log4j-powershell-checker
 CVE-2021-44228 - https://github.com/curated-intel/Log4Shell-IOCs
 CVE-2021-44228 - https://github.com/cybersecurityworks553/log4j-Detection
 CVE-2021-44228 - https://github.com/cyberxml/log4j-poc
+CVE-2021-44228 - https://github.com/cyr-riv/rpi4-squid-elk
 CVE-2021-44228 - https://github.com/cyware-labs/ukraine-russia-cyber-intelligence
 CVE-2021-44228 - https://github.com/darkarnium/Log4j-CVE-Detect
 CVE-2021-44228 - https://github.com/davejwilson/azure-spark-pools-log4j
@@ -46388,8 +46398,11 @@ CVE-2022-0847 - https://github.com/Ch4nc3n/PublicExploitation
 CVE-2022-0847 - https://github.com/Getshell/LinuxTQ
 CVE-2022-0847 - https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe
 CVE-2022-0847 - https://github.com/ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit
+CVE-2022-0847 - https://github.com/Ignitetechnologies/Linux-Privilege-Escalation
 CVE-2022-0847 - https://github.com/Metarget/metarget
+CVE-2022-0847 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-0847 - https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit
+CVE-2022-0847 - https://github.com/T4t4ru/CVE-2022-0847
 CVE-2022-0847 - https://github.com/Udyz/CVE-2022-0847
 CVE-2022-0847 - https://github.com/ahrixia/CVE_2022_0847
 CVE-2022-0847 - https://github.com/antx-code/CVE-2022-0847
@@ -46403,6 +46416,7 @@ CVE-2022-0847 - https://github.com/d-rn/vulBox
 CVE-2022-0847 - https://github.com/dadhee/CVE-2022-0847_DirtyPipeExploit
 CVE-2022-0847 - https://github.com/eremus-dev/Dirty-Pipe-sudo-poc
 CVE-2022-0847 - https://github.com/febinrev/dirtypipez-exploit
+CVE-2022-0847 - https://github.com/gyaansastra/CVE-2022-0847
 CVE-2022-0847 - https://github.com/imfiver/CVE-2022-0847
 CVE-2022-0847 - https://github.com/kaosagnt/ansible-everyday
 CVE-2022-0847 - https://github.com/karimhabush/cyberowl
