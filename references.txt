@@ -10449,6 +10449,7 @@ CVE-2009-4553 - http://www.exploit-db.com/exploits/9392
 CVE-2009-4567 - http://www.exploit-db.com/exploits/10354
 CVE-2009-4581 - http://www.exploit-db.com/exploits/10793
 CVE-2009-4586 - http://lostmon.blogspot.com/2009/10/wowd-search-client-multiple-variable.html
+CVE-2009-4587 - http://xc0re.wordpress.com/2009/10/25/cherokee-web-server-0-5-4-denial-of-service/
 CVE-2009-4588 - http://www.exploit-db.com/exploits/9116
 CVE-2009-4604 - http://www.exploit-db.com/exploits/10369
 CVE-2009-4609 - http://www.ush.it/team/ush/hack-jetty6x7x/jetty-adv.txt
@@ -15670,6 +15671,7 @@ CVE-2013-5573 - http://packetstormsecurity.com/files/124513
 CVE-2013-5573 - http://seclists.org/bugtraq/2013/Dec/104
 CVE-2013-5573 - http://seclists.org/fulldisclosure/2013/Dec/159
 CVE-2013-5573 - http://www.exploit-db.com/exploits/30408
+CVE-2013-5576 - http://www.cso.com.au/article/523528/joomla_patches_file_manager_vulnerability_responsible_hijacked_websites/
 CVE-2013-5576 - http://www.kb.cert.org/vuls/id/639620
 CVE-2013-5586 - http://packetstormsecurity.com/files/123196
 CVE-2013-5593 - https://bugzilla.mozilla.org/show_bug.cgi?id=868327
@@ -26652,6 +26654,8 @@ CVE-2017-12480 - https://medium.com/@BaYinMin/cve-2017-12480-sandboxie-installer
 CVE-2017-12500 - https://www.exploit-db.com/exploits/44648/
 CVE-2017-12542 - https://www.exploit-db.com/exploits/44005/
 CVE-2017-12557 - https://www.exploit-db.com/exploits/45952/
+CVE-2017-12559 - https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-hpesbhf03777en_us
+CVE-2017-12560 - https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-hpesbhf03777en_us
 CVE-2017-12573 - http://seclists.org/fulldisclosure/2018/Aug/29
 CVE-2017-12574 - http://seclists.org/fulldisclosure/2018/Aug/25
 CVE-2017-12575 - http://seclists.org/fulldisclosure/2018/Aug/26
@@ -36282,13 +36286,17 @@ CVE-2019-11503 - https://www.openwall.com/lists/oss-security/2019/04/18/4
 CVE-2019-11504 - http://packetstormsecurity.com/files/152717/Zotonic-0.46-mod_admin-Cross-Site-Scripting.html
 CVE-2019-11504 - https://www.exploit-db.com/exploits/46788/
 CVE-2019-11507 - https://devco.re/blog/2019/09/02/attacking-ssl-vpn-part-3-the-golden-Pulse-Secure-ssl-vpn-rce-chain-with-Twitter-as-case-study/
+CVE-2019-11507 - https://kb.pulsesecure.net/?atype=sa
 CVE-2019-11507 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44516
 CVE-2019-11508 - https://devco.re/blog/2019/09/02/attacking-ssl-vpn-part-3-the-golden-Pulse-Secure-ssl-vpn-rce-chain-with-Twitter-as-case-study/
+CVE-2019-11508 - https://kb.pulsesecure.net/?atype=sa
+CVE-2019-11509 - https://kb.pulsesecure.net/?atype=sa
 CVE-2019-1151 - http://packetstormsecurity.com/files/154092/Microsoft-Font-Subsetting-DLL-ReadAllocFormat12CharGlyphMapList-Heap-Corruption.html
 CVE-2019-11510 - http://packetstormsecurity.com/files/154176/Pulse-Secure-SSL-VPN-8.1R15.1-8.2-8.3-9.0-Arbitrary-File-Disclosure.html
 CVE-2019-11510 - http://packetstormsecurity.com/files/154231/Pulse-Secure-SSL-VPN-File-Disclosure-NSE.html
 CVE-2019-11510 - https://badpackets.net/over-14500-pulse-secure-vpn-endpoints-vulnerable-to-cve-2019-11510/
 CVE-2019-11510 - https://devco.re/blog/2019/09/02/attacking-ssl-vpn-part-3-the-golden-Pulse-Secure-ssl-vpn-rce-chain-with-Twitter-as-case-study/
+CVE-2019-11510 - https://kb.pulsesecure.net/?atype=sa
 CVE-2019-11511 - https://zeroauth.ltd/blog/2019/05/26/cve-2019-11511-zoho-manageengine-adselfservice-plus-xss/
 CVE-2019-11515 - https://cisk123456.blogspot.com/2019/04/gila-cms-1101.html
 CVE-2019-11517 - https://seclists.org/bugtraq/2019/Jun/10
@@ -37858,6 +37866,7 @@ CVE-2019-16885 - http://seclists.org/fulldisclosure/2019/Dec/15
 CVE-2019-16885 - https://www.ait.ac.at/ait-sa-20191129-01-unauthenticated-remote-code-execution-okaycms
 CVE-2019-16891 - https://sec.vnpt.vn/2019/09/liferay-deserialization-json-deserialization-part-4/
 CVE-2019-16891 - https://www.youtube.com/watch?v=DjMEfQW3bf0
+CVE-2019-16892 - https://github.com/rubyzip/rubyzip/pull/403
 CVE-2019-16893 - https://exploit-db.com/exploits/47958
 CVE-2019-16894 - https://www.exploit-db.com/exploits/47426
 CVE-2019-16897 - https://github.com/NtRaiseHardError/Antimalware-Research/blob/master/K7%20Security/Local%20Privilege%20Escalation/v16.0.0120/README.md
@@ -41161,6 +41170,7 @@ CVE-2020-12867 - https://gitlab.com/sane-project/backends/-/issues/279#issue-1-g
 CVE-2020-12867 - https://securitylab.github.com/advisories/GHSL-2020-075-libsane
 CVE-2020-12872 - https://medium.com/@charlielabs101/cve-2020-12872-df315411aa70
 CVE-2020-12872 - https://sweet32.info/
+CVE-2020-12880 - https://kb.pulsesecure.net/?atype=sa
 CVE-2020-12880 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44516
 CVE-2020-12882 - http://packetstormsecurity.com/files/157756/Submitty-20.04.01-Cross-Site-Scripting.html
 CVE-2020-13094 - http://packetstormsecurity.com/files/157752/Dolibarr-11.0.3-Cross-Site-Scripting.html
@@ -41190,6 +41200,7 @@ CVE-2020-13160 - http://packetstormsecurity.com/files/161628/AnyDesk-5.5.2-Remot
 CVE-2020-13160 - https://devel0pment.de/?p=1881
 CVE-2020-13162 - http://packetstormsecurity.com/files/158117/Pulse-Secure-Client-For-Windows-Local-Privilege-Escalation.html
 CVE-2020-13162 - http://packetstormsecurity.com/files/159065/Pulse-Secure-Windows-Client-Privilege-Escalation.html
+CVE-2020-13162 - https://kb.pulsesecure.net/?atype=sa
 CVE-2020-13162 - https://www.redtimmy.com/privilege-escalation/pulse-secure-client-for-windows-9-1-6-toctou-privilege-escalation-cve-2020-13162/
 CVE-2020-13166 - http://packetstormsecurity.com/files/157808/Plesk-myLittleAdmin-ViewState-.NET-Deserialization.html
 CVE-2020-13168 - https://github.com/lodestone-security/CVEs/tree/master/CVE-2020-13168
@@ -41789,6 +41800,7 @@ CVE-2020-15395 - https://sourceforge.net/p/mediainfo/bugs/1127/
 CVE-2020-15396 - https://bugzilla.suse.com/show_bug.cgi?id=1173521
 CVE-2020-15397 - https://bugzilla.suse.com/show_bug.cgi?id=1173519
 CVE-2020-15401 - http://daniels-it-blog.blogspot.com/2020/06/when-your-anti-virus-turns-against-you.html
+CVE-2020-15408 - https://kb.pulsesecure.net/?atype=sa
 CVE-2020-15408 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44516
 CVE-2020-15415 - https://github.com/CLP-team/Vigor-Commond-Injection
 CVE-2020-15468 - https://www.exploit-db.com/exploits/48190
@@ -44121,6 +44133,7 @@ CVE-2020-35945 - https://www.wordfence.com/blog/2020/08/critical-vulnerability-e
 CVE-2020-35946 - https://www.wordfence.com/blog/2020/07/2-million-users-affected-by-vulnerability-in-all-in-one-seo-pack/
 CVE-2020-35947 - https://www.wordfence.com/blog/2020/05/high-severity-vulnerabilities-in-pagelayer-plugin-affect-over-200000-wordpress-sites/
 CVE-2020-35948 - http://packetstormsecurity.com/files/163336/WordPress-XCloner-4.2.12-Remote-Code-Execution.html
+CVE-2020-35948 - https://wpscan.com/vulnerability/10412
 CVE-2020-35949 - https://www.wordfence.com/blog/2020/08/critical-vulnerabilities-patched-in-quiz-and-survey-master-plugin/
 CVE-2020-35951 - https://www.wordfence.com/blog/2020/08/critical-vulnerabilities-patched-in-quiz-and-survey-master-plugin/
 CVE-2020-35972 - https://github.com/yzmcms/yzmcms/issues/55
@@ -48823,6 +48836,7 @@ CVE-2022-0529 - https://bugzilla.redhat.com/show_bug.cgi?id=2051402
 CVE-2022-0530 - https://bugzilla.redhat.com/show_bug.cgi?id=2051395
 CVE-2022-0534 - https://github.com/michaelrsweet/htmldoc/issues/463
 CVE-2022-0539 - https://huntr.dev/bounties/5f41b182-dda2-4c6f-9668-2a9afaed53af
+CVE-2022-0543 - https://www.ubercomp.com/posts/2022-01-20_redis_on_debian_rce
 CVE-2022-0554 - https://huntr.dev/bounties/7e8f6cd0-b5ee-48a2-8255-6a86f4c46c71
 CVE-2022-0557 - http://packetstormsecurity.com/files/166077/Microweber-1.2.11-Shell-Upload.html
 CVE-2022-0557 - https://huntr.dev/bounties/660c89af-2de5-41bc-aada-9e4e78142db8
@@ -48911,6 +48925,7 @@ CVE-2022-0848 - https://huntr.dev/bounties/3e91685f-cfb9-4ee4-abaf-9b712a8fd5a6
 CVE-2022-0849 - https://huntr.dev/bounties/29c5f76e-5f1f-43ab-a0c8-e31951e407b6
 CVE-2022-0868 - https://huntr.dev/bounties/5f4db013-64bd-4a6b-9dad-870c296b0b02
 CVE-2022-0869 - https://huntr.dev/bounties/ed335a88-f68c-4e4d-ac85-f29a51b03342
+CVE-2022-0877 - https://huntr.dev/bounties/b04df4e3-ae5a-4dc6-81ec-496248b15f3c
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
