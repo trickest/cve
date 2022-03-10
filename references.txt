@@ -3968,6 +3968,7 @@ CVE-2007-1251 - http://aluigi.altervista.org/adv/netrekfs-adv.txt
 CVE-2007-1254 - https://www.exploit-db.com/exploits/3352
 CVE-2007-1255 - https://www.exploit-db.com/exploits/3352
 CVE-2007-1260 - https://www.exploit-db.com/exploits/3395
+CVE-2007-1292 - http://www.vbulletin.com/forum/showthread.php?postid=1314422
 CVE-2007-1292 - https://www.exploit-db.com/exploits/3387
 CVE-2007-1293 - https://www.exploit-db.com/exploits/3403
 CVE-2007-1294 - https://www.exploit-db.com/exploits/3392
@@ -6105,6 +6106,7 @@ CVE-2008-0878 - https://www.exploit-db.com/exploits/5156
 CVE-2008-0879 - http://packetstormsecurity.com/files/126697/PHP-Nuke-Web-Links-SQL-Injection.html
 CVE-2008-0880 - https://www.exploit-db.com/exploits/5155
 CVE-2008-0881 - https://www.exploit-db.com/exploits/5159
+CVE-2008-0891 - http://www.kb.cert.org/vuls/id/661475
 CVE-2008-0894 - http://securityreason.com/securityalert/3685
 CVE-2008-0894 - https://bugzilla.mozilla.org/show_bug.cgi?id=408076
 CVE-2008-0905 - https://www.exploit-db.com/exploits/5162
@@ -25702,6 +25704,7 @@ CVE-2016-9841 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2016-9842 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2016-9842 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2016-9843 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
+CVE-2016-9843 - https://github.com/madler/zlib/commit/d1d577490c15a0c6862473d7576352a9f18ef811
 CVE-2016-9843 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2016-9844 - https://bugs.launchpad.net/ubuntu/+source/unzip/+bug/1643750
 CVE-2016-9892 - http://packetstormsecurity.com/files/141350/ESET-Endpoint-Antivirus-6-Remote-Code-Execution.html
@@ -26485,6 +26488,8 @@ CVE-2017-1092 - https://www.exploit-db.com/exploits/42091/
 CVE-2017-1092 - https://www.exploit-db.com/exploits/42541/
 CVE-2017-10928 - https://github.com/ImageMagick/ImageMagick/issues/539
 CVE-2017-10952 - https://0patch.blogspot.com/2017/08/0patching-foxit-readers-saveas-0day-cve.html
+CVE-2017-10971 - https://bugzilla.suse.com/show_bug.cgi?id=1035283
+CVE-2017-10972 - https://bugzilla.suse.com/show_bug.cgi?id=1035283
 CVE-2017-10974 - http://hyp3rlinx.altervista.org/advisories/YAWS-WEB-SERVER-v1.91-UNAUTHENTICATED-REMOTE-FILE-DISCLOSURE.txt
 CVE-2017-10974 - https://www.exploit-db.com/exploits/42303/
 CVE-2017-10976 - https://github.com/matthiaskramm/swftools/issues/28
