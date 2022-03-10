@@ -1,5 +1,7 @@
 CVE-1999-0095 - http://seclists.org/fulldisclosure/2019/Jun/16
 CVE-1999-0145 - http://seclists.org/fulldisclosure/2019/Jun/16
+CVE-1999-0225 - http://www.nai.com/nai_labs/asp_set/advisory/25_windows_nt_dos_adv.asp
+CVE-1999-0247 - http://www.nai.com/nai_labs/asp_set/advisory/17_inn_avd.asp
 CVE-1999-1104 - http://marc.info/?l=bugtraq&m=88536273725787&w=2
 CVE-1999-1104 - http://marc.info/?l=ntbugtraq&m=88540877601866&w=2
 CVE-1999-1106 - http://www.securityfocus.com/bid/92
@@ -14,9 +16,14 @@ CVE-2000-0275 - http://www.l0pht.com/advisories/cc-pinextract.txt
 CVE-2000-0384 - http://www.l0pht.com/advisories/ipivot7180.html
 CVE-2000-0405 - http://www.l0pht.com/advisories/asniff_advisory.txt
 CVE-2000-0427 - http://www.l0pht.com/advisories/etoken-piepa.txt
+CVE-2000-0428 - http://www.nai.com/nai_labs/asp_set/advisory/39_Trend.asp
+CVE-2000-0455 - http://www.nai.com/nai_labs/asp_set/advisory/41initialized.asp
 CVE-2000-0500 - http://marc.info/?l=bugtraq&m=96161462915381&w=2
 CVE-2000-0538 - http://marc.info/?l=bugtraq&m=96045469627806&w=2
+CVE-2000-0622 - http://www.nai.com/research/covert/advisories/043.asp
 CVE-2000-0625 - http://www.l0pht.com/advisories/netzero.txt
+CVE-2000-0632 - http://www.nai.com/nai_labs/asp_set/advisory/43_Advisory.asp
+CVE-2000-0673 - http://www.nai.com/research/covert/advisories/044.asp
 CVE-2000-0892 - http://www.kb.cert.org/vuls/id/22404
 CVE-2000-1049 - http://marc.info/?l=bugtraq&m=97310314724964&w=2
 CVE-2000-1050 - http://marc.info/?l=bugtraq&m=97236316510117&w=2
@@ -32,6 +39,10 @@ CVE-2000-1088 - http://marc.info/?l=bugtraq&m=97570884410184&w=2
 CVE-2000-1207 - http://marc.info/?l=bugtraq&m=97034397026473&w=2
 CVE-2000-1220 - http://www.l0pht.com/advisories/lpd_advisory
 CVE-2000-1221 - http://www.l0pht.com/advisories/lpd_advisory
+CVE-2001-0010 - http://www.nai.com/research/covert/advisories/047.asp
+CVE-2001-0011 - http://www.nai.com/research/covert/advisories/047.asp
+CVE-2001-0012 - http://www.nai.com/research/covert/advisories/047.asp
+CVE-2001-0013 - http://www.nai.com/research/covert/advisories/047.asp
 CVE-2001-0115 - http://marc.info/?l=bugtraq&m=97934312727101&w=2
 CVE-2001-0134 - http://marc.info/?l=bugtraq&m=97967435023835&w=2
 CVE-2001-0241 - http://marc.info/?l=bugtraq&m=98874912915948&w=2
@@ -61,6 +72,7 @@ CVE-2001-1002 - http://marc.info/?l=bugtraq&m=99892644616749&w=2
 CVE-2001-1201 - http://marc.info/?l=bugtraq&m=100863301405266&w=2
 CVE-2001-1288 - http://marc.info/?l=vuln-dev&m=99651044701417&w=2
 CVE-2001-1410 - http://marc.info/?l=bugtraq&m=105829174431769&w=2
+CVE-2001-1458 - http://www.foundstone.com/index.htm?subnav=resources/navigation.htm&subcontent=/resources/advisories_template.htm%3Findexid%3D12
 CVE-2002-0022 - http://marc.info/?l=bugtraq&m=101362984930597&w=2
 CVE-2002-0058 - http://marc.info/?l=bugtraq&m=101534535304228&w=2
 CVE-2002-0073 - http://marc.info/?l=bugtraq&m=101901273810598&w=2
@@ -102,6 +114,7 @@ CVE-2002-0359 - http://marc.info/?l=bugtraq&m=102459162909825&w=2
 CVE-2002-0440 - http://seclists.org/lists/bugtraq/2002/Mar/0162.html
 CVE-2002-0470 - http://seclists.org/bugtraq/2002/Mar/0263.html
 CVE-2002-0471 - http://seclists.org/bugtraq/2002/Mar/0263.html
+CVE-2002-0598 - http://www.foundstone.com/knowledge/fscan112_advisory.html
 CVE-2002-0619 - http://marc.info/?l=bugtraq&m=102139136019862&w=2
 CVE-2002-0648 - http://marc.info/?l=bugtraq&m=103011639524314&w=2
 CVE-2002-0652 - http://marc.info/?l=bugtraq&m=102459162909825&w=2
@@ -129,6 +142,7 @@ CVE-2002-0986 - http://www.redhat.com/support/errata/RHSA-2002-213.html
 CVE-2002-1053 - http://www.w3.org/Jigsaw/RelNotes.html#2.2.1
 CVE-2002-1091 - http://marc.info/?l=bugtraq&m=103134051120770&w=2
 CVE-2002-1120 - https://www.exploit-db.com/exploits/16770/
+CVE-2002-1142 - http://www.foundstone.com/knowledge/randd-advisories-display.html?id=337
 CVE-2002-1143 - http://marc.info/?l=bugtraq&m=103040003014999&w=2
 CVE-2002-1143 - http://marc.info/?l=bugtraq&m=103252858816401&w=2
 CVE-2002-1155 - http://marc.info/?l=bugtraq&m=105474080512376&w=2
@@ -195,6 +209,8 @@ CVE-2003-0132 - http://marc.info/?l=bugtraq&m=104994309010974&w=2
 CVE-2003-0132 - http://marc.info/?l=bugtraq&m=105001663120995&w=2
 CVE-2003-0140 - http://marc.info/?l=bugtraq&m=104818814931378&w=2
 CVE-2003-0143 - http://marc.info/?l=bugtraq&m=104739841223916&w=2
+CVE-2003-0148 - http://www.nai.com/us/promos/mcafee/epo_vulnerabilities.asp
+CVE-2003-0149 - http://www.nai.com/us/promos/mcafee/epo_vulnerabilities.asp
 CVE-2003-0190 - http://lab.mediaservice.net/advisory/2003-01-openssh.txt
 CVE-2003-0190 - http://marc.info/?l=bugtraq&m=105172058404810&w=2
 CVE-2003-0197 - http://marc.info/?l=bugtraq&m=104940730819887&w=2
@@ -247,6 +263,8 @@ CVE-2003-0584 - http://marc.info/?l=bugtraq&m=105846288808846&w=2
 CVE-2003-0585 - http://marc.info/?l=bugtraq&m=105845898003616&w=2
 CVE-2003-0586 - http://marc.info/?l=bugtraq&m=105845898003616&w=2
 CVE-2003-0605 - http://marc.info/?l=bugtraq&m=105880332428706&w=2
+CVE-2003-0610 - http://www.nai.com/us/promos/mcafee/epo_vulnerabilities.asp
+CVE-2003-0616 - http://www.nai.com/us/promos/mcafee/epo_vulnerabilities.asp
 CVE-2003-0619 - http://marc.info/?l=bugtraq&m=105950927708272&w=2
 CVE-2003-0621 - http://marc.info/?l=bugtraq&m=106762000607681&w=2
 CVE-2003-0622 - http://marc.info/?l=bugtraq&m=106762000607681&w=2
@@ -23555,6 +23573,7 @@ CVE-2016-10999 - https://www.vulnerability-lab.com/get_content.php?id=1771
 CVE-2016-11005 - https://rastating.github.io/instalinker-reflected-xss-information-disclosure/
 CVE-2016-1101 - http://packetstormsecurity.com/files/137052/Adobe-Flash-ATF-Processing-Heap-Overflow.html
 CVE-2016-1101 - https://www.exploit-db.com/exploits/39827/
+CVE-2016-11012 - https://wpvulndb.com/vulnerabilities/8389
 CVE-2016-11014 - https://cybersecurityworks.com/zerodays/cve-2016-11014-netgear.html
 CVE-2016-11014 - https://github.com/cybersecurityworks/Disclosed/issues/14
 CVE-2016-11014 - https://lists.openwall.net/full-disclosure/2016/01/11/5
@@ -25390,6 +25409,7 @@ CVE-2016-8742 - https://www.exploit-db.com/exploits/40865/
 CVE-2016-8744 - https://brooklyn.apache.org/community/security/CVE-2016-8744.html
 CVE-2016-8745 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2016-8769 - https://www.exploit-db.com/exploits/40807/
+CVE-2016-8802 - http://www.securityfocus.com/bid/94538
 CVE-2016-8805 - http://nvidia.custhelp.com/app/answers/detail/a_id/4247
 CVE-2016-8805 - https://www.exploit-db.com/exploits/40667/
 CVE-2016-8806 - http://nvidia.custhelp.com/app/answers/detail/a_id/4247
@@ -49038,6 +49058,7 @@ CVE-2022-0443 - https://huntr.dev/bounties/b987c8cb-bbbe-4601-8a6c-54ff907c6b51
 CVE-2022-0472 - https://huntr.dev/bounties/cb5b8563-15cf-408c-9f79-4871ea0a8713
 CVE-2022-0476 - https://huntr.dev/bounties/81ddfbda-6c9f-4b69-83ff-85b15141e35d
 CVE-2022-0481 - https://huntr.dev/bounties/54725c8c-87f4-41b6-878c-01d8e0ee7027
+CVE-2022-0482 - https://huntr.dev/bounties/2fe771ef-b615-45ef-9b4d-625978042e26
 CVE-2022-0505 - https://huntr.dev/bounties/65b5a243-3f0c-4df3-9bab-898332180968
 CVE-2022-0506 - https://huntr.dev/bounties/0a5ec24c-343e-4cc4-b27b-2beb19a1c35f
 CVE-2022-0509 - https://huntr.dev/bounties/26cdf86c-8edc-4af6-8411-d569699ecd1b
@@ -49147,6 +49168,11 @@ CVE-2022-0868 - https://huntr.dev/bounties/5f4db013-64bd-4a6b-9dad-870c296b0b02
 CVE-2022-0869 - https://huntr.dev/bounties/ed335a88-f68c-4e4d-ac85-f29a51b03342
 CVE-2022-0877 - https://huntr.dev/bounties/b04df4e3-ae5a-4dc6-81ec-496248b15f3c
 CVE-2022-0881 - https://huntr.dev/bounties/2628431e-6a98-4063-a0e3-a8b1d9ebaa9c
+CVE-2022-0890 - https://huntr.dev/bounties/68e09ec1-6cc7-48b8-981d-30f478c70276
+CVE-2022-0895 - https://huntr.dev/bounties/3c070828-fd00-476c-be33-9c877172363d
+CVE-2022-0896 - https://huntr.dev/bounties/113056f1-7a78-4205-9f42-940ad41d8df0
+CVE-2022-0905 - https://huntr.dev/bounties/8d221f92-b2b1-4878-bc31-66ff272e5ceb
+CVE-2022-0906 - https://huntr.dev/bounties/87ed3b42-9824-49b0-91a5-fd908a0601e8
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
