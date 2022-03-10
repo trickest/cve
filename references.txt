@@ -37978,6 +37978,7 @@ CVE-2019-16520 - http://www.openwall.com/lists/oss-security/2019/10/16/5
 CVE-2019-16520 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-04_WordPress_Plugin_All_in_One_SEO_Pack
 CVE-2019-16521 - http://www.openwall.com/lists/oss-security/2019/10/16/3
 CVE-2019-16521 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-02_WordPress_Plugin_Broken_Link_Checker
+CVE-2019-16522 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-01_WordPress_Plugin_EU_Cookie_Law
 CVE-2019-16523 - http://www.openwall.com/lists/oss-security/2019/10/16/4
 CVE-2019-16523 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190913-03_WordPress_Plugin_Events_Manager
 CVE-2019-16524 - https://github.com/sbaresearch/advisories/tree/public/2019/SBA-ADV-20190911-01_Easy_FancyBox_WP_Plugin_Stored_XSS
@@ -37995,6 +37996,7 @@ CVE-2019-1653 - https://www.exploit-db.com/exploits/46262/
 CVE-2019-1653 - https://www.exploit-db.com/exploits/46655/
 CVE-2019-1653 - https://www.zdnet.com/article/hackers-are-going-after-cisco-rv320rv325-routers-using-a-new-exploit/
 CVE-2019-16531 - http://packetstormsecurity.com/files/154549/LayerBB-1.1.3-Cross-Site-Request-Forgery.html
+CVE-2019-16531 - https://github.com/0xB9/LayerBB-1.1.3-CSRF/blob/master/README.md
 CVE-2019-16532 - https://github.com/yzmcms/yzmcms/issues/28
 CVE-2019-16532 - https://www.exploit-db.com/exploits/47422
 CVE-2019-1663 - http://packetstormsecurity.com/files/152507/Cisco-RV130W-Routers-Management-Interface-Remote-Command-Execution.html
@@ -38065,7 +38067,9 @@ CVE-2019-16759 - https://www.theregister.co.uk/2019/09/24/vbulletin_vbug_zeroday
 CVE-2019-16780 - https://wpvulndb.com/vulnerabilities/9976
 CVE-2019-16781 - https://wpvulndb.com/vulnerabilities/9976
 CVE-2019-16862 - https://github.com/lodestone-security/CVEs/blob/master/CVE-2019-16862/README.md
+CVE-2019-16864 - https://github.com/RhinoSecurityLabs/CVEs/tree/master/CVE-2019-16864
 CVE-2019-16868 - https://github.com/emlog/emlog/issues/48
+CVE-2019-16884 - https://github.com/opencontainers/runc/issues/2128
 CVE-2019-16885 - http://packetstormsecurity.com/files/155583/OkayCMS-2.3.4-Remote-Code-Execution.html
 CVE-2019-16885 - http://seclists.org/fulldisclosure/2019/Dec/15
 CVE-2019-16885 - https://www.ait.ac.at/ait-sa-20191129-01-unauthenticated-remote-code-execution-okaycms
@@ -40271,6 +40275,7 @@ CVE-2019-9831 - https://www.exploit-db.com/exploits/46381
 CVE-2019-9832 - https://www.exploit-db.com/exploits/46445
 CVE-2019-9833 - https://www.exploit-db.com/exploits/46443
 CVE-2019-9834 - https://www.exploit-db.com/exploits/46545
+CVE-2019-9834 - https://www.youtube.com/watch?v=zSG93yX0B8k
 CVE-2019-9835 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2018-033.txt
 CVE-2019-9836 - http://packetstormsecurity.com/files/153436/AMD-Secure-Encrypted-Virtualization-SEV-Key-Recovery.html
 CVE-2019-9836 - https://seclists.org/fulldisclosure/2019/Jun/46
