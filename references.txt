@@ -34072,6 +34072,7 @@ CVE-2018-20543 - https://bugzilla.redhat.com/show_bug.cgi?id=1652634
 CVE-2018-20552 - https://github.com/appneta/tcpreplay/issues/530
 CVE-2018-20553 - https://github.com/appneta/tcpreplay/issues/530
 CVE-2018-20556 - http://packetstormsecurity.com/files/151692/WordPress-Booking-Calendar-8.4.3-SQL-Injection.html
+CVE-2018-20556 - https://gist.github.com/B0UG/a750c2c204825453e6faf898ea6d09f6
 CVE-2018-20556 - https://vulners.com/exploitdb/EDB-ID:46377
 CVE-2018-20556 - https://www.exploit-db.com/exploits/46377/
 CVE-2018-20568 - https://github.com/nabby27/CMS/pull/2
@@ -34167,6 +34168,7 @@ CVE-2018-20812 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/S
 CVE-2018-20813 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877/
 CVE-2018-20814 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43877/
 CVE-2018-20817 - https://github.com/RektInator/cod-steamauth-rce
+CVE-2018-20817 - https://github.com/momo5502/cod-exploits/tree/master/steam-auth
 CVE-2018-20818 - https://arxiv.org/pdf/1809.07477
 CVE-2018-20820 - https://github.com/dropbox/lepton/issues/111
 CVE-2018-20823 - https://hackaday.com/2018/07/17/freak-out-your-smartphone-with-ultrasound/
@@ -49364,3 +49366,5 @@ CVE-2022-26181 - https://github.com/dropbox/lepton/issues/154
 CVE-2022-26332 - https://www.exploit-db.com/exploits/50788
 CVE-2022-26495 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26496 - https://lists.debian.org/nbd/2022/01/msg00037.html
+CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.17
+CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.3
