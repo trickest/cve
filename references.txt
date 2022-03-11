@@ -28,6 +28,7 @@ CVE-2000-0892 - http://www.kb.cert.org/vuls/id/22404
 CVE-2000-1049 - http://marc.info/?l=bugtraq&m=97310314724964&w=2
 CVE-2000-1050 - http://marc.info/?l=bugtraq&m=97236316510117&w=2
 CVE-2000-1053 - http://marc.info/?l=bugtraq&m=97236125107957&w=2
+CVE-2000-1079 - http://www.nai.com/research/covert/advisories/045.asp
 CVE-2000-1081 - http://marc.info/?l=bugtraq&m=97570878710037&w=2
 CVE-2000-1082 - http://marc.info/?l=bugtraq&m=97570878710037&w=2
 CVE-2000-1083 - http://marc.info/?l=bugtraq&m=97570878710037&w=2
@@ -822,7 +823,9 @@ CVE-2004-2761 - http://www.win.tue.nl/hashclash/SoftIntCodeSign/
 CVE-2004-2761 - http://www.win.tue.nl/hashclash/rogue-ca/
 CVE-2005-0001 - http://www.redhat.com/support/errata/RHSA-2005-017.html
 CVE-2005-0003 - http://www.redhat.com/support/errata/RHSA-2005-017.html
+CVE-2005-0021 - http://www.redhat.com/support/errata/RHSA-2005-025.html
 CVE-2005-0022 - http://marc.info/?l=bugtraq&m=110824870908614&w=2
+CVE-2005-0022 - http://www.redhat.com/support/errata/RHSA-2005-025.html
 CVE-2005-0023 - http://bugzilla.gnome.org/show_bug.cgi?id=317312
 CVE-2005-0044 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-012
 CVE-2005-0045 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-011
@@ -14534,6 +14537,8 @@ CVE-2012-6346 - https://www.vulnerability-lab.com/get_content.php?id=702
 CVE-2012-6347 - https://www.vulnerability-lab.com/get_content.php?id=558
 CVE-2012-6369 - http://packetstormsecurity.org/files/118467/Agilebits-1Password-3.9.9-Cross-Site-Scripting.html
 CVE-2012-6369 - http://www.youtube.com/watch?v=A1kPL9ggRi4
+CVE-2012-6422 - http://forum.xda-developers.com/showthread.php?p=35469999
+CVE-2012-6422 - http://forum.xda-developers.com/showthread.php?t=2051290
 CVE-2012-6429 - http://packetstormsecurity.com/files/119423/Samsung-Kies-2.5.0.12114_1-Buffer-Overflow.html
 CVE-2012-6430 - http://packetstormsecurity.com/files/119422/Quick.Cms-5.0-Quick.Cart-6.0-Cross-Site-Scripting.html
 CVE-2012-6448 - https://www.exploit-db.com/exploits/38153
@@ -49145,6 +49150,7 @@ CVE-2022-0697 - https://huntr.dev/bounties/2d0301a2-10ff-48f4-a346-5a0e8707835b
 CVE-2022-0712 - https://huntr.dev/bounties/1e572820-e502-49d1-af0e-81833e2eb466
 CVE-2022-0713 - https://huntr.dev/bounties/d35b3dff-768d-4a09-a742-c18ca8f56d3c
 CVE-2022-0714 - https://huntr.dev/bounties/db70e8db-f309-4f3c-986c-e69d2415c3b3
+CVE-2022-0715 - https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2022-067-02
 CVE-2022-0717 - https://huntr.dev/bounties/27a851a5-7ebf-409b-854f-b2614771e8f9
 CVE-2022-0719 - https://huntr.dev/bounties/bcdce15b-7f40-4971-a061-c25c6053c312
 CVE-2022-0721 - https://huntr.dev/bounties/ae267d39-9750-4c69-be8b-4f915da089fb
@@ -49196,6 +49202,7 @@ CVE-2022-0895 - https://huntr.dev/bounties/3c070828-fd00-476c-be33-9c877172363d
 CVE-2022-0896 - https://huntr.dev/bounties/113056f1-7a78-4205-9f42-940ad41d8df0
 CVE-2022-0905 - https://huntr.dev/bounties/8d221f92-b2b1-4878-bc31-66ff272e5ceb
 CVE-2022-0906 - https://huntr.dev/bounties/87ed3b42-9824-49b0-91a5-fd908a0601e8
+CVE-2022-0912 - https://huntr.dev/bounties/ae5bb359-7e53-498b-848e-540c05b44c54
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -49250,6 +49257,8 @@ CVE-2022-22125 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-
 CVE-2022-22700 - https://fluidattacks.com/advisories/porter/
 CVE-2022-22701 - https://fluidattacks.com/advisories/hendrix/
 CVE-2022-22702 - https://fluidattacks.com/advisories/joplin/
+CVE-2022-22805 - https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2022-067-02
+CVE-2022-22806 - https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2022-067-02
 CVE-2022-22831 - http://packetstormsecurity.com/files/165863/Servisnet-Tessa-Authentication-Bypass.html
 CVE-2022-22831 - https://www.exploit-db.com/exploits/50714
 CVE-2022-22831 - https://www.pentest.com.tr/exploits/Servisnet-Tessa-Add-sysAdmin-User-Unauthenticated.html
