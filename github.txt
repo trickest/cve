@@ -3280,6 +3280,7 @@ CVE-2012-0002 - https://github.com/TesterCC/exp_poc_library
 CVE-2012-0002 - https://github.com/anmolksachan/MS12-020
 CVE-2012-0002 - https://github.com/fei9747/WindowsElevation
 CVE-2012-0002 - https://github.com/hanc00l/some_pocsuite
+CVE-2012-0002 - https://github.com/osogi/NTO_2022
 CVE-2012-0002 - https://github.com/program-smith/THM-Blue
 CVE-2012-0002 - https://github.com/prsantos1/Exploring-MS12-020
 CVE-2012-0002 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
@@ -3384,6 +3385,7 @@ CVE-2012-0102 - https://github.com/tomwillfixit/alpine-cvecheck
 CVE-2012-0114 - https://github.com/tomwillfixit/alpine-cvecheck
 CVE-2012-0148 - https://github.com/BorjaMerino/Windows-One-Way-Stagers
 CVE-2012-0152 - https://github.com/anmolksachan/MS12-020
+CVE-2012-0152 - https://github.com/osogi/NTO_2022
 CVE-2012-0152 - https://github.com/program-smith/THM-Blue
 CVE-2012-0152 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2012-0158 - https://github.com/PWN-Kingdom/Test_Tasks
@@ -9462,6 +9464,7 @@ CVE-2016-5195 - https://github.com/nitishbadole/hacking_30
 CVE-2016-5195 - https://github.com/nixawk/labs
 CVE-2016-5195 - https://github.com/nullport/The-Security-Handbook
 CVE-2016-5195 - https://github.com/oneplus-x/MS17-010
+CVE-2016-5195 - https://github.com/osogi/NTO_2022
 CVE-2016-5195 - https://github.com/ozkanbilge/Linux-Kernel-Exploits
 CVE-2016-5195 - https://github.com/p00h00/linux-exploits
 CVE-2016-5195 - https://github.com/pathakabhi24/Awesome-C
@@ -10896,6 +10899,7 @@ CVE-2017-0144 - https://github.com/fernandopaezmartin/SAD_2021--Metasploit
 CVE-2017-0144 - https://github.com/geeksniper/active-directory-pentest
 CVE-2017-0144 - https://github.com/infosecn1nja/AD-Attack-Defense
 CVE-2017-0144 - https://github.com/mishmashclone/infosecn1nja-AD-Attack-Defense
+CVE-2017-0144 - https://github.com/osogi/NTO_2022
 CVE-2017-0144 - https://github.com/peterpt/eternal_scanner
 CVE-2017-0144 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2017-0144 - https://github.com/sunzu94/AD-Attack-Defense
@@ -15354,6 +15358,7 @@ CVE-2017-7494 - https://github.com/H4CK3RT3CH/Awesome-Pentest-Reference
 CVE-2017-7494 - https://github.com/Hemanthraju02/awesome-pentest
 CVE-2017-7494 - https://github.com/Jahismighty/pentest-apps
 CVE-2017-7494 - https://github.com/Jean-Francois-C/Boot2root-CTFs-Writeups
+CVE-2017-7494 - https://github.com/Kiosec/External-Enumeration
 CVE-2017-7494 - https://github.com/Micr067/linux-kernel-exploits
 CVE-2017-7494 - https://github.com/Mohamed8Saw/awesome-pentest
 CVE-2017-7494 - https://github.com/NCSU-DANCE-Research-Group/CDL
@@ -15509,6 +15514,7 @@ CVE-2017-7529 - https://github.com/tdcoming/Vulnerability-engine
 CVE-2017-7529 - https://github.com/woods-sega/woodswiki
 CVE-2017-7529 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2017-7529 - https://github.com/y1ng1996/w8scan
+CVE-2017-7533 - https://github.com/B-nD/report
 CVE-2017-7533 - https://github.com/Snoopy-Sec/Localroot-ALL-CVE
 CVE-2017-7533 - https://github.com/mudongliang/LinuxFlaw
 CVE-2017-7533 - https://github.com/oneoy/cve-
@@ -21685,6 +21691,7 @@ CVE-2018-7600 - https://github.com/nxme/php-uicode-issues-drupal
 CVE-2018-7600 - https://github.com/oneplus-x/MS17-010
 CVE-2018-7600 - https://github.com/oneplus-x/Sn1per
 CVE-2018-7600 - https://github.com/opflep/Drupalgeddon-Toolkit
+CVE-2018-7600 - https://github.com/osogi/NTO_2022
 CVE-2018-7600 - https://github.com/ozkanbilge/Payloads
 CVE-2018-7600 - https://github.com/pimps/CVE-2018-7600
 CVE-2018-7600 - https://github.com/qazbnm456/awesome-cve-poc
@@ -23696,6 +23703,7 @@ CVE-2019-1040 - https://github.com/tataev/Security
 CVE-2019-1040 - https://github.com/theyoge/AD-Pentesting-Tools
 CVE-2019-1040 - https://github.com/wzxmt/CVE-2019-1040
 CVE-2019-1040 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
+CVE-2019-1040 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2019-1040 - https://github.com/zer0yu/Intranet_Penetration_CheetSheets
 CVE-2019-10400 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-10406 - https://github.com/gmu-swe/rivulet
@@ -24783,6 +24791,7 @@ CVE-2019-11358 - https://github.com/TimeCrafters/UltimateGoal
 CVE-2019-11358 - https://github.com/TonyOkGo/15403-Freight-Frenzy
 CVE-2019-11358 - https://github.com/TonyStannk/Android-
 CVE-2019-11358 - https://github.com/ToothbrushB/FtcRobotController
+CVE-2019-11358 - https://github.com/TopGgg/BlackBeardFTC
 CVE-2019-11358 - https://github.com/TopGgg/FtcRobotController-BlackBeard2
 CVE-2019-11358 - https://github.com/Trandaf03/FTC2022
 CVE-2019-11358 - https://github.com/TrezzyOnCrack/FTC
@@ -26434,6 +26443,7 @@ CVE-2019-13767 - https://github.com/allpaca/chrome-sbx-db
 CVE-2019-13768 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-13768 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-1378 - https://github.com/alphaSeclab/sec-daily-2019
+CVE-2019-1384 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2019-1385 - https://github.com/0xT11/CVE-POC
 CVE-2019-1385 - https://github.com/SofianeHamlaoui/Conti-Clear
 CVE-2019-1385 - https://github.com/deadjakk/patch-checker
@@ -33910,6 +33920,7 @@ CVE-2020-1472 - https://github.com/422926799/CVE-2020-1472
 CVE-2020-1472 - https://github.com/61106960/adPEAS
 CVE-2020-1472 - https://github.com/Ascotbe/Kernelhub
 CVE-2020-1472 - https://github.com/Astrogeorgeonethree/Starred
+CVE-2020-1472 - https://github.com/B-nD/report
 CVE-2020-1472 - https://github.com/BC-SECURITY/Invoke-ZeroLogon
 CVE-2020-1472 - https://github.com/CPO-EH/CVE-2020-1472_ZeroLogonChecker
 CVE-2020-1472 - https://github.com/CanciuCostin/CVE-2020-1472
@@ -34025,6 +34036,7 @@ CVE-2020-1472 - https://github.com/t31m0/Zero
 CVE-2020-1472 - https://github.com/tonypurdy/Vulnerabilities
 CVE-2020-1472 - https://github.com/victim10wq3/CVE-2020-1472
 CVE-2020-1472 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
+CVE-2020-1472 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2020-1472 - https://github.com/zer010bs/zeroscan
 CVE-2020-1472 - https://github.com/zeronetworks/zerologon
 CVE-2020-14750 - https://github.com/ARPSyndicate/kenzer-templates
@@ -34745,6 +34757,7 @@ CVE-2020-17049 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-17049 - https://github.com/infosecn1nja/AD-Attack-Defense
 CVE-2020-17049 - https://github.com/kas0n/RedTeam-Articles
 CVE-2020-17049 - https://github.com/mishmashclone/infosecn1nja-AD-Attack-Defense
+CVE-2020-17049 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2020-17057 - https://github.com/Ascotbe/Kernelhub
 CVE-2020-17057 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-17057 - https://github.com/hectorgie/PoC-in-GitHub
@@ -40058,6 +40071,7 @@ CVE-2021-1675 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-1675 - https://github.com/wsummerhill/CobaltStrike_RedTeam_CheatSheet
 CVE-2021-1675 - https://github.com/xbufu/PrintNightmareCheck
 CVE-2021-1675 - https://github.com/yigitturak/Forensics
+CVE-2021-1675 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2021-1675 - https://github.com/yu2u/CVE-2021-1675
 CVE-2021-1675 - https://github.com/zeze-zeze/2021iThome
 CVE-2021-1675 - https://github.com/zha0/Microsoft-CVE-2021-1675
@@ -43749,6 +43763,7 @@ CVE-2021-34473 - https://github.com/izj007/wechat
 CVE-2021-34473 - https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell
 CVE-2021-34473 - https://github.com/mithridates1313/ProxyShell_POC
 CVE-2021-34473 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-34473 - https://github.com/osogi/NTO_2022
 CVE-2021-34473 - https://github.com/phamphuqui1998/CVE-2021-34473
 CVE-2021-34473 - https://github.com/psc4re/NSE-scripts
 CVE-2021-34473 - https://github.com/r0eXpeR/supplier
@@ -43882,6 +43897,7 @@ CVE-2021-34527 - https://github.com/vinaysudheer/Disable-Spooler-Service-PrintNi
 CVE-2021-34527 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-34527 - https://github.com/xbufu/PrintNightmareCheck
 CVE-2021-34527 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
+CVE-2021-34527 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2021-34547 - https://github.com/likhihcv/PRTG_Network_Monitor_20.1.55.1775_CSRF
 CVE-2021-34552 - https://github.com/nnrogers515/discord-coderbot
 CVE-2021-34558 - https://github.com/alexzorin/cve-2021-34558
@@ -45360,6 +45376,7 @@ CVE-2021-42278 - https://github.com/taielab/awesome-hacking-lists
 CVE-2021-42278 - https://github.com/vanhohen/ADNinja
 CVE-2021-42278 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-42278 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
+CVE-2021-42278 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2021-42282 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42282 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-42284 - https://github.com/cttynul/ana
@@ -45388,6 +45405,7 @@ CVE-2021-42287 - https://github.com/taielab/awesome-hacking-lists
 CVE-2021-42287 - https://github.com/vanhohen/ADNinja
 CVE-2021-42287 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-42287 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
+CVE-2021-42287 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2021-42291 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42291 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-42292 - https://github.com/ARPSyndicate/cvemon
@@ -47145,6 +47163,7 @@ CVE-2022-25375 - https://github.com/szymonh/rndis-co
 CVE-2022-25375 - https://github.com/szymonh/szymonh
 CVE-2022-25636 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25636 - https://github.com/Bonfee/CVE-2022-25636
+CVE-2022-25636 - https://github.com/carmilea/carmilea
 CVE-2022-25636 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25636 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2022-25943 - https://github.com/ARPSyndicate/cvemon
