@@ -31566,6 +31566,7 @@ CVE-2018-11628 - https://www.exploit-db.com/exploits/44831/
 CVE-2018-11646 - https://bugzilla.gnome.org/show_bug.cgi?id=795740
 CVE-2018-11646 - https://www.exploit-db.com/exploits/44842/
 CVE-2018-11646 - https://www.exploit-db.com/exploits/44876/
+CVE-2018-11647 - https://github.com/jaredhanson/oauth2orize-fprm/commit/2bf9faee787eb004abbdfb6f4cc2fb06653defd5
 CVE-2018-11649 - https://github.com/Blck4/HUE-Exploit
 CVE-2018-11652 - https://www.exploit-db.com/exploits/44899/
 CVE-2018-11654 - https://github.com/SadFud/Exploits/tree/master/Real%20World/SCADA%20-%20IOT%20Systems/CVE-2018-11654
@@ -34076,6 +34077,7 @@ CVE-2018-20472 - http://packetstormsecurity.com/files/153332/Sahi-Pro-8.x-Cross-
 CVE-2018-20472 - https://barriersec.com/2019/06/cve-2018-20472-sahi-pro/
 CVE-2018-20484 - http://packetstormsecurity.com/files/152793/Zoho-ManageEngine-ADSelfService-Plus-5.7-Cross-Site-Scripting.html
 CVE-2018-20485 - http://packetstormsecurity.com/files/152793/Zoho-ManageEngine-ADSelfService-Plus-5.7-Cross-Site-Scripting.html
+CVE-2018-20486 - https://github.com/Ppsoft1990/Metinfo6.1.3/issues/2
 CVE-2018-20487 - https://neonsea.uk/blog/2018/12/26/firewall-includes.html
 CVE-2018-20498 - https://gitlab.com/gitlab-org/gitlab-ce/issues/50995
 CVE-2018-20502 - https://github.com/axiomatic-systems/Bento4/issues/349
