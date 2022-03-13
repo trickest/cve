@@ -16445,6 +16445,7 @@ CVE-2014-100020 - http://www.exploit-db.com/exploits/31140
 CVE-2014-100022 - https://security.dxw.com/advisories/admin-xss-and-sqli-in-mtouch-quiz-3-0-6/
 CVE-2014-100023 - https://security.dxw.com/advisories/admin-xss-and-sqli-in-mtouch-quiz-3-0-6/
 CVE-2014-100025 - http://packetstormsecurity.com/files/125379
+CVE-2014-100027 - https://github.com/getusedtoit/wp-slimstat/issues/3
 CVE-2014-100028 - http://packetstormsecurity.com/files/124682
 CVE-2014-100029 - http://packetstormsecurity.com/files/125464
 CVE-2014-10003 - http://packetstormsecurity.com/files/124918
@@ -20055,6 +20056,8 @@ CVE-2014-9003 - http://packetstormsecurity.com/files/129091/Lantronix-xPrintServ
 CVE-2014-9006 - http://packetstormsecurity.com/files/129082/Monstra-3.0.1-Bruteforce-Mitigation-Bypass.html
 CVE-2014-9013 - https://www.exploit-db.com/exploits/36490/
 CVE-2014-9014 - https://www.exploit-db.com/exploits/36466/
+CVE-2014-9015 - https://www.drupal.org/SA-CORE-2014-006
+CVE-2014-9016 - https://www.drupal.org/SA-CORE-2014-006
 CVE-2014-9017 - http://packetstormsecurity.com/files/130723/OpenKM-Stored-Cross-Site-Scripting.html
 CVE-2014-9017 - http://seclists.org/fulldisclosure/2015/Mar/48
 CVE-2014-9017 - http://seclists.org/fulldisclosure/2015/Mar/51
