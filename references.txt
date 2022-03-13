@@ -3223,6 +3223,7 @@ CVE-2006-5787 - https://www.exploit-db.com/exploits/2731
 CVE-2006-5788 - https://www.exploit-db.com/exploits/2739
 CVE-2006-5790 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=392016
 CVE-2006-5791 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=392016
+CVE-2006-5793 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2006-5795 - https://www.exploit-db.com/exploits/2727
 CVE-2006-5796 - http://marc.info/?l=bugtraq&m=116283614914510&w=2
 CVE-2006-5796 - https://www.exploit-db.com/exploits/2724
@@ -4387,6 +4388,7 @@ CVE-2007-2442 - http://www.kb.cert.org/vuls/id/356961
 CVE-2007-2443 - http://web.mit.edu/kerberos/advisories/MITKRB5-SA-2007-004.txt
 CVE-2007-2443 - http://web.mit.edu/kerberos/www/advisories/MITKRB5-SA-2007-004.txt
 CVE-2007-2443 - http://www.kb.cert.org/vuls/id/365313
+CVE-2007-2445 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2007-2449 - http://community.ca.com/blogs/casecurityresponseblog/archive/2009/01/23.aspx
 CVE-2007-2450 - http://community.ca.com/blogs/casecurityresponseblog/archive/2009/01/23.aspx
 CVE-2007-2456 - https://www.exploit-db.com/exploits/3805
@@ -5192,6 +5194,10 @@ CVE-2007-5261 - https://www.exploit-db.com/exploits/4480
 CVE-2007-5262 - http://aluigi.altervista.org/adv/dropteamz-adv.txt
 CVE-2007-5263 - http://aluigi.altervista.org/adv/dropteamz-adv.txt
 CVE-2007-5264 - http://aluigi.altervista.org/adv/dropteamz-adv.txt
+CVE-2007-5266 - http://www.coresecurity.com/?action=item&id=2148
+CVE-2007-5267 - http://www.coresecurity.com/?action=item&id=2148
+CVE-2007-5268 - http://www.coresecurity.com/?action=item&id=2148
+CVE-2007-5269 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2007-5269 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-5271 - https://www.exploit-db.com/exploits/4485
 CVE-2007-5272 - https://www.exploit-db.com/exploits/4486
@@ -6175,6 +6181,8 @@ CVE-2008-0978 - http://aluigi.altervista.org/adv/doubletakedown-adv.txt
 CVE-2008-0978 - http://aluigi.org/poc/doubletakedown.zip
 CVE-2008-0979 - http://aluigi.altervista.org/adv/doubletakedown-adv.txt
 CVE-2008-0979 - http://aluigi.org/poc/doubletakedown.zip
+CVE-2008-0985 - http://www.coresecurity.com/?action=item&id=2148
+CVE-2008-0986 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2008-1038 - https://www.exploit-db.com/exploits/5189
 CVE-2008-1039 - https://www.exploit-db.com/exploits/5185
 CVE-2008-1042 - https://www.exploit-db.com/exploits/5183
@@ -7706,6 +7714,7 @@ CVE-2008-4526 - https://www.exploit-db.com/exploits/6663
 CVE-2008-4527 - https://www.exploit-db.com/exploits/6683
 CVE-2008-4528 - https://www.exploit-db.com/exploits/6667
 CVE-2008-4529 - https://www.exploit-db.com/exploits/6685
+CVE-2008-4546 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
 CVE-2008-4547 - https://www.exploit-db.com/exploits/4903
 CVE-2008-4548 - https://www.exploit-db.com/exploits/4918
 CVE-2008-4549 - https://www.exploit-db.com/exploits/4981
@@ -10361,6 +10370,7 @@ CVE-2009-3762 - http://www.oracle.com/technetwork/topics/security/cpuoct2010-175
 CVE-2009-3763 - http://www.oracle.com/technetwork/topics/security/cpuoct2010-175626.html
 CVE-2009-3764 - http://www.oracle.com/technetwork/topics/security/cpuoct2010-175626.html
 CVE-2009-3787 - http://www.waraxe.us/advisory-75.html
+CVE-2009-3793 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
 CVE-2009-3805 - http://www.packetstormsecurity.com/0910-exploits/gpg2kleo-dos.txt
 CVE-2009-3807 - http://www.exploit-db.com/exploits/9147
 CVE-2009-3808 - http://www.exploit-db.com/exploits/9178
@@ -10931,6 +10941,7 @@ CVE-2010-1296 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2010-4940.php
 CVE-2010-1297 - http://blog.zynamics.com/2010/06/09/analyzing-the-currently-exploited-0-day-for-adobe-reader-and-adobe-flash/
 CVE-2010-1297 - http://www.exploit-db.com/exploits/13787
 CVE-2010-1297 - http://www.kb.cert.org/vuls/id/486225
+CVE-2010-1297 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
 CVE-2010-1299 - http://www.exploit-db.com/exploits/11994
 CVE-2010-1301 - http://www.exploit-db.com/exploits/11979
 CVE-2010-1306 - http://www.exploit-db.com/exploits/12058
@@ -11110,6 +11121,34 @@ CVE-2010-2137 - http://www.exploit-db.com/exploits/11587
 CVE-2010-2138 - http://www.exploit-db.com/exploits/11587
 CVE-2010-2143 - http://www.exploit-db.com/exploits/12809
 CVE-2010-2153 - http://cross-site-scripting.blogspot.com/2010/06/tcexam-101006-arbitrary-upload.html
+CVE-2010-2160 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2161 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2162 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2163 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2164 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2165 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2166 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2167 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2169 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2170 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2171 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2172 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2173 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2174 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2175 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2176 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2177 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2178 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2179 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2180 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2181 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2182 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2183 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2184 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2185 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2186 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2187 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
+CVE-2010-2188 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
 CVE-2010-2226 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-2227 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-2235 - http://people.fedoraproject.org/~shenson/cobbler/cobbler-2.0.8.tar.gz
@@ -36319,6 +36358,7 @@ CVE-2019-10855 - https://applied-risk.com/labs/advisories
 CVE-2019-10863 - https://pentest.com.tr/exploits/TeemIp-IPAM-2-4-0-new-config-Command-Injection-Metasploit.html
 CVE-2019-10863 - https://www.exploit-db.com/exploits/46641
 CVE-2019-10863 - https://www.exploit-db.com/exploits/46641/
+CVE-2019-10864 - https://medium.com/@aramburu/cve-2019-10864-wordpress-7aebc24751c4
 CVE-2019-10866 - http://seclists.org/fulldisclosure/2019/May/8
 CVE-2019-10867 - http://packetstormsecurity.com/files/152667/Pimcore-Unserialize-Remote-Code-Execution.html
 CVE-2019-10867 - https://www.exploit-db.com/exploits/46783/
@@ -38384,6 +38424,7 @@ CVE-2019-18203 - https://medium.com/zero2flag/cve-2019-18203-bfa65918e591
 CVE-2019-1821 - http://packetstormsecurity.com/files/153350/Cisco-Prime-Infrastructure-Health-Monitor-TarArchive-Directory-Traversal.html
 CVE-2019-18212 - https://www.shielder.it/blog/dont-open-that-xml-xxe-to-rce-in-xml-plugins-for-vs-code-eclipse-theia/
 CVE-2019-18213 - https://www.shielder.it/blog/dont-open-that-xml-xxe-to-rce-in-xml-plugins-for-vs-code-eclipse-theia/
+CVE-2019-18216 - https://blog.modpr0.be/2019/10/18/asus-rog-bios-reset-on-lost-battery-power/
 CVE-2019-18221 - https://vuldb.com/?id.144170
 CVE-2019-18276 - http://packetstormsecurity.com/files/155498/Bash-5.0-Patch-11-Privilege-Escalation.html
 CVE-2019-18277 - https://nathandavison.com/blog/haproxy-http-request-smuggling
@@ -42412,6 +42453,7 @@ CVE-2020-18221 - https://github.com/typora/typora-issues/issues/2204
 CVE-2020-18259 - https://github.com/chilin89117/ED01-CMS/issues/1
 CVE-2020-18261 - https://github.com/chilin89117/ED01-CMS/issues/2
 CVE-2020-18265 - https://github.com/github123abc123/bird/issues/1
+CVE-2020-18325 - https://github.com/hamm0nz/CVE-2020-18325
 CVE-2020-18326 - https://github.com/hamm0nz/CVE-2020-18326
 CVE-2020-18327 - https://gist.github.com/paatui/a3c7ca8cf12594b437d3854f13d76cb8
 CVE-2020-18395 - http://lists.gnu.org/archive/html/bug-gama/2019-04/msg00001.html
@@ -49403,6 +49445,7 @@ CVE-2022-25418 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/2
 CVE-2022-25506 - https://github.com/FreeTAKTeam/UI/issues/27
 CVE-2022-25553 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/7
 CVE-2022-25555 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/2
+CVE-2022-25636 - https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/
 CVE-2022-25839 - https://snyk.io/vuln/SNYK-JS-URLJS-2414030
 CVE-2022-26143 - https://team-cymru.com/blog/2022/03/08/record-breaking-ddos-potential-discovered-cve-2022-26143/
 CVE-2022-26159 - https://podalirius.net/en/cves/2022-26159/
@@ -49412,3 +49455,4 @@ CVE-2022-26495 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26496 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.17
 CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.3
+CVE-2022-26966 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
