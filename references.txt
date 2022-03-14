@@ -58,6 +58,7 @@ CVE-2001-0464 - http://marc.info/?l=bugtraq&m=98761402029302&w=2
 CVE-2001-0465 - http://www.turbotax.com/atr/update/
 CVE-2001-0486 - http://marc.info/?l=bugtraq&m=98865027328391&w=2
 CVE-2001-0498 - http://www.nai.com/research/covert/advisories/049.asp
+CVE-2001-0499 - http://www.nai.com/research/covert/advisories/050.asp
 CVE-2001-0548 - http://marc.info/?l=bugtraq&m=99598918914068&w=2
 CVE-2001-0550 - http://marc.info/?l=bugtraq&m=100700363414799&w=2
 CVE-2001-0554 - http://www.redhat.com/support/errata/RHSA-2001-099.html
@@ -28837,6 +28838,7 @@ CVE-2017-18635 - https://www.shielder.it/blog/exploiting-an-old-novnc-xss-cve-20
 CVE-2017-18638 - https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html#second-bug-internal-graphite-ssrf
 CVE-2017-18639 - https://www.exploit-db.com/exploits/42792
 CVE-2017-18738 - https://kb.netgear.com/000051517/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-and-Extenders-PSV-2017-0706
+CVE-2017-18761 - https://kb.netgear.com/000051484/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-R8000-PSV-2017-2229
 CVE-2017-18924 - https://codeburst.io/missing-the-point-in-securing-oauth-2-0-83968708b467
 CVE-2017-18926 - https://www.openwall.com/lists/oss-security/2017/06/07/1
 CVE-2017-2096 - http://jvn.jp/en/jp/JVN50197114/index.html
@@ -30289,6 +30291,7 @@ CVE-2017-9080 - https://www.exploit-db.com/exploits/44599/
 CVE-2017-9083 - https://bugs.freedesktop.org/show_bug.cgi?id=101084
 CVE-2017-9085 - https://packetstormsecurity.com/files/142587/Kodak-InSite-8.0-Cross-Site-Scripting.html
 CVE-2017-9095 - https://www.exploit-db.com/exploits/43187/
+CVE-2017-9098 - http://www.securityfocus.com/bid/98593
 CVE-2017-9100 - https://www.exploit-db.com/exploits/42039/
 CVE-2017-9101 - https://www.exploit-db.com/exploits/42044/
 CVE-2017-9101 - https://www.exploit-db.com/exploits/44598/
