@@ -1888,7 +1888,9 @@ CVE-2006-0156 - http://securityreason.com/securityalert/325
 CVE-2006-0160 - http://evuln.com/vulns/21/summary.html
 CVE-2006-0160 - http://securityreason.com/securityalert/326
 CVE-2006-0167 - http://evuln.com/vulns/22/summary.html
+CVE-2006-0167 - http://www.securityfocus.com/archive/1/421863/100/0/threaded
 CVE-2006-0168 - http://evuln.com/vulns/22/summary.html
+CVE-2006-0168 - http://www.securityfocus.com/archive/1/421863/100/0/threaded
 CVE-2006-0169 - http://evuln.com/vulns/23/summary.html
 CVE-2006-0179 - https://www.exploit-db.com/exploits/1411
 CVE-2006-0180 - http://evuln.com/vulns/24/summary.html
@@ -41807,6 +41809,7 @@ CVE-2020-14408 - https://github.com/agentejo/cockpit/issues/1310
 CVE-2020-14409 - https://bugzilla.libsdl.org/show_bug.cgi?id=5200
 CVE-2020-14410 - https://bugzilla.libsdl.org/show_bug.cgi?id=5200
 CVE-2020-14416 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.16
+CVE-2020-14418 - https://labs.nettitude.com/blog/cve-2020-14418-madcodehook-library-local-privilege-escalation/
 CVE-2020-14421 - http://packetstormsecurity.com/files/159575/aaPanel-6.6.6-Privilege-Escalation.html
 CVE-2020-14421 - https://github.com/jenaye/aapanel
 CVE-2020-14422 - https://www.oracle.com/security-alerts/cpujan2021.html
@@ -49124,6 +49127,7 @@ CVE-2022-0319 - https://huntr.dev/bounties/ba622fd2-e6ef-4ad9-95b4-17f87b68755b
 CVE-2022-0323 - https://huntr.dev/bounties/a5f5a988-aa52-4443-839d-299a63f44fb7
 CVE-2022-0326 - https://huntr.dev/bounties/795dcbd9-1695-44bb-8c59-ad327c97c976
 CVE-2022-0339 - https://huntr.dev/bounties/499688c4-6ac4-4047-a868-7922c3eab369
+CVE-2022-0341 - https://huntr.dev/bounties/fa546b57-bc15-4705-824e-9474b616f628
 CVE-2022-0348 - https://huntr.dev/bounties/250e79be-7e5d-4ba3-9c34-655e39ade2f4
 CVE-2022-0351 - https://huntr.dev/bounties/8b36db58-b65c-4298-be7f-40b9e37fd161
 CVE-2022-0352 - https://huntr.dev/bounties/a577ff17-2ded-4c41-84ae-6ac02440f717
@@ -49238,6 +49242,7 @@ CVE-2022-0726 - https://huntr.dev/bounties/8928ab08-7fcb-475e-8da7-18e8412c1ac3
 CVE-2022-0727 - https://huntr.dev/bounties/d1faa10f-0640-480c-bb52-089adb351e6e
 CVE-2022-0729 - https://huntr.dev/bounties/f3f3d992-7bd6-4ee5-a502-ae0e5f8016ea
 CVE-2022-0731 - https://huntr.dev/bounties/e242ab4e-fc70-4b2c-a42d-5b3ee4895de8
+CVE-2022-0732 - https://techcrunch.com/2022/02/22/stalkerware-network-spilling-data/
 CVE-2022-0743 - https://huntr.dev/bounties/32ea4ddb-5b41-4bf9-b5a1-ef455fe2d293
 CVE-2022-0746 - https://huntr.dev/bounties/b812ea22-0c02-46fe-b89f-04519dfb1ebd
 CVE-2022-0752 - https://huntr.dev/bounties/49940dd2-72c2-4607-857a-1fade7e8f080
@@ -49297,6 +49302,12 @@ CVE-2022-0928 - https://huntr.dev/bounties/085aafdd-ba50-44c7-9650-fa573da29bcd
 CVE-2022-0929 - https://huntr.dev/bounties/66abf7ec-2dd7-4cb7-87f5-e91375883f03
 CVE-2022-0930 - https://huntr.dev/bounties/d184ce19-9608-42f1-bc3d-06ece2d9a993
 CVE-2022-0937 - https://huntr.dev/bounties/6127739d-f4f2-44cd-ae3d-e3ccb7f0d7b5
+CVE-2022-0938 - https://huntr.dev/bounties/3eb5a8f9-24e3-4eae-a212-070b2fbc237e
+CVE-2022-0940 - https://huntr.dev/bounties/856bd2e2-db4f-4b7d-9927-222261ae3782
+CVE-2022-0941 - https://huntr.dev/bounties/040a910e-e689-4fcb-9e4f-95206515d1bc
+CVE-2022-0946 - https://huntr.dev/bounties/1f8f0021-396e-428e-9748-dd4e359715e1
+CVE-2022-0960 - https://huntr.dev/bounties/462cd8a7-b1a9-4e93-af71-b56ba1d7ad4e
+CVE-2022-0962 - https://huntr.dev/bounties/7ebe3e5f-2c86-44de-b83e-2ddb6bbda908
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
