@@ -9447,6 +9447,7 @@ CVE-2009-0778 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0781 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0783 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-0787 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-0788 - http://www.redhat.com/support/errata/RHSA-2011-0434.html
 CVE-2009-0792 - http://www.redhat.com/support/errata/RHSA-2009-0420.html
 CVE-2009-0799 - http://www.kb.cert.org/vuls/id/196617
 CVE-2009-0800 - http://www.kb.cert.org/vuls/id/196617
@@ -10894,6 +10895,7 @@ CVE-2010-1157 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-1158 - http://www.openwall.com/lists/oss-security/2010/04/08/9
 CVE-2010-1158 - http://www.openwall.com/lists/oss-security/2010/04/14/3
 CVE-2010-1158 - https://bugzilla.redhat.com/show_bug.cgi?id=580605
+CVE-2010-1171 - http://www.redhat.com/support/errata/RHSA-2011-0434.html
 CVE-2010-1173 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-1176 - http://www.exploit-db.com/exploits/11891
 CVE-2010-1179 - http://www.exploit-db.com/exploits/11890
@@ -16738,6 +16740,7 @@ CVE-2014-2178 - http://packetstormsecurity.com/files/128992/Cisco-RV-Overwrite-C
 CVE-2014-2178 - http://seclists.org/fulldisclosure/2014/Nov/6
 CVE-2014-2179 - http://packetstormsecurity.com/files/128992/Cisco-RV-Overwrite-CSRF-Command-Execution.html
 CVE-2014-2179 - http://seclists.org/fulldisclosure/2014/Nov/6
+CVE-2014-2198 - http://www.securityfocus.com/bid/68334
 CVE-2014-2206 - http://www.rcesecurity.com/2014/03/cve-2014-2206-getgo-download-manager-http-response-header-buffer-overflow-remote-code-execution
 CVE-2014-2223 - http://packetstormsecurity.com/files/128029/Plogger-Authenticated-Arbitrary-File-Upload.html
 CVE-2014-2225 - http://seclists.org/fulldisclosure/2014/Jul/126
@@ -24339,6 +24342,7 @@ CVE-2016-3688 - http://seclists.org/fulldisclosure/2016/Apr/11
 CVE-2016-3688 - http://seclists.org/fulldisclosure/2016/Apr/5
 CVE-2016-3694 - http://packetstormsecurity.com/files/136734/modified-eCommerce-2.0.0.0-Rev-9678-SQL-Injection.html
 CVE-2016-3694 - https://www.exploit-db.com/exploits/39710/
+CVE-2016-3697 - https://github.com/opencontainers/runc/pull/708
 CVE-2016-3705 - http://www.oracle.com/technetwork/topics/security/linuxbulletinjul2016-3090544.html
 CVE-2016-3714 - http://packetstormsecurity.com/files/152364/ImageTragick-ImageMagick-Proof-Of-Concepts.html
 CVE-2016-3714 - http://www.openwall.com/lists/oss-security/2016/05/03/13
@@ -25451,6 +25455,7 @@ CVE-2016-8654 - https://github.com/mdadams/jasper/issues/94
 CVE-2016-8655 - http://packetstormsecurity.com/files/140063/Linux-Kernel-4.4.0-AF_PACKET-Race-Condition-Privilege-Escalation.html
 CVE-2016-8655 - https://www.exploit-db.com/exploits/40871/
 CVE-2016-8655 - https://www.exploit-db.com/exploits/44696/
+CVE-2016-8661 - https://speakerdeck.com/patrickwardle/defcon-2016-i-got-99-problems-but-little-snitch-aint-one
 CVE-2016-8676 - http://www.openwall.com/lists/oss-security/2016/12/04/3
 CVE-2016-8676 - https://blogs.gentoo.org/ago/2016/12/01/libav-multiple-crashes-from-the-undefined-behavior-sanitizer/
 CVE-2016-8704 - http://www.talosintelligence.com/reports/TALOS-2016-0219/
@@ -35673,6 +35678,9 @@ CVE-2018-8880 - https://www.exploit-db.com/exploits/44488/
 CVE-2018-8881 - https://bugzilla.nasm.us/show_bug.cgi?id=3392446
 CVE-2018-8882 - https://bugzilla.nasm.us/show_bug.cgi?id=3392445
 CVE-2018-8883 - https://bugzilla.nasm.us/show_bug.cgi?id=3392447
+CVE-2018-8888 - http://support.blackberry.com/kb/articleDetail?articleNumber=000054162
+CVE-2018-8891 - http://support.blackberry.com/kb/articleDetail?articleNumber=000054162
+CVE-2018-8892 - http://support.blackberry.com/kb/articleDetail?articleNumber=000054162
 CVE-2018-8894 - https://github.com/D0neMkj/POC_BSOD/tree/master/2345%20security%20guard/0x00222108
 CVE-2018-8895 - https://github.com/D0neMkj/POC_BSOD/tree/master/2345%20security%20guard/2345DumpBlock.sys-0x00222040
 CVE-2018-8896 - https://github.com/D0neMkj/POC_BSOD/tree/master/2345%20security%20guard/2345DumpBlock.sys-0x00222044
@@ -43894,6 +43902,7 @@ CVE-2020-28190 - https://www.ihteam.net/advisory/terramaster-tos-multiple-vulner
 CVE-2020-28198 - https://github.com/VoidSec/Exploit-Development/blob/master/windows/x86/local/IBM_ITSM_Administrator_Client_v.5.2.0.1/IBM_TSM_v.5.2.0.1_exploit.py
 CVE-2020-28198 - https://voidsec.com/tivoli-madness/#IBM_Tivoli_Storage_Manager
 CVE-2020-28199 - https://aramido.de/media/aramido-2020-006-disclosure-amazon-secret-access-key.md
+CVE-2020-28206 - https://justrealstag.medium.com/user-enumeration-improper-restriction-of-excessive-authentication-attempts-in-bitrix-98933a97e0e6
 CVE-2020-28208 - http://packetstormsecurity.com/files/160845/Rocket.Chat-3.7.1-Email-Address-Enumeration.html
 CVE-2020-28208 - http://seclists.org/fulldisclosure/2021/Jan/32
 CVE-2020-28208 - http://seclists.org/fulldisclosure/2021/Jan/43
@@ -49305,6 +49314,7 @@ CVE-2022-0937 - https://huntr.dev/bounties/6127739d-f4f2-44cd-ae3d-e3ccb7f0d7b5
 CVE-2022-0938 - https://huntr.dev/bounties/3eb5a8f9-24e3-4eae-a212-070b2fbc237e
 CVE-2022-0940 - https://huntr.dev/bounties/856bd2e2-db4f-4b7d-9927-222261ae3782
 CVE-2022-0941 - https://huntr.dev/bounties/040a910e-e689-4fcb-9e4f-95206515d1bc
+CVE-2022-0943 - https://huntr.dev/bounties/9e4de32f-ad5f-4830-b3ae-9467b5ab90a1
 CVE-2022-0946 - https://huntr.dev/bounties/1f8f0021-396e-428e-9748-dd4e359715e1
 CVE-2022-0960 - https://huntr.dev/bounties/462cd8a7-b1a9-4e93-af71-b56ba1d7ad4e
 CVE-2022-0962 - https://huntr.dev/bounties/7ebe3e5f-2c86-44de-b83e-2ddb6bbda908

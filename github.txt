@@ -5971,6 +5971,7 @@ CVE-2015-1032 - https://github.com/andir/nixos-issue-db-example
 CVE-2015-1130 - https://github.com/svartkanin/source_code_analyzer
 CVE-2015-1130 - https://github.com/univ-of-utah-marriott-library-apple/suid_scan
 CVE-2015-1140 - https://github.com/pandazheng/IosHackStudy
+CVE-2015-1142857 - https://github.com/h-sendai/pause-read-trend
 CVE-2015-1157 - https://github.com/perillamint/CVE-2015-1157
 CVE-2015-1164 - https://github.com/ilmila/J2EEScan
 CVE-2015-1175 - https://github.com/zapalm/prestashop-security-vulnerability-checker
@@ -24146,6 +24147,7 @@ CVE-2019-11358 - https://github.com/AbbyW89/something-real
 CVE-2019-11358 - https://github.com/AbyssOnGFuel/FTC-10332-TeamCode
 CVE-2019-11358 - https://github.com/Adna-Robotics/FTC-2020
 CVE-2019-11358 - https://github.com/AfraIsNotAvailable/Phoenix62
+CVE-2019-11358 - https://github.com/Al-Tex/RobotController7.1
 CVE-2019-11358 - https://github.com/AlejandroE25/TNT-Robot-Controller
 CVE-2019-11358 - https://github.com/AlessioToniolo/FTC-PID
 CVE-2019-11358 - https://github.com/Alokxmathur/FreightFrenzy
@@ -24372,6 +24374,7 @@ CVE-2019-11358 - https://github.com/FTC14133/FTC14133-2020-2021
 CVE-2019-11358 - https://github.com/FTC14691-MechanicalMafia/2022_21_FreightFrenzy_14691
 CVE-2019-11358 - https://github.com/FTC16751/FtcRobotControllerTesting
 CVE-2019-11358 - https://github.com/FTC16854/FtcRobotController-FreightFrenzy
+CVE-2019-11358 - https://github.com/FTC19427/Robot_Code
 CVE-2019-11358 - https://github.com/FTC20325MaximumResistance/Robot-code
 CVE-2019-11358 - https://github.com/FTC20337-SayWatt/2022_21_FreightFrenzy_20337
 CVE-2019-11358 - https://github.com/FTC207/TestBotPractice
@@ -24797,6 +24800,7 @@ CVE-2019-11358 - https://github.com/TonyStannk/Android-
 CVE-2019-11358 - https://github.com/ToothbrushB/FtcRobotController
 CVE-2019-11358 - https://github.com/TopGgg/BlackBeardFTC
 CVE-2019-11358 - https://github.com/TopGgg/FtcRobotController-BlackBeard2
+CVE-2019-11358 - https://github.com/TopGgg/FtcRobotController-BlackBeard3
 CVE-2019-11358 - https://github.com/Trandaf03/FTC2022
 CVE-2019-11358 - https://github.com/TrezzyOnCrack/FTC
 CVE-2019-11358 - https://github.com/TrojanDotEXE/FTC-Trojan.exe
@@ -43496,6 +43500,7 @@ CVE-2021-3310 - https://github.com/piffd0s/CVE-2021-3310
 CVE-2021-3317 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3317 - https://github.com/Al1ex/CVE-2021-3317
 CVE-2021-3317 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-33193 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-33193 - https://github.com/CHYbeta/OddProxyDemo
 CVE-2021-33193 - https://github.com/austin-lai/External-Penetration-Testing-Holo-Corporate-Network-TryHackMe-Holo-Network
 CVE-2021-33193 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -46598,6 +46603,7 @@ CVE-2022-0847 - https://github.com/Ignitetechnologies/Linux-Privilege-Escalation
 CVE-2022-0847 - https://github.com/Metarget/metarget
 CVE-2022-0847 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-0847 - https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit
+CVE-2022-0847 - https://github.com/Shotokhan/cve_2022_0847_shellcode
 CVE-2022-0847 - https://github.com/SnailDev/github-hot-hub
 CVE-2022-0847 - https://github.com/T4t4ru/CVE-2022-0847
 CVE-2022-0847 - https://github.com/Udyz/CVE-2022-0847
@@ -47079,6 +47085,8 @@ CVE-2022-24112 - https://github.com/Udyz/CVE-2022-24112
 CVE-2022-24112 - https://github.com/binganao/vulns-2022
 CVE-2022-24112 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-24112 - https://github.com/shakeman8/CVE-2022-24112
+CVE-2022-24122 - https://github.com/meowmeowxw/CVE-2022-24122
+CVE-2022-24122 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-24123 - https://github.com/wuhan005/wuhan005
 CVE-2022-24124 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-24124 - https://github.com/ARPSyndicate/kenzer-templates
