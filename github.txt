@@ -2111,6 +2111,7 @@ CVE-2010-0982 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2010-0985 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2010-1056 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2010-1081 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2010-1122 - https://github.com/nicolaurech/inspector-checker
 CVE-2010-1146 - https://github.com/Al1ex/LinuxEelvation
 CVE-2010-1146 - https://github.com/C0dak/linux-kernel-exploits
 CVE-2010-1146 - https://github.com/De4dCr0w/Linux-kernel-EoP-exp
@@ -24277,6 +24278,7 @@ CVE-2019-11358 - https://github.com/DanielRuf/snyk-js-jquery-565129
 CVE-2019-11358 - https://github.com/DarkMatter4150/FreightFrenzy2
 CVE-2019-11358 - https://github.com/DavidBNolen/Goal-BotFtc
 CVE-2019-11358 - https://github.com/DeanNevan/FtcRobotController-RBServer
+CVE-2019-11358 - https://github.com/Delta11225/11225FreightFrenzy
 CVE-2019-11358 - https://github.com/Delta11225/11225FreightFrenzyObjectRecognition
 CVE-2019-11358 - https://github.com/DeltaRobotics-FTC/DR_20-21SDK6.1
 CVE-2019-11358 - https://github.com/DeltaRobotics-FTC/DR_2021_Offseason
@@ -24661,7 +24663,9 @@ CVE-2019-11358 - https://github.com/QASMT-FTC/FTC-13626-Team2
 CVE-2019-11358 - https://github.com/R3Vipers/test
 CVE-2019-11358 - https://github.com/RO028-ArchiTechs/Game-Changers-ArchiTechs
 CVE-2019-11358 - https://github.com/RPHS-Tesseract/2021-DAFFY
+CVE-2019-11358 - https://github.com/RaSky-122/Freight-Frenzy-RCv7.1
 CVE-2019-11358 - https://github.com/RaSky-122/FreightFrenzy_RCv7
+CVE-2019-11358 - https://github.com/RaSky-122/Ultimate-Goal-RCv6.0
 CVE-2019-11358 - https://github.com/RahulB640/FTCFreightFrenzy2021-2022
 CVE-2019-11358 - https://github.com/RainaShapur/Basic-FTC-program
 CVE-2019-11358 - https://github.com/RambaMamba/FTCSTALLIONS
@@ -25087,6 +25091,7 @@ CVE-2019-11358 - https://github.com/hortonvilleroboticskung/UltimateGoal
 CVE-2019-11358 - https://github.com/hydropony/FreightFrenzy11044
 CVE-2019-11358 - https://github.com/iklein53579/FTCRobotController
 CVE-2019-11358 - https://github.com/imaperson1060/Ftc22
+CVE-2019-11358 - https://github.com/importTahsinZaman/Robotics
 CVE-2019-11358 - https://github.com/imsa-ftc-robotics/UltimateGoalMeet1
 CVE-2019-11358 - https://github.com/invjar/FTCtesting
 CVE-2019-11358 - https://github.com/isaackrementsov/ultimate-goal
@@ -35973,7 +35978,6 @@ CVE-2020-25515 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-25515 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-25518 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-25518 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2020-25518 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-25528 - https://github.com/noobpk/noobpk
 CVE-2020-2553 - https://github.com/5l1v3r1/CVE-2020-2553
 CVE-2020-2553 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -44556,6 +44560,7 @@ CVE-2021-39150 - https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC
 CVE-2021-39150 - https://github.com/zwjjustdoit/Xstream-1.4.17
 CVE-2021-39152 - https://github.com/wh1t3p1g/tabby
 CVE-2021-39152 - https://github.com/zwjjustdoit/Xstream-1.4.17
+CVE-2021-39165 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-39201 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-39204 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-39206 - https://github.com/p1ay8y3ar/cve_monitor
@@ -44602,6 +44607,7 @@ CVE-2021-39433 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3944 - https://github.com/Haxatron/Haxatron
 CVE-2021-3945 - https://github.com/0x0021h/expbox
 CVE-2021-3945 - https://github.com/noobpk/noobpk
+CVE-2021-3945 - https://github.com/pythonman083/expbox
 CVE-2021-39475 - https://github.com/W4RCL0UD/CVE-2021-39475
 CVE-2021-39476 - https://github.com/W4RCL0UD/CVE-2021-39476
 CVE-2021-3950 - https://github.com/noobpk/noobpk
@@ -45081,6 +45087,7 @@ CVE-2021-41349 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-41349 - https://github.com/cepxeo/pentest_notes
 CVE-2021-41349 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41349 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-41349 - https://github.com/pythonman083/expbox
 CVE-2021-41351 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41351 - https://github.com/JaneMandy/CVE-2021-41351-POC
 CVE-2021-41351 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -46126,7 +46133,6 @@ CVE-2021-44255 - https://github.com/pizza-power/motioneye-authenticated-RCE
 CVE-2021-44270 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44270 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-4428 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-4428 - https://github.com/kward/log4sh
 CVE-2021-4428 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-44352 - https://github.com/zhlu32/cve
 CVE-2021-4438 - https://github.com/ARPSyndicate/cvemon
@@ -46785,6 +46791,7 @@ CVE-2022-21907 - https://github.com/michelep/CVE-2022-21907-Vulnerability-PoC
 CVE-2022-21907 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21907 - https://github.com/open-source-agenda/new-open-source-projects
 CVE-2022-21907 - https://github.com/p0dalirius/CVE-2022-21907-http.sys
+CVE-2022-21907 - https://github.com/p0dalirius/p0dalirius
 CVE-2022-21907 - https://github.com/pcgeek86/aws-systemsmanager-publicdocuments
 CVE-2022-21907 - https://github.com/tanjiti/sec_profile
 CVE-2022-21907 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
@@ -46802,6 +46809,7 @@ CVE-2022-21974 - https://github.com/0vercl0k/CVE-2022-21974
 CVE-2022-21974 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-21974 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21986 - https://github.com/xt0rted/dotnet-sdk-updater
+CVE-2022-21990 - https://github.com/klinix5/ReverseRDP_RCE
 CVE-2022-21997 - https://github.com/Getshell/WindowsTQ
 CVE-2022-21997 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21999 - https://github.com/ARPSyndicate/cvemon
@@ -46837,6 +46845,7 @@ CVE-2022-22644 - https://github.com/karimhabush/cyberowl
 CVE-2022-22651 - https://github.com/karimhabush/cyberowl
 CVE-2022-22657 - https://github.com/karimhabush/cyberowl
 CVE-2022-22660 - https://github.com/houjingyi233/macOS-iOS-system-security
+CVE-2022-22660 - https://github.com/insidegui/CoreFollowUpAttack
 CVE-2022-22660 - https://github.com/karimhabush/cyberowl
 CVE-2022-22664 - https://github.com/karimhabush/cyberowl
 CVE-2022-22665 - https://github.com/karimhabush/cyberowl
