@@ -24264,6 +24264,7 @@ CVE-2019-11358 - https://github.com/Clayton-Toste/ScotboticsFreightFrenzy
 CVE-2019-11358 - https://github.com/CommandoRobotics/FTC6042_FreightFrenzy_2021
 CVE-2019-11358 - https://github.com/CommandoRobotics/FTC6042_UltimateGoal_2020
 CVE-2019-11358 - https://github.com/Coruptee/ICS_Robotics
+CVE-2019-11358 - https://github.com/Coshe69/FTC-HB-FreightFrenzy
 CVE-2019-11358 - https://github.com/Cote411/15643-FTC-Code
 CVE-2019-11358 - https://github.com/CouGears/FTC_2021-2022
 CVE-2019-11358 - https://github.com/Cris581416/18490-Season-2021
@@ -24600,6 +24601,7 @@ CVE-2019-11358 - https://github.com/NerdyNarwhalPro/2020-21-UltimateGoal
 CVE-2019-11358 - https://github.com/NewTech-CoppellCompSci/FtcRobotController-Racecar
 CVE-2019-11358 - https://github.com/NicholasBlackburn1/Ftc-SKyStone-2020-2021
 CVE-2019-11358 - https://github.com/Nikarton123/FTCUltimateGoal
+CVE-2019-11358 - https://github.com/Niskayuna-RoboWarriors/ftc-2021
 CVE-2019-11358 - https://github.com/NotJosh12835/freight-frenzy
 CVE-2019-11358 - https://github.com/NovaKnight14691/ftc14691-disabled
 CVE-2019-11358 - https://github.com/NovaKnight14691/ftc_14691
@@ -35897,7 +35899,6 @@ CVE-2020-25487 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-25487 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-25488 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-25488 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2020-25488 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-25493 - https://github.com/c3r34lk1ll3r/decrypt-oclean-traffic
 CVE-2020-25495 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-25498 - https://github.com/developer3000S/PoC-in-GitHub
@@ -42945,6 +42946,7 @@ CVE-2021-30955 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-30955 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2021-30955 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-30955 - https://github.com/open-source-agenda/new-open-source-projects
+CVE-2021-30955 - https://github.com/tanjiti/sec_profile
 CVE-2021-30970 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2021-30970 - https://github.com/joydo/CVE-Writeups
 CVE-2021-30975 - https://github.com/houjingyi233/macOS-iOS-system-security
@@ -44560,6 +44562,7 @@ CVE-2021-39150 - https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC
 CVE-2021-39150 - https://github.com/zwjjustdoit/Xstream-1.4.17
 CVE-2021-39152 - https://github.com/wh1t3p1g/tabby
 CVE-2021-39152 - https://github.com/zwjjustdoit/Xstream-1.4.17
+CVE-2021-39165 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39165 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-39201 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-39204 - https://github.com/p1ay8y3ar/cve_monitor
@@ -46133,6 +46136,7 @@ CVE-2021-44255 - https://github.com/pizza-power/motioneye-authenticated-RCE
 CVE-2021-44270 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44270 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-4428 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-4428 - https://github.com/kward/log4sh
 CVE-2021-4428 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-44352 - https://github.com/zhlu32/cve
 CVE-2021-4438 - https://github.com/ARPSyndicate/cvemon
@@ -46524,7 +46528,6 @@ CVE-2022-0332 - https://github.com/binganao/vulns-2022
 CVE-2022-0332 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0332 - https://github.com/numanturle/CVE-2022-0332
 CVE-2022-0332 - https://github.com/p1ay8y3ar/cve_monitor
-CVE-2022-0337 - https://github.com/Puliczek/puliczek
 CVE-2022-0351 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2022-0378 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0378 - https://github.com/ARPSyndicate/kenzer-templates
@@ -46587,6 +46590,9 @@ CVE-2022-0752 - https://github.com/jaapmarcus/drone-test
 CVE-2022-0753 - https://github.com/jaapmarcus/drone-test
 CVE-2022-0767 - https://github.com/416e6e61/My-CVEs
 CVE-2022-0768 - https://github.com/416e6e61/My-CVEs
+CVE-2022-0778 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-0778 - https://github.com/drago-96/CVE-2022-0778
+CVE-2022-0778 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0824 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0824 - https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell
 CVE-2022-0824 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -46644,6 +46650,7 @@ CVE-2022-0847 - https://github.com/kaosagnt/ansible-everyday
 CVE-2022-0847 - https://github.com/karimhabush/cyberowl
 CVE-2022-0847 - https://github.com/knqyf263/CVE-2022-0847
 CVE-2022-0847 - https://github.com/kun-g/Scraping-Github-trending
+CVE-2022-0847 - https://github.com/liamg/liamg
 CVE-2022-0847 - https://github.com/liamg/traitor
 CVE-2022-0847 - https://github.com/logit507/logit507
 CVE-2022-0847 - https://github.com/lonnyzhang423/github-hot-hub
@@ -46805,6 +46812,7 @@ CVE-2022-21971 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-21971 - https://github.com/HACK-THE-WORLD/DailyMorningReading
 CVE-2022-21971 - https://github.com/J0hnbX/2022-21971
 CVE-2022-21971 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-21971 - https://github.com/tanjiti/sec_profile
 CVE-2022-21974 - https://github.com/0vercl0k/CVE-2022-21974
 CVE-2022-21974 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-21974 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -47239,6 +47247,7 @@ CVE-2022-25375 - https://github.com/szymonh/szymonh
 CVE-2022-256356 - https://github.com/jakescheetz/OWASP-JuiceShop
 CVE-2022-25636 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25636 - https://github.com/Bonfee/CVE-2022-25636
+CVE-2022-25636 - https://github.com/Ch4nc3n/PublicExploitation
 CVE-2022-25636 - https://github.com/boustrophedon/extrasafe
 CVE-2022-25636 - https://github.com/carmilea/carmilea
 CVE-2022-25636 - https://github.com/hancp2016/news

@@ -2411,6 +2411,7 @@ CVE-2006-2570 - https://www.exploit-db.com/exploits/1809
 CVE-2006-2575 - http://aluigi.altervista.org/adv/panza-adv.txt
 CVE-2006-2576 - https://www.exploit-db.com/exploits/1817
 CVE-2006-2587 - http://aluigi.altervista.org/adv/pbwebbof-adv.txt
+CVE-2006-2611 - http://svn.wikimedia.org/viewvc/mediawiki/trunk/phase3/includes/Sanitizer.php?r1=14349&r2=14348&pathrev=14349
 CVE-2006-2613 - https://bugzilla.mozilla.org/show_bug.cgi?id=267645
 CVE-2006-2648 - http://www.nukedx.com/?viewdoc=32
 CVE-2006-2656 - http://marc.info/?l=vuln-dev&m=114857412916909&w=2
@@ -2484,6 +2485,7 @@ CVE-2006-2868 - https://www.exploit-db.com/exploits/1877
 CVE-2006-2875 - http://aluigi.altervista.org/adv/q3cbof-adv.txt
 CVE-2006-2881 - https://www.exploit-db.com/exploits/1881
 CVE-2006-2888 - https://www.exploit-db.com/exploits/1883
+CVE-2006-2895 - http://svn.wikimedia.org/viewvc/mediawiki/tags/REL1_6_7/phase3/RELEASE-NOTES
 CVE-2006-2896 - https://www.exploit-db.com/exploits/1875
 CVE-2006-2929 - https://www.exploit-db.com/exploits/1886
 CVE-2006-2937 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
@@ -3594,6 +3596,7 @@ CVE-2006-7208 - https://www.exploit-db.com/exploits/1995
 CVE-2006-7210 - https://www.exploit-db.com/exploits/2194
 CVE-2006-7210 - https://www.exploit-db.com/exploits/2204
 CVE-2006-7210 - https://www.exploit-db.com/exploits/2210
+CVE-2006-7228 - http://www.redhat.com/support/errata/RHSA-2008-0546.html
 CVE-2006-7233 - http://www.igniterealtime.org/issues/browse/JM-629
 CVE-2006-7234 - https://bugzilla.redhat.com/show_bug.cgi?id=214205
 CVE-2007-0015 - http://www.kb.cert.org/vuls/id/442497
@@ -3685,6 +3688,10 @@ CVE-2007-0170 - https://www.exploit-db.com/exploits/3097
 CVE-2007-0171 - https://www.exploit-db.com/exploits/3096
 CVE-2007-0172 - https://www.exploit-db.com/exploits/3093
 CVE-2007-0173 - https://www.exploit-db.com/exploits/3091
+CVE-2007-0177 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_6_9/phase3/RELEASE-NOTES
+CVE-2007-0177 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_7_2/phase3/RELEASE-NOTES
+CVE-2007-0177 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_8_3/phase3/RELEASE-NOTES
+CVE-2007-0177 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_9_0RC2/phase3/RELEASE-NOTES
 CVE-2007-0178 - http://securityreason.com/securityalert/2132
 CVE-2007-0179 - http://securityreason.com/securityalert/2131
 CVE-2007-0180 - http://vuln.sg/efcommander575-en.html
@@ -3854,6 +3861,7 @@ CVE-2007-0766 - https://www.exploit-db.com/exploits/3254
 CVE-2007-0779 - https://bugzilla.mozilla.org/show_bug.cgi?id=361298
 CVE-2007-0785 - https://www.exploit-db.com/exploits/3266
 CVE-2007-0786 - https://www.exploit-db.com/exploits/3261
+CVE-2007-0788 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_9_2/phase3/RELEASE-NOTES
 CVE-2007-0790 - https://www.exploit-db.com/exploits/3277
 CVE-2007-0797 - https://www.exploit-db.com/exploits/3268
 CVE-2007-0804 - https://www.exploit-db.com/exploits/3271
@@ -3934,6 +3942,8 @@ CVE-2007-1041 - https://www.exploit-db.com/exploits/3342
 CVE-2007-1044 - http://securityreason.com/securityalert/2276
 CVE-2007-1047 - http://www.rhyolite.com/anti-spam/dcc/CHANGES
 CVE-2007-1054 - http://attrition.org/pipermail/vim/2007-February/001367.html
+CVE-2007-1054 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_9_3/phase3/RELEASE-NOTES
+CVE-2007-1055 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_9_0/phase3/RELEASE-NOTES
 CVE-2007-1057 - https://www.exploit-db.com/exploits/3356
 CVE-2007-1058 - https://www.exploit-db.com/exploits/3339
 CVE-2007-1059 - https://www.exploit-db.com/exploits/3336
@@ -4121,6 +4131,7 @@ CVE-2007-1645 - https://www.exploit-db.com/exploits/3541
 CVE-2007-1647 - https://www.exploit-db.com/exploits/3508
 CVE-2007-1648 - https://www.exploit-db.com/exploits/3547
 CVE-2007-1658 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-034
+CVE-2007-1660 - http://www.redhat.com/support/errata/RHSA-2008-0546.html
 CVE-2007-1696 - https://www.exploit-db.com/exploits/3556
 CVE-2007-1697 - https://www.exploit-db.com/exploits/3552
 CVE-2007-1698 - https://www.exploit-db.com/exploits/3552
@@ -5360,6 +5371,8 @@ CVE-2007-5845 - https://www.exploit-db.com/exploits/4602
 CVE-2007-5846 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43730
 CVE-2007-5849 - http://www.cups.org/str.php?L2589
 CVE-2007-5887 - https://www.exploit-db.com/exploits/4609
+CVE-2007-5898 - http://www.redhat.com/support/errata/RHSA-2008-0546.html
+CVE-2007-5899 - http://www.redhat.com/support/errata/RHSA-2008-0546.html
 CVE-2007-5901 - http://bugs.gentoo.org/show_bug.cgi?id=199214
 CVE-2007-5902 - http://bugs.gentoo.org/show_bug.cgi?id=199214
 CVE-2007-5909 - http://vuln.sg/lotusnotes702doc-en.html
@@ -6282,6 +6295,7 @@ CVE-2008-1307 - https://www.exploit-db.com/exploits/5225
 CVE-2008-1309 - https://www.exploit-db.com/exploits/5332
 CVE-2008-1313 - https://www.exploit-db.com/exploits/5234
 CVE-2008-1316 - https://www.exploit-db.com/exploits/5240
+CVE-2008-1318 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_11_2/phase3/RELEASE-NOTES
 CVE-2008-1319 - http://aluigi.altervista.org/adv/versantcmd-adv.txt
 CVE-2008-1319 - http://marc.info/?l=bugtraq&m=120468784112145&w=2
 CVE-2008-1319 - https://www.exploit-db.com/exploits/5213
@@ -6592,6 +6606,7 @@ CVE-2008-2045 - https://www.exploit-db.com/exploits/5521
 CVE-2008-2047 - https://www.exploit-db.com/exploits/5503
 CVE-2008-2048 - https://www.exploit-db.com/exploits/5503
 CVE-2008-2049 - http://vuln.sg/epostmailserver410-en.html
+CVE-2008-2051 - http://www.redhat.com/support/errata/RHSA-2008-0546.html
 CVE-2008-2063 - https://www.exploit-db.com/exploits/5520
 CVE-2008-2065 - https://www.exploit-db.com/exploits/5508
 CVE-2008-2069 - https://www.exploit-db.com/exploits/5515
@@ -6614,7 +6629,9 @@ CVE-2008-2095 - https://www.exploit-db.com/exploits/5484
 CVE-2008-2096 - https://www.exploit-db.com/exploits/5546
 CVE-2008-2106 - http://aluigi.altervista.org/adv/cod4statz-adv.txt
 CVE-2008-2107 - http://securityreason.com/securityalert/3859
+CVE-2008-2107 - http://www.redhat.com/support/errata/RHSA-2008-0546.html
 CVE-2008-2108 - http://securityreason.com/securityalert/3859
+CVE-2008-2108 - http://www.redhat.com/support/errata/RHSA-2008-0546.html
 CVE-2008-2113 - https://www.exploit-db.com/exploits/5552
 CVE-2008-2114 - https://www.exploit-db.com/exploits/5551
 CVE-2008-2115 - https://www.exploit-db.com/exploits/5549
@@ -7653,6 +7670,7 @@ CVE-2008-4381 - http://www.openwall.com/lists/oss-security/2008/10/03/7
 CVE-2008-4381 - http://www.openwall.com/lists/oss-security/2008/10/03/8
 CVE-2008-4392 - http://www.your.org/dnscache/
 CVE-2008-4392 - http://www.your.org/dnscache/djbdns.pdf
+CVE-2008-4408 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_12_1/phase3/RELEASE-NOTES
 CVE-2008-4420 - http://vuln.sg/dynazip5007-en.html
 CVE-2008-4420 - http://vuln.sg/turbozip6-en.html
 CVE-2008-4421 - https://www.exploit-db.com/exploits/6686
@@ -9421,6 +9439,7 @@ CVE-2009-0727 - https://www.exploit-db.com/exploits/8098
 CVE-2009-0728 - https://www.exploit-db.com/exploits/8100
 CVE-2009-0731 - https://www.exploit-db.com/exploits/8094
 CVE-2009-0735 - https://www.exploit-db.com/exploits/8030
+CVE-2009-0737 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_12_4/phase3/RELEASE-NOTES
 CVE-2009-0738 - https://www.exploit-db.com/exploits/8033
 CVE-2009-0739 - https://www.exploit-db.com/exploits/8034
 CVE-2009-0740 - https://www.exploit-db.com/exploits/8035
@@ -9528,6 +9547,7 @@ CVE-2009-1067 - https://www.exploit-db.com/exploits/8252
 CVE-2009-1068 - https://www.exploit-db.com/exploits/8249
 CVE-2009-1068 - https://www.exploit-db.com/exploits/8251
 CVE-2009-1071 - https://www.exploit-db.com/exploits/8236
+CVE-2009-1072 - http://www.redhat.com/support/errata/RHSA-2009-1081.html
 CVE-2009-1072 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1087 - https://www.exploit-db.com/exploits/8215
 CVE-2009-1088 - https://www.exploit-db.com/exploits/8247
@@ -9596,6 +9616,7 @@ CVE-2009-1185 - http://lists.opensuse.org/opensuse-security-announce/2009-04/msg
 CVE-2009-1185 - https://www.exploit-db.com/exploits/8572
 CVE-2009-1187 - http://www.kb.cert.org/vuls/id/196617
 CVE-2009-1188 - http://www.kb.cert.org/vuls/id/196617
+CVE-2009-1192 - http://www.redhat.com/support/errata/RHSA-2009-1081.html
 CVE-2009-1192 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1209 - https://www.exploit-db.com/exploits/8314
 CVE-2009-1209 - https://www.exploit-db.com/exploits/8321
@@ -9667,6 +9688,7 @@ CVE-2009-1330 - https://www.exploit-db.com/exploits/8427
 CVE-2009-1331 - https://www.exploit-db.com/exploits/8445
 CVE-2009-1336 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1337 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
+CVE-2009-1338 - http://www.redhat.com/support/errata/RHSA-2009-1081.html
 CVE-2009-1345 - https://www.exploit-db.com/exploits/8455
 CVE-2009-1346 - https://www.exploit-db.com/exploits/8457
 CVE-2009-1347 - https://www.exploit-db.com/exploits/8461
@@ -9700,6 +9722,7 @@ CVE-2009-1437 - https://www.exploit-db.com/exploits/8489
 CVE-2009-1437 - https://www.exploit-db.com/exploits/8519
 CVE-2009-1437 - https://www.exploit-db.com/exploits/8520
 CVE-2009-1438 - https://bugzilla.redhat.com/show_bug.cgi?id=496834
+CVE-2009-1439 - http://www.redhat.com/support/errata/RHSA-2009-1081.html
 CVE-2009-1439 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2009-1444 - https://www.exploit-db.com/exploits/8516
 CVE-2009-1445 - https://www.exploit-db.com/exploits/8516
@@ -10892,6 +10915,8 @@ CVE-2010-1127 - http://securityreason.com/exploitalert/7731
 CVE-2010-1130 - http://securityreason.com/achievement_securityalert/82
 CVE-2010-1130 - http://securityreason.com/securityalert/7008
 CVE-2010-1132 - http://www.exploit-db.com/exploits/11662
+CVE-2010-1150 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_15_3/phase3/RELEASE-NOTES
+CVE-2010-1150 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0beta2/phase3/RELEASE-NOTES
 CVE-2010-1157 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-1158 - http://www.openwall.com/lists/oss-security/2010/04/08/9
 CVE-2010-1158 - http://www.openwall.com/lists/oss-security/2010/04/14/3
@@ -10903,6 +10928,7 @@ CVE-2010-1179 - http://www.exploit-db.com/exploits/11890
 CVE-2010-1184 - http://www.theregister.co.uk/2010/03/26/open_source_wireless_sniffer/
 CVE-2010-1186 - http://www.exploit-db.com/exploits/12098
 CVE-2010-1187 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
+CVE-2010-1190 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_15_2/phase3/RELEASE-NOTES
 CVE-2010-1196 - https://bugzilla.mozilla.org/show_bug.cgi?id=534666
 CVE-2010-1198 - https://bugzilla.mozilla.org/show_bug.cgi?id=532246
 CVE-2010-1199 - https://bugzilla.mozilla.org/show_bug.cgi?id=554255
@@ -38639,6 +38665,7 @@ CVE-2019-17055 - http://lists.opensuse.org/opensuse-security-announce/2019-11/ms
 CVE-2019-17055 - http://packetstormsecurity.com/files/155212/Slackware-Security-Advisory-Slackware-14.2-kernel-Updates.html
 CVE-2019-17056 - http://packetstormsecurity.com/files/155212/Slackware-Security-Advisory-Slackware-14.2-kernel-Updates.html
 CVE-2019-17059 - https://thebestvpn.com/cyberoam-preauth-rce/
+CVE-2019-17062 - https://oxidforge.org/en/security-bulletin-2019-002.html
 CVE-2019-17064 - http://packetstormsecurity.com/files/154713/Xpdf-4.02-NULL-Pointer-Dereference.html
 CVE-2019-17064 - https://forum.xpdfreader.com/viewtopic.php?f=3&t=41890
 CVE-2019-17073 - https://github.com/emlog/emlog/issues/49
@@ -49725,6 +49752,7 @@ CVE-2022-0965 - https://huntr.dev/bounties/d66c88ce-63e2-4515-a429-8e43a42aa347
 CVE-2022-0966 - https://huntr.dev/bounties/e06c0d55-00a3-4f82-a009-0310b2e402fe
 CVE-2022-0967 - https://huntr.dev/bounties/9dea3c98-7609-480d-902d-149067bd1e2a
 CVE-2022-0968 - https://huntr.dev/bounties/97e36678-11cf-42c6-889c-892d415d9f9e
+CVE-2022-0970 - https://huntr.dev/bounties/dd436c44-cbf4-48ac-8817-3a24872534ec
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -49897,6 +49925,7 @@ CVE-2022-25402 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
 CVE-2022-25403 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
 CVE-2022-25417 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/3
 CVE-2022-25418 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/2
+CVE-2022-25487 - https://github.com/thedigicraft/Atom.CMS/issues/256
 CVE-2022-25506 - https://github.com/FreeTAKTeam/UI/issues/27
 CVE-2022-25553 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/7
 CVE-2022-25555 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/2
@@ -49905,9 +49934,11 @@ CVE-2022-25839 - https://snyk.io/vuln/SNYK-JS-URLJS-2414030
 CVE-2022-26143 - https://team-cymru.com/blog/2022/03/08/record-breaking-ddos-potential-discovered-cve-2022-26143/
 CVE-2022-26159 - https://podalirius.net/en/cves/2022-26159/
 CVE-2022-26181 - https://github.com/dropbox/lepton/issues/154
+CVE-2022-26211 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_25/25.md
 CVE-2022-26332 - https://www.exploit-db.com/exploits/50788
 CVE-2022-26495 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26496 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.17
 CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.3
 CVE-2022-26966 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
+CVE-2022-27003 - https://github.com/wudipjq/my_vuln/blob/main/totolink/vuln_32/32.md
