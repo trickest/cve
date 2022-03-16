@@ -17091,6 +17091,7 @@ CVE-2018-1000006 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-1000024 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-1000027 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-1000030 - https://github.com/0xT11/CVE-POC
+CVE-2018-1000030 - https://github.com/InesMartins31/iot-cves
 CVE-2018-1000035 - https://github.com/FritzJo/pacheck
 CVE-2018-1000035 - https://github.com/phonito/phonito-vulnerable-container
 CVE-2018-1000035 - https://github.com/ronomon/zip
@@ -17537,6 +17538,7 @@ CVE-2018-10933 - https://github.com/915425297/CVES
 CVE-2018-10933 - https://github.com/Apri1y/Red-Team-links
 CVE-2018-10933 - https://github.com/DynamicDesignz/Alien-Framework
 CVE-2018-10933 - https://github.com/Echocipher/Resource-list
+CVE-2018-10933 - https://github.com/InesMartins31/iot-cves
 CVE-2018-10933 - https://github.com/MarkBuffalo/exploits
 CVE-2018-10933 - https://github.com/SexyBeast233/SecBooks
 CVE-2018-10933 - https://github.com/SoledaD208/CVE-2018-10933
@@ -17911,6 +17913,7 @@ CVE-2018-11905 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2018-1196 - https://github.com/ilmari666/cybsec
 CVE-2018-11976 - https://github.com/enovella/TEE-reversing
 CVE-2018-1199 - https://github.com/ilmari666/cybsec
+CVE-2018-12015 - https://github.com/InesMartins31/iot-cves
 CVE-2018-12015 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-12015 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-12018 - https://github.com/0xT11/CVE-POC
@@ -18744,6 +18747,7 @@ CVE-2018-15381 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2018-15381 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
 CVE-2018-15473 - https://github.com/0xT11/CVE-POC
 CVE-2018-15473 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2018-15473 - https://github.com/InesMartins31/iot-cves
 CVE-2018-15473 - https://github.com/JoeBlackSecurity/SSHUsernameBruter-SSHUB
 CVE-2018-15473 - https://github.com/LINYIKAI/CVE-2018-15473-exp
 CVE-2018-15473 - https://github.com/NCSU-DANCE-Research-Group/CDL
@@ -21539,6 +21543,7 @@ CVE-2018-7171 - https://github.com/mechanico/sharingIsCaring
 CVE-2018-7173 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-7174 - https://github.com/andir/nixos-issue-db-example
 CVE-2018-7175 - https://github.com/andir/nixos-issue-db-example
+CVE-2018-7182 - https://github.com/InesMartins31/iot-cves
 CVE-2018-7182 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-7182 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-7197 - https://github.com/0xT11/CVE-POC
@@ -22372,6 +22377,7 @@ CVE-2018-8641 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2018-8641 - https://github.com/qazbnm456/awesome-cve-poc
 CVE-2018-8641 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-8641 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
+CVE-2018-8712 - https://github.com/InesMartins31/iot-cves
 CVE-2018-8715 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2018-8715 - https://github.com/SexyBeast233/SecBooks
 CVE-2018-8715 - https://github.com/zmylml/yangzifun
@@ -23912,6 +23918,7 @@ CVE-2019-11043 - https://github.com/B1gd0g/CVE-2019-11043
 CVE-2019-11043 - https://github.com/CnHack3r/Penetration_PoC
 CVE-2019-11043 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2019-11043 - https://github.com/HxDDD/CVE-PoC
+CVE-2019-11043 - https://github.com/InesMartins31/iot-cves
 CVE-2019-11043 - https://github.com/LubinLew/WEB-CVE
 CVE-2019-11043 - https://github.com/MRdoulestar/CVE-2019-11043
 CVE-2019-11043 - https://github.com/Mr-xn/Penetration_Testing_POC
@@ -26006,6 +26013,7 @@ CVE-2019-12836 - https://github.com/9lyph/CVE-2019-12836
 CVE-2019-12836 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-12836 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-12840 - https://github.com/0xT11/CVE-POC
+CVE-2019-12840 - https://github.com/InesMartins31/iot-cves
 CVE-2019-12840 - https://github.com/KrE80r/webmin_cve-2019-12840_poc
 CVE-2019-12840 - https://github.com/anasbousselham/webminscan
 CVE-2019-12840 - https://github.com/bkaraceylan/CVE-2019-12840_POC
@@ -26156,6 +26164,7 @@ CVE-2019-1311 - https://github.com/googleprojectzero/winafl
 CVE-2019-1311 - https://github.com/hardik05/winafl-powermopt
 CVE-2019-13115 - https://github.com/0xT11/CVE-POC
 CVE-2019-13115 - https://github.com/CSSProject/libssh2-Exploit
+CVE-2019-13115 - https://github.com/InesMartins31/iot-cves
 CVE-2019-13115 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-13115 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-13115 - https://github.com/hectorgie/PoC-in-GitHub
@@ -26186,6 +26195,8 @@ CVE-2019-1315 - https://github.com/rasta-mouse/Watson
 CVE-2019-1315 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2019-1316 - https://github.com/shubham0d/SymBlock
 CVE-2019-13173 - https://github.com/ossf-cve-benchmark/CVE-2019-13173
+CVE-2019-13188 - https://github.com/InesMartins31/iot-cves
+CVE-2019-13189 - https://github.com/InesMartins31/iot-cves
 CVE-2019-1320 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2019-1322 - https://github.com/Ascotbe/Kernelhub
 CVE-2019-1322 - https://github.com/CnHack3r/Penetration_PoC
@@ -26312,6 +26323,8 @@ CVE-2019-13330 - https://github.com/googleprojectzero/winafl
 CVE-2019-13330 - https://github.com/hardik05/winafl-powermopt
 CVE-2019-13331 - https://github.com/googleprojectzero/winafl
 CVE-2019-13331 - https://github.com/hardik05/winafl-powermopt
+CVE-2019-13348 - https://github.com/InesMartins31/iot-cves
+CVE-2019-13349 - https://github.com/InesMartins31/iot-cves
 CVE-2019-13358 - https://github.com/0xaniketB/TryHackMe-Empline
 CVE-2019-13359 - https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE
 CVE-2019-13360 - https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE
@@ -26641,6 +26654,7 @@ CVE-2019-14287 - https://github.com/DewmiApsara/CVE-2019-14287
 CVE-2019-14287 - https://github.com/FauxFaux/sudo-cve-2019-14287
 CVE-2019-14287 - https://github.com/Getshell/LinuxTQ
 CVE-2019-14287 - https://github.com/HussyCool/CVE-2019-14287-IT18030372-
+CVE-2019-14287 - https://github.com/InesMartins31/iot-cves
 CVE-2019-14287 - https://github.com/Janette88/cve-2019-14287sudoexp
 CVE-2019-14287 - https://github.com/RoqueNight/Linux-Privilege-Escalation-Basics
 CVE-2019-14287 - https://github.com/SachinthaDeSilva-cmd/Exploit-CVE-2019-14287
@@ -26932,6 +26946,7 @@ CVE-2019-15107 - https://github.com/ChakoMoonFish/webmin_CVE-2019-15107
 CVE-2019-15107 - https://github.com/CnHack3r/Penetration_PoC
 CVE-2019-15107 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2019-15107 - https://github.com/HACHp1/webmin_docker_and_exp
+CVE-2019-15107 - https://github.com/InesMartins31/iot-cves
 CVE-2019-15107 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2019-15107 - https://github.com/Pichuuuuu/CVE-2019-15107
 CVE-2019-15107 - https://github.com/Rayferrufino/Make-and-Break
@@ -27102,8 +27117,10 @@ CVE-2019-1563 - https://github.com/thecyberbaby/Trivy-by-aquaSecurity
 CVE-2019-1563 - https://github.com/umahari/security
 CVE-2019-1563 - https://github.com/vinamra28/tekton-image-scan-trivy
 CVE-2019-1564 - https://github.com/404notf0und/CVE-Flow
+CVE-2019-15641 - https://github.com/InesMartins31/iot-cves
 CVE-2019-15642 - https://github.com/0xT11/CVE-POC
 CVE-2019-15642 - https://github.com/CnHack3r/Penetration_PoC
+CVE-2019-15642 - https://github.com/InesMartins31/iot-cves
 CVE-2019-15642 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2019-15642 - https://github.com/YIXINSHUWU/Penetration_Testing_POC
 CVE-2019-15642 - https://github.com/chalern/Pentest-Tools
@@ -27275,6 +27292,7 @@ CVE-2019-16278 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2019-16278 - https://github.com/AnubisSec/CVE-2019-16278
 CVE-2019-16278 - https://github.com/CnHack3r/Penetration_PoC
 CVE-2019-16278 - https://github.com/Elsfa7-110/kenzer-templates
+CVE-2019-16278 - https://github.com/InesMartins31/iot-cves
 CVE-2019-16278 - https://github.com/Kr0ff/cve-2019-16278
 CVE-2019-16278 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2019-16278 - https://github.com/NHPT/CVE-2019-16278
@@ -27304,6 +27322,7 @@ CVE-2019-16278 - https://github.com/yedada-wei/-
 CVE-2019-16278 - https://github.com/yedada-wei/gongkaishouji
 CVE-2019-16279 - https://github.com/0xT11/CVE-POC
 CVE-2019-16279 - https://github.com/CnHack3r/Penetration_PoC
+CVE-2019-16279 - https://github.com/InesMartins31/iot-cves
 CVE-2019-16279 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2019-16279 - https://github.com/SexyBeast233/SecBooks
 CVE-2019-16279 - https://github.com/YIXINSHUWU/Penetration_Testing_POC
@@ -27714,6 +27733,7 @@ CVE-2019-17495 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2019-17495 - https://github.com/strongloop/loopback-component-explorer
 CVE-2019-17497 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2019-17497 - https://github.com/ponypot/cve
+CVE-2019-17498 - https://github.com/InesMartins31/iot-cves
 CVE-2019-17498 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-17501 - https://github.com/0xT11/CVE-POC
 CVE-2019-17501 - https://github.com/developer3000S/PoC-in-GitHub
@@ -28022,6 +28042,7 @@ CVE-2019-18634 - https://github.com/0xT11/CVE-POC
 CVE-2019-18634 - https://github.com/0xsyr0/OSCP
 CVE-2019-18634 - https://github.com/AfvanMoopen/tryhackme-
 CVE-2019-18634 - https://github.com/Dinesh-999/Hacking_contents
+CVE-2019-18634 - https://github.com/InesMartins31/iot-cves
 CVE-2019-18634 - https://github.com/N1et/CVE-2019-18634
 CVE-2019-18634 - https://github.com/Plazmaz/CVE-2019-18634
 CVE-2019-18634 - https://github.com/Retr0-ll/littleterm
@@ -29362,6 +29383,7 @@ CVE-2019-5736 - https://github.com/BurlakaR/tpc
 CVE-2019-5736 - https://github.com/EvilAnne/2019-Read-article
 CVE-2019-5736 - https://github.com/Frichetten/CVE-2019-5736-PoC
 CVE-2019-5736 - https://github.com/GiverOfGifts/CVE-2019-5736-Custom-Runtime
+CVE-2019-5736 - https://github.com/InesMartins31/iot-cves
 CVE-2019-5736 - https://github.com/Keramas/Blowhole
 CVE-2019-5736 - https://github.com/Lee-SungYoung/cve-2019-5736-study
 CVE-2019-5736 - https://github.com/Malamunza/Nvedia
@@ -29513,12 +29535,14 @@ CVE-2019-6109 - https://github.com/umahari/security
 CVE-2019-6109 - https://github.com/vshaliii/Basic-Pentesting-2-Vulnhub-Walkthrough
 CVE-2019-6109 - https://github.com/vshaliii/DC-4-Vulnhub-Walkthrough
 CVE-2019-6109 - https://github.com/vshaliii/Funbox2-rookie
+CVE-2019-6110 - https://github.com/InesMartins31/iot-cves
 CVE-2019-6110 - https://github.com/revl-ca/scan-docker-image
 CVE-2019-6110 - https://github.com/vshaliii/Basic-Pentesting-2-Vulnhub-Walkthrough
 CVE-2019-6110 - https://github.com/vshaliii/DC-4-Vulnhub-Walkthrough
 CVE-2019-6110 - https://github.com/vshaliii/Funbox2-rookie
 CVE-2019-6111 - https://github.com/0xT11/CVE-POC
 CVE-2019-6111 - https://github.com/53n7hu/SNP
+CVE-2019-6111 - https://github.com/InesMartins31/iot-cves
 CVE-2019-6111 - https://github.com/KorayAgaya/TrivyWeb
 CVE-2019-6111 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-6111 - https://github.com/hectorgie/PoC-in-GitHub
@@ -30062,6 +30086,7 @@ CVE-2019-7727 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Ch
 CVE-2019-7730 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-7730 - https://github.com/eddietcc/CVEnotes
 CVE-2019-7731 - https://github.com/0xUhaw/CVE-Bins
+CVE-2019-7731 - https://github.com/InesMartins31/iot-cves
 CVE-2019-7731 - https://github.com/eddietcc/CVEnotes
 CVE-2019-7738 - https://github.com/PatchPorting/patch-finder
 CVE-2019-7747 - https://github.com/0xUhaw/CVE-Bins
@@ -30102,6 +30127,7 @@ CVE-2019-8318 - https://github.com/E4ck/vuls
 CVE-2019-8318 - https://github.com/raystyle/vuls
 CVE-2019-8319 - https://github.com/E4ck/vuls
 CVE-2019-8319 - https://github.com/raystyle/vuls
+CVE-2019-8320 - https://github.com/InesMartins31/iot-cves
 CVE-2019-8331 - https://github.com/MuDiAhmed/invitation_system
 CVE-2019-8331 - https://github.com/andersoncontreira/http-tunnel-node
 CVE-2019-8331 - https://github.com/pdobb/pronto-bundler_audit
@@ -30536,6 +30562,7 @@ CVE-2019-9621 - https://github.com/SexyBeast233/SecBooks
 CVE-2019-9621 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-9621 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-9621 - https://github.com/k8gege/ZimbraExploit
+CVE-2019-9624 - https://github.com/InesMartins31/iot-cves
 CVE-2019-9631 - https://github.com/mxmssh/manul
 CVE-2019-9633 - https://github.com/revl-ca/scan-docker-image
 CVE-2019-9634 - https://github.com/alphaSeclab/sec-daily-2019
@@ -30652,6 +30679,7 @@ CVE-2019-9844 - https://github.com/ossf-cve-benchmark/CVE-2019-9844
 CVE-2019-9847 - https://github.com/irsl/apache-openoffice-rce-via-uno-links
 CVE-2019-9848 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-9857 - https://github.com/hiboma/hiboma
+CVE-2019-9891 - https://github.com/InesMartins31/iot-cves
 CVE-2019-9893 - https://github.com/garethr/snykout
 CVE-2019-9895 - https://github.com/kaleShashi/PuTTY
 CVE-2019-9895 - https://github.com/pbr94/PuTTy-
@@ -35053,6 +35081,7 @@ CVE-2020-1938 - https://github.com/AnonVulc/Pentest-Tools
 CVE-2020-1938 - https://github.com/CnHack3r/Penetration_PoC
 CVE-2020-1938 - https://github.com/DaemonShao/CVE-2020-1938
 CVE-2020-1938 - https://github.com/I-Runtime-Error/CVE-2020-1938
+CVE-2020-1938 - https://github.com/InesMartins31/iot-cves
 CVE-2020-1938 - https://github.com/Just1ceP4rtn3r/CVE-2020-1938-Tool
 CVE-2020-1938 - https://github.com/LandGrey/ClassHound
 CVE-2020-1938 - https://github.com/MateoSec/ghostcatch
@@ -36079,6 +36108,7 @@ CVE-2020-25647 - https://github.com/neverware/shim-review
 CVE-2020-25647 - https://github.com/puzzleos/uefi-shim_review
 CVE-2020-25647 - https://github.com/rhboot/shim-review
 CVE-2020-25647 - https://github.com/vathpela/shim-review
+CVE-2020-256480 - https://github.com/dim0x69/cve-2022-25640-exploit
 CVE-2020-25649 - https://github.com/mosaic-hgw/jMeter
 CVE-2020-25649 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2020-25659 - https://github.com/indece-official/clair-client
@@ -38074,6 +38104,7 @@ CVE-2020-5920 - https://github.com/afinepl/research
 CVE-2020-6010 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-6019 - https://github.com/EdgeSecurityTeam/Vulnerability
 CVE-2020-6019 - https://github.com/tzwlhack/Vulnerability
+CVE-2020-6060 - https://github.com/InesMartins31/iot-cves
 CVE-2020-6096 - https://github.com/KashaMalaga/cve2020-6096
 CVE-2020-6096 - https://github.com/akiraabe/myapp-container-jaxrs
 CVE-2020-6096 - https://github.com/anchore/grype
@@ -38401,6 +38432,7 @@ CVE-2020-7246 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-7246 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2020-7246 - https://github.com/CnHack3r/Penetration_PoC
 CVE-2020-7246 - https://github.com/Elsfa7-110/kenzer-templates
+CVE-2020-7246 - https://github.com/InesMartins31/iot-cves
 CVE-2020-7246 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2020-7246 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-7246 - https://github.com/TobinShields/qdPM9.1_Exploit
@@ -39388,6 +39420,7 @@ CVE-2020-9239 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-9265 - https://github.com/J3rryBl4nks/PHPMyChatPlus
 CVE-2020-9266 - https://github.com/J3rryBl4nks/SOPlanning
 CVE-2020-9267 - https://github.com/J3rryBl4nks/SOPlanning
+CVE-2020-9268 - https://github.com/InesMartins31/iot-cves
 CVE-2020-9268 - https://github.com/J3rryBl4nks/SOPlanning
 CVE-2020-9269 - https://github.com/J3rryBl4nks/SOPlanning
 CVE-2020-9270 - https://github.com/J3rryBl4nks/IceHRM
@@ -39401,6 +39434,7 @@ CVE-2020-9273 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-9273 - https://github.com/ptef/CVE-2020-9273
 CVE-2020-9283 - https://github.com/0xT11/CVE-POC
 CVE-2020-9283 - https://github.com/ARPSyndicate/cvemon
+CVE-2020-9283 - https://github.com/InesMartins31/iot-cves
 CVE-2020-9283 - https://github.com/asa1997/topgear_test
 CVE-2020-9283 - https://github.com/brompwnie/CVE-2020-9283
 CVE-2020-9283 - https://github.com/brompwnie/brompwnie
@@ -39421,6 +39455,7 @@ CVE-2020-9332 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-9332 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-9332 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-9332 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-9340 - https://github.com/InesMartins31/iot-cves
 CVE-2020-9340 - https://github.com/J3rryBl4nks/eLection-TriPath-
 CVE-2020-9341 - https://github.com/J3rryBl4nks/CandidATS
 CVE-2020-9344 - https://github.com/ARPSyndicate/cvemon
@@ -39908,6 +39943,7 @@ CVE-2021-0434 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-0485 - https://github.com/Ch0pin/CVE20210485
 CVE-2021-0485 - https://github.com/fardeen-ahmed/Bug-bounty-Writeups
 CVE-2021-0591 - https://github.com/wrlu/Vulnerabilities
+CVE-2021-0595 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-0595 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-0920 - https://github.com/enterprisemodules/vulnerability_demo
 CVE-2021-0928 - https://github.com/ARPSyndicate/cvemon
@@ -44460,6 +44496,7 @@ CVE-2021-38560 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-38560 - https://github.com/binganao/vulns-2022
 CVE-2021-38560 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-38560 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-38561 - https://github.com/sonatype-nexus-community/nancy
 CVE-2021-3857 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-38583 - https://github.com/charlesbickel/CVE-2021-38583
 CVE-2021-38601 - https://github.com/5l1v3r1/CVE-2021-38601
@@ -45600,6 +45637,7 @@ CVE-2021-42948 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42948 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42949 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42949 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-43008 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-43008 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-43008 - https://github.com/p0dalirius/p0dalirius
 CVE-2021-43032 - https://github.com/ARPSyndicate/cvemon
@@ -46577,7 +46615,9 @@ CVE-2022-0539 - https://github.com/noobpk/noobpk
 CVE-2022-0543 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0543 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-0543 - https://github.com/aodsec/CVE-2022-0543
+CVE-2022-0543 - https://github.com/bfengj/CTF
 CVE-2022-0543 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-0543 - https://github.com/zyylhn/redis_rce
 CVE-2022-0557 - https://github.com/enesamaafkolan/enesamaafkolan
 CVE-2022-0557 - https://github.com/ezelnur6327/ezelnur6327
 CVE-2022-0563 - https://github.com/toyhoshi/helm
@@ -47265,9 +47305,13 @@ CVE-2022-25636 - https://github.com/jakescheetz/OWASP-JuiceShop
 CVE-2022-25636 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25636 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2022-25636 - https://github.com/zhaoolee/garss
+CVE-2022-25640 - https://github.com/dim0x69/cve-2022-25640-exploit
+CVE-2022-25640 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25943 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25943 - https://github.com/HadiMed/KINGSOFT-WPS-Office-LPE
 CVE-2022-25943 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-25949 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-25949 - https://github.com/tandasat/CVE-2022-25949
 CVE-2022-26149 - https://github.com/karimhabush/cyberowl
 CVE-2022-26155 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-26155 - https://github.com/l00neyhacker/CVE-2022-26155
@@ -47296,6 +47340,7 @@ CVE-2022-26317 - https://github.com/karimhabush/cyberowl
 CVE-2022-26319 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-26336 - https://github.com/karimhabush/cyberowl
 CVE-2022-26337 - https://github.com/dlehgus1023/dlehgus1023
+CVE-2022-26503 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-26503 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-26503 - https://github.com/sinsinology/CVE-2022-26503
 CVE-2022-26505 - https://github.com/karimhabush/cyberowl

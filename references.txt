@@ -17262,6 +17262,7 @@ CVE-2014-3427 - http://packetstormsecurity.com/files/127081/Yealink-VoIP-Phones-
 CVE-2014-3427 - http://seclists.org/fulldisclosure/2014/Jun/74
 CVE-2014-3428 - http://packetstormsecurity.com/files/127081/Yealink-VoIP-Phones-XSS-CRLF-Injection.html
 CVE-2014-3428 - http://seclists.org/fulldisclosure/2014/Jun/74
+CVE-2014-3429 - https://github.com/ipython/ipython/pull/4845
 CVE-2014-3434 - http://packetstormsecurity.com/files/127772/Symantec-Endpoint-Protection-11.x-12.x-Kernel-Pool-Overflow.html
 CVE-2014-3437 - http://seclists.org/fulldisclosure/2014/Nov/7
 CVE-2014-3438 - http://seclists.org/fulldisclosure/2014/Nov/7
@@ -36182,6 +36183,7 @@ CVE-2018-9020 - https://www.gubello.me/blog/events-manager-authenticated-stored-
 CVE-2018-9021 - http://packetstormsecurity.com/files/155576/Broadcom-CA-Privileged-Access-Manager-2.8.2-Remote-Command-Execution.html
 CVE-2018-9022 - http://packetstormsecurity.com/files/155576/Broadcom-CA-Privileged-Access-Manager-2.8.2-Remote-Command-Execution.html
 CVE-2018-9032 - https://www.exploit-db.com/exploits/44378/
+CVE-2018-9032 - https://www.youtube.com/watch?v=Wmm4p8znS3s
 CVE-2018-9034 - https://www.exploit-db.com/exploits/44366/
 CVE-2018-9035 - https://www.exploit-db.com/exploits/44367/
 CVE-2018-9037 - https://www.exploit-db.com/exploits/44621/
@@ -49664,6 +49666,8 @@ CVE-2022-0692 - https://huntr.dev/bounties/4fb39400-e08b-47af-8c1f-5093c9a51203
 CVE-2022-0695 - https://huntr.dev/bounties/bdbddc0e-fb06-4211-a90b-7cbedcee2bea
 CVE-2022-0696 - https://huntr.dev/bounties/7416c2cb-1809-4834-8989-e84ff033f15f
 CVE-2022-0697 - https://huntr.dev/bounties/2d0301a2-10ff-48f4-a346-5a0e8707835b
+CVE-2022-0704 - https://huntr.dev/bounties/4142a8b4-b439-4328-aaa3-52f6fedfd0a6
+CVE-2022-0705 - https://huntr.dev/bounties/0e1b6836-e5b5-4e47-b9ab-2f6a4790ee7b
 CVE-2022-0712 - https://huntr.dev/bounties/1e572820-e502-49d1-af0e-81833e2eb466
 CVE-2022-0713 - https://huntr.dev/bounties/d35b3dff-768d-4a09-a742-c18ca8f56d3c
 CVE-2022-0714 - https://huntr.dev/bounties/db70e8db-f309-4f3c-986c-e69d2415c3b3
@@ -49730,6 +49734,7 @@ CVE-2022-0906 - https://huntr.dev/bounties/87ed3b42-9824-49b0-91a5-fd908a0601e8
 CVE-2022-0907 - https://gitlab.com/libtiff/libtiff/-/issues/392
 CVE-2022-0908 - https://gitlab.com/libtiff/libtiff/-/issues/383
 CVE-2022-0909 - https://gitlab.com/libtiff/libtiff/-/issues/393
+CVE-2022-0911 - https://huntr.dev/bounties/b242edb1-b036-4dca-9b53-891494dd7a77
 CVE-2022-0912 - https://huntr.dev/bounties/ae5bb359-7e53-498b-848e-540c05b44c54
 CVE-2022-0913 - https://huntr.dev/bounties/f5f3e468-663b-4df0-8340-a2d77e4cc75f
 CVE-2022-0921 - https://huntr.dev/bounties/e368be37-1cb4-4292-8d48-07132725f622
@@ -49762,6 +49767,7 @@ CVE-2022-0966 - https://huntr.dev/bounties/e06c0d55-00a3-4f82-a009-0310b2e402fe
 CVE-2022-0967 - https://huntr.dev/bounties/9dea3c98-7609-480d-902d-149067bd1e2a
 CVE-2022-0968 - https://huntr.dev/bounties/97e36678-11cf-42c6-889c-892d415d9f9e
 CVE-2022-0970 - https://huntr.dev/bounties/dd436c44-cbf4-48ac-8817-3a24872534ec
+CVE-2022-0986 - https://huntr.dev/bounties/57635c78-303f-412f-b75a-623df9fa9edd
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -49781,6 +49787,7 @@ CVE-2022-20711 - https://tools.cisco.com/security/center/content/CiscoSecurityAd
 CVE-2022-20712 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D
 CVE-2022-20738 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-swg-fbyps-3z4qT7p
 CVE-2022-20749 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D
+CVE-2022-21164 - https://snyk.io/vuln/SNYK-JS-NODELMDB-2400723
 CVE-2022-21236 - https://talosintelligence.com/vulnerability_reports/TALOS-2022-1446
 CVE-2022-21371 - http://packetstormsecurity.com/files/165736/Oracle-WebLogic-Server-14.1.1.0.0-Local-File-Inclusion.html
 CVE-2022-21649 - https://www.huntr.dev/bounties/4532a0ac-4e7c-4fcf-9fe3-630e132325c0/
