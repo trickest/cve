@@ -2852,6 +2852,7 @@ CVE-2006-4645 - https://www.exploit-db.com/exploits/2315
 CVE-2006-4647 - https://www.exploit-db.com/exploits/2309
 CVE-2006-4648 - https://www.exploit-db.com/exploits/2312
 CVE-2006-4656 - https://www.exploit-db.com/exploits/2317
+CVE-2006-4662 - http://www.securityfocus.com/archive/1/445513/100/0/threaded
 CVE-2006-4664 - https://www.exploit-db.com/exploits/2311
 CVE-2006-4669 - https://www.exploit-db.com/exploits/2329
 CVE-2006-4670 - https://www.exploit-db.com/exploits/2327
@@ -12043,8 +12044,11 @@ CVE-2010-4874 - http://securityreason.com/securityalert/8430
 CVE-2010-4874 - http://www.exploit-db.com/exploits/15330
 CVE-2010-4875 - http://securityreason.com/securityalert/8431
 CVE-2010-4882 - http://securityreason.com/securityalert/8434
+CVE-2010-4883 - http://securityreason.com/securityalert/8435
 CVE-2010-4893 - http://www.exploit-db.com/exploits/14948
+CVE-2010-4894 - http://securityreason.com/securityalert/8437
 CVE-2010-4894 - http://www.exploit-db.com/exploits/14897
+CVE-2010-4895 - http://securityreason.com/securityalert/8437
 CVE-2010-4895 - http://www.exploit-db.com/exploits/14897
 CVE-2010-4899 - http://websecurity.com.ua/4146/
 CVE-2010-4900 - http://websecurity.com.ua/4146/
@@ -12052,14 +12056,18 @@ CVE-2010-4901 - http://securityreason.com/securityalert/8439
 CVE-2010-4901 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2010-4962.php
 CVE-2010-4904 - http://www.exploit-db.com/exploits/14922
 CVE-2010-4908 - http://securityreason.com/securityalert/8443
+CVE-2010-4915 - http://securityreason.com/securityalert/8449
 CVE-2010-4915 - http://www.exploit-db.com/exploits/14933
+CVE-2010-4922 - http://securityreason.com/securityalert/8453
 CVE-2010-4923 - http://securityreason.com/securityalert/8460
+CVE-2010-4930 - http://securityreason.com/securityalert/8455
 CVE-2010-4950 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
 CVE-2010-4951 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
 CVE-2010-4952 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
 CVE-2010-4953 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
 CVE-2010-4956 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
 CVE-2010-4957 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
+CVE-2010-4958 - http://securityreason.com/securityalert/8468
 CVE-2010-4960 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
 CVE-2010-4961 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
 CVE-2010-4962 - http://typo3.org/teams/security/security-bulletins/typo3-sa-2010-015/
@@ -45034,6 +45042,7 @@ CVE-2020-36501 - https://www.vulnerability-lab.com/get_content.php?id=2249
 CVE-2020-36502 - https://www.vulnerability-lab.com/get_content.php?id=2205
 CVE-2020-36505 - https://medium.com/@hoanhp/0-day-story-2-delete-all-comments-easily-a854e52a7d50
 CVE-2020-3651 - https://www.qualcomm.com/company/product-security/bulletins/april-2020-bulletin
+CVE-2020-36519 - https://wesleyk.me/2020/01/10/my-first-vulnerability-mimecast-sender-address-verification/
 CVE-2020-3652 - https://www.qualcomm.com/company/product-security/bulletins/april-2020-bulletin
 CVE-2020-3653 - https://www.qualcomm.com/company/product-security/bulletins/april-2020-bulletin
 CVE-2020-3654 - https://www.qualcomm.com/company/product-security/bulletins/october-2020-bulletin
@@ -49942,3 +49951,4 @@ CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.17
 CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.3
 CVE-2022-26966 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
 CVE-2022-27003 - https://github.com/wudipjq/my_vuln/blob/main/totolink/vuln_32/32.md
+CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
