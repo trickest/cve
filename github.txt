@@ -17770,7 +17770,6 @@ CVE-2018-11657 - https://github.com/Edward-L/my-cve-list
 CVE-2018-11670 - https://github.com/anquanquantao/iwantacve
 CVE-2018-11671 - https://github.com/anquanquantao/iwantacve
 CVE-2018-11672 - https://github.com/googleprojectzero/winafl
-CVE-2018-11672 - https://github.com/hardik05/winafl-powermopt
 CVE-2018-11681 - https://github.com/SadFud/Exploits
 CVE-2018-11682 - https://github.com/SadFud/Exploits
 CVE-2018-11686 - https://github.com/0xT11/CVE-POC
@@ -20201,7 +20200,6 @@ CVE-2018-2894 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2018-2894 - https://github.com/xiaoyaovo/2021SecWinterTask
 CVE-2018-2894 - https://github.com/yyzsec/2021SecWinterTask
 CVE-2018-2894 - https://github.com/zema1/oracle-vuln-crawler
-CVE-2018-2983 - https://github.com/superfish9/pt
 CVE-2018-3004 - https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 CVE-2018-3004 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2018-3004 - https://github.com/mishmashclone/GrrrDog-Java-Deserialization-Cheat-Sheet
@@ -24183,6 +24181,7 @@ CVE-2019-11358 - https://github.com/ArnArora/FTC-Freight-Frenzy
 CVE-2019-11358 - https://github.com/Arya333/4546-UG
 CVE-2019-11358 - https://github.com/Asaphfirst/2021-2
 CVE-2019-11358 - https://github.com/AsianKoala/FTC_14607_new
+CVE-2019-11358 - https://github.com/AsianKoala/robotroopers_koawalib
 CVE-2019-11358 - https://github.com/AtticFanatics14079/FreightFrenzy
 CVE-2019-11358 - https://github.com/AtticFanatics14079/UltimateGoal
 CVE-2019-11358 - https://github.com/AtticFanatics14079/UltimateGoalFanatics
@@ -24984,6 +24983,7 @@ CVE-2019-11358 - https://github.com/collinsch2/java_ftc_crimson
 CVE-2019-11358 - https://github.com/cpmoden/robotics
 CVE-2019-11358 - https://github.com/cstacks/FreightFrenzy
 CVE-2019-11358 - https://github.com/cswebdevelopment/robot
+CVE-2019-11358 - https://github.com/cyberhawks14188/7.1-Freight-Frenzy
 CVE-2019-11358 - https://github.com/cyberhawks14188/CyberHawks-Ultimate-Goal-Repo
 CVE-2019-11358 - https://github.com/cyberhawks14188/Freight-Frenzy-Repo
 CVE-2019-11358 - https://github.com/cyborg48/UltimateGoal
@@ -26910,7 +26910,6 @@ CVE-2019-15053 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-15053 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-15053 - https://github.com/l0nax/CVE-2019-15053
 CVE-2019-15055 - https://github.com/alphaSeclab/sec-daily-2019
-CVE-2019-15063 - https://github.com/engn33r/awesome-bluetooth-security
 CVE-2019-15078 - https://github.com/sjmini/icse2020-Solidity
 CVE-2019-15079 - https://github.com/sjmini/icse2020-Solidity
 CVE-2019-15080 - https://github.com/sjmini/icse2020-Solidity
@@ -32063,11 +32062,7 @@ CVE-2020-1034 - https://github.com/pravinsrc/NOTES-windows-kernel-links
 CVE-2020-1034 - https://github.com/taielab/awesome-hacking-lists
 CVE-2020-1034 - https://github.com/yardenshafir/CVE-2020-1034
 CVE-2020-1034 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
-CVE-2020-10367 - https://github.com/engn33r/awesome-bluetooth-security
 CVE-2020-10367 - https://github.com/joydo/CVE-Writeups
-CVE-2020-10368 - https://github.com/engn33r/awesome-bluetooth-security
-CVE-2020-10369 - https://github.com/engn33r/awesome-bluetooth-security
-CVE-2020-10370 - https://github.com/engn33r/awesome-bluetooth-security
 CVE-2020-10378 - https://github.com/risicle/cpytraceafl
 CVE-2020-10379 - https://github.com/risicle/cpytraceafl
 CVE-2020-1038 - https://github.com/404notf0und/CVE-Flow
@@ -41758,6 +41753,7 @@ CVE-2021-26084 - https://github.com/mdisec/mdisec-twitch-yayinlari
 CVE-2021-26084 - https://github.com/nizarbamida/CVE-2021-26084-patch-
 CVE-2021-26084 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-26084 - https://github.com/p0nymc1/CVE-2021-26084
+CVE-2021-26084 - https://github.com/pen4uin/awesome-pentest-note
 CVE-2021-26084 - https://github.com/pen4uin/pentest-note
 CVE-2021-26084 - https://github.com/pipiscrew/timeline
 CVE-2021-26084 - https://github.com/quesodipesto/conflucheck
@@ -43301,7 +43297,6 @@ CVE-2021-31702 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-31703 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-31703 - https://github.com/l00neyhacker/CVE-2021-31703
 CVE-2021-31703 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2021-31717 - https://github.com/engn33r/awesome-bluetooth-security
 CVE-2021-31727 - https://github.com/irql0/CVE-2021-31728
 CVE-2021-31727 - https://github.com/mathisvickie/KMAC
 CVE-2021-31728 - https://github.com/ARPSyndicate/cvemon
@@ -44220,7 +44215,6 @@ CVE-2021-36380 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-36387 - https://github.com/cyberaz0r/Yellowfin-Multiple-Vulnerabilities
 CVE-2021-36388 - https://github.com/cyberaz0r/Yellowfin-Multiple-Vulnerabilities
 CVE-2021-36389 - https://github.com/cyberaz0r/Yellowfin-Multiple-Vulnerabilities
-CVE-2021-36392 - https://github.com/luukverhoeven/luukverhoeven
 CVE-2021-36394 - https://github.com/dinhbaouit/CVE-2021-36394
 CVE-2021-3646 - https://github.com/ajmalabubakkr/CVE
 CVE-2021-36530 - https://github.com/Marsman1996/pocs
@@ -44665,6 +44659,7 @@ CVE-2021-39623 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-39623 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3963 - https://github.com/Haxatron/Haxatron
 CVE-2021-39659 - https://github.com/kris-classes/restart
+CVE-2021-39659 - https://github.com/kris-classes/restart-ss-2021
 CVE-2021-3966 - https://github.com/szymonh/szymonh
 CVE-2021-39685 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39685 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -46903,6 +46898,7 @@ CVE-2022-22587 - https://github.com/b1n4r1b01/n-days
 CVE-2022-22588 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22588 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22588 - https://github.com/trevorspiniolas/homekitdos
+CVE-2022-22600 - https://github.com/acheong08/MSF-screenrecord-on-MacOS
 CVE-2022-22616 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2022-22660 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2022-22660 - https://github.com/insidegui/CoreFollowUpAttack
@@ -47305,11 +47301,13 @@ CVE-2022-25636 - https://github.com/jakescheetz/OWASP-JuiceShop
 CVE-2022-25636 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25636 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2022-25636 - https://github.com/zhaoolee/garss
+CVE-2022-25640 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25640 - https://github.com/dim0x69/cve-2022-25640-exploit
 CVE-2022-25640 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25943 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25943 - https://github.com/HadiMed/KINGSOFT-WPS-Office-LPE
 CVE-2022-25943 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-25949 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25949 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25949 - https://github.com/tandasat/CVE-2022-25949
 CVE-2022-26149 - https://github.com/karimhabush/cyberowl

@@ -15727,6 +15727,8 @@ CVE-2013-4885 - http://packetstormsecurity.com/files/122719/TWSL2013-025.txt
 CVE-2013-4891 - https://github.com/bcit-ci/CodeIgniter/issues/4020
 CVE-2013-4891 - https://nealpoole.com/blog/2013/07/codeigniter-21-xss-clean-filter-bypass/
 CVE-2013-4900 - http://www.exploit-db.com/exploits/27777
+CVE-2013-4922 - http://anonsvn.wireshark.org/viewvc/trunk/epan/dissectors/packet-dcom-sysact.c?r1=50094&r2=50093&pathrev=50094
+CVE-2013-4923 - http://anonsvn.wireshark.org/viewvc/trunk/epan/dissectors/packet-dcom-sysact.c?r1=50094&r2=50093&pathrev=50094
 CVE-2013-4948 - http://packetstormsecurity.com/files/122255/Machform-Form-Maker-2-XSS-Shell-Upload-SQL-Injection.html
 CVE-2013-4949 - http://packetstormsecurity.com/files/122255/Machform-Form-Maker-2-XSS-Shell-Upload-SQL-Injection.html
 CVE-2013-4950 - http://packetstormsecurity.com/files/122255/Machform-Form-Maker-2-XSS-Shell-Upload-SQL-Injection.html
@@ -34703,6 +34705,7 @@ CVE-2018-21034 - https://www.soluble.ai/blog/argo-cves-2020
 CVE-2018-21037 - https://github.com/intelliants/subrion/issues/638
 CVE-2018-21113 - https://kb.netgear.com/000060438/Security-Advisory-for-Pre-Authentication-Command-Injection-on-Some-Routers-and-Modem-Routers-PSV-2018-0033
 CVE-2018-21136 - https://kb.netgear.com/000060224/Security-Advisory-for-Sensitive-Information-Disclosure-on-Some-Modem-Routers-PSV-2018-0100
+CVE-2018-21140 - https://kb.netgear.com/000060221/Security-Advisory-for-Security-Misconfiguration-on-Some-Modem-Routers-PSV-2018-0097
 CVE-2018-21159 - https://kb.netgear.com/000059471/Security-Advisory-for-Security-Misconfiguration-on-ReadyNAS-OS-6-PSV-2017-1999
 CVE-2018-21189 - https://kb.netgear.com/000055168/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-and-Gateways-PSV-2017-2606
 CVE-2018-21203 - https://kb.netgear.com/000055146/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-PSV-2017-2589
@@ -49803,6 +49806,7 @@ CVE-2022-21817 - https://nvidia.custhelp.com/app/answers/detail/a_id/5318
 CVE-2022-21882 - http://packetstormsecurity.com/files/166169/Win32k-ConsoleControl-Offset-Confusion-Privilege-Escalation.html
 CVE-2022-21907 - http://packetstormsecurity.com/files/165566/HTTP-Protocol-Stack-Denial-Of-Service-Remote-Code-Execution.html
 CVE-2022-21907 - https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907
+CVE-2022-21999 - http://packetstormsecurity.com/files/166344/Windows-SpoolFool-Privilege-Escalation.html
 CVE-2022-22107 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22107
 CVE-2022-22108 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22108
 CVE-2022-22109 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-22109
@@ -49880,6 +49884,7 @@ CVE-2022-23940 - https://github.com/manuelz120
 CVE-2022-23967 - https://github.com/MaherAzzouzi/CVE-2022-23967
 CVE-2022-23968 - https://neosmart.net/blog/2022/xerox-vulnerability-allows-unauthenticated-network-users-to-remotely-brick-printers/
 CVE-2022-24112 - http://packetstormsecurity.com/files/166228/Apache-APISIX-Remote-Code-Execution.html
+CVE-2022-24112 - http://packetstormsecurity.com/files/166328/Apache-APISIX-2.12.1-Remote-Code-Execution.html
 CVE-2022-24124 - http://packetstormsecurity.com/files/166163/Casdoor-1.13.0-SQL-Injection.html
 CVE-2022-24129 - https://github.com/sbaresearch/advisories/tree/public/2022/SBA-ADV-20220127-01_Shibboleth_IdP_OIDC_OP_Plugin_SSRF
 CVE-2022-24196 - https://github.com/itext/itext7/pull/78
@@ -49951,6 +49956,8 @@ CVE-2022-26143 - https://team-cymru.com/blog/2022/03/08/record-breaking-ddos-pot
 CVE-2022-26159 - https://podalirius.net/en/cves/2022-26159/
 CVE-2022-26181 - https://github.com/dropbox/lepton/issues/154
 CVE-2022-26211 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_25/25.md
+CVE-2022-26293 - https://www.exploit-db.com/exploits/50682
+CVE-2022-26295 - https://www.exploit-db.com/exploits/50683
 CVE-2022-26332 - https://www.exploit-db.com/exploits/50788
 CVE-2022-26495 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26496 - https://lists.debian.org/nbd/2022/01/msg00037.html
