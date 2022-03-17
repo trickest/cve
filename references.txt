@@ -49689,6 +49689,7 @@ CVE-2022-0731 - https://huntr.dev/bounties/e242ab4e-fc70-4b2c-a42d-5b3ee4895de8
 CVE-2022-0732 - https://techcrunch.com/2022/02/22/stalkerware-network-spilling-data/
 CVE-2022-0743 - https://huntr.dev/bounties/32ea4ddb-5b41-4bf9-b5a1-ef455fe2d293
 CVE-2022-0746 - https://huntr.dev/bounties/b812ea22-0c02-46fe-b89f-04519dfb1ebd
+CVE-2022-0748 - https://snyk.io/vuln/SNYK-JS-POSTLOADER-2403737
 CVE-2022-0752 - https://huntr.dev/bounties/49940dd2-72c2-4607-857a-1fade7e8f080
 CVE-2022-0753 - https://huntr.dev/bounties/8ce4b776-1c53-45ec-bc5f-783077e2d324
 CVE-2022-0754 - https://huntr.dev/bounties/8afb7991-c6ed-42d9-bd9b-1cc83418df88
@@ -49773,6 +49774,7 @@ CVE-2022-0967 - https://huntr.dev/bounties/9dea3c98-7609-480d-902d-149067bd1e2a
 CVE-2022-0968 - https://huntr.dev/bounties/97e36678-11cf-42c6-889c-892d415d9f9e
 CVE-2022-0970 - https://huntr.dev/bounties/dd436c44-cbf4-48ac-8817-3a24872534ec
 CVE-2022-0986 - https://huntr.dev/bounties/57635c78-303f-412f-b75a-623df9fa9edd
+CVE-2022-1000 - https://huntr.dev/bounties/5995a93f-0c4b-4f7d-aa59-a64424219424
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -49935,6 +49937,7 @@ CVE-2022-25241 - http://packetstormsecurity.com/files/166074/FileCloud-21.2-Cros
 CVE-2022-25241 - https://herolab.usd.de/security-advisories/
 CVE-2022-25242 - https://herolab.usd.de/security-advisories/
 CVE-2022-25258 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
+CVE-2022-25296 - https://snyk.io/vuln/SNYK-JS-BODYMEN-2342623
 CVE-2022-25297 - https://snyk.io/vuln/SNYK-UNMANAGED-DROGONFRAMEWORKDROGON-2407243
 CVE-2022-25298 - https://snyk.io/vuln/SNYK-UNMANAGED-SPRINFALLWEBCC-2404182
 CVE-2022-25299 - https://snyk.io/vuln/SNYK-UNMANAGED-CESANTAMONGOOSE-2404180
@@ -49942,6 +49945,8 @@ CVE-2022-25315 - https://github.com/libexpat/libexpat/pull/559
 CVE-2022-25329 - https://www.tenable.com/security/research/tra-2022-05
 CVE-2022-25330 - https://www.tenable.com/security/research/tra-2022-05
 CVE-2022-25331 - https://www.tenable.com/security/research/tra-2022-05
+CVE-2022-25352 - https://snyk.io/vuln/SNYK-JS-LIBNESTED-2342117
+CVE-2022-25354 - https://snyk.io/vuln/SNYK-JS-SETIN-2388571
 CVE-2022-25359 - https://packetstormsecurity.com/files/166103/ICL-ScadaFlex-II-SCADA-Controllers-SC-1-SC-2-1.03.07-Remote-File-Modification.html
 CVE-2022-25375 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
 CVE-2022-25402 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
@@ -49953,6 +49958,7 @@ CVE-2022-25506 - https://github.com/FreeTAKTeam/UI/issues/27
 CVE-2022-25553 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/7
 CVE-2022-25555 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/2
 CVE-2022-25636 - https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/
+CVE-2022-25760 - https://snyk.io/vuln/SNYK-JS-ACCESSLOG-2312099
 CVE-2022-25839 - https://snyk.io/vuln/SNYK-JS-URLJS-2414030
 CVE-2022-26143 - https://team-cymru.com/blog/2022/03/08/record-breaking-ddos-potential-discovered-cve-2022-26143/
 CVE-2022-26159 - https://podalirius.net/en/cves/2022-26159/
