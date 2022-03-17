@@ -27489,6 +27489,7 @@ CVE-2017-12876 - http://www.openwall.com/lists/oss-security/2017/08/16/3
 CVE-2017-12876 - https://blogs.gentoo.org/ago/2017/08/10/imagemagick-heap-based-buffer-overflow-in-omp_outlined-32-enhance-c/
 CVE-2017-12877 - http://www.openwall.com/lists/oss-security/2017/08/16/2
 CVE-2017-12877 - https://blogs.gentoo.org/ago/2017/08/10/imagemagick-use-after-free-in-destroyimage-image-c/
+CVE-2017-12879 - https://drive.google.com/open?id=0B6WbMqXSfqQFODZHUGtLdzU3eDA
 CVE-2017-12883 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2017-12904 - https://github.com/akrennmair/newsbeuter/commit/96e9506ae9e252c548665152d1b8968297128307
 CVE-2017-12904 - https://github.com/akrennmair/newsbeuter/issues/591
@@ -39501,6 +39502,7 @@ CVE-2019-20212 - https://cxsecurity.com/issue/WLB-2019120112
 CVE-2019-20213 - https://medium.com/@s1kr10s/d-link-dir-859-unauthenticated-information-disclosure-en-faf1a9a13f3f
 CVE-2019-20213 - https://medium.com/@s1kr10s/d-link-dir-859-unauthenticated-information-disclosure-es-6540f7f55b03
 CVE-2019-20215 - http://packetstormsecurity.com/files/156250/D-Link-ssdpcgi-Unauthenticated-Remote-Command-Execution.html
+CVE-2019-20215 - https://medium.com/@s1kr10s/d-link-dir-859-unauthenticated-rce-in-ssdpcgi-http-st-cve-2019-20215-en-2e799acb8a73
 CVE-2019-20216 - https://medium.com/@s1kr10s/d-link-dir-859-rce-unauthenticated-cve-2019-20216-cve-2019-20217-en-6bca043500ae
 CVE-2019-20216 - https://medium.com/@s1kr10s/d-link-dir-859-rce-unauthenticated-cve-2019-20216-cve-2019-20217-es-e11ca6168d35
 CVE-2019-20217 - https://medium.com/@s1kr10s/d-link-dir-859-rce-unauthenticated-cve-2019-20216-cve-2019-20217-en-6bca043500ae
