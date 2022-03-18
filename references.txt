@@ -49505,6 +49505,7 @@ CVE-2021-45847 - https://github.com/slic3r/Slic3r/issues/5118
 CVE-2021-45847 - https://github.com/slic3r/Slic3r/issues/5119
 CVE-2021-45847 - https://github.com/slic3r/Slic3r/issues/5120
 CVE-2021-45856 - https://packetstormsecurity.com/files/165392/Accu-Time-Systems-MAXIMUS-1.0-Buffer-Overflow-Denial-Of-Service.html
+CVE-2021-45868 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.3
 CVE-2021-45885 - https://advisories.stormshield.eu
 CVE-2021-45885 - https://advisories.stormshield.eu/2021-069/
 CVE-2021-45897 - https://github.com/manuelz120/CVE-2021-45897
@@ -50061,6 +50062,7 @@ CVE-2022-26495 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26496 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.17
 CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.3
+CVE-2022-26965 - https://packetstormsecurity.com/files/166336/Pluck-CMS-4.7.16-Shell-Upload.html
 CVE-2022-26966 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
 CVE-2022-27003 - https://github.com/wudipjq/my_vuln/blob/main/totolink/vuln_32/32.md
 CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
