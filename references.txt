@@ -50130,6 +50130,7 @@ CVE-2022-0967 - https://huntr.dev/bounties/9dea3c98-7609-480d-902d-149067bd1e2a
 CVE-2022-0968 - https://huntr.dev/bounties/97e36678-11cf-42c6-889c-892d415d9f9e
 CVE-2022-0970 - https://huntr.dev/bounties/dd436c44-cbf4-48ac-8817-3a24872534ec
 CVE-2022-0986 - https://huntr.dev/bounties/57635c78-303f-412f-b75a-623df9fa9edd
+CVE-2022-0991 - https://huntr.dev/bounties/1c406a4e-15d0-4920-8495-731c48473ba4
 CVE-2022-1000 - https://huntr.dev/bounties/5995a93f-0c4b-4f7d-aa59-a64424219424
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
@@ -50311,6 +50312,7 @@ CVE-2022-25417 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/3
 CVE-2022-25418 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/2
 CVE-2022-25438 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/11
 CVE-2022-25451 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC6/9
+CVE-2022-25459 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC6/15
 CVE-2022-25487 - https://github.com/thedigicraft/Atom.CMS/issues/256
 CVE-2022-25506 - https://github.com/FreeTAKTeam/UI/issues/27
 CVE-2022-25553 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/7
@@ -50331,5 +50333,7 @@ CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15.17
 CVE-2022-26878 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.3
 CVE-2022-26965 - https://packetstormsecurity.com/files/166336/Pluck-CMS-4.7.16-Shell-Upload.html
 CVE-2022-26966 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
+CVE-2022-26990 - https://github.com/wudipjq/my_vuln/blob/main/ARRIS/vuln_2/2.md
 CVE-2022-27003 - https://github.com/wudipjq/my_vuln/blob/main/totolink/vuln_32/32.md
 CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
+CVE-2022-27226 - https://johnjhacking.com/blog/cve-2022-27226/
