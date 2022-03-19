@@ -46390,6 +46390,7 @@ CVE-2021-44733 - https://github.com/joydo/CVE-Writeups
 CVE-2021-44733 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-44733 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-44733 - https://github.com/xairy/linux-kernel-exploitation
+CVE-2021-44790 - https://github.com/emotest1/emo_emo
 CVE-2021-44827 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44827 - https://github.com/full-disclosure/CVE-2021-44827
 CVE-2021-44827 - https://github.com/full-disclosure/repo
@@ -46429,6 +46430,7 @@ CVE-2021-45007 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-45007 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-45008 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-45008 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-45010 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-45010 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-45015 - https://github.com/syslog-ng/syslog-ng
 CVE-2021-45039 - https://github.com/binganao/vulns-2022
@@ -46858,6 +46860,7 @@ CVE-2022-0847 - https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe-
 CVE-2022-0847 - https://github.com/ITMarcin2211/CVE-2022-0847-DirtyPipe-Exploit
 CVE-2022-0847 - https://github.com/Ignitetechnologies/Linux-Privilege-Escalation
 CVE-2022-0847 - https://github.com/LP-H4cmilo/CVE-2022-0847_DirtyPipe_Exploits
+CVE-2022-0847 - https://github.com/LudovicPatho/CVE-2022-0847
 CVE-2022-0847 - https://github.com/Metarget/metarget
 CVE-2022-0847 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-0847 - https://github.com/MrP1xel/CVE-2022-0847-dirty-pipe-kernel-checker
@@ -47039,6 +47042,7 @@ CVE-2022-21907 - https://github.com/bigblackhat/oFx
 CVE-2022-21907 - https://github.com/binganao/vulns-2022
 CVE-2022-21907 - https://github.com/coconut20/CVE-2022-21907-RCE-POC
 CVE-2022-21907 - https://github.com/corelight/cve-2022-21907
+CVE-2022-21907 - https://github.com/emotest1/emo_emo
 CVE-2022-21907 - https://github.com/mauricelambert/CVE-2021-31166
 CVE-2022-21907 - https://github.com/mauricelambert/CVE-2022-21907
 CVE-2022-21907 - https://github.com/mauricelambert/mauricelambert.github.io
@@ -47394,6 +47398,7 @@ CVE-2022-24124 - https://github.com/wuhan005/wuhan005
 CVE-2022-24206 - https://github.com/k0xx11/Vulscve
 CVE-2022-24260 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-24260 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2022-24260 - https://github.com/Fashion-Man/ECE-9609-9069
 CVE-2022-24263 - https://github.com/truonghuuphuc/CVE
 CVE-2022-24264 - https://github.com/truonghuuphuc/CVE
 CVE-2022-24265 - https://github.com/truonghuuphuc/CVE
@@ -47447,6 +47452,7 @@ CVE-2022-24986 - https://github.com/karimhabush/cyberowl
 CVE-2022-24990 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-24990 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-24990 - https://github.com/Jaky5155/CVE-2022-24990-TerraMaster-TOS--PHP-
+CVE-2022-24990 - https://github.com/VVeakee/CVE-2022-24990-EXP
 CVE-2022-24990 - https://github.com/VVeakee/CVE-2022-24990-POC
 CVE-2022-24990 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25018 - https://github.com/ARPSyndicate/cvemon
@@ -47580,6 +47586,8 @@ CVE-2022-27215 - https://github.com/karimhabush/cyberowl
 CVE-2022-27216 - https://github.com/karimhabush/cyberowl
 CVE-2022-27217 - https://github.com/karimhabush/cyberowl
 CVE-2022-27218 - https://github.com/karimhabush/cyberowl
+CVE-2022-27226 - https://github.com/AlexRogalskiy/AlexRogalskiy
+CVE-2022-27226 - https://github.com/SakuraSamuraii/ez-iRZ
 CVE-2022-31166 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-31166 - https://github.com/mauricelambert/CVE-2021-31166
 CVE-2022-31166 - https://github.com/nomi-sec/PoC-in-GitHub
