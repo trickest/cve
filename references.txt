@@ -5172,6 +5172,7 @@ CVE-2007-5149 - https://www.exploit-db.com/exploits/4465
 CVE-2007-5150 - http://www.waraxe.us/advisory-56.html
 CVE-2007-5151 - http://www.waraxe.us/advisory-58.html
 CVE-2007-5155 - http://vuln.sg/iceows420b-en.html
+CVE-2007-5156 - http://www.securityfocus.com/archive/1/480830/100/0/threaded
 CVE-2007-5156 - http://www.waraxe.us/advisory-57.html
 CVE-2007-5156 - https://www.exploit-db.com/exploits/5618
 CVE-2007-5156 - https://www.exploit-db.com/exploits/5688
@@ -25088,6 +25089,7 @@ CVE-2016-2399 - http://www.nemux.org/2016/02/23/libquicktime-1-2-4/
 CVE-2016-2399 - https://packetstormsecurity.com/files/135899/libquicktime-1.2.4-Integer-Overflow.html
 CVE-2016-2399 - https://www.exploit-db.com/exploits/39487/
 CVE-2016-2402 - https://koz.io/pinning-cve-2016-2402/
+CVE-2016-2408 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA40241/
 CVE-2016-2417 - https://www.exploit-db.com/exploits/39685/
 CVE-2016-2494 - http://packetstormsecurity.com/files/137404/Android-system-bin-sdcard-Stack-Buffer-Overflow.html
 CVE-2016-2494 - https://www.exploit-db.com/exploits/39921/
@@ -30581,7 +30583,9 @@ CVE-2017-5487 - https://www.exploit-db.com/exploits/41497/
 CVE-2017-5488 - https://wpvulndb.com/vulnerabilities/8716
 CVE-2017-5489 - https://wpvulndb.com/vulnerabilities/8717
 CVE-2017-5490 - https://wpvulndb.com/vulnerabilities/8718
+CVE-2017-5491 - https://wpvulndb.com/vulnerabilities/8719
 CVE-2017-5492 - https://wpvulndb.com/vulnerabilities/8720
+CVE-2017-5493 - https://wpvulndb.com/vulnerabilities/8721
 CVE-2017-5496 - http://packetstormsecurity.com/files/141177/Sawmill-Enterprise-8.7.9-Authentication-Bypass.html
 CVE-2017-5496 - https://www.exploit-db.com/exploits/41395/
 CVE-2017-5498 - https://blogs.gentoo.org/ago/2017/01/16/jasper-multiple-crashes-with-ubsan/
