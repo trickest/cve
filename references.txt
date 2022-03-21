@@ -35996,6 +35996,7 @@ CVE-2018-4863 - http://seclists.org/fulldisclosure/2018/Apr/6
 CVE-2018-4863 - https://www.exploit-db.com/exploits/44410/
 CVE-2018-4868 - https://github.com/Exiv2/exiv2/issues/202
 CVE-2018-4878 - https://blog.morphisec.com/flash-exploit-cve-2018-4878-spotted-in-the-wild-massive-malspam-campaign
+CVE-2018-4878 - https://github.com/InQuest/malware-samples/tree/master/CVE-2018-4878-Adobe-Flash-DRM-UAF-0day
 CVE-2018-4878 - https://github.com/vysec/CVE-2018-4878
 CVE-2018-4878 - https://www.darkreading.com/threat-intelligence/adobe-flash-vulnerability-reappears-in-malicious-word-files/d/d-id/1331139
 CVE-2018-4878 - https://www.exploit-db.com/exploits/44412/
@@ -44848,6 +44849,7 @@ CVE-2020-23172 - https://github.com/kuba--/zip/issues/123
 CVE-2020-23178 - https://github.com/PHPFusion/PHPFusion/issues/2314
 CVE-2020-23182 - https://github.com/phpfusion/PHPFusion/issues/2329
 CVE-2020-23208 - https://github.com/phpList/phplist3/issues/665
+CVE-2020-23209 - https://github.com/phpList/phplist3/issues/666
 CVE-2020-23214 - https://github.com/phpList/phplist3/issues/669
 CVE-2020-23217 - https://github.com/phpList/phplist3/issues/672
 CVE-2020-23266 - https://github.com/gpac/gpac/issues/1481
@@ -44920,6 +44922,7 @@ CVE-2020-23874 - https://github.com/kermitt2/pdf2xml/issues/12
 CVE-2020-23876 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
 CVE-2020-23876 - https://github.com/kermitt2/pdf2xml/issues/14
 CVE-2020-23877 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2xml
+CVE-2020-23877 - https://github.com/kermitt2/pdf2xml/issues/15
 CVE-2020-23878 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2json
 CVE-2020-23878 - https://github.com/flexpaper/pdf2json/issues/45
 CVE-2020-23879 - https://github.com/Aurorainfinity/Poc/tree/master/pdf2json
