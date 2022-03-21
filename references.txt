@@ -14360,6 +14360,7 @@ CVE-2012-4362 - http://www.kb.cert.org/vuls/id/441363
 CVE-2012-4385 - https://vulmon.com/exploitdetails?qidtp=EDB&qid=20759
 CVE-2012-4399 - http://seclists.org/bugtraq/2012/Jul/101
 CVE-2012-4399 - http://www.exploit-db.com/exploits/19863
+CVE-2012-4405 - http://www.securityfocus.com/bid/55494
 CVE-2012-4409 - http://packetstormsecurity.org/files/116268/mcrypt-2.6.8-Buffer-Overflow-Proof-Of-Concept.html
 CVE-2012-4409 - http://www.openwall.com/lists/oss-security/2012/09/06/4
 CVE-2012-4412 - http://packetstormsecurity.com/files/153278/WAGO-852-Industrial-Managed-Switch-Series-Code-Execution-Hardcoded-Credentials.html
@@ -51458,6 +51459,7 @@ CVE-2022-24577 - https://huntr.dev/bounties/0758b3a2-8ff2-45fc-8543-7633d605d24e
 CVE-2022-24578 - https://huntr.dev/bounties/1691cca3-ab54-4259-856b-751be2395b11/
 CVE-2022-24613 - https://github.com/drewnoakes/metadata-extractor/issues/561
 CVE-2022-24614 - https://github.com/drewnoakes/metadata-extractor/issues/561
+CVE-2022-24656 - https://github.com/zhuzhuyule/HexoEditor/issues/3
 CVE-2022-24676 - https://github.com/hyyyp/HYBBS2/issues/33
 CVE-2022-24677 - https://github.com/hyyyp/HYBBS2/issues/34
 CVE-2022-24723 - https://huntr.dev/bounties/82ef23b8-7025-49c9-b5fc-1bb9885788e5/

@@ -22,6 +22,8 @@ CVE-1999-0661 - https://github.com/phx/cvescan
 CVE-1999-0678 - https://github.com/archerysec/archerysec-api-doc
 CVE-1999-0678 - https://github.com/starnightcyber/vul-info-collect
 CVE-1999-0691 - https://github.com/truefinder/truefinder
+CVE-1999-0898 - https://github.com/clearbluejar/cve-markdown-charts
+CVE-1999-0899 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-1999-0906 - https://github.com/RachidaSK/pytm-hardware
 CVE-1999-0906 - https://github.com/croates23/pytm-hardware
 CVE-1999-0906 - https://github.com/izar/pytm
@@ -176,6 +178,7 @@ CVE-2001-1092 - https://github.com/truefinder/truefinder
 CVE-2001-1093 - https://github.com/truefinder/truefinder
 CVE-2001-1382 - https://github.com/phx/cvescan
 CVE-2001-1442 - https://github.com/alt3kx/alt3kx.github.io
+CVE-2001-1451 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2001-1473 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2001-1494 - https://github.com/jaydenaung/CloudGuard-ShiftLeft-CICD-AWS
 CVE-2001-1494 - https://github.com/tp1-SpZIaPvBD/testprojekt
@@ -721,6 +724,7 @@ CVE-2005-1983 - https://github.com/Al1ex/WindowsElevation
 CVE-2005-1983 - https://github.com/Ascotbe/Kernelhub
 CVE-2005-1983 - https://github.com/fei9747/WindowsElevation
 CVE-2005-1983 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
+CVE-2005-1984 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2005-2006 - https://github.com/hatRiot/clusterd
 CVE-2005-2006 - https://github.com/qashqao/clusterd
 CVE-2005-2120 - https://github.com/x00itachi/metasploit-exploit-search-online
@@ -748,6 +752,7 @@ CVE-2005-3120 - https://github.com/oneoy/cve-
 CVE-2005-3252 - https://github.com/mudongliang/LinuxFlaw
 CVE-2005-3252 - https://github.com/oneoy/cve-
 CVE-2005-3583 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
+CVE-2005-3644 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2005-3747 - https://github.com/javirodriguezzz/Shodan-Browser
 CVE-2005-3862 - https://github.com/mudongliang/LinuxFlaw
 CVE-2005-3862 - https://github.com/oneoy/cve-
@@ -976,6 +981,7 @@ CVE-2006-6125 - https://github.com/sececter/wifuzzit
 CVE-2006-6184 - https://github.com/b03902043/CVE-2006-6184
 CVE-2006-6184 - https://github.com/shauntdergrigorian/cve-2006-6184
 CVE-2006-6199 - https://github.com/YasiruJAY/Buffer-Overflow-Walkthrough
+CVE-2006-6296 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2006-6332 - https://github.com/0xd012/wifuzzit
 CVE-2006-6332 - https://github.com/84KaliPleXon3/wifuzzit
 CVE-2006-6332 - https://github.com/HectorTa1989/802.11-Wireless-Fuzzer
@@ -1612,12 +1618,15 @@ CVE-2009-0079 - https://github.com/fei9747/WindowsElevation
 CVE-2009-0079 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2009-0182 - https://github.com/nobodyatall648/CVE-2009-0182
 CVE-2009-0216 - https://github.com/lbrug/ifixpwdump
+CVE-2009-0228 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2009-0229 - https://github.com/0xT11/CVE-POC
+CVE-2009-0229 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2009-0229 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2009-0229 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2009-0229 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2009-0229 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2009-0229 - https://github.com/zveriu/CVE-2009-0229-PoC
+CVE-2009-0230 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2009-0250 - https://github.com/gosirys/Exploits
 CVE-2009-0251 - https://github.com/gosirys/Exploits
 CVE-2009-0275 - https://github.com/gosirys/Exploits
@@ -2367,6 +2376,7 @@ CVE-2010-2632 - https://github.com/phx/cvescan
 CVE-2010-2680 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2010-2682 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2010-2693 - https://github.com/Snoopy-Sec/Localroot-ALL-CVE
+CVE-2010-2729 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2010-2729 - https://github.com/thalpius/Microsoft-PrintDemon-Vulnerability
 CVE-2010-2730 - https://github.com/Romulus968/copycat
 CVE-2010-2730 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
@@ -3521,6 +3531,7 @@ CVE-2012-1823 - https://github.com/panduki/SIE
 CVE-2012-1823 - https://github.com/psifertex/ctf-vs-the-real-world
 CVE-2012-1823 - https://github.com/theGreenJedi/Hacker-Guides
 CVE-2012-1835 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2012-1851 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2012-1856 - https://github.com/Panopticon-Project/Panopticon-Patchwork
 CVE-2012-1856 - https://github.com/houjingyi233/office-exploit-case-study
 CVE-2012-1856 - https://github.com/qiantu88/office-cve
@@ -3828,6 +3839,7 @@ CVE-2013-0008 - https://github.com/Al1ex/WindowsElevation
 CVE-2013-0008 - https://github.com/Ascotbe/Kernelhub
 CVE-2013-0008 - https://github.com/fei9747/WindowsElevation
 CVE-2013-0008 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
+CVE-2013-0011 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2013-0074 - https://github.com/TwoPt4Mhz/Hun73r
 CVE-2013-0074 - https://github.com/likescam/CapTipper-original_https-capture
 CVE-2013-0074 - https://github.com/omriher/CapTipper
@@ -3942,6 +3954,7 @@ CVE-2013-1332 - https://github.com/Al1ex/WindowsElevation
 CVE-2013-1332 - https://github.com/Ascotbe/Kernelhub
 CVE-2013-1332 - https://github.com/fei9747/WindowsElevation
 CVE-2013-1332 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
+CVE-2013-1339 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2013-1345 - https://github.com/Ascotbe/Kernelhub
 CVE-2013-1345 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2013-1492 - https://github.com/retr0-13/cveScannerV2
@@ -8841,9 +8854,11 @@ CVE-2016-3225 - https://github.com/fei9747/WindowsElevation
 CVE-2016-3225 - https://github.com/lp008/Hack-readme
 CVE-2016-3225 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2016-3238 - https://github.com/RPP-IM-2021/IM113-2016-Cvetkov-Katarina
+CVE-2016-3238 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2016-3238 - https://github.com/nirdev/CVE-2016-3749-PoC
 CVE-2016-3238 - https://github.com/pyiesone/CVE-2016-3238-PoC
 CVE-2016-3238 - https://github.com/tarrell13/CVE-Reporter
+CVE-2016-3239 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2016-3239 - https://github.com/tarrell13/CVE-Reporter
 CVE-2016-3305 - https://github.com/Al1ex/WindowsElevation
 CVE-2016-3305 - https://github.com/fei9747/WindowsElevation
@@ -23335,6 +23350,7 @@ CVE-2019-0753 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-0753 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-0753 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2019-0755 - https://github.com/punishell/WindowsLegacyCVE
+CVE-2019-0759 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2019-0761 - https://github.com/0xT11/CVE-POC
 CVE-2019-0761 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-0761 - https://github.com/hectorgie/PoC-in-GitHub
@@ -24492,6 +24508,7 @@ CVE-2019-11358 - https://github.com/FTC14691-MechanicalMafia/2022_21_FreightFren
 CVE-2019-11358 - https://github.com/FTC16751/FtcRobotControllerTesting
 CVE-2019-11358 - https://github.com/FTC16854/FtcRobotController-FreightFrenzy
 CVE-2019-11358 - https://github.com/FTC19427/Robot_Code
+CVE-2019-11358 - https://github.com/FTC20228/Hoops
 CVE-2019-11358 - https://github.com/FTC20325MaximumResistance/Robot-code
 CVE-2019-11358 - https://github.com/FTC20337-SayWatt/2022_21_FreightFrenzy_20337
 CVE-2019-11358 - https://github.com/FTC207/TestBotPractice
@@ -25209,6 +25226,7 @@ CVE-2019-11358 - https://github.com/hhstitan7831/TitanFreightFrenzy
 CVE-2019-11358 - https://github.com/hollybots/ftc_2020_12731
 CVE-2019-11358 - https://github.com/hortonvilleroboticskung/UltimateGoal
 CVE-2019-11358 - https://github.com/hydropony/FreightFrenzy11044
+CVE-2019-11358 - https://github.com/hydropony/FreightFrenzy11044-2
 CVE-2019-11358 - https://github.com/iklein53579/FTCRobotController
 CVE-2019-11358 - https://github.com/imaperson1060/Ftc22
 CVE-2019-11358 - https://github.com/importTahsinZaman/Robotics
@@ -32237,6 +32255,7 @@ CVE-2020-10263 - https://github.com/Jian-Xian/CVE-POC
 CVE-2020-1029 - https://github.com/itm4n/CVEs
 CVE-2020-1030 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1030 - https://github.com/Accenture/AARO-Bugs
+CVE-2020-1030 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2020-1031 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1033 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1034 - https://github.com/404notf0und/CVE-Flow
@@ -32276,6 +32295,7 @@ CVE-2020-1048 - https://github.com/YIXINSHUWU/Penetration_Testing_POC
 CVE-2020-1048 - https://github.com/airbus-cert/Splunk-ETW
 CVE-2020-1048 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-1048 - https://github.com/bhassani/Recent-CVE
+CVE-2020-1048 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2020-1048 - https://github.com/deadjakk/patch-checker
 CVE-2020-1048 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-1048 - https://github.com/hasee2018/Penetration_Testing_POC
@@ -32430,6 +32450,7 @@ CVE-2020-10675 - https://github.com/naveensrinivasan/stunning-tribble
 CVE-2020-10693 - https://github.com/IBM/websphere-automation-lab
 CVE-2020-10693 - https://github.com/akiraabe/myapp-container-jaxrs
 CVE-2020-1070 - https://github.com/0xT11/CVE-POC
+CVE-2020-1070 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2020-1070 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-1070 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-1070 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -33526,6 +33547,7 @@ CVE-2020-1337 - https://github.com/VoidSec/CVE-2020-1337
 CVE-2020-1337 - https://github.com/YIXINSHUWU/Penetration_Testing_POC
 CVE-2020-1337 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-1337 - https://github.com/bhassani/Recent-CVE
+CVE-2020-1337 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2020-1337 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-1337 - https://github.com/fei9747/WindowsElevation
 CVE-2020-1337 - https://github.com/hasee2018/Penetration_Testing_POC
@@ -34997,10 +35019,12 @@ CVE-2020-16952 - https://github.com/pwntester/ysoserial.net
 CVE-2020-16952 - https://github.com/sobinge/nuclei-templates
 CVE-2020-16952 - https://github.com/whoadmin/pocs
 CVE-2020-16995 - https://github.com/alphaSeclab/sec-daily-2020
+CVE-2020-17001 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2020-17008 - https://github.com/NetW0rK1le3r/awesome-hacking-lists
 CVE-2020-17008 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-17008 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-17008 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-17014 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2020-17022 - https://github.com/linhlhq/TinyAFL
 CVE-2020-17022 - https://github.com/sickcodes/no-sandbox
 CVE-2020-17023 - https://github.com/sickcodes/no-sandbox
@@ -35008,6 +35032,7 @@ CVE-2020-17035 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-17035 - https://github.com/flamelu/CVE-2020-17035-patch-analysis
 CVE-2020-17035 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-17035 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-17042 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2020-17049 - https://github.com/CompassSecurity/security_resources
 CVE-2020-17049 - https://github.com/ErdemOzgen/ActiveDirectoryAttacks
 CVE-2020-17049 - https://github.com/GhostPack/Rubeus
@@ -40256,6 +40281,7 @@ CVE-2021-1636 - https://github.com/Nate0634034090/bug-free-memory
 CVE-2021-1636 - https://github.com/ben3636/wiper-no-wiping
 CVE-2021-1636 - https://github.com/curated-intel/Ukraine-Cyber-Operations
 CVE-2021-1636 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-1640 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-1643 - https://github.com/linhlhq/TinyAFL
 CVE-2021-1644 - https://github.com/linhlhq/TinyAFL
 CVE-2021-1647 - https://github.com/dmlgzs/cve-2021-1647
@@ -40320,6 +40346,7 @@ CVE-2021-1675 - https://github.com/byt3bl33d3r/ItWasAllADream
 CVE-2021-1675 - https://github.com/calebstewart/CVE-2021-1675
 CVE-2021-1675 - https://github.com/cfalta/MicrosoftWontFixList
 CVE-2021-1675 - https://github.com/ciwen3/PNPT
+CVE-2021-1675 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-1675 - https://github.com/corelight/CVE-2021-1675
 CVE-2021-1675 - https://github.com/crtaylor315/PrintNightmare-Before-Halloween
 CVE-2021-1675 - https://github.com/cube0x0/CVE-2021-1675
@@ -40391,6 +40418,7 @@ CVE-2021-1675 - https://github.com/zeze-zeze/2021iThome
 CVE-2021-1675 - https://github.com/zha0/Microsoft-CVE-2021-1675
 CVE-2021-167534527 - https://github.com/izj007/wechat
 CVE-2021-1678 - https://github.com/bodik/awesome-potatoes
+CVE-2021-1695 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-1698 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2021-1698 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-1698 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
@@ -42354,6 +42382,7 @@ CVE-2021-26855 - https://github.com/tzwlhack/Vulnerability
 CVE-2021-26855 - https://github.com/vehemont/nvdlib
 CVE-2021-26855 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-26855 - https://github.com/yaoxiaoangry3/Flangvik
+CVE-2021-26855 - https://github.com/zainimran/Capstone-MISP-Module
 CVE-2021-26855 - https://github.com/zhzyker/vulmap
 CVE-2021-26856 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-26856 - https://github.com/avi8892/CVE-2021-26856
@@ -42425,6 +42454,7 @@ CVE-2021-26868 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-26871 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-26871 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-26871 - https://github.com/robotMD5/CVE-2021-26871_POC
+CVE-2021-26878 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-26882 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-26882 - https://github.com/api0cradle/CVE-2021-26882
 CVE-2021-26882 - https://github.com/developer3000S/PoC-in-GitHub
@@ -42513,6 +42543,7 @@ CVE-2021-27065 - https://github.com/srvaccount/CVE-2021-26855-PoC
 CVE-2021-27065 - https://github.com/superfish9/pt
 CVE-2021-27065 - https://github.com/vehemont/nvdlib
 CVE-2021-27065 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
+CVE-2021-27065 - https://github.com/zainimran/Capstone-MISP-Module
 CVE-2021-27065 - https://github.com/zhzyker/vulmap
 CVE-2021-27072 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-27072 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
@@ -44174,10 +44205,12 @@ CVE-2021-34473 - https://github.com/signorrayan/RedTeam_toolkit
 CVE-2021-34473 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
 CVE-2021-34481 - https://github.com/SSBhaumik/Printnightmare-safetool
 CVE-2021-34481 - https://github.com/cfalta/MicrosoftWontFixList
+CVE-2021-34481 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-34481 - https://github.com/cquresphere/Remote-Install-Printers
 CVE-2021-34481 - https://github.com/jacob-baines/concealed_position
 CVE-2021-34481 - https://github.com/vanpn/CVE-2021-34481
 CVE-2021-34483 - https://github.com/cfalta/MicrosoftWontFixList
+CVE-2021-34483 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-34486 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-34486 - https://github.com/Ascotbe/Kernelhub
 CVE-2021-34486 - https://github.com/KaLendsi/CVE-2021-34486
@@ -44260,6 +44293,7 @@ CVE-2021-34527 - https://github.com/byt3bl33d3r/ItWasAllADream
 CVE-2021-34527 - https://github.com/carloslacasa/cyber-ansible
 CVE-2021-34527 - https://github.com/cfalta/MicrosoftWontFixList
 CVE-2021-34527 - https://github.com/chdav/offensive-cybersec-toolkit
+CVE-2021-34527 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-34527 - https://github.com/corelight/CVE-2021-1675
 CVE-2021-34527 - https://github.com/crtaylor315/PrintNightmare-Before-Halloween
 CVE-2021-34527 - https://github.com/cube0x0/CVE-2021-1675
@@ -44669,6 +44703,7 @@ CVE-2021-36934 - https://github.com/wolf0x/PSHiveNightmare
 CVE-2021-36934 - https://github.com/wsummerhill/CobaltStrike_RedTeam_CheatSheet
 CVE-2021-36934 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-36936 - https://github.com/cfalta/MicrosoftWontFixList
+CVE-2021-36936 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-36942 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36942 - https://github.com/cfalta/MicrosoftWontFixList
 CVE-2021-36942 - https://github.com/crisprss/PetitPotam
@@ -44677,10 +44712,13 @@ CVE-2021-36942 - https://github.com/ly4k/PetitPotam
 CVE-2021-36942 - https://github.com/r0eXpeR/supplier
 CVE-2021-36942 - https://github.com/topotam/PetitPotam
 CVE-2021-36947 - https://github.com/cfalta/MicrosoftWontFixList
+CVE-2021-36947 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-36949 - https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability
 CVE-2021-36949 - https://github.com/r0eXpeR/supplier
 CVE-2021-36958 - https://github.com/Tomparte/PrintNightmare
+CVE-2021-36958 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-36958 - https://github.com/xbufu/Mimispool
+CVE-2021-36970 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-36975 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-3706 - https://github.com/ajmalabubakkr/CVE
 CVE-2021-3707 - https://github.com/ARPSyndicate/cvemon
@@ -44908,6 +44946,8 @@ CVE-2021-38666 - https://github.com/fardeen-ahmed/Bug-bounty-Writeups
 CVE-2021-38666 - https://github.com/googleprojectzero/winafl
 CVE-2021-38666 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-38666 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-38667 - https://github.com/clearbluejar/cve-markdown-charts
+CVE-2021-38671 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-38699 - https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS
 CVE-2021-38699 - https://github.com/HuskyHacks/CVE-2021-38699-Stored-XSS
 CVE-2021-38699 - https://github.com/Justin-1993/CVE-2021-38699
@@ -45277,6 +45317,7 @@ CVE-2021-40444 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC
 CVE-2021-40444 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
 CVE-2021-40444 - https://github.com/zaneGittins/CVE-2021-40444-evtx
 CVE-2021-40447 - https://github.com/Tomparte/PrintNightmare
+CVE-2021-40447 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-40449 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40449 - https://github.com/Al1ex/WindowsElevation
 CVE-2021-40449 - https://github.com/Ascotbe/Kernelhub
@@ -45497,6 +45538,8 @@ CVE-2021-4130 - https://github.com/Haxatron/Haxatron
 CVE-2021-41303 - https://github.com/pen4uin/awesome-vulnerability-research
 CVE-2021-41303 - https://github.com/pen4uin/vulnerability-lab
 CVE-2021-41326 - https://github.com/dawid-czarnecki/public-vulnerabilities
+CVE-2021-41332 - https://github.com/clearbluejar/cve-markdown-charts
+CVE-2021-41333 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2021-41335 - https://github.com/waleedassar/ObpCreateSymbolicLinkName_EoP
 CVE-2021-41349 - https://github.com/0x0021h/expbox
 CVE-2021-41349 - https://github.com/ARPSyndicate/cvemon
@@ -47032,6 +47075,7 @@ CVE-2022-0432 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0432 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-0435 - https://github.com/bollwarm/SecToolSet
 CVE-2022-0435 - https://github.com/xairy/linux-kernel-exploitation
+CVE-2022-0437 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0441 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0441 - https://github.com/Enes4xd/Enes4xd
 CVE-2022-0441 - https://github.com/cr0ss2018/cr0ss2018
@@ -47112,6 +47156,7 @@ CVE-2022-0778 - https://github.com/lonnyzhang423/github-hot-hub
 CVE-2022-0778 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0778 - https://github.com/spaquet/docker-alpine-mailcatcher
 CVE-2022-0778 - https://github.com/wllm-rbnt/asn1template
+CVE-2022-0811 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0811 - https://github.com/karimhabush/cyberowl
 CVE-2022-0811 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0811 - https://github.com/spiarh/webhook-cve-2022-0811
@@ -47372,12 +47417,14 @@ CVE-2022-21974 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21986 - https://github.com/xt0rted/dotnet-sdk-updater
 CVE-2022-21990 - https://github.com/klinix5/ReverseRDP_RCE
 CVE-2022-21997 - https://github.com/Getshell/WindowsTQ
+CVE-2022-21997 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2022-21997 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21999 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-21999 - https://github.com/Awrrays/Pentest-Tips
 CVE-2022-21999 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-21999 - https://github.com/binganao/vulns-2022
 CVE-2022-21999 - https://github.com/changtraixuqang97/changtraixuqang97
+CVE-2022-21999 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2022-21999 - https://github.com/daphne97/daphne97
 CVE-2022-21999 - https://github.com/duytruongpham/duytruongpham
 CVE-2022-21999 - https://github.com/hktalent/TOP
@@ -47416,10 +47463,12 @@ CVE-2022-22616 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2022-22623 - https://github.com/bagder/log
 CVE-2022-22660 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2022-22660 - https://github.com/insidegui/CoreFollowUpAttack
+CVE-2022-22717 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2022-22717 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22718 - https://github.com/Al1ex/WindowsElevation
 CVE-2022-22718 - https://github.com/J0hnbX/2022-22718
 CVE-2022-22718 - https://github.com/binganao/vulns-2022
+CVE-2022-22718 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2022-22718 - https://github.com/ly4k/SpoolFool
 CVE-2022-22718 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22718 - https://github.com/p1ay8y3ar/cve_monitor
@@ -47597,6 +47646,7 @@ CVE-2022-23221 - https://github.com/akiraabe/myapp-container-jaxrs
 CVE-2022-23221 - https://github.com/hktalent/exploit-poc
 CVE-2022-23222 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2022-23280 - https://github.com/RonnieSalomonsen/My-CVEs
+CVE-2022-23284 - https://github.com/clearbluejar/cve-markdown-charts
 CVE-2022-23296 - https://github.com/RonnieSalomonsen/My-CVEs
 CVE-2022-23302 - https://github.com/HynekPetrak/log4shell-finder
 CVE-2022-23302 - https://github.com/Schnitker/log4j-min
