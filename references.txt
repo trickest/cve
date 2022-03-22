@@ -2496,7 +2496,9 @@ CVE-2006-2888 - https://www.exploit-db.com/exploits/1883
 CVE-2006-2895 - http://svn.wikimedia.org/viewvc/mediawiki/tags/REL1_6_7/phase3/RELEASE-NOTES
 CVE-2006-2896 - https://www.exploit-db.com/exploits/1875
 CVE-2006-2929 - https://www.exploit-db.com/exploits/1886
+CVE-2006-2937 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2006-2937 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2006-2940 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2006-2940 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2006-2962 - https://www.exploit-db.com/exploits/1895
 CVE-2006-2982 - https://www.exploit-db.com/exploits/1891
@@ -2777,7 +2779,9 @@ CVE-2006-4325 - http://evuln.com/vulns/134/description.html
 CVE-2006-4327 - http://evuln.com/vulns/136/description.html
 CVE-2006-4328 - http://evuln.com/vulns/136/description.html
 CVE-2006-4329 - https://www.exploit-db.com/exploits/2229
+CVE-2006-4339 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2006-4339 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2006-4343 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2006-4343 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2006-4343 - https://www.exploit-db.com/exploits/4773
 CVE-2006-4348 - https://www.exploit-db.com/exploits/2215
@@ -3649,8 +3653,11 @@ CVE-2007-0053 - https://www.exploit-db.com/exploits/3062
 CVE-2007-0055 - https://www.exploit-db.com/exploits/3063
 CVE-2007-0059 - http://www.gnucitizen.org/blog/backdooring-quicktime-movies/
 CVE-2007-0059 - http://www.kb.cert.org/vuls/id/304064
+CVE-2007-0061 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-0061 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2007-0062 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-0062 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2007-0063 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-0063 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-0064 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-068
 CVE-2007-0065 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-008
@@ -4889,6 +4896,7 @@ CVE-2007-4055 - https://www.exploit-db.com/exploits/4239
 CVE-2007-4056 - https://www.exploit-db.com/exploits/4238
 CVE-2007-4057 - https://www.exploit-db.com/exploits/4235
 CVE-2007-4058 - https://www.exploit-db.com/exploits/4244
+CVE-2007-4059 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-4059 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-4059 - https://www.exploit-db.com/exploits/4240
 CVE-2007-4060 - https://www.exploit-db.com/exploits/4243
@@ -4898,6 +4906,7 @@ CVE-2007-4068 - https://www.exploit-db.com/exploits/4224
 CVE-2007-4069 - https://www.exploit-db.com/exploits/4225
 CVE-2007-4128 - https://www.exploit-db.com/exploits/4248
 CVE-2007-4140 - https://www.exploit-db.com/exploits/4252
+CVE-2007-4155 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-4155 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-4155 - https://www.exploit-db.com/exploits/4245
 CVE-2007-4156 - https://www.exploit-db.com/exploits/4246
@@ -4976,7 +4985,9 @@ CVE-2007-4484 - http://securityvulns.com/Rdocument846.html
 CVE-2007-4485 - http://securityvulns.com/Rdocument845.html
 CVE-2007-4486 - http://securityvulns.com/Rdocument752.html
 CVE-2007-4489 - https://www.exploit-db.com/exploits/4299
+CVE-2007-4496 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-4496 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2007-4497 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-4497 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-4502 - https://www.exploit-db.com/exploits/4310
 CVE-2007-4503 - https://www.exploit-db.com/exploits/4308
@@ -5128,6 +5139,7 @@ CVE-2007-5017 - https://www.exploit-db.com/exploits/4428
 CVE-2007-5018 - https://www.exploit-db.com/exploits/4429
 CVE-2007-5019 - https://www.exploit-db.com/exploits/4432
 CVE-2007-5020 - http://www.gnucitizen.org/blog/0day-pdf-pwns-windows
+CVE-2007-5023 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-5023 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-5036 - https://www.exploit-db.com/exploits/4426
 CVE-2007-5045 - http://www.gnucitizen.org/blog/0day-quicktime-pwns-firefox
@@ -5223,6 +5235,7 @@ CVE-2007-5266 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2007-5267 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2007-5268 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2007-5269 - http://www.coresecurity.com/?action=item&id=2148
+CVE-2007-5269 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-5269 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-5271 - https://www.exploit-db.com/exploits/4485
 CVE-2007-5272 - https://www.exploit-db.com/exploits/4486
@@ -5280,6 +5293,7 @@ CVE-2007-5417 - http://securityvulns.com/Sdocument42.html
 CVE-2007-5418 - http://securityvulns.com/Rdocument960.html
 CVE-2007-5423 - http://securityvulns.ru/Sdocument162.html
 CVE-2007-5423 - https://www.exploit-db.com/exploits/4509
+CVE-2007-5438 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-5438 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-5440 - http://securityvulns.com/Rdocument959.html
 CVE-2007-5446 - https://www.exploit-db.com/exploits/4526
@@ -5319,7 +5333,9 @@ CVE-2007-5583 - https://www.exploit-db.com/exploits/4692
 CVE-2007-5592 - https://www.exploit-db.com/exploits/4545
 CVE-2007-5600 - https://www.exploit-db.com/exploits/4538
 CVE-2007-5603 - https://www.exploit-db.com/exploits/4594
+CVE-2007-5617 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-5617 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2007-5618 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2007-5618 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2007-5620 - https://www.exploit-db.com/exploits/4546
 CVE-2007-5627 - https://www.exploit-db.com/exploits/4554
@@ -6179,6 +6195,7 @@ CVE-2008-0919 - https://www.exploit-db.com/exploits/5171
 CVE-2008-0920 - https://www.exploit-db.com/exploits/5171
 CVE-2008-0921 - https://www.exploit-db.com/exploits/5170
 CVE-2008-0922 - https://www.exploit-db.com/exploits/5168
+CVE-2008-0923 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-0923 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2008-0927 - https://www.exploit-db.com/exploits/5547
 CVE-2008-0934 - https://www.exploit-db.com/exploits/5172
@@ -6336,9 +6353,13 @@ CVE-2008-1352 - http://securityreason.com/securityalert/3746
 CVE-2008-1354 - http://marc.info/?l=bugtraq&m=120545152114985&w=2
 CVE-2008-1357 - http://aluigi.altervista.org/adv/meccaffi-adv.txt
 CVE-2008-1358 - https://www.exploit-db.com/exploits/5248
+CVE-2008-1361 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-1361 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-1362 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-1362 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-1363 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-1363 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-1364 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-1364 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2008-1365 - http://aluigi.altervista.org/adv/officescaz-adv.txt
 CVE-2008-1366 - http://aluigi.altervista.org/adv/officescaz-adv.txt
@@ -6505,8 +6526,11 @@ CVE-2008-1798 - https://www.exploit-db.com/exploits/5369
 CVE-2008-1799 - https://www.exploit-db.com/exploits/5360
 CVE-2008-1801 - https://www.exploit-db.com/exploits/5561
 CVE-2008-1802 - https://www.exploit-db.com/exploits/5585
+CVE-2008-1806 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-1806 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-1807 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-1807 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-1808 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-1808 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2008-1838 - https://www.exploit-db.com/exploits/5444
 CVE-2008-1842 - http://aluigi.altervista.org/adv/closedview-adv.txt
@@ -7394,12 +7418,19 @@ CVE-2008-3680 - http://aluigi.altervista.org/adv/ventrilobotomy-adv.txt
 CVE-2008-3680 - http://aluigi.org/poc/ventrilobotomy.zip
 CVE-2008-3680 - https://www.exploit-db.com/exploits/6237
 CVE-2008-3681 - https://www.exploit-db.com/exploits/6234
+CVE-2008-3691 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-3691 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-3692 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-3692 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-3693 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-3693 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-3694 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-3694 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-3695 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-3695 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-3696 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-3696 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
+CVE-2008-3698 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-3698 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2008-3702 - https://www.exploit-db.com/exploits/6216
 CVE-2008-3704 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-070
@@ -7471,6 +7502,7 @@ CVE-2008-3877 - https://www.exploit-db.com/exploits/7577
 CVE-2008-3878 - https://www.exploit-db.com/exploits/6318
 CVE-2008-3879 - https://www.exploit-db.com/exploits/6319
 CVE-2008-3889 - https://www.exploit-db.com/exploits/6472
+CVE-2008-3892 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-3892 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2008-3892 - https://www.exploit-db.com/exploits/6345
 CVE-2008-3905 - http://www.openwall.com/lists/oss-security/2008/09/03/3
@@ -51506,6 +51538,7 @@ CVE-2022-25352 - https://snyk.io/vuln/SNYK-JS-LIBNESTED-2342117
 CVE-2022-25354 - https://snyk.io/vuln/SNYK-JS-SETIN-2388571
 CVE-2022-25359 - https://packetstormsecurity.com/files/166103/ICL-ScadaFlex-II-SCADA-Controllers-SC-1-SC-2-1.03.07-Remote-File-Modification.html
 CVE-2022-25375 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
+CVE-2022-25389 - https://www.adminxe.com/3246.html
 CVE-2022-25390 - https://www.adminxe.com/3276.html
 CVE-2022-25402 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
 CVE-2022-25403 - https://github.com/dota-st/Vulnerability/blob/master/HMS/HMS.md
