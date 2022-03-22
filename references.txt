@@ -2342,6 +2342,8 @@ CVE-2006-2186 - http://securityreason.com/securityalert/834
 CVE-2006-2218 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-021
 CVE-2006-2219 - http://securityreason.com/securityalert/837
 CVE-2006-2220 - http://securityreason.com/securityalert/837
+CVE-2006-2223 - http://www.redhat.com/support/errata/RHSA-2006-0525.html
+CVE-2006-2224 - http://www.redhat.com/support/errata/RHSA-2006-0525.html
 CVE-2006-2226 - http://www.packetstormsecurity.org/0606-exploits/xmepftp.txt
 CVE-2006-2226 - https://www.exploit-db.com/exploits/1552
 CVE-2006-2236 - https://www.exploit-db.com/exploits/1750
@@ -2353,6 +2355,7 @@ CVE-2006-2256 - https://www.exploit-db.com/exploits/1764
 CVE-2006-2261 - https://www.exploit-db.com/exploits/1763
 CVE-2006-2263 - https://www.exploit-db.com/exploits/1759
 CVE-2006-2268 - https://www.exploit-db.com/exploits/7622
+CVE-2006-2276 - http://www.redhat.com/support/errata/RHSA-2006-0525.html
 CVE-2006-2284 - https://www.exploit-db.com/exploits/1766
 CVE-2006-2315 - https://www.exploit-db.com/exploits/1762
 CVE-2006-2324 - http://secdev.zoller.lu/research/zango.htm
@@ -30108,6 +30111,7 @@ CVE-2017-18638 - https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-
 CVE-2017-18639 - https://www.exploit-db.com/exploits/42792
 CVE-2017-18738 - https://kb.netgear.com/000051517/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-and-Extenders-PSV-2017-0706
 CVE-2017-18761 - https://kb.netgear.com/000051484/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-R8000-PSV-2017-2229
+CVE-2017-18836 - https://kb.netgear.com/000049026/Security-Advisory-for-Denial-of-Service-on-Some-Fully-Managed-Switches-PSV-2017-1959
 CVE-2017-18924 - https://codeburst.io/missing-the-point-in-securing-oauth-2-0-83968708b467
 CVE-2017-18926 - https://www.openwall.com/lists/oss-security/2017/06/07/1
 CVE-2017-20008 - https://wpscan.com/vulnerability/3175c56d-27bb-4bf1-b6ba-737541483d40
@@ -33271,6 +33275,7 @@ CVE-2018-12402 - https://bugzilla.mozilla.org/show_bug.cgi?id=1469916
 CVE-2018-12403 - https://bugzilla.mozilla.org/show_bug.cgi?id=1484753
 CVE-2018-12404 - https://bugzilla.mozilla.org/show_bug.cgi?id=CVE-2018-12404
 CVE-2018-12407 - https://bugzilla.mozilla.org/show_bug.cgi?id=1505973
+CVE-2018-12413 - https://www.tibco.com/support/advisories/2018/11/tibco-security-advisory-november-6-2018-tibco-messaging-apache-kafka-distribution-schema-repository
 CVE-2018-12426 - https://wpvulndb.com/vulnerabilities/9697
 CVE-2018-12447 - https://github.com/ebel34/bpg-web-encoder/issues/2
 CVE-2018-12453 - https://www.exploit-db.com/exploits/44908/
@@ -47366,6 +47371,8 @@ CVE-2020-8958 - https://www.karansaini.com/os-command-injection-v-sol/
 CVE-2020-8959 - https://www.westerndigital.com/support/productsecurity/wdc-20001-ssd-dashboard-setup-privilege-escalation
 CVE-2020-8960 - https://www.westerndigital.com/support/productsecurity/wdc-20003-mycloud-site-version-2-2-0-134
 CVE-2020-8960 - https://www.westerndigital.com/support/productsecurity/wdc-20003-mycloud-xss-vulnerability
+CVE-2020-8963 - https://sku11army.blogspot.com/2020/02/timetools-sr-sc-series-network-time.html
+CVE-2020-8964 - https://sku11army.blogspot.com/2020/02/timetools-sr-sc-series-network-time.html
 CVE-2020-8990 - https://www.westerndigital.com/support/productsecurity/wdc-19013-my-cloud-home-and-ibi-session-invalidation-vulnerability
 CVE-2020-8994 - https://github.com/Jian-Xian/CVE-POC/blob/master/CVE-2020-8994.md
 CVE-2020-8994 - https://youtu.be/yCadG38yZW8
