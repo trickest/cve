@@ -22,7 +22,7 @@
          **Note**: [ffuf](https://github.com/ffuf/ffuf) is awesome for more purposes than just content discovery.
     2. Github
         
-        Search GitHub for repositories with [find-gh-poc](https://github.com/trickest/find-gh-poc) (release soon!) that mention the CVE ID.
+        Search GitHub for repositories with [find-gh-poc](https://github.com/trickest/find-gh-poc) that mention the CVE ID.
 - Merge the fresh results into the repository without overwriting the data that was committed manually.
 - Filter false positives using `blacklist.txt`.
 - Merge all of the found PoCs.
