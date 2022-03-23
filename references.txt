@@ -59,6 +59,9 @@ CVE-2001-0465 - http://www.turbotax.com/atr/update/
 CVE-2001-0486 - http://marc.info/?l=bugtraq&m=98865027328391&w=2
 CVE-2001-0498 - http://www.nai.com/research/covert/advisories/049.asp
 CVE-2001-0499 - http://www.nai.com/research/covert/advisories/050.asp
+CVE-2001-0515 - http://otn.oracle.com/deploy/security/pdf/net8_dos_alert.pdf
+CVE-2001-0516 - http://otn.oracle.com/deploy/security/pdf/net8_dos_alert.pdf
+CVE-2001-0517 - http://otn.oracle.com/deploy/security/pdf/net8_dos_alert.pdf
 CVE-2001-0548 - http://marc.info/?l=bugtraq&m=99598918914068&w=2
 CVE-2001-0550 - http://marc.info/?l=bugtraq&m=100700363414799&w=2
 CVE-2001-0554 - http://www.redhat.com/support/errata/RHSA-2001-099.html
@@ -24905,6 +24908,7 @@ CVE-2016-1984 - http://seclists.org/fulldisclosure/2016/Jan/63
 CVE-2016-1984 - https://www.kb.cert.org/vuls/id/992624
 CVE-2016-20009 - https://blog.exodusintel.com/2016/08/09/vxworks-execute-my-packets/
 CVE-2016-20010 - https://www.wordfence.com/blog/2016/06/vulnerability-ewww-image-optimizer/
+CVE-2016-20012 - https://github.com/openssh/openssh-portable/pull/270#issuecomment-943909185
 CVE-2016-20012 - https://rushter.com/blog/public-ssh-keys/
 CVE-2016-2004 - http://packetstormsecurity.com/files/137199/HP-Data-Protector-A.09.00-Command-Execution.html
 CVE-2016-2004 - http://packetstormsecurity.com/files/137341/HP-Data-Protector-Encrypted-Communication-Remote-Command-Execution.html
@@ -40834,6 +40838,7 @@ CVE-2019-19739 - https://medium.com/@jra8908/yetishare-3-5-2-4-5-3-multiple-vuln
 CVE-2019-19740 - http://packetstormsecurity.com/files/156113/Octeth-Oempro-4.8-SQL-Injection.html
 CVE-2019-19741 - https://medium.com/@tobiasgyoerfi/ea-origin-10-5-55-33574-createdirectory-arbitrary-dacl-write-privilege-escalation-cve-2019-19741-5f18adfabb27
 CVE-2019-19742 - https://infosecsanyam.blogspot.com/2019/12/d-link-dir-615-wireless-router.html
+CVE-2019-19742 - https://medium.com/@infosecsanyam/d-link-dir-615-wireless-router-persistent-cross-site-scripting-6ee00f5c694d
 CVE-2019-19742 - https://www.exploit-db.com/exploits/47776
 CVE-2019-19743 - https://www.exploit-db.com/exploits/47778
 CVE-2019-19743 - https://www.infosecsanyam.blogspot.com/2019/12/d-link-dir-615-wireless-routervertical.html
@@ -47448,6 +47453,9 @@ CVE-2020-7991 - https://www.exploit-db.com/exploits/47946
 CVE-2020-7995 - http://packetstormsecurity.com/files/163541/Dolibarr-ERP-CRM-10.0.6-Login-Brute-Forcer.html
 CVE-2020-7997 - https://gist.github.com/adeshkolte/983bcadd82cc1fd60333098eb646ef68
 CVE-2020-7998 - https://gist.github.com/adeshkolte/9e60b2483d2f20d1951beac0fc917c6f
+CVE-2020-7999 - https://sku11army.blogspot.com/2020/01/intellian-multiple-vulnerabilities-in.html
+CVE-2020-8000 - https://sku11army.blogspot.com/2020/01/intellian-multiple-vulnerabilities-in.html
+CVE-2020-8001 - https://sku11army.blogspot.com/2020/01/intellian-multiple-vulnerabilities-in.html
 CVE-2020-8010 - http://packetstormsecurity.com/files/158693/CA-Unified-Infrastructure-Management-Nimsoft-7.80-Buffer-Overflow.html
 CVE-2020-8012 - http://packetstormsecurity.com/files/156577/Nimsoft-nimcontroller-7.80-Remote-Code-Execution.html
 CVE-2020-8012 - http://packetstormsecurity.com/files/158693/CA-Unified-Infrastructure-Management-Nimsoft-7.80-Buffer-Overflow.html
