@@ -37361,6 +37361,7 @@ CVE-2018-8208 - https://www.exploit-db.com/exploits/44914/
 CVE-2018-8214 - https://www.exploit-db.com/exploits/44915/
 CVE-2018-8229 - https://www.exploit-db.com/exploits/45013/
 CVE-2018-8269 - https://www.exploit-db.com/exploits/46101/
+CVE-2018-8275 - https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8275
 CVE-2018-8279 - https://www.exploit-db.com/exploits/45214/
 CVE-2018-8288 - https://www.exploit-db.com/exploits/45213/
 CVE-2018-8291 - https://www.exploit-db.com/exploits/45215/
@@ -51811,3 +51812,4 @@ CVE-2022-27003 - https://github.com/wudipjq/my_vuln/blob/main/totolink/vuln_32/3
 CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
 CVE-2022-27226 - http://packetstormsecurity.com/files/166396/iRZ-Mobile-Router-Cross-Site-Request-Forgery-Remote-Code-Execution.html
 CVE-2022-27226 - https://johnjhacking.com/blog/cve-2022-27226/
+CVE-2022-27666 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.15
