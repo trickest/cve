@@ -11289,6 +11289,7 @@ CVE-2010-2188 - http://www.redhat.com/support/errata/RHSA-2010-0470.html
 CVE-2010-2226 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-2227 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-2235 - http://people.fedoraproject.org/~shenson/cobbler/cobbler-2.0.8.tar.gz
+CVE-2010-2240 - http://www.redhat.com/support/errata/RHSA-2010-0670.html
 CVE-2010-2248 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-2252 - http://lists.gnu.org/archive/html/bug-wget/2010-05/msg00023.html
 CVE-2010-2252 - http://lists.gnu.org/archive/html/bug-wget/2010-05/msg00031.html
@@ -11420,6 +11421,7 @@ CVE-2010-2772 - http://www.wired.com/threatlevel/2010/07/siemens-scada/
 CVE-2010-2795 - https://issues.jasig.org/browse/PHPCAS-61
 CVE-2010-2796 - https://issues.jasig.org/browse/PHPCAS-67
 CVE-2010-2797 - http://cross-site-scripting.blogspot.com/2010/07/cms-made-simple-18-local-file-inclusion.html
+CVE-2010-2798 - http://www.redhat.com/support/errata/RHSA-2010-0670.html
 CVE-2010-2798 - http://www.vmware.com/security/advisories/VMSA-2011-0012.html
 CVE-2010-2806 - https://bugzilla.redhat.com/show_bug.cgi?id=621980
 CVE-2010-2844 - http://cross-site-scripting.blogspot.com/2010/07/news-office-2018-reflected-xss.html
@@ -45895,6 +45897,8 @@ CVE-2020-27615 - https://wpscan.com/vulnerability/10441
 CVE-2020-27615 - https://www.zdnet.com/article/wordpress-deploys-forced-security-update-for-dangerous-bug-in-popular-plugin/
 CVE-2020-27621 - https://phabricator.wikimedia.org/T265810
 CVE-2020-2764 - https://kc.mcafee.com/corporate/index?page=content&id=SB10332
+CVE-2020-27652 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2020-1061
+CVE-2020-27653 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2020-1061
 CVE-2020-27659 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2020-1087
 CVE-2020-27660 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2020-1087
 CVE-2020-27687 - https://gist.github.com/vin01/26a8bb13233acd9425e7575a7ad4c936
@@ -51593,6 +51597,7 @@ CVE-2022-0946 - https://huntr.dev/bounties/1f8f0021-396e-428e-9748-dd4e359715e1
 CVE-2022-0950 - https://huntr.dev/bounties/acc23996-bd57-448f-9eb4-05a8a046c2dc
 CVE-2022-0951 - https://huntr.dev/bounties/b3a983a3-17f9-4aa8-92d7-8a0c92a93932
 CVE-2022-0954 - https://huntr.dev/bounties/b99517c0-37fc-4efa-ab1a-3591da7f4d26
+CVE-2022-0955 - https://huntr.dev/bounties/708971a6-1e6c-4c51-a411-255caeba51df
 CVE-2022-0956 - https://huntr.dev/bounties/5b0e3f02-309f-4b59-8020-d7ac0f1999f2
 CVE-2022-0957 - https://huntr.dev/bounties/b4918d45-b635-40db-bb4b-34035e1aca21
 CVE-2022-0960 - https://huntr.dev/bounties/462cd8a7-b1a9-4e93-af71-b56ba1d7ad4e
