@@ -40584,6 +40584,7 @@ CVE-2019-18989 - https://www.synopsys.com/blogs/software-security/cyrc-advisory-
 CVE-2019-1899 - https://www.tenable.com/security/research/tra-2019-29
 CVE-2019-18990 - https://www.synopsys.com/blogs/software-security/cyrc-advisory-sept2020/
 CVE-2019-18991 - https://www.synopsys.com/blogs/software-security/cyrc-advisory-sept2020/
+CVE-2019-19006 - https://community.freepbx.org/t/freepbx-security-vulnerability-sec-2019-001/62772
 CVE-2019-19007 - https://medium.com/@rsantos_14778/1500b407dccc
 CVE-2019-19011 - https://github.com/miniupnp/ngiflib/issues/16
 CVE-2019-19012 - https://github.com/kkos/oniguruma/issues/164
@@ -40786,6 +40787,7 @@ CVE-2019-19534 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.3.11
 CVE-2019-19535 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.2.9
 CVE-2019-19536 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.2.9
 CVE-2019-19537 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.2.10
+CVE-2019-19538 - https://community.freepbx.org/t/freepbx-security-vulnerability-sec-2019-00
 CVE-2019-19540 - https://wpvulndb.com/vulnerabilities/9974
 CVE-2019-19541 - https://wpvulndb.com/vulnerabilities/9974
 CVE-2019-19542 - https://wpvulndb.com/vulnerabilities/9974
@@ -42077,6 +42079,7 @@ CVE-2019-8335 - https://github.com/gongfuxiang/schoolcms/issues/1
 CVE-2019-8338 - http://packetstormsecurity.com/files/152703/Johnny-You-Are-Fired.html
 CVE-2019-8339 - https://sysdig.com/blog/cve-2019-8339-falco-vulnerability/
 CVE-2019-8341 - https://www.exploit-db.com/exploits/46386/
+CVE-2019-8345 - https://www.youtube.com/watch?v=BtLUO-ujJ7I
 CVE-2019-8347 - https://github.com/source-trace/beescms/issues/4
 CVE-2019-8349 - http://packetstormsecurity.com/files/151733/HTMLy-2.7.4-Cross-Site-Scripting.html
 CVE-2019-8349 - http://seclists.org/fulldisclosure/2019/Feb/40
@@ -44176,6 +44179,7 @@ CVE-2020-15038 - https://wpvulndb.com/vulnerabilities/10283
 CVE-2020-15046 - http://packetstormsecurity.com/files/158373/SuperMicro-IPMI-03.40-Cross-Site-Request-Forgery.html
 CVE-2020-15050 - http://packetstormsecurity.com/files/158576/Bio-Star-2.8.2-Local-File-Inclusion.html
 CVE-2020-15069 - https://community.sophos.com/b/security-blog/posts/advisory-buffer-overflow-vulnerability-in-user-portal
+CVE-2020-15078 - https://community.openvpn.net/openvpn/wiki/CVE-2020-15078
 CVE-2020-15117 - https://github.com/symless/synergy-core/security/advisories/GHSA-chfm-333q-gfpp
 CVE-2020-15149 - http://packetstormsecurity.com/files/159560/NodeBB-Forum-1.14.2-Account-Takeover.html
 CVE-2020-15149 - https://zeroauth.ltd/blog/2020/08/20/proof-of-concept-exploit-for-cve-2020-15149-nodebb-arbitrary-user-password-change/
@@ -51597,6 +51601,7 @@ CVE-2022-0968 - https://huntr.dev/bounties/97e36678-11cf-42c6-889c-892d415d9f9e
 CVE-2022-0970 - https://huntr.dev/bounties/dd436c44-cbf4-48ac-8817-3a24872534ec
 CVE-2022-0986 - https://huntr.dev/bounties/57635c78-303f-412f-b75a-623df9fa9edd
 CVE-2022-0991 - https://huntr.dev/bounties/1c406a4e-15d0-4920-8495-731c48473ba4
+CVE-2022-0996 - https://github.com/ByteHackr/389-ds-base
 CVE-2022-1000 - https://huntr.dev/bounties/5995a93f-0c4b-4f7d-aa59-a64424219424
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
@@ -51658,6 +51663,7 @@ CVE-2022-22734 - https://wpscan.com/vulnerability/f6e15a23-8f8c-47c2-8227-e27785
 CVE-2022-22735 - https://wpscan.com/vulnerability/6940a97e-5a75-405c-be74-bedcc3a8ee00
 CVE-2022-22805 - https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2022-067-02
 CVE-2022-22806 - https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2022-067-02
+CVE-2022-22819 - https://oxide.computer/blog/another-vulnerability-in-the-lpc55s69-rom
 CVE-2022-22831 - http://packetstormsecurity.com/files/165863/Servisnet-Tessa-Authentication-Bypass.html
 CVE-2022-22831 - https://www.exploit-db.com/exploits/50714
 CVE-2022-22831 - https://www.pentest.com.tr/exploits/Servisnet-Tessa-Add-sysAdmin-User-Unauthenticated.html
@@ -51765,6 +51771,9 @@ CVE-2022-25131 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_14/
 CVE-2022-25139 - https://github.com/nginx/njs/issues/451
 CVE-2022-25216 - https://www.tenable.com/security/research/tra-2022-07
 CVE-2022-25220 - https://fluidattacks.com/advisories/armstrong/
+CVE-2022-25221 - https://fluidattacks.com/advisories/charles/
+CVE-2022-25222 - https://fluidattacks.com/advisories/berry/
+CVE-2022-25223 - https://fluidattacks.com/advisories/jagger/
 CVE-2022-25225 - https://fluidattacks.com/advisories/spinetta/
 CVE-2022-25241 - http://packetstormsecurity.com/files/166074/FileCloud-21.2-Cross-Site-Request-Forgery.html
 CVE-2022-25241 - https://herolab.usd.de/security-advisories/
@@ -51817,6 +51826,7 @@ CVE-2022-26965 - https://packetstormsecurity.com/files/166336/Pluck-CMS-4.7.16-S
 CVE-2022-26966 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.10
 CVE-2022-26990 - https://github.com/wudipjq/my_vuln/blob/main/ARRIS/vuln_2/2.md
 CVE-2022-27003 - https://github.com/wudipjq/my_vuln/blob/main/totolink/vuln_32/32.md
+CVE-2022-27083 - https://github.com/GD008/vuln/blob/main/tenda_M3_uploadAccessCodePic/M3_uploadAccessCodePic.md
 CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
 CVE-2022-27226 - http://packetstormsecurity.com/files/166396/iRZ-Mobile-Router-Cross-Site-Request-Forgery-Remote-Code-Execution.html
 CVE-2022-27226 - https://johnjhacking.com/blog/cve-2022-27226/
