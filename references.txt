@@ -30193,6 +30193,7 @@ CVE-2017-18639 - https://www.exploit-db.com/exploits/42792
 CVE-2017-18738 - https://kb.netgear.com/000051517/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-and-Extenders-PSV-2017-0706
 CVE-2017-18761 - https://kb.netgear.com/000051484/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-R8000-PSV-2017-2229
 CVE-2017-18836 - https://kb.netgear.com/000049026/Security-Advisory-for-Denial-of-Service-on-Some-Fully-Managed-Switches-PSV-2017-1959
+CVE-2017-18844 - https://kb.netgear.com/000049015/Security-Advisory-for-an-Admin-Credential-Disclosure-on-Some-Routers-PSV-2017-2149
 CVE-2017-18924 - https://codeburst.io/missing-the-point-in-securing-oauth-2-0-83968708b467
 CVE-2017-18926 - https://www.openwall.com/lists/oss-security/2017/06/07/1
 CVE-2017-20008 - https://wpscan.com/vulnerability/3175c56d-27bb-4bf1-b6ba-737541483d40
@@ -35308,6 +35309,7 @@ CVE-2018-18980 - https://github.com/x-f1v3/ForCve/issues/5
 CVE-2018-18982 - https://www.exploit-db.com/exploits/46449/
 CVE-2018-19005 - https://ics-cert.us-cert.gov/advisories/ICSA-18-354-01
 CVE-2018-19037 - https://www.exploit-db.com/exploits/45776/
+CVE-2018-19039 - https://www.percona.com/blog/2018/11/20/how-cve-2018-19039-affects-percona-monitoring-and-management/
 CVE-2018-19040 - https://www.exploit-db.com/exploits/45809/
 CVE-2018-19041 - https://www.exploit-db.com/exploits/45809/
 CVE-2018-19042 - https://www.exploit-db.com/exploits/45809/
@@ -44737,6 +44739,10 @@ CVE-2020-19951 - https://github.com/yzmcms/yzmcms/issues/43
 CVE-2020-19962 - https://github.com/zhuxianjin/vuln_repo/blob/master/chaojicms_stored_xss.md
 CVE-2020-19964 - https://github.com/gaozhifeng/PHPMyWind
 CVE-2020-19964 - https://github.com/gaozhifeng/PHPMyWind/issues/9
+CVE-2020-20093 - https://github.com/zadewg/RIUS
+CVE-2020-20094 - https://github.com/zadewg/RIUS
+CVE-2020-20095 - https://github.com/zadewg/RIUS
+CVE-2020-20096 - https://github.com/zadewg/RIUS
 CVE-2020-20124 - https://github.com/wuzhicms/wuzhicms/issues/188
 CVE-2020-20136 - https://github.com/QuantConnect/Lean/issues/3537
 CVE-2020-20138 - https://packetstormsecurity.com/files/160604/Flexmonster-Pivot-Table-And-Charts-2.7.17-Cross-Site-Scripting.html
