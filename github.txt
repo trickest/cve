@@ -29610,6 +29610,7 @@ CVE-2019-5736 - https://github.com/0xsyr0/OSCP
 CVE-2019-5736 - https://github.com/BBRathnayaka/POC-CVE-2019-5736
 CVE-2019-5736 - https://github.com/Billith/CVE-2019-5736-PoC
 CVE-2019-5736 - https://github.com/BurlakaR/tpc
+CVE-2019-5736 - https://github.com/DataDog/dirtypipe-container-breakout-poc
 CVE-2019-5736 - https://github.com/EvilAnne/2019-Read-article
 CVE-2019-5736 - https://github.com/Frichetten/CVE-2019-5736-PoC
 CVE-2019-5736 - https://github.com/GiverOfGifts/CVE-2019-5736-Custom-Runtime
@@ -40301,7 +40302,6 @@ CVE-2021-0920 - https://github.com/enterprisemodules/vulnerability_demo
 CVE-2021-0928 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-0928 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-0928 - https://github.com/p1ay8y3ar/cve_monitor
-CVE-2021-10086 - https://github.com/xiaoyun-1/CVE-2021-10086
 CVE-2021-1048 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2021-1056 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-1056 - https://github.com/SexyBeast233/SecBooks
@@ -44366,6 +44366,8 @@ CVE-2021-34527 - https://github.com/H0j3n/EzpzCheatSheet
 CVE-2021-34527 - https://github.com/Iveco/xknow_infosec
 CVE-2021-34527 - https://github.com/Jean-Francois-C/Windows-Penetration-Testing
 CVE-2021-34527 - https://github.com/JohnHammond/CVE-2021-34527
+CVE-2021-34527 - https://github.com/KevinHalston/PWN-CTF-2022
+CVE-2021-34527 - https://github.com/KevinHalston/Pico-CTF-2022
 CVE-2021-34527 - https://github.com/LaresLLC/CVE-2021-1675
 CVE-2021-34527 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2021-34527 - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
@@ -44684,7 +44686,9 @@ CVE-2021-3634 - https://github.com/GitHubForSnap/podcast-dl-gael
 CVE-2021-3634 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-36355 - https://github.com/Mayfly277/vulns
 CVE-2021-36355 - https://github.com/Orange-Cyberdefense/CVE-repository
+CVE-2021-36367 - https://github.com/manfred-kaiser/manfred-kaiser
 CVE-2021-36367 - https://github.com/ssh-mitm/ssh-mitm
+CVE-2021-36368 - https://github.com/manfred-kaiser/manfred-kaiser
 CVE-2021-36368 - https://github.com/ssh-mitm/ssh-mitm
 CVE-2021-36380 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36380 - https://github.com/ARPSyndicate/kenzer-templates
@@ -45374,6 +45378,7 @@ CVE-2021-40444 - https://github.com/VilNE-Scanner/VilNE
 CVE-2021-40444 - https://github.com/YangSirrr/YangsirStudyPlan
 CVE-2021-40444 - https://github.com/Zeop-CyberSec/word_mshtml
 CVE-2021-40444 - https://github.com/aslitsecurity/CVE-2021-40444_builders
+CVE-2021-40444 - https://github.com/awsassets/CVE-2021-40444-evtx
 CVE-2021-40444 - https://github.com/aydianosec/CVE2021-40444
 CVE-2021-40444 - https://github.com/ba0jy/awesome-intelligence
 CVE-2021-40444 - https://github.com/bambooqj/CVE-2021-40444_EXP_JS
@@ -47304,6 +47309,7 @@ CVE-2022-0847 - https://github.com/AyoubNajim/cve-2022-0847dirtypipe-exploit
 CVE-2022-0847 - https://github.com/CYB3RK1D/CVE-2022-0847-POC
 CVE-2022-0847 - https://github.com/Ch4nc3n/PublicExploitation
 CVE-2022-0847 - https://github.com/DanaEpp/pwncat_dirtypipe
+CVE-2022-0847 - https://github.com/DataDog/dirtypipe-container-breakout-poc
 CVE-2022-0847 - https://github.com/Getshell/LinuxTQ
 CVE-2022-0847 - https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe
 CVE-2022-0847 - https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe-
@@ -47316,6 +47322,7 @@ CVE-2022-0847 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-0847 - https://github.com/MrP1xel/CVE-2022-0847-dirty-pipe-kernel-checker
 CVE-2022-0847 - https://github.com/Mustafa1986/CVE-2022-0847-DirtyPipe-Exploit
 CVE-2022-0847 - https://github.com/NetKingJ/awesome-android-security
+CVE-2022-0847 - https://github.com/Patocoh/Research-Dirty-Pipe
 CVE-2022-0847 - https://github.com/PenTestical/linpwn
 CVE-2022-0847 - https://github.com/Shotokhan/cve_2022_0847_shellcode
 CVE-2022-0847 - https://github.com/SnailDev/github-hot-hub
@@ -47674,6 +47681,7 @@ CVE-2022-22947 - https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway
 CVE-2022-22947 - https://github.com/Greetdawn/CVE-2022-22947
 CVE-2022-22947 - https://github.com/Jun-5heng/CVE-2022-22947
 CVE-2022-22947 - https://github.com/Mr-xn/Penetration_Testing_POC
+CVE-2022-22947 - https://github.com/Nathaniel1025/CVE-2022-22947
 CVE-2022-22947 - https://github.com/PaoPaoLong-lab/Spring-CVE-2022-22947-
 CVE-2022-22947 - https://github.com/Summer177/Spring-Cloud-Gateway-CVE-2022-22947
 CVE-2022-22947 - https://github.com/SummerSec/learning-codeql
@@ -47844,6 +47852,7 @@ CVE-2022-23597 - https://github.com/msrkp/electron-research
 CVE-2022-23642 - https://github.com/wuhan005/wuhan005
 CVE-2022-23648 - https://github.com/brant-ruan/poc-demo
 CVE-2022-23648 - https://github.com/karimhabush/cyberowl
+CVE-2022-23648 - https://github.com/raesene/CVE-2022-23648-POC
 CVE-2022-23727 - https://github.com/DavidBuchanan314/DavidBuchanan314
 CVE-2022-23731 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23731 - https://github.com/DavidBuchanan314/DavidBuchanan314
@@ -48008,6 +48017,7 @@ CVE-2022-24770 - https://github.com/karimhabush/cyberowl
 CVE-2022-24771 - https://github.com/karimhabush/cyberowl
 CVE-2022-24772 - https://github.com/karimhabush/cyberowl
 CVE-2022-24773 - https://github.com/karimhabush/cyberowl
+CVE-2022-24934 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-24934 - https://github.com/shakeman8/CVE-2022-24934
 CVE-2022-24947 - https://github.com/karimhabush/cyberowl
 CVE-2022-24948 - https://github.com/karimhabush/cyberowl
