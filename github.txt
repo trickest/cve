@@ -6615,6 +6615,7 @@ CVE-2015-4472 - https://github.com/mrash/afl-cve
 CVE-2015-4491 - https://github.com/thdusdl1219/CVE-Study
 CVE-2015-4495 - https://github.com/vincd/CVE-2015-4495
 CVE-2015-4512 - https://github.com/thdusdl1219/CVE-Study
+CVE-2015-4582 - https://github.com/safe6Sec/wlsEnv
 CVE-2015-4588 - https://github.com/andir/nixos-issue-db-example
 CVE-2015-4590 - https://github.com/mrash/afl-cve
 CVE-2015-4599 - https://github.com/80vul/phpcodz
@@ -36982,7 +36983,6 @@ CVE-2020-28169 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-28169 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-28175 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-28175 - https://github.com/hectorgie/PoC-in-GitHub
-CVE-2020-28176 - https://github.com/Marsman1996/pocs
 CVE-2020-28185 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-28186 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-28187 - https://github.com/SexyBeast233/SecBooks
@@ -40271,6 +40271,7 @@ CVE-2021-0920 - https://github.com/enterprisemodules/vulnerability_demo
 CVE-2021-0928 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-0928 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-0928 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2021-10086 - https://github.com/xiaoyun-1/CVE-2021-10086
 CVE-2021-1048 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2021-1056 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-1056 - https://github.com/SexyBeast233/SecBooks
@@ -42840,7 +42841,6 @@ CVE-2021-28041 - https://github.com/austin-lai/External-Penetration-Testing-Holo
 CVE-2021-28073 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-28073 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-28073 - https://github.com/Elsfa7-110/kenzer-templates
-CVE-2021-28073 - https://github.com/errorecho/CVEs-Collection
 CVE-2021-28073 - https://github.com/zmylml/yangzifun
 CVE-2021-28079 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-28079 - https://github.com/g33xter/CVE-2021-28079
@@ -43547,6 +43547,7 @@ CVE-2021-31537 - https://github.com/Elsfa7-110/kenzer-templates
 CVE-2021-3156 - https://github.com/0x7183/CVE-2021-3156
 CVE-2021-3156 - https://github.com/0xdevil/CVE-2021-3156
 CVE-2021-3156 - https://github.com/0xsakthi/my-pentest-notes
+CVE-2021-3156 - https://github.com/0xsyr0/OSCP
 CVE-2021-3156 - https://github.com/1N53C/CVE-2021-3156-PoC
 CVE-2021-3156 - https://github.com/ARGOeu/secmon-probes
 CVE-2021-3156 - https://github.com/ARPSyndicate/cvemon
@@ -47359,6 +47360,7 @@ CVE-2022-10249 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-10249 - https://github.com/buff07/CVE-2022-10249
 CVE-2022-10249 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-1030 - https://github.com/mrdominguez/parallel-ssh-scp
+CVE-2022-1037 - https://github.com/iBLISSLabs/Server-Side-Request-Forgery-SSRF-on-EXMAGE---WordPress-Image-Links
 CVE-2022-1234 - https://github.com/trickest/find-gh-poc
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20019 - https://github.com/p1ay8y3ar/cve_monitor
@@ -48050,6 +48052,7 @@ CVE-2022-25578 - https://github.com/k0xx11/Vulscve
 CVE-2022-25579 - https://github.com/k0xx11/Vulscve
 CVE-2022-25580 - https://github.com/k0xx11/Vulscve
 CVE-2022-25581 - https://github.com/k0xx11/Vulscve
+CVE-2022-25587 - https://github.com/Zeyad-Azima/Allure_TestOps_StoredXss
 CVE-2022-25588 - https://github.com/Zeyad-Azima/Allure_TestOps_IDOR
 CVE-2022-256356 - https://github.com/jakescheetz/OWASP-JuiceShop
 CVE-2022-25636 - https://github.com/ARPSyndicate/cvemon

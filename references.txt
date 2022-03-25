@@ -5922,6 +5922,7 @@ CVE-2008-0383 - http://www.waraxe.us/advisory-62.html
 CVE-2008-0384 - https://www.exploit-db.com/exploits/4935
 CVE-2008-0385 - http://securityreason.com/securityalert/3707
 CVE-2008-0387 - http://securityreason.com/securityalert/3580
+CVE-2008-0387 - http://www.coresecurity.com/?action=item&id=2095
 CVE-2008-0388 - https://www.exploit-db.com/exploits/4939
 CVE-2008-0390 - https://www.exploit-db.com/exploits/4933
 CVE-2008-0391 - https://www.exploit-db.com/exploits/4922
@@ -51423,6 +51424,7 @@ CVE-2022-0476 - https://huntr.dev/bounties/81ddfbda-6c9f-4b69-83ff-85b15141e35d
 CVE-2022-0478 - https://wpscan.com/vulnerability/d881d725-d06b-464f-a25e-88f41b1f431f
 CVE-2022-0481 - https://huntr.dev/bounties/54725c8c-87f4-41b6-878c-01d8e0ee7027
 CVE-2022-0482 - https://huntr.dev/bounties/2fe771ef-b615-45ef-9b4d-625978042e26
+CVE-2022-0492 - http://packetstormsecurity.com/files/166444/Kernel-Live-Patch-Security-Notice-LSN-0085-1.html
 CVE-2022-0503 - https://wpscan.com/vulnerability/b6d38e23-3761-4447-a794-1e5077fd953a
 CVE-2022-0505 - https://huntr.dev/bounties/65b5a243-3f0c-4df3-9bab-898332180968
 CVE-2022-0506 - https://huntr.dev/bounties/0a5ec24c-343e-4cc4-b27b-2beb19a1c35f
@@ -51724,6 +51726,7 @@ CVE-2022-23378 - https://github.com/TheGetch/CVE-2022-23378
 CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-3.0.3-Path-Traversal.html
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
 CVE-2022-23608 - http://packetstormsecurity.com/files/166226/Asterisk-Project-Security-Advisory-AST-2022-005.html
+CVE-2022-23648 - http://packetstormsecurity.com/files/166421/containerd-Image-Volume-Insecure-Handling.html
 CVE-2022-23878 - https://blog.csdn.net/miuzzx/article/details/122249953
 CVE-2022-23907 - http://dev.cmsmadesimple.org/bug/view/12503
 CVE-2022-23911 - https://wpscan.com/vulnerability/77fd6749-4fb2-48fa-a191-437b442f28e9
@@ -51815,6 +51818,7 @@ CVE-2022-25487 - https://github.com/thedigicraft/Atom.CMS/issues/256
 CVE-2022-25506 - https://github.com/FreeTAKTeam/UI/issues/27
 CVE-2022-25553 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/7
 CVE-2022-25555 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/2
+CVE-2022-25636 - http://packetstormsecurity.com/files/166444/Kernel-Live-Patch-Security-Notice-LSN-0085-1.html
 CVE-2022-25636 - https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/
 CVE-2022-25760 - https://snyk.io/vuln/SNYK-JS-ACCESSLOG-2312099
 CVE-2022-25839 - https://snyk.io/vuln/SNYK-JS-URLJS-2414030
