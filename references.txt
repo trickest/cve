@@ -26653,6 +26653,7 @@ CVE-2016-8023 - https://www.exploit-db.com/exploits/40911/
 CVE-2016-8024 - https://www.exploit-db.com/exploits/40911/
 CVE-2016-8025 - https://www.exploit-db.com/exploits/40911/
 CVE-2016-8027 - https://kc.mcafee.com/corporate/index?page=content&id=SB10187
+CVE-2016-8201 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44114
 CVE-2016-8201 - https://www.kb.cert.org/vuls/id/192371
 CVE-2016-8220 - https://docs.pivotal.io/gemfire-cf/relnotes.html
 CVE-2016-8235 - http://www.securityfocus.com/bid/97543
@@ -38284,6 +38285,7 @@ CVE-2019-11198 - https://outpost24.com/blog
 CVE-2019-11199 - https://know.bishopfox.com/advisories/dolibarr-version-9-0-1-vulnerabilities
 CVE-2019-11200 - https://know.bishopfox.com/advisories/dolibarr-version-9-0-1-vulnerabilities
 CVE-2019-11201 - https://know.bishopfox.com/advisories/dolibarr-version-9-0-1-vulnerabilities
+CVE-2019-11213 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44114
 CVE-2019-11213 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44114/
 CVE-2019-11213 - https://www.kb.cert.org/vuls/id/192371
 CVE-2019-11216 - http://packetstormsecurity.com/files/155552/BMC-Smart-Reporting-7.3-20180418-XML-Injection.html
@@ -50875,6 +50877,7 @@ CVE-2021-42112 - https://www.on-x.com/sites/default/files/on-x_-_security_adviso
 CVE-2021-42168 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/oretnom23/CVE-nu11-17-092921
 CVE-2021-42169 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/oretnom23/CVE-nu11-21-100521
 CVE-2021-42169 - https://www.exploit-db.com/exploits/50403
+CVE-2021-42194 - https://github.com/eyoucms/eyoucms/issues/19
 CVE-2021-42216 - https://huntr.dev/bounties/419f4e8a-ee15-4f80-bcbf-5c83513515dd
 CVE-2021-42220 - https://packetstormsecurity.com/files/164544/Dolibarr-ERP-CRM-14.0.2-Cross-Site-Scripting-Privilege-Escalation.html
 CVE-2021-42220 - https://truedigitalsecurity.com/advisory-summary-2021
