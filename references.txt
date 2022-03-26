@@ -4068,6 +4068,7 @@ CVE-2007-1413 - https://www.exploit-db.com/exploits/3439
 CVE-2007-1413 - https://www.exploit-db.com/exploits/4204
 CVE-2007-1415 - https://www.exploit-db.com/exploits/3443
 CVE-2007-1417 - https://www.exploit-db.com/exploits/3449
+CVE-2007-1420 - http://securityreason.com/securityalert/2413
 CVE-2007-1423 - https://www.exploit-db.com/exploits/3448
 CVE-2007-1425 - https://www.exploit-db.com/exploits/3457
 CVE-2007-1427 - https://www.exploit-db.com/exploits/3458
@@ -4080,8 +4081,10 @@ CVE-2007-1459 - https://www.exploit-db.com/exploits/3473
 CVE-2007-1470 - http://securityreason.com/securityalert/2441
 CVE-2007-1472 - http://securityreason.com/securityalert/2428
 CVE-2007-1472 - https://www.exploit-db.com/exploits/3486
+CVE-2007-1475 - http://securityreason.com/securityalert/2439
 CVE-2007-1475 - https://www.exploit-db.com/exploits/3488
 CVE-2007-1476 - http://marc.info/?l=full-disclosure&m=117396596027148&w=2
+CVE-2007-1476 - http://securityreason.com/securityalert/2438
 CVE-2007-1478 - https://www.exploit-db.com/exploits/3494
 CVE-2007-1479 - https://www.exploit-db.com/exploits/3489
 CVE-2007-1480 - https://www.exploit-db.com/exploits/3489
@@ -4218,6 +4221,7 @@ CVE-2007-1847 - https://www.exploit-db.com/exploits/3612
 CVE-2007-1851 - https://www.exploit-db.com/exploits/3641
 CVE-2007-1858 - http://community.ca.com/blogs/casecurityresponseblog/archive/2009/01/23.aspx
 CVE-2007-1867 - https://www.exploit-db.com/exploits/3648
+CVE-2007-1878 - http://securityreason.com/securityalert/2525
 CVE-2007-1878 - http://www.gnucitizen.org/blog/firebug-goes-evil
 CVE-2007-1894 - http://chxsecurity.org/advisories/adv-1-mid.txt
 CVE-2007-1894 - http://securityreason.com/securityalert/2526
@@ -4262,6 +4266,7 @@ CVE-2007-1982 - https://www.exploit-db.com/exploits/3641
 CVE-2007-1983 - https://www.exploit-db.com/exploits/3660
 CVE-2007-1984 - http://securityreason.com/securityalert/2559
 CVE-2007-1986 - https://www.exploit-db.com/exploits/3659
+CVE-2007-1988 - http://securityreason.com/securityalert/2550
 CVE-2007-1992 - https://www.exploit-db.com/exploits/3706
 CVE-2007-1998 - https://www.exploit-db.com/exploits/3697
 CVE-2007-1999 - https://www.exploit-db.com/exploits/3700
@@ -4283,6 +4288,7 @@ CVE-2007-2049 - https://www.exploit-db.com/exploits/3713
 CVE-2007-2050 - https://www.exploit-db.com/exploits/3718
 CVE-2007-2052 - http://www.vmware.com/security/advisories/VMSA-2009-0016.html
 CVE-2007-2052 - https://bugzilla.redhat.com/bugzilla/show_bug.cgi?id=235093
+CVE-2007-2057 - http://securityreason.com/securityalert/2584
 CVE-2007-2060 - http://www.kb.cert.org/vuls/id/319464
 CVE-2007-2060 - http://www.kb.cert.org/vuls/id/MIMG-6ZKP4T
 CVE-2007-2062 - https://www.exploit-db.com/exploits/3727
@@ -4295,12 +4301,14 @@ CVE-2007-2073 - http://attrition.org/pipermail/vim/2007-April/001534.html
 CVE-2007-2079 - https://www.exploit-db.com/exploits/3738
 CVE-2007-2080 - https://www.exploit-db.com/exploits/3738
 CVE-2007-2084 - http://attrition.org/pipermail/vim/2007-April/001523.html
+CVE-2007-2084 - http://securityreason.com/securityalert/2583
 CVE-2007-2086 - https://www.exploit-db.com/exploits/3741
 CVE-2007-2089 - https://www.exploit-db.com/exploits/3736
 CVE-2007-2091 - https://www.exploit-db.com/exploits/3750
 CVE-2007-2093 - https://www.exploit-db.com/exploits/3735
 CVE-2007-2094 - https://www.exploit-db.com/exploits/3751
 CVE-2007-2099 - http://securityreason.com/securityalert/2575
+CVE-2007-2105 - http://securityreason.com/securityalert/2578
 CVE-2007-2141 - https://www.exploit-db.com/exploits/3758
 CVE-2007-2142 - https://www.exploit-db.com/exploits/3752
 CVE-2007-2143 - https://www.exploit-db.com/exploits/3759
@@ -4351,6 +4359,9 @@ CVE-2007-2227 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2007-2228 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-2228 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-058
 CVE-2007-2229 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-032
+CVE-2007-2234 - http://securityreason.com/securityalert/2613
+CVE-2007-2235 - http://securityreason.com/securityalert/2613
+CVE-2007-2236 - http://securityreason.com/securityalert/2613
 CVE-2007-2237 - https://www.exploit-db.com/exploits/4044
 CVE-2007-2240 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-045
 CVE-2007-2242 - http://www.secdev.org/conf/IPv6_RH_security-csw07.pdf
@@ -4471,6 +4482,9 @@ CVE-2007-2576 - https://www.exploit-db.com/exploits/3856
 CVE-2007-2581 - http://www.securityfocus.com/archive/1/482366/100/0/threaded
 CVE-2007-2581 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-059
 CVE-2007-2583 - http://packetstormsecurity.com/files/124295/MySQL-5.0.x-Denial-Of-Service.html
+CVE-2007-2590 - http://securityreason.com/securityalert/2689
+CVE-2007-2591 - http://securityreason.com/securityalert/2689
+CVE-2007-2592 - http://securityreason.com/securityalert/2689
 CVE-2007-2594 - https://www.exploit-db.com/exploits/3879
 CVE-2007-2596 - https://www.exploit-db.com/exploits/3884
 CVE-2007-2597 - https://www.exploit-db.com/exploits/3885
@@ -4556,6 +4570,7 @@ CVE-2007-2798 - http://web.mit.edu/kerberos/advisories/MITKRB5-SA-2007-005.txt
 CVE-2007-2798 - http://www.kb.cert.org/vuls/id/554257
 CVE-2007-2801 - http://www.securityfocus.com/archive/1/472434/100/0/threaded
 CVE-2007-2803 - https://www.exploit-db.com/exploits/4007
+CVE-2007-2815 - http://securityreason.com/securityalert/2725
 CVE-2007-2816 - https://www.exploit-db.com/exploits/3962
 CVE-2007-2817 - https://www.exploit-db.com/exploits/3964
 CVE-2007-2820 - http://marc.info/?l=full-disclosure&m=117981953312669&w=2
@@ -4600,6 +4615,7 @@ CVE-2007-2943 - https://www.exploit-db.com/exploits/3987
 CVE-2007-2946 - https://www.exploit-db.com/exploits/3986
 CVE-2007-2947 - https://www.exploit-db.com/exploits/3991
 CVE-2007-2958 - http://bugs.gentoo.org/show_bug.cgi?id=190104
+CVE-2007-2962 - http://securityreason.com/securityalert/2748
 CVE-2007-2969 - https://www.exploit-db.com/exploits/4000
 CVE-2007-2971 - https://www.exploit-db.com/exploits/3988
 CVE-2007-2972 - http://marc.info/?l=full-disclosure&m=118040810718045&w=2
@@ -4656,6 +4672,7 @@ CVE-2007-3139 - https://www.exploit-db.com/exploits/4025
 CVE-2007-3140 - https://www.exploit-db.com/exploits/4039
 CVE-2007-3147 - https://www.exploit-db.com/exploits/4042
 CVE-2007-3148 - https://www.exploit-db.com/exploits/4043
+CVE-2007-3157 - http://securityreason.com/securityalert/2803
 CVE-2007-3157 - http://www.digit-labs.org/files/exploits/safenet-dos.c
 CVE-2007-3159 - https://www.exploit-db.com/exploits/4046
 CVE-2007-3160 - https://www.exploit-db.com/exploits/4055
@@ -4666,6 +4683,7 @@ CVE-2007-3166 - https://www.exploit-db.com/exploits/4014
 CVE-2007-3167 - https://www.exploit-db.com/exploits/4015
 CVE-2007-3168 - https://www.exploit-db.com/exploits/4010
 CVE-2007-3169 - https://www.exploit-db.com/exploits/4009
+CVE-2007-3179 - http://securityreason.com/securityalert/2799
 CVE-2007-3188 - https://www.exploit-db.com/exploits/4057
 CVE-2007-3199 - https://www.exploit-db.com/exploits/4059
 CVE-2007-3214 - https://www.exploit-db.com/exploits/4054
@@ -4783,22 +4801,27 @@ CVE-2007-3586 - https://www.exploit-db.com/exploits/4144
 CVE-2007-3587 - https://www.exploit-db.com/exploits/4145
 CVE-2007-3589 - https://www.exploit-db.com/exploits/4122
 CVE-2007-3590 - https://www.exploit-db.com/exploits/4122
+CVE-2007-3605 - http://securityreason.com/securityalert/2873
 CVE-2007-3605 - https://www.exploit-db.com/exploits/4148
 CVE-2007-3606 - https://www.exploit-db.com/exploits/4149
+CVE-2007-3607 - http://securityreason.com/securityalert/2873
 CVE-2007-3607 - https://www.exploit-db.com/exploits/4148
 CVE-2007-3607 - https://www.exploit-db.com/exploits/4149
+CVE-2007-3608 - http://securityreason.com/securityalert/2873
 CVE-2007-3608 - https://www.exploit-db.com/exploits/4148
 CVE-2007-3608 - https://www.exploit-db.com/exploits/4149
 CVE-2007-3609 - https://www.exploit-db.com/exploits/4154
 CVE-2007-3610 - https://www.exploit-db.com/exploits/4153
 CVE-2007-3611 - https://www.exploit-db.com/exploits/4150
 CVE-2007-3612 - https://www.exploit-db.com/exploits/4152
+CVE-2007-3619 - http://securityreason.com/securityalert/2864
 CVE-2007-3621 - https://www.exploit-db.com/exploits/4151
 CVE-2007-3630 - https://www.exploit-db.com/exploits/4163
 CVE-2007-3631 - https://www.exploit-db.com/exploits/4159
 CVE-2007-3632 - https://www.exploit-db.com/exploits/4156
 CVE-2007-3633 - https://www.exploit-db.com/exploits/4160
 CVE-2007-3646 - https://www.exploit-db.com/exploits/4161
+CVE-2007-3647 - http://securityreason.com/securityalert/2870
 CVE-2007-3649 - https://www.exploit-db.com/exploits/4155
 CVE-2007-3655 - http://www.exploit-db.com/exploits/30284
 CVE-2007-3670 - http://blog.mozilla.com/security/2007/07/10/security-issue-in-url-protocol-handling-on-windows/
@@ -4863,11 +4886,13 @@ CVE-2007-3937 - https://www.exploit-db.com/exploits/4198
 CVE-2007-3938 - https://www.exploit-db.com/exploits/4199
 CVE-2007-3939 - https://www.exploit-db.com/exploits/4192
 CVE-2007-3944 - http://www.nytimes.com/2007/07/23/technology/23iphone.html?_r=1&adxnnl=1&adxnnlx=1185163364-1OTsRJvbylLamj17FY2wnw&oref=slogin
+CVE-2007-3951 - http://securityreason.com/securityalert/2912
 CVE-2007-3955 - https://www.exploit-db.com/exploits/4217
 CVE-2007-3956 - https://www.exploit-db.com/exploits/4205
 CVE-2007-3957 - https://www.exploit-db.com/exploits/4216
 CVE-2007-3958 - http://lostmon.blogspot.com/2007/08/windows-extended-file-attributes-buffer.html
 CVE-2007-3958 - https://www.exploit-db.com/exploits/4215
+CVE-2007-3970 - http://securityreason.com/securityalert/2922
 CVE-2007-3973 - https://www.exploit-db.com/exploits/4211
 CVE-2007-3974 - https://www.exploit-db.com/exploits/4211
 CVE-2007-3976 - https://www.exploit-db.com/exploits/4213
@@ -4942,6 +4967,7 @@ CVE-2007-4336 - https://www.exploit-db.com/exploits/4279
 CVE-2007-4351 - http://www.cups.org/str.php?L2561
 CVE-2007-4358 - http://aluigi.altervista.org/adv/zoidboom2-adv.txt
 CVE-2007-4358 - http://aluigi.org/poc/zoidboom2.zip
+CVE-2007-4358 - http://securityreason.com/securityalert/3014
 CVE-2007-4362 - https://www.exploit-db.com/exploits/4284
 CVE-2007-4366 - https://www.exploit-db.com/exploits/4281
 CVE-2007-4368 - https://www.exploit-db.com/exploits/4286
@@ -4956,6 +4982,7 @@ CVE-2007-4378 - http://aluigi.altervista.org/adv/bv2x-adv.txt
 CVE-2007-4378 - http://securityreason.com/securityalert/3024
 CVE-2007-4379 - http://aluigi.altervista.org/adv/bv2x-adv.txt
 CVE-2007-4379 - http://securityreason.com/securityalert/3024
+CVE-2007-4382 - http://securityreason.com/securityalert/3027
 CVE-2007-4382 - https://www.exploit-db.com/exploits/4285
 CVE-2007-4386 - https://www.exploit-db.com/exploits/4291
 CVE-2007-4420 - https://www.exploit-db.com/exploits/4290
@@ -4969,8 +4996,10 @@ CVE-2007-4440 - https://www.exploit-db.com/exploits/4294
 CVE-2007-4441 - https://www.exploit-db.com/exploits/4293
 CVE-2007-4442 - http://aluigi.org/adv/unrwebdos-adv.txt
 CVE-2007-4442 - http://aluigi.org/poc/unrwebdos.zip
+CVE-2007-4442 - http://securityreason.com/securityalert/3039
 CVE-2007-4443 - http://aluigi.org/adv/unrwebdos-adv.txt
 CVE-2007-4443 - http://aluigi.org/poc/unrwebdos.zip
+CVE-2007-4443 - http://securityreason.com/securityalert/3039
 CVE-2007-4444 - http://aluigi.org/poc/rfactorx.zip
 CVE-2007-4445 - http://aluigi.org/poc/rfactorx.zip
 CVE-2007-4446 - http://aluigi.org/poc/toribashish.zip
@@ -5000,7 +5029,10 @@ CVE-2007-4505 - https://www.exploit-db.com/exploits/4306
 CVE-2007-4506 - https://www.exploit-db.com/exploits/4305
 CVE-2007-4507 - https://www.exploit-db.com/exploits/4304
 CVE-2007-4508 - http://aluigi.altervista.org/adv/asurabof-adv.txt
+CVE-2007-4508 - http://securityreason.com/securityalert/3053
 CVE-2007-4509 - https://www.exploit-db.com/exploits/4309
+CVE-2007-4522 - http://securityreason.com/securityalert/3058
+CVE-2007-4523 - http://securityreason.com/securityalert/3058
 CVE-2007-4524 - https://www.exploit-db.com/exploits/4382
 CVE-2007-4528 - https://www.exploit-db.com/exploits/4311
 CVE-2007-4531 - http://aluigi.altervista.org/adv/soldatdos-adv.txt
@@ -5010,6 +5042,7 @@ CVE-2007-4532 - http://aluigi.org/poc/soldatdos.zip
 CVE-2007-4537 - http://aluigi.altervista.org/adv/skulltaghof-adv.txt
 CVE-2007-4549 - http://vuln.sg/alpass27-en.html
 CVE-2007-4550 - http://vuln.sg/alpass27-en.html
+CVE-2007-4578 - http://securityreason.com/securityalert/3072
 CVE-2007-4581 - https://www.exploit-db.com/exploits/4327
 CVE-2007-4582 - https://www.exploit-db.com/exploits/4322
 CVE-2007-4583 - https://www.exploit-db.com/exploits/4323
@@ -5033,8 +5066,11 @@ CVE-2007-4640 - https://www.exploit-db.com/exploits/4341
 CVE-2007-4641 - https://www.exploit-db.com/exploits/4341
 CVE-2007-4642 - http://aluigi.altervista.org/adv/dumsdei-adv.txt
 CVE-2007-4642 - http://aluigi.org/poc/dumsdei.zip
+CVE-2007-4642 - http://securityreason.com/securityalert/3084
 CVE-2007-4643 - http://aluigi.org/poc/dumsdei.zip
+CVE-2007-4643 - http://securityreason.com/securityalert/3084
 CVE-2007-4644 - http://aluigi.org/poc/dumsdei.zip
+CVE-2007-4644 - http://securityreason.com/securityalert/3084
 CVE-2007-4645 - https://www.exploit-db.com/exploits/4342
 CVE-2007-4646 - https://www.exploit-db.com/exploits/4344
 CVE-2007-4647 - https://www.exploit-db.com/exploits/4343
@@ -5232,8 +5268,11 @@ CVE-2007-5256 - https://www.exploit-db.com/exploits/4484
 CVE-2007-5257 - https://www.exploit-db.com/exploits/4474
 CVE-2007-5261 - https://www.exploit-db.com/exploits/4480
 CVE-2007-5262 - http://aluigi.altervista.org/adv/dropteamz-adv.txt
+CVE-2007-5262 - http://securityreason.com/securityalert/3202
 CVE-2007-5263 - http://aluigi.altervista.org/adv/dropteamz-adv.txt
+CVE-2007-5263 - http://securityreason.com/securityalert/3202
 CVE-2007-5264 - http://aluigi.altervista.org/adv/dropteamz-adv.txt
+CVE-2007-5264 - http://securityreason.com/securityalert/3202
 CVE-2007-5266 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2007-5267 - http://www.coresecurity.com/?action=item&id=2148
 CVE-2007-5268 - http://www.coresecurity.com/?action=item&id=2148
@@ -5589,6 +5628,7 @@ CVE-2007-6485 - https://www.exploit-db.com/exploits/4735
 CVE-2007-6488 - https://www.exploit-db.com/exploits/4712
 CVE-2007-6489 - https://www.exploit-db.com/exploits/4712
 CVE-2007-6490 - https://www.exploit-db.com/exploits/4712
+CVE-2007-6491 - http://securityreason.com/securityalert/3473
 CVE-2007-6494 - https://www.exploit-db.com/exploits/4730
 CVE-2007-6495 - https://www.exploit-db.com/exploits/4730
 CVE-2007-6496 - https://www.exploit-db.com/exploits/4730
@@ -5614,6 +5654,7 @@ CVE-2007-6530 - http://marc.info/?l=full-disclosure&m=119863639428564&w=2
 CVE-2007-6533 - http://aluigi.altervista.org/adv/zoomprayer-adv.txt
 CVE-2007-6537 - http://aluigi.altervista.org/adv/winuaebof-adv.txt
 CVE-2007-6537 - http://aluigi.org/poc/winuaebof.zip
+CVE-2007-6538 - http://securityreason.com/securityalert/3492
 CVE-2007-6542 - https://www.exploit-db.com/exploits/4764
 CVE-2007-6543 - https://www.exploit-db.com/exploits/4791
 CVE-2007-6544 - https://www.exploit-db.com/exploits/4787
@@ -5705,8 +5746,10 @@ CVE-2007-6666 - https://www.exploit-db.com/exploits/4823
 CVE-2007-6667 - https://www.exploit-db.com/exploits/4822
 CVE-2007-6668 - https://www.exploit-db.com/exploits/4741
 CVE-2007-6681 - http://aluigi.altervista.org/adv/vlcboffs-adv.txt
+CVE-2007-6681 - http://securityreason.com/securityalert/3550
 CVE-2007-6681 - https://www.exploit-db.com/exploits/5667
 CVE-2007-6682 - http://aluigi.altervista.org/adv/vlcboffs-adv.txt
+CVE-2007-6682 - http://securityreason.com/securityalert/3550
 CVE-2007-6682 - https://www.exploit-db.com/exploits/5519
 CVE-2007-6697 - http://marc.info/?l=bugtraq&m=120110205511630&w=2
 CVE-2007-6697 - http://vexillium.org/?sec-sdlgif
@@ -16189,6 +16232,7 @@ CVE-2013-6450 - http://www.oracle.com/technetwork/topics/security/cpujan2015-197
 CVE-2013-6450 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
 CVE-2013-6450 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2013-6462 - http://www.oracle.com/technetwork/topics/security/cpuapr2014-1972952.html
+CVE-2013-6489 - http://www.securityfocus.com/bid/65192
 CVE-2013-6618 - http://www.exploit-db.com/exploits/29544
 CVE-2013-6627 - http://blog.skylined.nl/20161219001.html
 CVE-2013-6627 - http://packetstormsecurity.com/files/140209/Chrome-HTTP-1xx-Out-Of-Bounds-Read.html
@@ -40561,6 +40605,7 @@ CVE-2019-18855 - https://wordpress.org/plugins/safe-svg/#developers
 CVE-2019-18855 - https://wpvulndb.com/vulnerabilities/9937
 CVE-2019-18858 - https://www.tenable.com/security/research/tra-2019-48
 CVE-2019-18859 - http://packetstormsecurity.com/files/155926/Digi-AnywhereUSB-14-Cross-Site-Scripting.html
+CVE-2019-18859 - https://gist.github.com/RNPG/e0d25ad51aa5c288b9005900f88a4f03
 CVE-2019-18862 - http://packetstormsecurity.com/files/155425/GNU-Mailutils-3.7-Privilege-Escalation.html
 CVE-2019-18883 - http://packetstormsecurity.com/files/155241/LavaLite-CMS-5.7-Cross-Site-Scripting.html
 CVE-2019-18884 - http://packetstormsecurity.com/files/155242/RISE-Ultimate-Project-Manager-2.3-Cross-Site-Request-Forgery.html
@@ -51641,6 +51686,7 @@ CVE-2022-1052 - https://huntr.dev/bounties/3b3b7f77-ab8d-4de3-999b-eeec0a3eebe7
 CVE-2022-1058 - https://huntr.dev/bounties/4fb42144-ac70-4f76-a5e1-ef6b5e55dc0d
 CVE-2022-1061 - https://huntr.dev/bounties/a7546dae-01c5-4fb0-8a8e-c04ea4e9bac7
 CVE-2022-1064 - https://huntr.dev/bounties/2f664985-c5fc-485b-b4fc-4c401be2cf40
+CVE-2022-1071 - https://huntr.dev/bounties/6597ece9-07af-415b-809b-919ce0a17cf3
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -51870,6 +51916,7 @@ CVE-2022-27083 - https://github.com/GD008/vuln/blob/main/tenda_M3_uploadAccessCo
 CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
 CVE-2022-27226 - http://packetstormsecurity.com/files/166396/iRZ-Mobile-Router-Cross-Site-Request-Forgery-Remote-Code-Execution.html
 CVE-2022-27226 - https://johnjhacking.com/blog/cve-2022-27226/
+CVE-2022-27254 - https://news.ycombinator.com/item?id=30804702
 CVE-2022-27666 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.15
 CVE-2022-27881 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
 CVE-2022-27882 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
