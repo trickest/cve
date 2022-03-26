@@ -31238,9 +31238,13 @@ CVE-2017-6516 - https://www.exploit-db.com/exploits/44150/
 CVE-2017-6517 - http://packetstormsecurity.com/files/141650/Skype-7.16.0.102-DLL-Hijacking.html
 CVE-2017-6517 - http://seclists.org/fulldisclosure/2017/Mar/44
 CVE-2017-6526 - https://www.exploit-db.com/exploits/41578/
+CVE-2017-6526 - https://www.shorebreaksecurity.com/blog/product-security-advisory-psa0002-dnalims/
 CVE-2017-6527 - https://www.exploit-db.com/exploits/41578/
+CVE-2017-6527 - https://www.shorebreaksecurity.com/blog/product-security-advisory-psa0002-dnalims/
 CVE-2017-6528 - https://www.exploit-db.com/exploits/41578/
+CVE-2017-6528 - https://www.shorebreaksecurity.com/blog/product-security-advisory-psa0002-dnalims/
 CVE-2017-6529 - https://www.exploit-db.com/exploits/41578/
+CVE-2017-6529 - https://www.shorebreaksecurity.com/blog/product-security-advisory-psa0002-dnalims/
 CVE-2017-6533 - https://github.com/WPO-Foundation/webpagetest/issues/833
 CVE-2017-6534 - https://github.com/WPO-Foundation/webpagetest/issues/835
 CVE-2017-6535 - https://github.com/WPO-Foundation/webpagetest/issues/832
@@ -51917,6 +51921,7 @@ CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
 CVE-2022-27226 - http://packetstormsecurity.com/files/166396/iRZ-Mobile-Router-Cross-Site-Request-Forgery-Remote-Code-Execution.html
 CVE-2022-27226 - https://johnjhacking.com/blog/cve-2022-27226/
 CVE-2022-27254 - https://news.ycombinator.com/item?id=30804702
+CVE-2022-27254 - https://www.theregister.com/2022/03/25/honda_civic_hack/
 CVE-2022-27666 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.15
 CVE-2022-27881 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
 CVE-2022-27882 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
