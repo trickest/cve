@@ -13272,6 +13272,7 @@ CVE-2017-15830 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15831 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15836 - https://github.com/jiayy/android_vuln_poc-exp
 CVE-2017-15854 - https://github.com/jiayy/android_vuln_poc-exp
+CVE-2017-15906 - https://github.com/nitefood/asn
 CVE-2017-15906 - https://github.com/project7io/nmap
 CVE-2017-15906 - https://github.com/syadg123/pigat
 CVE-2017-15906 - https://github.com/teamssix/pigat
@@ -18943,6 +18944,7 @@ CVE-2018-15877 - https://github.com/cved-sources/cve-2018-15877
 CVE-2018-15890 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2018-15912 - https://github.com/0xT11/CVE-POC
 CVE-2018-15919 - https://github.com/averna-syd/Shodan
+CVE-2018-15919 - https://github.com/nitefood/asn
 CVE-2018-15919 - https://github.com/project7io/nmap
 CVE-2018-15919 - https://github.com/revl-ca/scan-docker-image
 CVE-2018-15919 - https://github.com/vshaliii/Basic-Pentesting-2-Vulnhub-Walkthrough
@@ -25308,6 +25310,7 @@ CVE-2019-11358 - https://github.com/kchrobotics/tubularcode2020ultimategoal
 CVE-2019-11358 - https://github.com/kennhung/FTC_2021_Playground
 CVE-2019-11358 - https://github.com/kermodes19767/freightfrenzy
 CVE-2019-11358 - https://github.com/kevinthegreat1/FTC-2021-2022-Team-15943
+CVE-2019-11358 - https://github.com/kevuyt/MiddletonLibrary
 CVE-2019-11358 - https://github.com/khakiali/FTC
 CVE-2019-11358 - https://github.com/kho25/FreightFrenzy16887
 CVE-2019-11358 - https://github.com/kierancullen/FTCRobotController
@@ -44898,7 +44901,6 @@ CVE-2021-37580 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-37580 - https://github.com/pen4uin/awesome-vulnerability-research
 CVE-2021-37580 - https://github.com/rabbitsafe/CVE-2021-37580
 CVE-2021-37580 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
-CVE-2021-37589 - https://github.com/luca-regne/CVE-2021-37589
 CVE-2021-37593 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2021-37593 - https://github.com/nightfury99/CVE-IDs
 CVE-2021-37594 - https://github.com/googleprojectzero/winafl
@@ -47128,6 +47130,7 @@ CVE-2021-6857 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-6857 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-6857 - https://github.com/zi0n8/CVE-2021-6857
 CVE-2021-6901 - https://github.com/mooneee/cve-2021-6901
+CVE-2021-9999 - https://github.com/Reach-Z/CVE-2021-9999
 CVE-2022-0085 - https://github.com/Haxatron/Haxatron
 CVE-2022-0086 - https://github.com/Haxatron/Haxatron
 CVE-2022-0129 - https://github.com/dlehgus1023/dlehgus1023
@@ -47429,7 +47432,8 @@ CVE-2022-10249 - https://github.com/buff07/CVE-2022-10249
 CVE-2022-10249 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-1030 - https://github.com/mrdominguez/parallel-ssh-scp
 CVE-2022-1037 - https://github.com/iBLISSLabs/Server-Side-Request-Forgery-SSRF-on-EXMAGE---WordPress-Image-Links
-CVE-2022-1096 - https://github.com/phixion/phixion
+CVE-2022-1096 - https://github.com/hancp2016/news
+CVE-2022-1096 - https://github.com/zhaoolee/garss
 CVE-2022-1234 - https://github.com/trickest/find-gh-poc
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20019 - https://github.com/p1ay8y3ar/cve_monitor
@@ -47496,6 +47500,8 @@ CVE-2022-21661 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21661 - https://github.com/purple-WL/wordpress-CVE-2022-21661
 CVE-2022-21666 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2022-21668 - https://github.com/bigpick/cve-reading-list
+CVE-2022-21668 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-21668 - https://github.com/sreeram281997/CVE-2022-21668-Pipenv-RCE-vulnerability
 CVE-2022-21670 - https://github.com/DavidAnson/markdownlint
 CVE-2022-21675 - https://github.com/Konloch/bytecode-viewer
 CVE-2022-21682 - https://github.com/Karneades/awesome-vulnerabilities
@@ -48193,6 +48199,7 @@ CVE-2022-26317 - https://github.com/karimhabush/cyberowl
 CVE-2022-26319 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-26336 - https://github.com/karimhabush/cyberowl
 CVE-2022-26337 - https://github.com/dlehgus1023/dlehgus1023
+CVE-2022-26490 - https://github.com/evdenis/cvehound
 CVE-2022-26500 - https://github.com/Y4er/dotnet-deserialization
 CVE-2022-26503 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-26503 - https://github.com/Y4er/dotnet-deserialization
