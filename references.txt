@@ -45694,6 +45694,7 @@ CVE-2020-25927 - https://www.kb.cert.org/vuls/id/608209
 CVE-2020-25928 - https://www.kb.cert.org/vuls/id/608209
 CVE-2020-25950 - https://www.exploit-db.com/exploits/49369
 CVE-2020-25952 - https://phpgurukul.com/
+CVE-2020-25952 - https://systemweakness.com/cve-2020-25952-f60fff8ffac
 CVE-2020-25952 - https://www.exploit-db.com/exploits/49052
 CVE-2020-25955 - http://packetstormsecurity.com/files/160398/Student-Management-System-Project-PHP-1.0-Cross-Site-Scripting.html
 CVE-2020-25955 - http://seclists.org/fulldisclosure/2020/Dec/4
@@ -51905,6 +51906,7 @@ CVE-2022-26187 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-
 CVE-2022-26188 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-Injection/
 CVE-2022-26189 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-Injection/
 CVE-2022-26211 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_25/25.md
+CVE-2022-26252 - https://www.exploit-db.com/exploits/50780
 CVE-2022-26293 - https://www.exploit-db.com/exploits/50682
 CVE-2022-26295 - https://www.exploit-db.com/exploits/50683
 CVE-2022-26332 - https://www.exploit-db.com/exploits/50788
@@ -51926,3 +51928,4 @@ CVE-2022-27666 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.15
 CVE-2022-27881 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
 CVE-2022-27882 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
 CVE-2022-27946 - https://github.com/donothingme/VUL/blob/main/vul3/3.md
+CVE-2022-27950 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.11
