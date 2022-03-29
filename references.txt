@@ -346,6 +346,7 @@ CVE-2003-1560 - http://securityreason.com/securityalert/4004
 CVE-2003-1561 - http://securityreason.com/securityalert/4004
 CVE-2003-1571 - https://www.exploit-db.com/exploits/7488
 CVE-2003-1573 - http://seclists.org/bugtraq/2003/Dec/0249.html
+CVE-2003-5001 - https://vuldb.com/?id.104
 CVE-2004-0005 - http://marc.info/?l=bugtraq&m=107513690306318&w=2
 CVE-2004-0006 - http://marc.info/?l=bugtraq&m=107513690306318&w=2
 CVE-2004-0007 - http://marc.info/?l=bugtraq&m=107513690306318&w=2
@@ -1053,6 +1054,7 @@ CVE-2005-0983 - http://aluigi.altervista.org/adv/q3msgboom-adv.txt
 CVE-2005-0983 - http://marc.info/?l=bugtraq&m=111246796918067&w=2
 CVE-2005-0984 - http://aluigi.altervista.org/adv/jamsgbof-adv.txt
 CVE-2005-0984 - http://marc.info/?l=bugtraq&m=111246855213653&w=2
+CVE-2005-10001 - https://vuldb.com/?id.1022
 CVE-2005-1003 - http://marc.info/?l=bugtraq&m=111264602406090&w=2
 CVE-2005-1004 - http://marc.info/?l=bugtraq&m=111264602406090&w=2
 CVE-2005-1005 - http://marc.info/?l=bugtraq&m=111264602406090&w=2
@@ -11029,6 +11031,7 @@ CVE-2010-0970 - http://www.exploit-db.com/exploits/11737
 CVE-2010-0980 - http://greyhathackers.wordpress.com/2010/01/02/left-4-dead-stats-1-1-sql-injection-vulnerability/
 CVE-2010-0980 - http://www.exploit-db.com/exploits/10930
 CVE-2010-0983 - http://www.exploit-db.com/exploits/10967
+CVE-2010-10001 - https://www.scip.ch/publikationen/advisories/scip_advisory-4143_shemes_grabbit_malicious_nzb_date_denial_of_service.txt
 CVE-2010-1003 - http://www.coresecurity.com/content/efront-php-file-inclusion
 CVE-2010-1028 - http://blog.mozilla.com/security/2010/02/22/secunia-advisory-sa38608/
 CVE-2010-1028 - https://bugzilla.mozilla.org/show_bug.cgi?id=552216
@@ -16428,6 +16431,8 @@ CVE-2013-7318 - http://packetstormsecurity.com/files/122899/algosec64-xss.txt
 CVE-2013-7326 - http://packetstormsecurity.com/files/124402
 CVE-2013-7327 - https://bugs.php.net/bug.php?id=66356
 CVE-2013-7328 - https://bugs.php.net/bug.php?id=66356
+CVE-2013-7331 - https://soroush.secproject.com/blog/2013/04/microsoft-xmldom-in-ie-can-divulge-information-of-local-drivenetwork-in-error-messages/
+CVE-2013-7332 - https://soroush.secproject.com/blog/2013/04/microsoft-xmldom-in-ie-can-divulge-information-of-local-drivenetwork-in-error-messages/
 CVE-2013-7334 - http://packetstormsecurity.com/files/119806/ImageCMS-4.0.0b-SQL-Injection.html
 CVE-2013-7349 - http://packetstormsecurity.com/files/122771
 CVE-2013-7349 - http://packetstormsecurity.com/files/123482
@@ -29442,6 +29447,7 @@ CVE-2017-16544 - http://seclists.org/fulldisclosure/2021/Aug/21
 CVE-2017-16544 - http://seclists.org/fulldisclosure/2021/Jan/39
 CVE-2017-16544 - https://seclists.org/bugtraq/2019/Jun/14
 CVE-2017-16544 - https://seclists.org/bugtraq/2019/Sep/7
+CVE-2017-16560 - https://medium.com/@esterling_/cve-2017-16560-sandisk-secure-access-leaves-plain-text-copies-of-files-on-disk-4eabeca6bdbc
 CVE-2017-16561 - https://www.exploit-db.com/exploits/43108/
 CVE-2017-16562 - https://wpvulndb.com/vulnerabilities/8950
 CVE-2017-16562 - https://www.exploit-db.com/exploits/43117/
@@ -30253,6 +30259,15 @@ CVE-2017-18844 - https://kb.netgear.com/000049015/Security-Advisory-for-an-Admin
 CVE-2017-18924 - https://codeburst.io/missing-the-point-in-securing-oauth-2-0-83968708b467
 CVE-2017-18926 - https://www.openwall.com/lists/oss-security/2017/06/07/1
 CVE-2017-20008 - https://wpscan.com/vulnerability/3175c56d-27bb-4bf1-b6ba-737541483d40
+CVE-2017-20011 - https://vuldb.com/?id.101969
+CVE-2017-20012 - https://vuldb.com/?id.101969
+CVE-2017-20013 - https://vuldb.com/?id.101969
+CVE-2017-20013 - https://vuldb.com/?id.101971
+CVE-2017-20014 - https://vuldb.com/?id.101969
+CVE-2017-20014 - https://vuldb.com/?id.101972
+CVE-2017-20015 - https://vuldb.com/?id.101969
+CVE-2017-20016 - https://vuldb.com/?id.101969
+CVE-2017-20016 - https://vuldb.com/?id.101974
 CVE-2017-2096 - http://jvn.jp/en/jp/JVN50197114/index.html
 CVE-2017-2122 - https://www.tenable.com/security/tns-2017-01
 CVE-2017-2137 - https://kb.netgear.com/000038443/Security-Advisory-for-Insecure-SOAP-Access-in-ProSAFE-Plus-Configuration-Utility-PSV-2017-1997
@@ -37750,6 +37765,7 @@ CVE-2018-9843 - http://seclists.org/fulldisclosure/2018/Apr/18
 CVE-2018-9843 - https://www.exploit-db.com/exploits/44429/
 CVE-2018-9843 - https://www.redteam-pentesting.de/en/advisories/rt-sa-2017-014/-cyberark-password-vault-web-access-remote-code-execution
 CVE-2018-9844 - https://www.exploit-db.com/exploits/44444/
+CVE-2018-9846 - https://medium.com/@ndrbasi/cve-2018-9846-roundcube-303097048b0a
 CVE-2018-9849 - https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA43730
 CVE-2018-9853 - https://medium.com/@TheWindowsTwin/vulnerability-in-freesshd-5a0abc147d7a
 CVE-2018-9856 - https://github.com/Kotti/Kotti/issues/551
@@ -45781,6 +45797,7 @@ CVE-2020-26567 - http://packetstormsecurity.com/files/159516/D-Link-DSR-250N-Den
 CVE-2020-26567 - http://seclists.org/fulldisclosure/2020/Oct/14
 CVE-2020-26567 - https://www.redteam-pentesting.de/advisories/rt-sa-2020-002
 CVE-2020-26574 - https://adepts.of0x.cc/leostream-xss-to-rce/
+CVE-2020-26574 - https://www.leostream.com/resources/product-lifecycle/
 CVE-2020-26575 - https://gitlab.com/wireshark/wireshark/-/issues/16887
 CVE-2020-26575 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-26583 - https://seclists.org/fulldisclosure/2020/Oct/17
@@ -46643,6 +46660,7 @@ CVE-2020-35783 - https://research.nccgroup.com/2021/03/08/technical-advisory-mul
 CVE-2020-35789 - https://kb.netgear.com/000062686/Security-Advisory-for-Post-Authentication-Command-Injection-on-NMS300-PSV-2020-0559
 CVE-2020-35801 - https://research.nccgroup.com/2021/03/08/technical-advisory-multiple-vulnerabilities-in-netgear-prosafe-plus-jgs516pe-gs116ev2-switches/
 CVE-2020-35810 - https://kb.netgear.com/000062645/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-and-WiFi-System-PSV-2018-0491
+CVE-2020-35831 - https://kb.netgear.com/000062679/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-and-WiFi-Systems-PSV-2018-0508
 CVE-2020-35846 - http://packetstormsecurity.com/files/162282/Cockpit-CMS-0.11.1-NoSQL-Injection-Remote-Command-Execution.html
 CVE-2020-35847 - http://packetstormsecurity.com/files/162282/Cockpit-CMS-0.11.1-NoSQL-Injection-Remote-Command-Execution.html
 CVE-2020-35847 - http://packetstormsecurity.com/files/163762/Cockpit-CMS-0.11.1-NoSQL-Injection.html
@@ -51102,6 +51120,7 @@ CVE-2021-44043 - https://docs.uipath.com/robot/docs/uipath-assistant
 CVE-2021-44077 - http://packetstormsecurity.com/files/165400/ManageEngine-ServiceDesk-Plus-Remote-Code-Execution.html
 CVE-2021-44087 - https://www.exploit-db.com/exploits/50801
 CVE-2021-44088 - https://www.exploit-db.com/exploits/50802
+CVE-2021-44103 - https://www.exploit-db.com/exploits/50521
 CVE-2021-44114 - https://medium.com/@mayhem7999/cve-2021-44114-957145c1773
 CVE-2021-44142 - https://bugzilla.samba.org/show_bug.cgi?id=14914
 CVE-2021-44151 - http://packetstormsecurity.com/files/165191/Reprise-License-Manager-14.2-Session-Hijacking.html
@@ -51472,6 +51491,7 @@ CVE-2022-0419 - https://huntr.dev/bounties/1f84e79d-70e7-4b29-8b48-a108f81c89aa
 CVE-2022-0420 - https://wpscan.com/vulnerability/056b5167-3cbc-47d1-9917-52a434796151
 CVE-2022-0422 - https://wpscan.com/vulnerability/429be4eb-8a6b-4531-9465-9ef0d35c12cc
 CVE-2022-0426 - https://wpscan.com/vulnerability/de69bcd1-b0b1-4b16-9655-776ee57ad90a
+CVE-2022-0427 - https://gitlab.com/gitlab-org/gitlab/-/issues/347284
 CVE-2022-0429 - https://wpscan.com/vulnerability/d1b6f438-f737-4b18-89cf-161238a7421b
 CVE-2022-0430 - https://huntr.dev/bounties/dafb2e4f-c6b6-4768-8ef5-b396cd6a801f
 CVE-2022-0432 - https://huntr.dev/bounties/d06da292-7716-4d74-a129-dd04773398d7
@@ -51688,6 +51708,7 @@ CVE-2022-1031 - https://huntr.dev/bounties/37da2cd6-0b46-4878-a32e-acbfd8f6f457
 CVE-2022-1033 - https://huntr.dev/bounties/4d7d4fc9-e0cf-42d3-b89c-6ea57a769045
 CVE-2022-1034 - https://huntr.dev/bounties/d205c489-3266-4ac4-acb7-c8ee570887f7
 CVE-2022-1052 - https://huntr.dev/bounties/3b3b7f77-ab8d-4de3-999b-eeec0a3eebe7
+CVE-2022-1056 - https://gitlab.com/libtiff/libtiff/-/issues/391
 CVE-2022-1058 - https://huntr.dev/bounties/4fb42144-ac70-4f76-a5e1-ef6b5e55dc0d
 CVE-2022-1061 - https://huntr.dev/bounties/a7546dae-01c5-4fb0-8a8e-c04ea4e9bac7
 CVE-2022-1064 - https://huntr.dev/bounties/2f664985-c5fc-485b-b4fc-4c401be2cf40
@@ -51907,8 +51928,10 @@ CVE-2022-26188 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-
 CVE-2022-26189 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-Injection/
 CVE-2022-26211 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_25/25.md
 CVE-2022-26252 - https://www.exploit-db.com/exploits/50780
+CVE-2022-26278 - https://github.com/pllrry/Tenda-AC9-V15.03.2.21_cn-Command-Execution-Vulnerability/tree/main/Tenda-AC9
 CVE-2022-26293 - https://www.exploit-db.com/exploits/50682
 CVE-2022-26295 - https://www.exploit-db.com/exploits/50683
+CVE-2022-26296 - https://github.com/riscv-boom/riscv-boom/issues/577
 CVE-2022-26332 - https://www.exploit-db.com/exploits/50788
 CVE-2022-26495 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26496 - https://lists.debian.org/nbd/2022/01/msg00037.html
@@ -51923,6 +51946,7 @@ CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
 CVE-2022-27226 - http://packetstormsecurity.com/files/166396/iRZ-Mobile-Router-Cross-Site-Request-Forgery-Remote-Code-Execution.html
 CVE-2022-27226 - https://johnjhacking.com/blog/cve-2022-27226/
 CVE-2022-27254 - https://news.ycombinator.com/item?id=30804702
+CVE-2022-27254 - https://www.bleepingcomputer.com/news/security/honda-bug-lets-a-hacker-unlock-and-start-your-car-via-replay-attack/
 CVE-2022-27254 - https://www.theregister.com/2022/03/25/honda_civic_hack/
 CVE-2022-27666 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.15
 CVE-2022-27881 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
