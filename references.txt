@@ -12314,6 +12314,7 @@ CVE-2010-5207 - http://core.yehg.net/lab/pr0js/advisories/dll_hijacking/%5Bcelfr
 CVE-2010-5208 - http://core.yehg.net/lab/pr0js/advisories/dll_hijacking/%5Bkingsoft_office%5D_2010_insecure_dll_hijacking
 CVE-2010-5209 - http://core.yehg.net/lab/pr0js/advisories/dll_hijacking/%5Bnuance_pdf_reader%5D_6.0_insecure_dll_hijacking
 CVE-2010-5211 - http://core.yehg.net/lab/pr0js/advisories/dll_hijacking/%5Balsee%5D_6.20.0.1_insecure_dll_hijacking
+CVE-2010-5225 - http://xlocux.wordpress.com/2010/11/22/babylon-pro-8-xx-dll-hijacking/
 CVE-2010-5231 - http://secunia.com/blog/120
 CVE-2010-5232 - http://secunia.com/blog/120
 CVE-2010-5240 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2010-4953.php
@@ -15307,6 +15308,7 @@ CVE-2013-2141 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-2143 - http://packetstormsecurity.com/files/125866/Katello-Red-Hat-Satellite-users-update_roles-Missing-Authorization.html
 CVE-2013-2146 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:176
 CVE-2013-2162 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=711600
+CVE-2013-2164 - https://bugzilla.redhat.com/show_bug.cgi?id=973100
 CVE-2013-2165 - http://packetstormsecurity.com/files/156663/Richsploit-RichFaces-Exploitation-Toolkit.html
 CVE-2013-2172 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2013-2172 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
@@ -30252,6 +30254,7 @@ CVE-2017-18635 - https://github.com/ShielderSec/cve-2017-18635
 CVE-2017-18635 - https://www.shielder.it/blog/exploiting-an-old-novnc-xss-cve-2017-18635-in-openstack/
 CVE-2017-18638 - https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html#second-bug-internal-graphite-ssrf
 CVE-2017-18639 - https://www.exploit-db.com/exploits/42792
+CVE-2017-18728 - https://kb.netgear.com/000051527/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Routers-PSV-2017-2136
 CVE-2017-18738 - https://kb.netgear.com/000051517/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-and-Extenders-PSV-2017-0706
 CVE-2017-18761 - https://kb.netgear.com/000051484/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-R8000-PSV-2017-2229
 CVE-2017-18836 - https://kb.netgear.com/000049026/Security-Advisory-for-Denial-of-Service-on-Some-Fully-Managed-Switches-PSV-2017-1959
@@ -30261,6 +30264,7 @@ CVE-2017-18926 - https://www.openwall.com/lists/oss-security/2017/06/07/1
 CVE-2017-20008 - https://wpscan.com/vulnerability/3175c56d-27bb-4bf1-b6ba-737541483d40
 CVE-2017-20011 - https://vuldb.com/?id.101969
 CVE-2017-20012 - https://vuldb.com/?id.101969
+CVE-2017-20012 - https://vuldb.com/?id.101970
 CVE-2017-20013 - https://vuldb.com/?id.101969
 CVE-2017-20013 - https://vuldb.com/?id.101971
 CVE-2017-20014 - https://vuldb.com/?id.101969
@@ -35972,6 +35976,7 @@ CVE-2018-20577 - https://github.com/zadewg/LIVEBOX-0DAY
 CVE-2018-20580 - http://packetstormsecurity.com/files/152731/ReadyAPI-2.5.0-2.6.0-Remote-Code-Execution.html
 CVE-2018-20580 - https://github.com/gscamelo/CVE-2018-20580
 CVE-2018-20580 - https://www.exploit-db.com/exploits/46796/
+CVE-2018-20582 - https://medium.com/@beefaaubee/dissecting-into-gree-android-application-43892d54b006
 CVE-2018-20584 - https://github.com/mdadams/jasper/issues/192
 CVE-2018-20588 - https://github.com/caryll/otfcc/issues/59
 CVE-2018-20589 - https://github.com/nabby27/CMS/pull/3
@@ -38733,6 +38738,7 @@ CVE-2019-12240 - https://wpvulndb.com/vulnerabilities/9291
 CVE-2019-12241 - https://wpvulndb.com/vulnerabilities/9292
 CVE-2019-12252 - http://packetstormsecurity.com/files/153029/Zoho-ManageEngine-ServiceDesk-Plus-Privilege-Escalation.html
 CVE-2019-12255 - http://packetstormsecurity.com/files/154022/VxWorks-6.8-Integer-Underflow.html
+CVE-2019-12266 - https://www.bitdefender.com/blog/labs/vulnerabilities-identified-in-wyze-cam-iot-device/
 CVE-2019-12270 - https://packetstormsecurity.com/files/150125/Brava-Enterprise-Server-16.4-Information-Disclosure.html
 CVE-2019-12271 - http://packetstormsecurity.com/files/155355/Centraleyezer-Shell-Upload.html
 CVE-2019-12276 - http://packetstormsecurity.com/files/153373/GrandNode-4.40-Path-Traversal-File-Download.html
@@ -39208,6 +39214,7 @@ CVE-2019-13971 - https://cisk123456.blogspot.com/2019/05/otcms-xss.html
 CVE-2019-13972 - http://blog.topsec.com.cn/%E5%A4%A9%E8%9E%8D%E4%BF%A1%E5%85%B3%E4%BA%8Elayerbb-1-1-3-xss%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/
 CVE-2019-13973 - http://blog.topsec.com.cn/%E5%A4%A9%E8%9E%8D%E4%BF%A1%E5%85%B3%E4%BA%8Elayerbb-1-1-3-xss%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/
 CVE-2019-13974 - http://blog.topsec.com.cn/%E5%A4%A9%E8%9E%8D%E4%BF%A1%E5%85%B3%E4%BA%8Elayerbb-1-1-3-xss%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/
+CVE-2019-13976 - https://medium.com/@dr.spitfire/bypass-file-upload-restrictions-cve-2019-13976-35682bd1fdd3
 CVE-2019-13977 - http://packetstormsecurity.com/files/153737/Ovidentia-8.4.3-Cross-Site-Scripting.html
 CVE-2019-13977 - https://github.com/Kitsun3Sec/exploits/blob/master/cms/ovidentia/exploitXSSOvidentia.txt
 CVE-2019-13978 - http://packetstormsecurity.com/files/153738/Ovidentia-8.4.3-SQL-Injection.html
@@ -40290,6 +40297,7 @@ CVE-2019-17024 - http://packetstormsecurity.com/files/155912/Slackware-Security-
 CVE-2019-17026 - http://packetstormsecurity.com/files/162568/Firefox-72-IonMonkey-JIT-Type-Confusion.html
 CVE-2019-17026 - https://bugzilla.mozilla.org/show_bug.cgi?id=1607443
 CVE-2019-17045 - https://syhack.wordpress.com/2019/09/29/ilch-content-management-system-v-2-1-22-vulnerability-disclosure/
+CVE-2019-17046 - https://syhack.wordpress.com/2019/09/29/ilch-content-management-system-v-2-1-22-insecure-file-upload-lfi-remote-code-execution-critical-vulnerability-disclosure/
 CVE-2019-17052 - http://packetstormsecurity.com/files/155212/Slackware-Security-Advisory-Slackware-14.2-kernel-Updates.html
 CVE-2019-17053 - http://packetstormsecurity.com/files/155212/Slackware-Security-Advisory-Slackware-14.2-kernel-Updates.html
 CVE-2019-17054 - http://packetstormsecurity.com/files/155212/Slackware-Security-Advisory-Slackware-14.2-kernel-Updates.html
@@ -40320,6 +40328,7 @@ CVE-2019-17118 - http://packetstormsecurity.com/files/154912/WiKID-Systems-2FA-E
 CVE-2019-17119 - http://packetstormsecurity.com/files/154912/WiKID-Systems-2FA-Enterprise-Server-4.2.0-b2032-SQL-Injection-XSS-CSRF.html
 CVE-2019-17120 - http://packetstormsecurity.com/files/154912/WiKID-Systems-2FA-Enterprise-Server-4.2.0-b2032-SQL-Injection-XSS-CSRF.html
 CVE-2019-17123 - https://medium.com/maverislabs/cve-2019-17123-cbc946c99f8
+CVE-2019-17124 - http://packetstormsecurity.com/files/166541/Kramer-VIAware-2.5.0719.1034-Remote-Code-Execution.html
 CVE-2019-17124 - https://github.com/hessandrew/CVE-2019-17124
 CVE-2019-17128 - http://packetstormsecurity.com/files/154763/OmniCenter-12.1.1-SQL-Injection.html
 CVE-2019-17132 - http://packetstormsecurity.com/files/154759/vBulletin-5.5.4-Remote-Code-Execution.html
@@ -42317,6 +42326,7 @@ CVE-2019-9176 - https://gitlab.com/gitlab-org/gitlab-ce/issues/55664
 CVE-2019-9184 - https://www.exploit-db.com/exploits/46467/
 CVE-2019-9189 - http://packetstormsecurity.com/files/155273/Prima-Access-Control-2.3.35-Script-Upload-Remote-Code-Execution.html
 CVE-2019-9193 - http://packetstormsecurity.com/files/152757/PostgreSQL-COPY-FROM-PROGRAM-Command-Execution.html
+CVE-2019-9193 - http://packetstormsecurity.com/files/166540/PostgreSQL-11.7-Remote-Code-Execution.html
 CVE-2019-9193 - https://medium.com/greenwolf-security/authenticated-arbitrary-command-execution-on-postgresql-9-3-latest-cd18945914d5
 CVE-2019-9194 - https://www.exploit-db.com/exploits/46481/
 CVE-2019-9194 - https://www.exploit-db.com/exploits/46539/
@@ -46708,6 +46718,7 @@ CVE-2020-3611 - https://www.qualcomm.com/company/product-security/bulletins/augu
 CVE-2020-36112 - https://www.exploit-db.com/exploits/49314
 CVE-2020-36115 - https://www.exploit-db.com/exploits/49484
 CVE-2020-36120 - https://github.com/saitoha/libsixel/issues/143
+CVE-2020-36123 - https://github.com/saitoha/libsixel/issues/144
 CVE-2020-3613 - https://www.qualcomm.com/company/product-security/bulletins/june-2020-bulletin
 CVE-2020-36139 - https://muteb.io/2020/12/29/BloofoxCMS-Multiple-Vulnerabilities.html
 CVE-2020-3614 - https://www.qualcomm.com/company/product-security/bulletins/june-2020-bulletin
@@ -50874,6 +50885,7 @@ CVE-2021-41557 - http://packetstormsecurity.com/files/165278/Sofico-Miles-RIA-20
 CVE-2021-41591 - https://bitcoinmagazine.com/technical/good-griefing-a-lingering-vulnerability-on-lightning-network-that-still-needs-fixing
 CVE-2021-41592 - https://bitcoinmagazine.com/technical/good-griefing-a-lingering-vulnerability-on-lightning-network-that-still-needs-fixing
 CVE-2021-41593 - https://bitcoinmagazine.com/technical/good-griefing-a-lingering-vulnerability-on-lightning-network-that-still-needs-fixing
+CVE-2021-41594 - https://www.rsa.com/en-us/company/vulnerability-response-policy
 CVE-2021-4162 - https://huntr.dev/bounties/e204a768-2129-4b6f-abad-e436309c7c32
 CVE-2021-4164 - https://huntr.dev/bounties/2debace1-a0f3-45c1-95fa-9d0512680758
 CVE-2021-41643 - https://www.exploit-db.com/exploits/50306
@@ -51096,6 +51108,7 @@ CVE-2021-43637 - https://www.sentinelone.com/labs/usb-over-ethernet-multiple-pri
 CVE-2021-43638 - https://www.sentinelone.com/labs/usb-over-ethernet-multiple-privilege-escalation-vulnerabilities-in-aws-and-other-major-cloud-services/
 CVE-2021-43650 - https://www.exploit-db.com/exploits/50542
 CVE-2021-43683 - https://github.com/HaschekSolutions/pictshare/issues/133
+CVE-2021-43701 - https://www.exploit-db.com/exploits/50846
 CVE-2021-43798 - http://packetstormsecurity.com/files/165198/Grafana-Arbitrary-File-Reading.html
 CVE-2021-43798 - http://packetstormsecurity.com/files/165221/Grafana-8.3.0-Directory-Traversal-Arbitrary-File-Read.html
 CVE-2021-43828 - https://huntr.dev/bounties/fe6248f1-603d-43df-816c-c75534a56f72
@@ -51358,10 +51371,12 @@ CVE-2022-0133 - https://huntr.dev/bounties/80aabdc1-89fe-47b8-87ca-9d68107fc0b4
 CVE-2022-0134 - https://wpscan.com/vulnerability/fa09ea9b-d5a0-4773-a692-9ff0200bcd85
 CVE-2022-0139 - https://huntr.dev/bounties/3dcb6f40-45cd-403b-929f-db123fde32c0
 CVE-2022-0144 - https://huntr.dev/bounties/50996581-c08e-4eed-a90e-c0bac082679c
+CVE-2022-0145 - https://huntr.dev/bounties/b5b8c680-3cd9-4477-bcd9-3a29657ba7ba
 CVE-2022-0147 - https://wpscan.com/vulnerability/2c735365-69c0-4652-b48e-c4a192dfe0d1
 CVE-2022-0148 - https://wpscan.com/vulnerability/37665ee1-c57f-4445-9596-df4f7d72c8cd
 CVE-2022-0149 - https://wpscan.com/vulnerability/e47c288a-2ea3-4926-93cc-113867cbc77c
 CVE-2022-0150 - https://wpscan.com/vulnerability/7142a538-7c3d-4dd0-bd2c-cbd2efaf53c5
+CVE-2022-0153 - https://huntr.dev/bounties/841503dd-311c-470a-a8ec-d4579b3274eb
 CVE-2022-0156 - https://huntr.dev/bounties/47dded34-3767-4725-8c7c-9dcb68c70b36
 CVE-2022-0157 - https://huntr.dev/bounties/2c0fe81b-0977-4e1e-b5d8-7646c9a7ebbd
 CVE-2022-0158 - https://huntr.dev/bounties/ac5d7005-07c6-4a0a-b251-ba9cdbf6738b
@@ -51436,6 +51451,7 @@ CVE-2022-0281 - https://huntr.dev/bounties/315f5ac6-1b5e-4444-ad8f-802371da3505
 CVE-2022-0282 - https://huntr.dev/bounties/8815b642-bd9b-4737-951b-bde7319faedd
 CVE-2022-0285 - https://huntr.dev/bounties/321918b2-aa01-410e-9f7c-dca5f286bc9c
 CVE-2022-0288 - https://wpscan.com/vulnerability/27b64412-33a4-462c-bc45-f81697e4fe42
+CVE-2022-0289 - http://packetstormsecurity.com/files/166547/Chrome-safe_browsing-ThreatDetails-OnReceivedThreatDOMDetails-Use-After-Free.html
 CVE-2022-0290 - http://packetstormsecurity.com/files/166080/Chrome-RenderFrameHostImpl-Use-After-Free.html
 CVE-2022-0306 - http://packetstormsecurity.com/files/166367/Chrome-chrome_pdf-PDFiumEngine-RequestThumbnail-Heap-Buffer-Overflow.html
 CVE-2022-0313 - https://wpscan.com/vulnerability/1ce6c8f4-6f4b-4d56-8d11-43355ef32e8c
@@ -51705,6 +51721,7 @@ CVE-2022-0991 - https://huntr.dev/bounties/1c406a4e-15d0-4920-8495-731c48473ba4
 CVE-2022-0996 - https://github.com/ByteHackr/389-ds-base
 CVE-2022-1000 - https://huntr.dev/bounties/5995a93f-0c4b-4f7d-aa59-a64424219424
 CVE-2022-1031 - https://huntr.dev/bounties/37da2cd6-0b46-4878-a32e-acbfd8f6f457
+CVE-2022-1032 - https://huntr.dev/bounties/cb9a0393-be34-4021-a06c-00c7791c7622
 CVE-2022-1033 - https://huntr.dev/bounties/4d7d4fc9-e0cf-42d3-b89c-6ea57a769045
 CVE-2022-1034 - https://huntr.dev/bounties/d205c489-3266-4ac4-acb7-c8ee570887f7
 CVE-2022-1052 - https://huntr.dev/bounties/3b3b7f77-ab8d-4de3-999b-eeec0a3eebe7
@@ -51713,6 +51730,14 @@ CVE-2022-1058 - https://huntr.dev/bounties/4fb42144-ac70-4f76-a5e1-ef6b5e55dc0d
 CVE-2022-1061 - https://huntr.dev/bounties/a7546dae-01c5-4fb0-8a8e-c04ea4e9bac7
 CVE-2022-1064 - https://huntr.dev/bounties/2f664985-c5fc-485b-b4fc-4c401be2cf40
 CVE-2022-1071 - https://huntr.dev/bounties/6597ece9-07af-415b-809b-919ce0a17cf3
+CVE-2022-1081 - https://vuldb.com/?id.195640
+CVE-2022-1106 - https://huntr.dev/bounties/16b9d0ea-71ed-41bc-8a88-2deb4c20be8f
+CVE-2022-1154 - https://huntr.dev/bounties/7f0ec6bc-ea0e-45b0-8128-caac72d23425
+CVE-2022-1155 - https://huntr.dev/bounties/ebc26354-2414-4f72-88aa-f044aec2b2e1
+CVE-2022-1160 - https://huntr.dev/bounties/a6f3222d-2472-439d-8881-111138a5694c
+CVE-2022-1163 - https://huntr.dev/bounties/44d40f34-c391-40c0-a517-12a2c0258149
+CVE-2022-1172 - https://huntr.dev/bounties/a26cb79c-9257-4fbf-98c5-a5a331efa264
+CVE-2022-1176 - https://huntr.dev/bounties/3e30171b-c9bf-415c-82f1-6f55a44d09d3
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
@@ -51803,6 +51828,7 @@ CVE-2022-23049 - https://exponentcms.lighthouseapp.com/projects/61783/tickets/14
 CVE-2022-23049 - https://fluidattacks.com/advisories/cobain/
 CVE-2022-23051 - https://fluidattacks.com/advisories/brown/
 CVE-2022-23052 - https://fluidattacks.com/advisories/jett/
+CVE-2022-23059 - https://www.whitesourcesoftware.com/vulnerability-database/CVE-2022-23059
 CVE-2022-23102 - http://packetstormsecurity.com/files/165966/SIEMENS-SINEMA-Remote-Connect-1.0-SP3-HF1-Open-Redirection.html
 CVE-2022-23102 - http://seclists.org/fulldisclosure/2022/Feb/20
 CVE-2022-23119 - https://success.trendmicro.com/solution/000290104
@@ -51824,6 +51850,7 @@ CVE-2022-23409 - http://packetstormsecurity.com/files/165706/Ethercreative-Logs-
 CVE-2022-23409 - https://sec-consult.com/vulnerability-lab/
 CVE-2022-23608 - http://packetstormsecurity.com/files/166226/Asterisk-Project-Security-Advisory-AST-2022-005.html
 CVE-2022-23648 - http://packetstormsecurity.com/files/166421/containerd-Image-Volume-Insecure-Handling.html
+CVE-2022-23793 - http://packetstormsecurity.com/files/166546/Joomla-4.1.0-Zip-Slip-File-Overwrite-Path-Traversal.html
 CVE-2022-23878 - https://blog.csdn.net/miuzzx/article/details/122249953
 CVE-2022-23907 - http://dev.cmsmadesimple.org/bug/view/12503
 CVE-2022-23911 - https://wpscan.com/vulnerability/77fd6749-4fb2-48fa-a191-437b442f28e9
@@ -51865,6 +51892,8 @@ CVE-2022-24677 - https://github.com/hyyyp/HYBBS2/issues/34
 CVE-2022-24723 - https://huntr.dev/bounties/82ef23b8-7025-49c9-b5fc-1bb9885788e5/
 CVE-2022-24755 - https://huntr.dev/bounties/480121f2-bc3c-427e-986e-5acffb1606c5/
 CVE-2022-24756 - https://huntr.dev/bounties/480121f2-bc3c-427e-986e-5acffb1606c5/
+CVE-2022-24956 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2022-018.txt
+CVE-2022-24957 - https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2022-019.txt
 CVE-2022-24959 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.5
 CVE-2022-24976 - https://www.openwall.com/lists/oss-security/2022/01/30/4
 CVE-2022-24977 - https://r0.haxors.org/posts?id=8
@@ -51911,8 +51940,10 @@ CVE-2022-25418 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/2
 CVE-2022-25438 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC9/11
 CVE-2022-25451 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC6/9
 CVE-2022-25459 - https://github.com/EPhaha/IOT_vuln/tree/main/Tenda/AC6/15
+CVE-2022-25487 - http://packetstormsecurity.com/files/166532/Atom-CMS-1.0.2-Shell-Upload.html
 CVE-2022-25487 - https://github.com/thedigicraft/Atom.CMS/issues/256
 CVE-2022-25506 - https://github.com/FreeTAKTeam/UI/issues/27
+CVE-2022-25521 - https://medium.com/@dnyaneshgawande111/use-of-default-credentials-to-unauthorised-remote-access-of-internal-panel-of-network-video-5490d107fa0
 CVE-2022-25553 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/7
 CVE-2022-25555 - https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX1806/2
 CVE-2022-25636 - http://packetstormsecurity.com/files/166444/Kernel-Live-Patch-Security-Notice-LSN-0085-1.html
@@ -51927,7 +51958,9 @@ CVE-2022-26187 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-
 CVE-2022-26188 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-Injection/
 CVE-2022-26189 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-Injection/
 CVE-2022-26211 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_25/25.md
+CVE-2022-26244 - https://github.com/kishan0725/Hospital-Management-System/issues/23
 CVE-2022-26252 - https://www.exploit-db.com/exploits/50780
+CVE-2022-26269 - https://github.com/nsbogam/CVE-2022-26269/blob/main/README.md
 CVE-2022-26278 - https://github.com/pllrry/Tenda-AC9-V15.03.2.21_cn-Command-Execution-Vulnerability/tree/main/Tenda-AC9
 CVE-2022-26293 - https://www.exploit-db.com/exploits/50682
 CVE-2022-26295 - https://www.exploit-db.com/exploits/50683
@@ -51948,6 +51981,8 @@ CVE-2022-27226 - https://johnjhacking.com/blog/cve-2022-27226/
 CVE-2022-27254 - https://news.ycombinator.com/item?id=30804702
 CVE-2022-27254 - https://www.bleepingcomputer.com/news/security/honda-bug-lets-a-hacker-unlock-and-start-your-car-via-replay-attack/
 CVE-2022-27254 - https://www.theregister.com/2022/03/25/honda_civic_hack/
+CVE-2022-27432 - https://owasp.org/www-community/attacks/csrf
+CVE-2022-27432 - https://www.exploit-db.com/exploits/50831
 CVE-2022-27666 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.15
 CVE-2022-27881 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
 CVE-2022-27882 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
