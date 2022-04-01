@@ -9094,6 +9094,8 @@ CVE-2008-6978 - https://www.exploit-db.com/exploits/6357
 CVE-2008-6978 - https://www.exploit-db.com/exploits/6420
 CVE-2008-6982 - https://www.exploit-db.com/exploits/6369
 CVE-2008-6983 - https://www.exploit-db.com/exploits/6369
+CVE-2008-6985 - http://www.zen-cart.com/forum/showthread.php?p=604473
+CVE-2008-6986 - http://www.zen-cart.com/forum/showthread.php?p=604473
 CVE-2008-6988 - https://www.exploit-db.com/exploits/6428
 CVE-2008-6989 - https://www.exploit-db.com/exploits/6428
 CVE-2008-6991 - https://www.exploit-db.com/exploits/6343
@@ -14281,6 +14283,7 @@ CVE-2012-3485 - http://www.openwall.com/lists/oss-security/2012/08/14/1
 CVE-2012-3486 - http://www.openwall.com/lists/oss-security/2012/08/14/1
 CVE-2012-3487 - http://www.openwall.com/lists/oss-security/2012/08/14/1
 CVE-2012-3512 - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=684075
+CVE-2012-3520 - https://github.com/torvalds/linux/commit/e0e3cea46d31d23dc40df0a49a7a2c04fe8edfea
 CVE-2012-3524 - http://stealth.openwall.net/null/dzug.c
 CVE-2012-3524 - http://www.exploit-db.com/exploits/21323
 CVE-2012-3544 - http://seclists.org/fulldisclosure/2014/Dec/23
@@ -28424,6 +28427,7 @@ CVE-2017-12876 - https://blogs.gentoo.org/ago/2017/08/10/imagemagick-heap-based-
 CVE-2017-12877 - http://www.openwall.com/lists/oss-security/2017/08/16/2
 CVE-2017-12877 - https://blogs.gentoo.org/ago/2017/08/10/imagemagick-use-after-free-in-destroyimage-image-c/
 CVE-2017-12879 - https://drive.google.com/open?id=0B6WbMqXSfqQFODZHUGtLdzU3eDA
+CVE-2017-12879 - https://youtu.be/QOLdH2oey8Q
 CVE-2017-12883 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2017-12904 - https://github.com/akrennmair/newsbeuter/commit/96e9506ae9e252c548665152d1b8968297128307
 CVE-2017-12904 - https://github.com/akrennmair/newsbeuter/issues/591
@@ -30980,6 +30984,7 @@ CVE-2017-5595 - http://seclists.org/fulldisclosure/2017/Feb/11
 CVE-2017-5607 - http://hyp3rlinx.altervista.org/advisories/SPLUNK-ENTERPRISE-INFORMATION-THEFT.txt
 CVE-2017-5607 - http://seclists.org/fulldisclosure/2017/Mar/89
 CVE-2017-5607 - https://www.exploit-db.com/exploits/41779/
+CVE-2017-5607 - https://www.splunk.com/view/SP-CAAAPZ3#InformationLeakageviaJavaScriptCVE20175607
 CVE-2017-5610 - https://wpvulndb.com/vulnerabilities/8729
 CVE-2017-5611 - https://wpvulndb.com/vulnerabilities/8730
 CVE-2017-5611 - https://www.oracle.com/security-alerts/cpujan2021.html
@@ -33707,6 +33712,16 @@ CVE-2018-12648 - https://bugs.freedesktop.org/show_bug.cgi?id=106981
 CVE-2018-12650 - http://packetstormsecurity.com/files/155232/Adrenalin-Core-HCM-5.4.0-Cross-Site-Scripting.html
 CVE-2018-12653 - http://packetstormsecurity.com/files/155244/Adrenalin-Core-HCM-5.4.0-Cross-Site-Scripting.html
 CVE-2018-12659 - https://github.com/slims/slims8_akasia/issues/103
+CVE-2018-12666 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12667 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12668 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12669 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12670 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12671 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12672 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12673 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12674 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
+CVE-2018-12675 - https://www.bishopfox.com/news/2018/10/sv3c-l-series-hd-camera-multiple-vulnerabilities/
 CVE-2018-12689 - https://www.exploit-db.com/exploits/44926/
 CVE-2018-12692 - https://medium.com/advisability/the-in-security-of-the-tp-link-technologies-tl-wa850re-wi-fi-range-extender-26db87a7a0cc
 CVE-2018-12692 - https://www.exploit-db.com/exploits/44912/
@@ -35483,6 +35498,7 @@ CVE-2018-19246 - https://www.exploit-db.com/exploits/45861/
 CVE-2018-19248 - https://github.com/epistemophilia/CVEs/blob/master/Epson-WorkForce-WF2861/CVE-2018-19248/poc-cve-2018-19248.py
 CVE-2018-19276 - http://packetstormsecurity.com/files/151553/OpenMRS-Platform-Insecure-Object-Deserialization.html
 CVE-2018-19276 - http://packetstormsecurity.com/files/155691/OpenMRS-Java-Deserialization-Remote-Code-Execution.html
+CVE-2018-19276 - https://know.bishopfox.com/advisories/news/2019/02/openmrs-insecure-object-deserialization
 CVE-2018-19276 - https://www.exploit-db.com/exploits/46327/
 CVE-2018-19277 - https://www.drupal.org/sa-contrib-2021-043
 CVE-2018-19287 - https://www.exploit-db.com/exploits/45880/
@@ -51724,6 +51740,7 @@ CVE-2022-1031 - https://huntr.dev/bounties/37da2cd6-0b46-4878-a32e-acbfd8f6f457
 CVE-2022-1032 - https://huntr.dev/bounties/cb9a0393-be34-4021-a06c-00c7791c7622
 CVE-2022-1033 - https://huntr.dev/bounties/4d7d4fc9-e0cf-42d3-b89c-6ea57a769045
 CVE-2022-1034 - https://huntr.dev/bounties/d205c489-3266-4ac4-acb7-c8ee570887f7
+CVE-2022-1049 - https://huntr.dev/bounties/7aa921fc-a568-4fd8-96f4-7cd826246aa5
 CVE-2022-1052 - https://huntr.dev/bounties/3b3b7f77-ab8d-4de3-999b-eeec0a3eebe7
 CVE-2022-1056 - https://gitlab.com/libtiff/libtiff/-/issues/391
 CVE-2022-1058 - https://huntr.dev/bounties/4fb42144-ac70-4f76-a5e1-ef6b5e55dc0d
@@ -51731,6 +51748,7 @@ CVE-2022-1061 - https://huntr.dev/bounties/a7546dae-01c5-4fb0-8a8e-c04ea4e9bac7
 CVE-2022-1064 - https://huntr.dev/bounties/2f664985-c5fc-485b-b4fc-4c401be2cf40
 CVE-2022-1071 - https://huntr.dev/bounties/6597ece9-07af-415b-809b-919ce0a17cf3
 CVE-2022-1081 - https://vuldb.com/?id.195640
+CVE-2022-1085 - https://vuldb.com/?id.194857
 CVE-2022-1106 - https://huntr.dev/bounties/16b9d0ea-71ed-41bc-8a88-2deb4c20be8f
 CVE-2022-1154 - https://huntr.dev/bounties/7f0ec6bc-ea0e-45b0-8128-caac72d23425
 CVE-2022-1155 - https://huntr.dev/bounties/ebc26354-2414-4f72-88aa-f044aec2b2e1
@@ -51738,6 +51756,7 @@ CVE-2022-1160 - https://huntr.dev/bounties/a6f3222d-2472-439d-8881-111138a5694c
 CVE-2022-1163 - https://huntr.dev/bounties/44d40f34-c391-40c0-a517-12a2c0258149
 CVE-2022-1172 - https://huntr.dev/bounties/a26cb79c-9257-4fbf-98c5-a5a331efa264
 CVE-2022-1176 - https://huntr.dev/bounties/3e30171b-c9bf-415c-82f1-6f55a44d09d3
+CVE-2022-1191 - https://huntr.dev/bounties/7264a2e1-17e7-4244-93e4-49ec14f282b3
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
