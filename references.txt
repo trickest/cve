@@ -11033,6 +11033,7 @@ CVE-2010-0970 - http://www.exploit-db.com/exploits/11737
 CVE-2010-0980 - http://greyhathackers.wordpress.com/2010/01/02/left-4-dead-stats-1-1-sql-injection-vulnerability/
 CVE-2010-0980 - http://www.exploit-db.com/exploits/10930
 CVE-2010-0983 - http://www.exploit-db.com/exploits/10967
+CVE-2010-10001 - https://vuldb.com/?id.4143
 CVE-2010-10001 - https://www.scip.ch/publikationen/advisories/scip_advisory-4143_shemes_grabbit_malicious_nzb_date_denial_of_service.txt
 CVE-2010-1003 - http://www.coresecurity.com/content/efront-php-file-inclusion
 CVE-2010-1028 - http://blog.mozilla.com/security/2010/02/22/secunia-advisory-sa38608/
@@ -25811,6 +25812,7 @@ CVE-2016-4566 - https://gist.github.com/cure53/09a81530a44f6b8173f545accc9ed07e
 CVE-2016-4566 - https://wpvulndb.com/vulnerabilities/8489
 CVE-2016-4567 - https://gist.github.com/cure53/df34ea68c26441f3ae98f821ba1feb9c
 CVE-2016-4567 - https://wpvulndb.com/vulnerabilities/8488
+CVE-2016-4568 - http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=2c1f6951a8a82e6de0d82b1158b5e493fc6c54ab
 CVE-2016-4578 - https://www.exploit-db.com/exploits/46529/
 CVE-2016-4581 - http://www.oracle.com/technetwork/topics/security/linuxbulletinjul2016-3090544.html
 CVE-2016-4583 - http://packetstormsecurity.com/files/138502/WebKitGTK-SOP-Bypass-Information-Disclosure.html
@@ -40825,6 +40827,7 @@ CVE-2019-1937 - http://seclists.org/fulldisclosure/2019/Aug/36
 CVE-2019-1937 - https://seclists.org/bugtraq/2019/Aug/49
 CVE-2019-19373 - http://packetstormsecurity.com/files/155671/Squiz-Matrix-CMS-5.5.x.x-Code-Execution-Information-Disclosure.html
 CVE-2019-19374 - http://packetstormsecurity.com/files/155671/Squiz-Matrix-CMS-5.5.x.x-Code-Execution-Information-Disclosure.html
+CVE-2019-19377 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19377
 CVE-2019-19378 - https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19378
 CVE-2019-19382 - http://hyp3rlinx.altervista.org
 CVE-2019-19382 - http://packetstormsecurity.com/files/155506/Max-Secure-Anti-Virus-Plus-19.0.4.020-Insecure-Permissions.html
@@ -40853,6 +40856,9 @@ CVE-2019-19460 - https://packetstormsecurity.com/files/155525/SALTO-ProAccess-SP
 CVE-2019-19460 - https://sec-consult.com/en/blog/advisories/multiple-critical-vulnerabilities-in-salto-proaccess-space/
 CVE-2019-19468 - https://code610.blogspot.com/2019/11/from-0-to-0day-quick-fuzzing-lesson.html
 CVE-2019-19469 - https://github.com/robertchrk/zmanda_exploit
+CVE-2019-19484 - https://medium.com/@mucomplex/undisclosed-cve-2019-19484-cve-2019-19486-cve-2019-19487-b46b97c930cd
+CVE-2019-19486 - https://medium.com/@mucomplex/undisclosed-cve-2019-19484-cve-2019-19486-cve-2019-19487-b46b97c930cd
+CVE-2019-19487 - https://medium.com/@mucomplex/undisclosed-cve-2019-19484-cve-2019-19486-cve-2019-19487-b46b97c930cd
 CVE-2019-19489 - https://www.exploit-db.com/exploits/47709
 CVE-2019-19490 - https://www.exploit-db.com/exploits/47706
 CVE-2019-19491 - https://www.exploit-db.com/exploits/47702
@@ -40927,6 +40933,7 @@ CVE-2019-19648 - https://github.com/VirusTotal/yara/issues/1178
 CVE-2019-19676 - https://www2.deloitte.com/de/de/pages/risk/articles/arxes-tolina-csv-injection.html
 CVE-2019-19697 - http://hyp3rlinx.altervista.org/advisories/TREND-MICRO-SECURITY-CONSUMER-SECURITY-BYPASS-PROTECTED-SERVICE-TAMPERING.txt
 CVE-2019-19697 - https://seclists.org/bugtraq/2020/Jan/29
+CVE-2019-19699 - https://github.com/SpengeSec/CVE-2019-19699
 CVE-2019-19708 - https://phabricator.wikimedia.org/T239209
 CVE-2019-19726 - http://packetstormsecurity.com/files/155658/Qualys-Security-Advisory-OpenBSD-Dynamic-Loader-Privilege-Escalation.html
 CVE-2019-19726 - http://packetstormsecurity.com/files/155764/OpenBSD-Dynamic-Loader-chpass-Privilege-Escalation.html
@@ -42268,6 +42275,7 @@ CVE-2019-8937 - https://www.exploit-db.com/exploits/46429/
 CVE-2019-8938 - http://packetstormsecurity.com/files/151800/VertrigoServ-2.17-Cross-Site-Scripting.html
 CVE-2019-8938 - http://seclists.org/fulldisclosure/2019/Feb/47
 CVE-2019-8942 - http://packetstormsecurity.com/files/152396/WordPress-5.0.0-crop-image-Shell-Upload.html
+CVE-2019-8942 - https://wpvulndb.com/vulnerabilities/9222
 CVE-2019-8942 - https://www.exploit-db.com/exploits/46511/
 CVE-2019-8942 - https://www.exploit-db.com/exploits/46662/
 CVE-2019-8943 - http://packetstormsecurity.com/files/152396/WordPress-5.0.0-crop-image-Shell-Upload.html
@@ -45494,6 +45502,7 @@ CVE-2020-24713 - https://herolab.usd.de/security-advisories/usd-2020-0053/
 CVE-2020-24721 - http://packetstormsecurity.com/files/159419/Corona-Exposure-Notifications-API-Data-Leakage.html
 CVE-2020-24722 - http://packetstormsecurity.com/files/159496/GAEN-Protocol-Metadata-Deanonymization-Risk-Score-Inflation.html
 CVE-2020-24723 - https://phpgurukul.com/
+CVE-2020-24723 - https://systemweakness.com/cve-2020-24723-89ea76588286
 CVE-2020-24740 - https://github.com/pluck-cms/pluck/issues/81
 CVE-2020-24750 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2020-24753 - https://warcollar.com/cve-2020-24753.html
@@ -47269,6 +47278,7 @@ CVE-2020-7228 - https://wpvulndb.com/vulnerabilities/10043
 CVE-2020-7229 - https://github.com/niteosoft/simplejobscript/issues/7
 CVE-2020-7234 - https://sku11army.blogspot.com/2020/01/ruckus-wireless-authenticated-stored.html
 CVE-2020-7239 - https://wpvulndb.com/vulnerabilities/10035
+CVE-2020-7240 - https://sku11army.blogspot.com/2020/01/heinberg-lantime-m1000-rce.html
 CVE-2020-7241 - https://github.com/V1n1v131r4/Exploiting-WP-Database-Backup-WordPress-Plugin/blob/master/README.md
 CVE-2020-7241 - https://zeroauth.ltd/blog/2020/01/21/analysis-on-cve-2020-7241-misrepresenting-a-security-vulnerability/
 CVE-2020-7246 - http://packetstormsecurity.com/files/156063/qdPM-9.1-Remote-Code-Execution.html
@@ -51107,6 +51117,7 @@ CVE-2021-43409 - https://appcheck-ng.com/wordpress-microsoft-office-365-azure-ad
 CVE-2021-43409 - https://www.wpo365.com/change-log/
 CVE-2021-43451 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/PHPGURUKUL/ANUJ%20KUMAR/Employee-Record-Management-System-SQL-Injection
 CVE-2021-43451 - https://www.exploit-db.com/exploits/50467
+CVE-2021-43484 - https://www.exploit-db.com/exploits/50094
 CVE-2021-43492 - https://github.com/AlquistManager/alquist/issues/42
 CVE-2021-43493 - https://github.com/cksgf/ServerManagement/issues/21
 CVE-2021-43509 - https://r4hn1.medium.com/journey-to-first-two-cve-by-rahul-kalnarayan-307e2e87ee26
@@ -51485,6 +51496,7 @@ CVE-2022-0345 - https://wpscan.com/vulnerability/b3b523b9-6c92-4091-837a-d34e317
 CVE-2022-0347 - https://wpscan.com/vulnerability/a5084367-842b-496a-a23c-24dbebac1e8b
 CVE-2022-0348 - https://huntr.dev/bounties/250e79be-7e5d-4ba3-9c34-655e39ade2f4
 CVE-2022-0349 - https://wpscan.com/vulnerability/1d0dd7be-29f3-4043-a9c6-67d02746463a
+CVE-2022-0350 - https://huntr.dev/bounties/8202aa06-4b49-45ff-aa0f-00982f62005c
 CVE-2022-0351 - https://huntr.dev/bounties/8b36db58-b65c-4298-be7f-40b9e37fd161
 CVE-2022-0352 - https://huntr.dev/bounties/a577ff17-2ded-4c41-84ae-6ac02440f717
 CVE-2022-0359 - https://huntr.dev/bounties/a3192d90-4f82-4a67-b7a6-37046cc88def
