@@ -22302,6 +22302,7 @@ CVE-2015-4077 - http://seclists.org/fulldisclosure/2015/Sep/0
 CVE-2015-4077 - http://www.coresecurity.com/advisories/forticlient-antivirus-multiple-vulnerabilities
 CVE-2015-4077 - https://www.exploit-db.com/exploits/45149/
 CVE-2015-4080 - http://packetstormsecurity.com/files/132210/Kankun-Smart-Socket-Mobile-App-Hardcoded-AES-Key.html
+CVE-2015-4080 - https://plus.google.com/109112844319840106704/posts
 CVE-2015-4084 - http://packetstormsecurity.com/files/132062/WordPress-Free-Counter-1.1-Cross-Site-Scripting.html
 CVE-2015-4084 - https://www.exploit-db.com/exploits/37132/
 CVE-2015-4089 - https://wpvulndb.com/vulnerabilities/9756
@@ -23954,6 +23955,7 @@ CVE-2015-9230 - https://wpvulndb.com/vulnerabilities/8224
 CVE-2015-9232 - https://www.modzero.ch/advisories/MZ-15-03-GOOD-Auth-Delegation.txt
 CVE-2015-9233 - http://seclists.org/fulldisclosure/2015/Jul/49
 CVE-2015-9234 - http://seclists.org/fulldisclosure/2015/Jul/49
+CVE-2015-9236 - https://github.com/hapijs/hapi/issues/2850
 CVE-2015-9251 - http://packetstormsecurity.com/files/152787/dotCMS-5.1.1-Vulnerable-Dependencies.html
 CVE-2015-9251 - http://packetstormsecurity.com/files/153237/RetireJS-CORS-Issue-Script-Execution.html
 CVE-2015-9251 - http://packetstormsecurity.com/files/156743/OctoberCMS-Insecure-Dependencies.html
@@ -30260,6 +30262,7 @@ CVE-2017-18635 - https://github.com/ShielderSec/cve-2017-18635
 CVE-2017-18635 - https://www.shielder.it/blog/exploiting-an-old-novnc-xss-cve-2017-18635-in-openstack/
 CVE-2017-18638 - https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html#second-bug-internal-graphite-ssrf
 CVE-2017-18639 - https://www.exploit-db.com/exploits/42792
+CVE-2017-18718 - https://kb.netgear.com/000052279/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Routers-PSV-2017-2152
 CVE-2017-18728 - https://kb.netgear.com/000051527/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Routers-PSV-2017-2136
 CVE-2017-18738 - https://kb.netgear.com/000051517/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-and-Extenders-PSV-2017-0706
 CVE-2017-18761 - https://kb.netgear.com/000051484/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-R8000-PSV-2017-2229
@@ -32822,9 +32825,16 @@ CVE-2018-10653 - http://packetstormsecurity.com/files/156037/Citrix-XenMobile-Se
 CVE-2018-10655 - http://hyp3rlinx.altervista.org/advisories/DEVICELOCK-PLUG-PLAY-AUDITOR-v5.72-UNICODE-BUFFER-OVERFLOW.txt
 CVE-2018-10655 - http://packetstormsecurity.com/files/147516/DeviceLock-Plug-And-Play-Auditor-5.72-Buffer-Overflow.html
 CVE-2018-10655 - https://www.exploit-db.com/exploits/44590/
+CVE-2018-10658 - https://blog.vdoo.com/2018/06/18/vdoo-discovers-significant-vulnerabilities-in-axis-cameras/
+CVE-2018-10659 - https://blog.vdoo.com/2018/06/18/vdoo-discovers-significant-vulnerabilities-in-axis-cameras/
+CVE-2018-10660 - https://blog.vdoo.com/2018/06/18/vdoo-discovers-significant-vulnerabilities-in-axis-cameras/
 CVE-2018-10660 - https://www.exploit-db.com/exploits/45100/
+CVE-2018-10661 - https://blog.vdoo.com/2018/06/18/vdoo-discovers-significant-vulnerabilities-in-axis-cameras/
 CVE-2018-10661 - https://www.exploit-db.com/exploits/45100/
+CVE-2018-10662 - https://blog.vdoo.com/2018/06/18/vdoo-discovers-significant-vulnerabilities-in-axis-cameras/
 CVE-2018-10662 - https://www.exploit-db.com/exploits/45100/
+CVE-2018-10663 - https://blog.vdoo.com/2018/06/18/vdoo-discovers-significant-vulnerabilities-in-axis-cameras/
+CVE-2018-10664 - https://blog.vdoo.com/2018/06/18/vdoo-discovers-significant-vulnerabilities-in-axis-cameras/
 CVE-2018-10675 - https://help.ecostruxureit.com/display/public/UADCE725/Security+fixes+in+StruxureWare+Data+Center+Expert+v7.6.0
 CVE-2018-10675 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2018-10682 - https://github.com/kmkz/exploit/blob/master/CVE-2018-10682-CVE-2018-10683.txt
@@ -37094,6 +37104,9 @@ CVE-2018-6797 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2018-6798 - https://www.oracle.com/security-alerts/cpujul2020.html
 CVE-2018-6829 - https://github.com/weikengchen/attack-on-libgcrypt-elgamal/wiki
 CVE-2018-6829 - https://lists.gnupg.org/pipermail/gcrypt-devel/2018-February/004394.html
+CVE-2018-6830 - https://blog.vdoo.com/2018/06/06/vdoo-has-found-major-vulnerabilities-in-foscam-cameras/
+CVE-2018-6831 - https://blog.vdoo.com/2018/06/06/vdoo-has-found-major-vulnerabilities-in-foscam-cameras/
+CVE-2018-6832 - https://blog.vdoo.com/2018/06/06/vdoo-has-found-major-vulnerabilities-in-foscam-cameras/
 CVE-2018-6836 - https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=14397
 CVE-2018-6844 - https://websecnerd.blogspot.com/2018/02/mybb-forum-1.html
 CVE-2018-6845 - https://www.exploit-db.com/exploits/44016
@@ -38324,6 +38337,7 @@ CVE-2019-10963 - http://packetstormsecurity.com/files/154943/Moxa-EDR-810-Comman
 CVE-2019-10969 - http://packetstormsecurity.com/files/154943/Moxa-EDR-810-Command-Injection-Information-Disclosure.html
 CVE-2019-10999 - https://github.com/fuzzywalls/CVE-2019-10999
 CVE-2019-11001 - https://github.com/mcw0/PoC/blob/master/Reolink-IPC-RCE.py
+CVE-2019-11001 - https://www.vdoo.com/blog/working-with-the-community-%E2%80%93-significant-vulnerabilities-in-reolink-cameras/
 CVE-2019-11002 - https://github.com/Dogfalo/materialize/issues/6286
 CVE-2019-11003 - https://github.com/Dogfalo/materialize/issues/6286
 CVE-2019-11004 - https://github.com/Dogfalo/materialize/issues/6286
@@ -38714,6 +38728,12 @@ CVE-2019-12098 - https://seclists.org/bugtraq/2019/Jun/1
 CVE-2019-12099 - https://www.exploit-db.com/exploits/46839
 CVE-2019-12099 - https://www.pentest.com.tr/exploits/PHP-Fusion-9-03-00-Edit-Profile-Remote-Code-Execution.html
 CVE-2019-12102 - https://devnet.kentico.com/download/hotfixes
+CVE-2019-12106 - https://www.vdoo.com/blog/security-issues-discovered-in-miniupnp
+CVE-2019-12107 - https://www.vdoo.com/blog/security-issues-discovered-in-miniupnp
+CVE-2019-12108 - https://www.vdoo.com/blog/security-issues-discovered-in-miniupnp
+CVE-2019-12109 - https://www.vdoo.com/blog/security-issues-discovered-in-miniupnp
+CVE-2019-12110 - https://www.vdoo.com/blog/security-issues-discovered-in-miniupnp
+CVE-2019-12111 - https://www.vdoo.com/blog/security-issues-discovered-in-miniupnp
 CVE-2019-12134 - https://sinfosec757.blogspot.com/2019/06/exploit-title-workday-32-csv-injection.html
 CVE-2019-12137 - http://packetstormsecurity.com/files/153082/Typora-0.9.9.24.6-Directory-Traversal.html
 CVE-2019-12137 - https://github.com/typora/typora-issues/issues/2505
@@ -51759,6 +51779,7 @@ CVE-2022-1058 - https://huntr.dev/bounties/4fb42144-ac70-4f76-a5e1-ef6b5e55dc0d
 CVE-2022-1061 - https://huntr.dev/bounties/a7546dae-01c5-4fb0-8a8e-c04ea4e9bac7
 CVE-2022-1064 - https://huntr.dev/bounties/2f664985-c5fc-485b-b4fc-4c401be2cf40
 CVE-2022-1071 - https://huntr.dev/bounties/6597ece9-07af-415b-809b-919ce0a17cf3
+CVE-2022-1075 - https://vuldb.com/?id.194846
 CVE-2022-1081 - https://vuldb.com/?id.195640
 CVE-2022-1085 - https://vuldb.com/?id.194857
 CVE-2022-1106 - https://huntr.dev/bounties/16b9d0ea-71ed-41bc-8a88-2deb4c20be8f
