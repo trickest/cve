@@ -37864,6 +37864,7 @@ CVE-2019-0232 - http://packetstormsecurity.com/files/153506/Apache-Tomcat-CGISer
 CVE-2019-0232 - http://seclists.org/fulldisclosure/2019/May/4
 CVE-2019-0233 - https://www.oracle.com/security-alerts/cpujan2021.html
 CVE-2019-0235 - http://packetstormsecurity.com/files/157514/Apache-OFBiz-17.12.03-Cross-Site-Request-Forgery.html
+CVE-2019-0267 - http://www.securityfocus.com/bid/106990
 CVE-2019-0285 - http://packetstormsecurity.com/files/153471/SAP-Crystal-Reports-Information-Disclosure.html
 CVE-2019-0319 - http://packetstormsecurity.com/files/153661/SAPUI5-1.0.0-SAP-Gateway-7.5-7.51-7.52-7.53-Content-Spoofing.html
 CVE-2019-0319 - https://cxsecurity.com/ascii/WLB-2019050283
@@ -51808,6 +51809,7 @@ CVE-2022-1163 - https://huntr.dev/bounties/44d40f34-c391-40c0-a517-12a2c0258149
 CVE-2022-1172 - https://huntr.dev/bounties/a26cb79c-9257-4fbf-98c5-a5a331efa264
 CVE-2022-1176 - https://huntr.dev/bounties/3e30171b-c9bf-415c-82f1-6f55a44d09d3
 CVE-2022-1191 - https://huntr.dev/bounties/7264a2e1-17e7-4244-93e4-49ec14f282b3
+CVE-2022-1201 - https://huntr.dev/bounties/6f930add-c9d8-4870-ae56-d4bd8354703b
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
