@@ -12331,6 +12331,7 @@ CVE-2010-5290 - http://www.gnucitizen.org/blog/coldfusion-directory-traversal-fa
 CVE-2010-5298 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2010-5298 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2010-5298 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
+CVE-2010-5298 - http://www.vmware.com/security/advisories/VMSA-2014-0006.html
 CVE-2010-5298 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2010-5299 - http://packetstormsecurity.com/files/125723/MicroP-0.1.1.1600-Buffer-Overflow.html
 CVE-2010-5300 - http://packetstormsecurity.com/files/126216/Jzip-2.0.0.132900-Buffer-Overflow.html
@@ -16557,6 +16558,7 @@ CVE-2014-0195 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2014-0195 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2014-0195 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2014-0195 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
+CVE-2014-0195 - http://www.vmware.com/security/advisories/VMSA-2014-0006.html
 CVE-2014-0195 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2014-0196 - http://pastebin.com/raw.php?i=yTSFUBgZ
 CVE-2014-0196 - http://www.exploit-db.com/exploits/33516
@@ -16565,6 +16567,7 @@ CVE-2014-0198 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2014-0198 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2014-0198 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2014-0198 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
+CVE-2014-0198 - http://www.vmware.com/security/advisories/VMSA-2014-0006.html
 CVE-2014-0198 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2014-0207 - http://www.oracle.com/technetwork/topics/security/bulletinjan2015-2370101.html
 CVE-2014-0207 - http://www.oracle.com/technetwork/topics/security/linuxbulletinoct2015-2719645.html
@@ -16582,6 +16585,7 @@ CVE-2014-0221 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2014-0221 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2014-0221 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2014-0221 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
+CVE-2014-0221 - http://www.vmware.com/security/advisories/VMSA-2014-0006.html
 CVE-2014-0221 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2014-0224 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2014-0224 - http://www.kb.cert.org/vuls/id/978508
@@ -16589,6 +16593,7 @@ CVE-2014-0224 - http://www.oracle.com/technetwork/security-advisory/cpujul2017-3
 CVE-2014-0224 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2014-0224 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2014-0224 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
+CVE-2014-0224 - http://www.vmware.com/security/advisories/VMSA-2014-0006.html
 CVE-2014-0224 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2014-0226 - http://seclists.org/fulldisclosure/2014/Jul/114
 CVE-2014-0226 - http://www.exploit-db.com/exploits/34133
@@ -17537,6 +17542,7 @@ CVE-2014-3470 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2014-3470 - http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html
 CVE-2014-3470 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2014-3470 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
+CVE-2014-3470 - http://www.vmware.com/security/advisories/VMSA-2014-0006.html
 CVE-2014-3470 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2014-3474 - https://bugs.launchpad.net/horizon/+bug/1322197
 CVE-2014-3478 - http://www.oracle.com/technetwork/topics/security/bulletinjan2015-2370101.html
@@ -35818,6 +35824,7 @@ CVE-2018-20050 - https://github.com/iamweifan/jooan/blob/master/es_poc.py
 CVE-2018-20051 - https://github.com/iamweifan/jooan/blob/master/ss_poc.py
 CVE-2018-20061 - https://github.com/frappe/erpnext/issues/15337
 CVE-2018-20062 - http://packetstormsecurity.com/files/157218/ThinkPHP-5.0.23-Remote-Code-Execution.html
+CVE-2018-20062 - https://github.com/nangge/noneCms/issues/21
 CVE-2018-20064 - https://github.com/doorgets/CMS/issues/12
 CVE-2018-20095 - https://github.com/axiomatic-systems/Bento4/issues/341
 CVE-2018-20096 - https://github.com/Exiv2/exiv2/issues/590
@@ -35909,6 +35916,7 @@ CVE-2018-20335 - https://starlabs.sg/advisories/18-20335/
 CVE-2018-20336 - https://starlabs.sg/advisories/18-20336/
 CVE-2018-20337 - https://github.com/LibRaw/LibRaw/issues/192
 CVE-2018-20340 - https://blog.inhq.net/posts/yubico-libu2f-host-vuln-part1/
+CVE-2018-20343 - https://github.com/Alexandre-Bartel/CVE-2018-20343
 CVE-2018-20346 - https://github.com/zhuowei/worthdoingbadly.com/blob/master/_posts/2018-12-14-sqlitebug.html
 CVE-2018-20346 - https://news.ycombinator.com/item?id=18685296
 CVE-2018-20346 - https://worthdoingbadly.com/sqlitebug/
@@ -37225,6 +37233,7 @@ CVE-2018-7254 - http://packetstormsecurity.com/files/155743/Slackware-Security-A
 CVE-2018-7254 - https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=889274
 CVE-2018-7254 - https://github.com/dbry/WavPack/issues/26
 CVE-2018-7254 - https://www.exploit-db.com/exploits/44154/
+CVE-2018-7259 - https://medium.com/@lukegorman97/flightsimlabs-alleged-malware-analysis-1427c4d23368
 CVE-2018-7264 - https://www.exploit-db.com/exploits/44251/
 CVE-2018-7268 - http://packetstormsecurity.com/files/147687/MagniComp-SysInfo-Information-Exposure.html
 CVE-2018-7273 - https://www.exploit-db.com/exploits/44325/
@@ -47137,6 +47146,8 @@ CVE-2020-5902 - http://packetstormsecurity.com/files/158581/F5-Big-IP-13.1.3-Bui
 CVE-2020-5902 - https://badpackets.net/over-3000-f5-big-ip-endpoints-vulnerable-to-cve-2020-5902/
 CVE-2020-5902 - https://github.com/Critical-Start/Team-Ares/tree/master/CVE-2020-5902
 CVE-2020-5902 - https://swarm.ptsecurity.com/rce-in-f5-big-ip/
+CVE-2020-5975 - https://nvidia.custhelp.com/app/answers/detail/a_id/5052
+CVE-2020-5976 - https://nvidia.custhelp.com/app/answers/detail/a_id/5052
 CVE-2020-6007 - https://research.checkpoint.com/2020/dont-be-silly-its-only-a-lightbulb/
 CVE-2020-6010 - http://packetstormsecurity.com/files/163536/WordPress-LearnPress-SQL-Injection.html
 CVE-2020-6100 - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1040
@@ -51778,6 +51789,7 @@ CVE-2022-1049 - https://huntr.dev/bounties/7aa921fc-a568-4fd8-96f4-7cd826246aa5
 CVE-2022-1052 - https://huntr.dev/bounties/3b3b7f77-ab8d-4de3-999b-eeec0a3eebe7
 CVE-2022-1056 - https://gitlab.com/libtiff/libtiff/-/issues/391
 CVE-2022-1058 - https://huntr.dev/bounties/4fb42144-ac70-4f76-a5e1-ef6b5e55dc0d
+CVE-2022-1061 - https://github.com/radareorg/radare2/commit/d4ce40b516ffd70cf2e9e36832d8de139117d522
 CVE-2022-1061 - https://huntr.dev/bounties/a7546dae-01c5-4fb0-8a8e-c04ea4e9bac7
 CVE-2022-1064 - https://huntr.dev/bounties/2f664985-c5fc-485b-b4fc-4c401be2cf40
 CVE-2022-1071 - https://huntr.dev/bounties/6597ece9-07af-415b-809b-919ce0a17cf3

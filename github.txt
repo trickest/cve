@@ -2232,6 +2232,7 @@ CVE-2010-1607 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2010-1622 - https://github.com/DDuarte/springshell-rce-poc
 CVE-2010-1622 - https://github.com/Y4tacker/JavaSec
 CVE-2010-1622 - https://github.com/gitrobtest/Java-Security
+CVE-2010-1622 - https://github.com/mikaelkall/Spring4Shell
 CVE-2010-1622 - https://github.com/pen4uin/awesome-vulnerability-research
 CVE-2010-1622 - https://github.com/pen4uin/vulnerability-lab
 CVE-2010-1622 - https://github.com/superfish9/pt
@@ -41017,6 +41018,7 @@ CVE-2021-21307 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-21307 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-21307 - https://github.com/cyllective/CVEs
 CVE-2021-21311 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-21311 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-21311 - https://github.com/EdgeSecurityTeam/Vulnerability
 CVE-2021-21311 - https://github.com/bpsizemore/RedKing
 CVE-2021-21311 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -44920,6 +44922,7 @@ CVE-2021-36389 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36389 - https://github.com/cyberaz0r/Yellowfin-Multiple-Vulnerabilities
 CVE-2021-36392 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36392 - https://github.com/luukverhoeven/luukverhoeven
+CVE-2021-36394 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36394 - https://github.com/dinhbaouit/CVE-2021-36394
 CVE-2021-3646 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3646 - https://github.com/ajmalabubakkr/CVE
@@ -45477,6 +45480,7 @@ CVE-2021-39274 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39274 - https://github.com/nikip72/CVE-2021-39273-CVE-2021-39274
 CVE-2021-3928 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3928 - https://github.com/cemonatk/onefuzzyway
+CVE-2021-39287 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39287 - https://github.com/Fearless523/CVE-2021-39287-Stored-XSS
 CVE-2021-3931 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3931 - https://github.com/Haxatron/Haxatron
@@ -47631,15 +47635,10 @@ CVE-2021-45789 - https://github.com/pen4uin/awesome-vulnerability-research
 CVE-2021-45790 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-45790 - https://github.com/pen4uin/awesome-vulnerability-research
 CVE-2021-45797 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-45797 - https://github.com/eslam3kl/My_CVEs
 CVE-2021-45798 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-45798 - https://github.com/eslam3kl/My_CVEs
 CVE-2021-45799 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-45799 - https://github.com/eslam3kl/My_CVEs
 CVE-2021-45800 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-45800 - https://github.com/eslam3kl/My_CVEs
 CVE-2021-45801 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-45801 - https://github.com/eslam3kl/My_CVEs
 CVE-2021-45802 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-45802 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-45803 - https://github.com/ARPSyndicate/cvemon
@@ -47729,7 +47728,6 @@ CVE-2021-46080 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-46080 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-46080 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-46081 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-46081 - https://github.com/eslam3kl/My_CVEs
 CVE-2021-46088 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-46088 - https://github.com/paalbra/zabbix-zbxsec-7
 CVE-2021-46107 - https://github.com/ARPSyndicate/cvemon
@@ -47761,7 +47759,9 @@ CVE-2021-46354 - https://github.com/ezelnur6327/Enes4xd
 CVE-2021-46354 - https://github.com/ezelnur6327/enesamaafkolan
 CVE-2021-46354 - https://github.com/ezelnur6327/ezelnur6327
 CVE-2021-46381 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-46381 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-46387 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-46387 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-46398 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-46398 - https://github.com/Enes4xd/Enes4xd
 CVE-2021-46398 - https://github.com/cr0ss2018/cr0ss2018
@@ -48089,6 +48089,7 @@ CVE-2022-0847 - https://github.com/kun-g/Scraping-Github-trending
 CVE-2022-0847 - https://github.com/liamg/liamg
 CVE-2022-0847 - https://github.com/liamg/traitor
 CVE-2022-0847 - https://github.com/logit507/logit507
+CVE-2022-0847 - https://github.com/logm1lo/CVE-2022-0847_DirtyPipe_Exploits
 CVE-2022-0847 - https://github.com/lonnyzhang423/github-hot-hub
 CVE-2022-0847 - https://github.com/lucksec/CVE-2022-0847
 CVE-2022-0847 - https://github.com/michaelklaan/CVE-2022-0847-Dirty-Pipe
@@ -48155,6 +48156,8 @@ CVE-2022-0996 - https://github.com/ByteHackr/389-ds-base
 CVE-2022-1000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-10086 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-10086 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-1015 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-1015 - https://github.com/pqlx/CVE-2022-1015
 CVE-2022-10249 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-10249 - https://github.com/buff07/CVE-2022-10249
 CVE-2022-10249 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -48404,6 +48407,7 @@ CVE-2022-22616 - https://github.com/d-rn/vulBox
 CVE-2022-22616 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2022-22623 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22623 - https://github.com/bagder/log
+CVE-2022-22639 - https://github.com/jhftss/CVE-2022-22639
 CVE-2022-22657 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22657 - https://github.com/brandonprry/apple_midi
 CVE-2022-22657 - https://github.com/koronkowy/koronkowy
@@ -48473,7 +48477,6 @@ CVE-2022-22833 - https://github.com/xr4aleyna/aleyleiftaradogruu
 CVE-2022-22833 - https://github.com/xr4aleyna/crossresmii
 CVE-2022-22833 - https://github.com/xr4aleyna/xr4aleyna
 CVE-2022-22837 - https://github.com/ARPSyndicate/cvemon
-CVE-2022-22837 - https://github.com/eslam3kl/My_CVEs
 CVE-2022-22845 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22845 - https://github.com/OmriBaso/CVE-2022-22845-Exploit
 CVE-2022-22845 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -48557,6 +48560,7 @@ CVE-2022-22947 - https://github.com/march0s1as/CVE-2022-22947
 CVE-2022-22947 - https://github.com/michaelklaan/CVE-2022-22947-Spring-Cloud
 CVE-2022-22947 - https://github.com/mostwantedduck/cve-poc
 CVE-2022-22947 - https://github.com/mrknow001/CVE-2022-22947
+CVE-2022-22947 - https://github.com/n11dc0la/PocSuite_POC
 CVE-2022-22947 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22947 - https://github.com/nu0l/cve-2022-22947
 CVE-2022-22947 - https://github.com/open-source-agenda/new-open-source-projects
@@ -48579,6 +48583,7 @@ CVE-2022-22950 - https://github.com/irgoncalves/f5-waf-enforce-sig-Spring4Shell
 CVE-2022-22950 - https://github.com/thomasvincent/springshell
 CVE-2022-22963 - https://github.com/9xN/SpringCore-0day
 CVE-2022-22963 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-22963 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-22963 - https://github.com/AayushmanThapaMagar/CVE-2022-22963
 CVE-2022-22963 - https://github.com/GuayoyoCyber/CVE-2022-22965
 CVE-2022-22963 - https://github.com/HackJava/HackSpring
@@ -48588,6 +48593,7 @@ CVE-2022-22963 - https://github.com/RanDengShiFu/CVE-2022-22963
 CVE-2022-22963 - https://github.com/SnailDev/github-hot-hub
 CVE-2022-22963 - https://github.com/Trendyol/AppSec-Presentations
 CVE-2022-22963 - https://github.com/XuCcc/VulEnv
+CVE-2022-22963 - https://github.com/axingde/spring-cloud-function-spel
 CVE-2022-22963 - https://github.com/cyberkartik/CVE
 CVE-2022-22963 - https://github.com/darryk10/CVE-2022-22963
 CVE-2022-22963 - https://github.com/dinosn/CVE-2022-22963
@@ -48610,6 +48616,7 @@ CVE-2022-22963 - https://github.com/thomasvincent/springshell
 CVE-2022-22963 - https://github.com/tweedge/springcore-0day-en
 CVE-2022-22963 - https://github.com/west-wind/Spring4Shell-Detection
 CVE-2022-22965 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-22965 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-22965 - https://github.com/Axx8/SpringFramework_CVE-2022-22965_RCE
 CVE-2022-22965 - https://github.com/BobTheShoplifter/Spring4Shell-POC
 CVE-2022-22965 - https://github.com/DDuarte/springshell-rce-poc
@@ -48623,16 +48630,19 @@ CVE-2022-22965 - https://github.com/Mr-xn/spring-core-rce
 CVE-2022-22965 - https://github.com/NCSC-NL/spring4shell
 CVE-2022-22965 - https://github.com/OverflowMyBuffers/Spring4ShellScanner
 CVE-2022-22965 - https://github.com/Retrospected/spring-rce-poc
+CVE-2022-22965 - https://github.com/RogerSugit/spring_onekeyshell
 CVE-2022-22965 - https://github.com/SeanWrightSec/spring-rce-poc
 CVE-2022-22965 - https://github.com/SnailDev/github-hot-hub
 CVE-2022-22965 - https://github.com/TheGejr/SpringShell
 CVE-2022-22965 - https://github.com/Trendyol/AppSec-Presentations
+CVE-2022-22965 - https://github.com/Wrin9/CVE-2022-22965
 CVE-2022-22965 - https://github.com/XRSec/AWVS14-Update
 CVE-2022-22965 - https://github.com/XuCcc/VulEnv
 CVE-2022-22965 - https://github.com/Y4tacker/JavaSec
 CVE-2022-22965 - https://github.com/chaosec2021/CVE-2022-22965-POC
 CVE-2022-22965 - https://github.com/colincowie/Safer_PoC_CVE-2022-22965
 CVE-2022-22965 - https://github.com/cybersecurityworks553/spring4shell-exploit
+CVE-2022-22965 - https://github.com/dotnes/spring4shell
 CVE-2022-22965 - https://github.com/dravenww/curated-article
 CVE-2022-22965 - https://github.com/dtact/spring4shell-scanner
 CVE-2022-22965 - https://github.com/helsecert/CVE-2022-22965
@@ -48640,6 +48650,7 @@ CVE-2022-22965 - https://github.com/hillu/local-spring-vuln-scanner
 CVE-2022-22965 - https://github.com/irgoncalves/f5-waf-enforce-sig-Spring4Shell
 CVE-2022-22965 - https://github.com/jschauma/check-springshell
 CVE-2022-22965 - https://github.com/justmumu/SpringShell
+CVE-2022-22965 - https://github.com/k3rwin/spring-core-rce
 CVE-2022-22965 - https://github.com/kevin-s31/spring-bean
 CVE-2022-22965 - https://github.com/kh4sh3i/Spring-CVE
 CVE-2022-22965 - https://github.com/kun-g/Scraping-Github-trending
@@ -48648,6 +48659,7 @@ CVE-2022-22965 - https://github.com/light-Life/CVE-2022-22965-GUItools
 CVE-2022-22965 - https://github.com/likewhite/CVE-2022-22965
 CVE-2022-22965 - https://github.com/lonnyzhang423/github-hot-hub
 CVE-2022-22965 - https://github.com/mebibite/springhound
+CVE-2022-22965 - https://github.com/mikaelkall/Spring4Shell
 CVE-2022-22965 - https://github.com/mirsaes/cyao2pdf
 CVE-2022-22965 - https://github.com/n11dc0la/PocSuite_POC
 CVE-2022-22965 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -48963,6 +48975,7 @@ CVE-2022-24125 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-24125 - https://github.com/tremwil/ds3-nrssr-rce
 CVE-2022-24126 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-24126 - https://github.com/tremwil/ds3-nrssr-rce
+CVE-2022-24181 - https://github.com/comrade99/CVE-2022-24181
 CVE-2022-24206 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-24206 - https://github.com/k0xx11/Vulscve
 CVE-2022-24223 - https://github.com/ARPSyndicate/cvemon
@@ -49239,6 +49252,7 @@ CVE-2022-25949 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25949 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25949 - https://github.com/tandasat/CVE-2022-25949
 CVE-2022-26148 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-26148 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-26149 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-26149 - https://github.com/karimhabush/cyberowl
 CVE-2022-26155 - https://github.com/ARPSyndicate/cvemon
@@ -49339,6 +49353,7 @@ CVE-2022-27254 - https://github.com/nonamecoder/CVE-2022-27254
 CVE-2022-27254 - https://github.com/tanjiti/sec_profile
 CVE-2022-27666 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27666 - https://github.com/Ch4nc3n/PublicExploitation
+CVE-2022-27666 - https://github.com/Metarget/metarget
 CVE-2022-27666 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-27666 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-27666 - https://github.com/plummm/CVE-2022-27666
