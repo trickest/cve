@@ -44432,6 +44432,7 @@ CVE-2020-15780 - http://www.openwall.com/lists/oss-security/2020/07/20/7
 CVE-2020-15780 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.7.7
 CVE-2020-15780 - https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=75b0cea7bf307f362057cc778efe89af4c615354
 CVE-2020-15780 - https://www.openwall.com/lists/oss-security/2020/06/15/3
+CVE-2020-15803 - https://support.zabbix.com/browse/ZBX-18057
 CVE-2020-15806 - https://www.tenable.com/security/research/tra-2020-46
 CVE-2020-15807 - https://github.com/LibreDWG/libredwg/issues/186
 CVE-2020-15807 - https://github.com/LibreDWG/libredwg/issues/189
@@ -51574,6 +51575,7 @@ CVE-2022-0476 - https://huntr.dev/bounties/81ddfbda-6c9f-4b69-83ff-85b15141e35d
 CVE-2022-0478 - https://wpscan.com/vulnerability/d881d725-d06b-464f-a25e-88f41b1f431f
 CVE-2022-0481 - https://huntr.dev/bounties/54725c8c-87f4-41b6-878c-01d8e0ee7027
 CVE-2022-0482 - https://huntr.dev/bounties/2fe771ef-b615-45ef-9b4d-625978042e26
+CVE-2022-0489 - https://gitlab.com/gitlab-org/gitlab/-/issues/341832
 CVE-2022-0492 - http://packetstormsecurity.com/files/166444/Kernel-Live-Patch-Security-Notice-LSN-0085-1.html
 CVE-2022-0503 - https://wpscan.com/vulnerability/b6d38e23-3761-4447-a794-1e5077fd953a
 CVE-2022-0505 - https://huntr.dev/bounties/65b5a243-3f0c-4df3-9bab-898332180968
@@ -51779,9 +51781,13 @@ CVE-2022-1058 - https://huntr.dev/bounties/4fb42144-ac70-4f76-a5e1-ef6b5e55dc0d
 CVE-2022-1061 - https://huntr.dev/bounties/a7546dae-01c5-4fb0-8a8e-c04ea4e9bac7
 CVE-2022-1064 - https://huntr.dev/bounties/2f664985-c5fc-485b-b4fc-4c401be2cf40
 CVE-2022-1071 - https://huntr.dev/bounties/6597ece9-07af-415b-809b-919ce0a17cf3
+CVE-2022-1073 - https://vuldb.com/?id.194839
 CVE-2022-1075 - https://vuldb.com/?id.194846
+CVE-2022-1079 - https://vuldb.com/?id.195426
 CVE-2022-1081 - https://vuldb.com/?id.195640
+CVE-2022-1083 - https://vuldb.com/?id.195642
 CVE-2022-1085 - https://vuldb.com/?id.194857
+CVE-2022-1086 - https://vuldb.com/?id.195368
 CVE-2022-1106 - https://huntr.dev/bounties/16b9d0ea-71ed-41bc-8a88-2deb4c20be8f
 CVE-2022-1154 - https://huntr.dev/bounties/7f0ec6bc-ea0e-45b0-8128-caac72d23425
 CVE-2022-1155 - https://huntr.dev/bounties/ebc26354-2414-4f72-88aa-f044aec2b2e1
@@ -51904,6 +51910,7 @@ CVE-2022-23608 - http://packetstormsecurity.com/files/166226/Asterisk-Project-Se
 CVE-2022-23648 - http://packetstormsecurity.com/files/166421/containerd-Image-Volume-Insecure-Handling.html
 CVE-2022-23793 - http://packetstormsecurity.com/files/166546/Joomla-4.1.0-Zip-Slip-File-Overwrite-Path-Traversal.html
 CVE-2022-23878 - https://blog.csdn.net/miuzzx/article/details/122249953
+CVE-2022-23882 - https://github.com/yeyinshi/tuzicms/issues/10
 CVE-2022-23907 - http://dev.cmsmadesimple.org/bug/view/12503
 CVE-2022-23911 - https://wpscan.com/vulnerability/77fd6749-4fb2-48fa-a191-437b442f28e9
 CVE-2022-23912 - https://wpscan.com/vulnerability/09512431-aa33-4514-8b20-1963c5d89f33
@@ -52017,6 +52024,7 @@ CVE-2022-26278 - https://github.com/pllrry/Tenda-AC9-V15.03.2.21_cn-Command-Exec
 CVE-2022-26293 - https://www.exploit-db.com/exploits/50682
 CVE-2022-26295 - https://www.exploit-db.com/exploits/50683
 CVE-2022-26296 - https://github.com/riscv-boom/riscv-boom/issues/577
+CVE-2022-26301 - https://github.com/yeyinshi/tuzicms/issues/11
 CVE-2022-26332 - https://www.exploit-db.com/exploits/50788
 CVE-2022-26495 - https://lists.debian.org/nbd/2022/01/msg00037.html
 CVE-2022-26496 - https://lists.debian.org/nbd/2022/01/msg00037.html
@@ -52035,6 +52043,7 @@ CVE-2022-27254 - https://www.bleepingcomputer.com/news/security/honda-bug-lets-a
 CVE-2022-27254 - https://www.theregister.com/2022/03/25/honda_civic_hack/
 CVE-2022-27432 - https://owasp.org/www-community/attacks/csrf
 CVE-2022-27432 - https://www.exploit-db.com/exploits/50831
+CVE-2022-27534 - https://support.kaspersky.com/general/vulnerability.aspx?el=12430#310322_2
 CVE-2022-27666 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.15
 CVE-2022-27881 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
 CVE-2022-27882 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
