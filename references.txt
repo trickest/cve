@@ -201,6 +201,7 @@ CVE-2002-2284 - http://marc.info/?l=bugtraq&m=103798147613151&w=2
 CVE-2002-2435 - http://bugzilla.mozilla.org/show_bug.cgi?id=147777
 CVE-2002-2436 - http://bugzilla.mozilla.org/show_bug.cgi?id=147777
 CVE-2002-2437 - http://bugzilla.mozilla.org/show_bug.cgi?id=147777
+CVE-2003-0001 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2003-0015 - http://security.e-matters.de/advisories/012003.html
 CVE-2003-0025 - http://marc.info/?l=bugtraq&m=104204786206563&w=2
 CVE-2003-0056 - http://marc.info/?l=bugtraq&m=104342864418213&w=2
@@ -369,6 +370,7 @@ CVE-2004-0104 - http://www.kb.cert.org/vuls/id/518518
 CVE-2004-0105 - http://www.kb.cert.org/vuls/id/513062
 CVE-2004-0131 - http://ftp.gnu.org/gnu/radius/radius-1.2.tar.gz
 CVE-2004-0176 - http://marc.info/?l=bugtraq&m=108007072215742&w=2
+CVE-2004-0176 - http://www.redhat.com/support/errata/RHSA-2004-136.html
 CVE-2004-0199 - http://marc.info/?l=bugtraq&m=108437759930820&w=2
 CVE-2004-0199 - http://marc.info/?l=full-disclosure&m=108430407801825&w=2
 CVE-2004-0199 - http://www.exploitlabs.com/files/advisories/EXPL-A-2004-001-helpctr.txt
@@ -393,6 +395,7 @@ CVE-2004-0215 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2004-0216 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-038
 CVE-2004-0228 - http://fedoranews.org/updates/FEDORA-2004-111.shtml
 CVE-2004-0230 - http://www.kb.cert.org/vuls/id/415294
+CVE-2004-0230 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2004-0230 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-019
 CVE-2004-0230 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-064
 CVE-2004-0236 - http://marc.info/?l=bugtraq&m=107576894019530&w=2
@@ -427,6 +430,8 @@ CVE-2004-0345 - http://marc.info/?l=bugtraq&m=107816217901923&w=2
 CVE-2004-0348 - http://marc.info/?l=bugtraq&m=107833097705486&w=2
 CVE-2004-0350 - http://marc.info/?l=bugtraq&m=107833097705486&w=2
 CVE-2004-0351 - http://marc.info/?l=bugtraq&m=107833097705486&w=2
+CVE-2004-0365 - http://www.redhat.com/support/errata/RHSA-2004-136.html
+CVE-2004-0367 - http://www.redhat.com/support/errata/RHSA-2004-136.html
 CVE-2004-0385 - http://www.kb.cert.org/vuls/id/413006
 CVE-2004-0394 - http://lwn.net/Articles/81773/
 CVE-2004-0396 - http://marc.info/?l=bugtraq&m=108498454829020&w=2
@@ -713,6 +718,7 @@ CVE-2004-1746 - http://marc.info/?l=bugtraq&m=109340580218818&w=2
 CVE-2004-1751 - http://aluigi.altervista.org/adv/gc2boom-adv.txt
 CVE-2004-1751 - http://marc.info/?l=bugtraq&m=109357154602892&w=2
 CVE-2004-1752 - http://marc.info/?l=bugtraq&m=109364123707953&w=2
+CVE-2004-1761 - http://www.redhat.com/support/errata/RHSA-2004-136.html
 CVE-2004-1763 - http://marc.info/?l=full-disclosure&m=108091662105032&w=2
 CVE-2004-1802 - http://aluigi.altervista.org/adv/chatany-ghost-adv.txt
 CVE-2004-1802 - http://marc.info/?l=bugtraq&m=107885946220895&w=2
@@ -48042,12 +48048,14 @@ CVE-2021-1938 - https://www.qualcomm.com/company/product-security/bulletins/july
 CVE-2021-1939 - https://www.qualcomm.com/company/product-security/bulletins/august-2021-bulletin
 CVE-2021-1940 - https://www.qualcomm.com/company/product-security/bulletins/july-2021-bulletin
 CVE-2021-1941 - https://www.qualcomm.com/company/product-security/bulletins/september-2021-bulletin
+CVE-2021-1942 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
 CVE-2021-1943 - https://www.qualcomm.com/company/product-security/bulletins/july-2021-bulletin
 CVE-2021-1945 - https://www.qualcomm.com/company/product-security/bulletins/july-2021-bulletin
 CVE-2021-1946 - https://www.qualcomm.com/company/product-security/bulletins/september-2021-bulletin
 CVE-2021-1947 - https://www.qualcomm.com/company/product-security/bulletins/august-2021-bulletin
 CVE-2021-1948 - https://www.qualcomm.com/company/product-security/bulletins/september-2021-bulletin
 CVE-2021-1949 - https://www.qualcomm.com/company/product-security/bulletins/october-2021-bulletin
+CVE-2021-1950 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
 CVE-2021-1952 - https://www.qualcomm.com/company/product-security/bulletins/september-2021-bulletin
 CVE-2021-1953 - https://www.qualcomm.com/company/product-security/bulletins/july-2021-bulletin
 CVE-2021-1954 - https://www.qualcomm.com/company/product-security/bulletins/july-2021-bulletin
@@ -49610,7 +49618,12 @@ CVE-2021-30323 - https://www.qualcomm.com/company/product-security/bulletins/feb
 CVE-2021-30324 - https://www.qualcomm.com/company/product-security/bulletins/february-2022-bulletin
 CVE-2021-30325 - https://www.qualcomm.com/company/product-security/bulletins/february-2022-bulletin
 CVE-2021-30326 - https://www.qualcomm.com/company/product-security/bulletins/february-2022-bulletin
+CVE-2021-30328 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-30329 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
 CVE-2021-30330 - https://www.qualcomm.com/company/product-security/bulletins/january-2022-bulletin
+CVE-2021-30331 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-30332 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-30333 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
 CVE-2021-30335 - https://www.qualcomm.com/company/product-security/bulletins/december-2021-bulletin
 CVE-2021-30336 - https://www.qualcomm.com/company/product-security/bulletins/december-2021-bulletin
 CVE-2021-30337 - https://www.qualcomm.com/company/product-security/bulletins/december-2021-bulletin
@@ -50233,7 +50246,15 @@ CVE-2021-35074 - https://www.qualcomm.com/company/product-security/bulletins/feb
 CVE-2021-35075 - https://www.qualcomm.com/company/product-security/bulletins/february-2022-bulletin
 CVE-2021-35077 - https://www.qualcomm.com/company/product-security/bulletins/february-2022-bulletin
 CVE-2021-3508 - https://github.com/enferex/pdfresurrect/issues/17
+CVE-2021-35088 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-35089 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
 CVE-2021-35093 - https://www.qualcomm.com/company/product-security/bulletins/december-2021-bulletin
+CVE-2021-35103 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-35105 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-35106 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-35110 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-35115 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
+CVE-2021-35117 - https://www.qualcomm.com/company/product-security/bulletins/march-2022-bulletin
 CVE-2021-3516 - https://gitlab.gnome.org/GNOME/libxml2/-/issues/230
 CVE-2021-35193 - https://github.com/jshafer817/Eaglesoft
 CVE-2021-35196 - https://www.pizzapower.me/2021/06/20/arbitrary-code-execution-in-manuskript-0-12/
@@ -52063,3 +52084,4 @@ CVE-2022-27881 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via
 CVE-2022-27882 - https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
 CVE-2022-27946 - https://github.com/donothingme/VUL/blob/main/vul3/3.md
 CVE-2022-27950 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.11
+CVE-2022-28356 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.17.1
