@@ -30274,6 +30274,7 @@ CVE-2017-18635 - https://github.com/ShielderSec/cve-2017-18635
 CVE-2017-18635 - https://www.shielder.it/blog/exploiting-an-old-novnc-xss-cve-2017-18635-in-openstack/
 CVE-2017-18638 - https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html#second-bug-internal-graphite-ssrf
 CVE-2017-18639 - https://www.exploit-db.com/exploits/42792
+CVE-2017-18697 - https://kb.netgear.com/000053205/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-PSV-2017-2628
 CVE-2017-18718 - https://kb.netgear.com/000052279/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Routers-PSV-2017-2152
 CVE-2017-18728 - https://kb.netgear.com/000051527/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Routers-PSV-2017-2136
 CVE-2017-18738 - https://kb.netgear.com/000051517/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-and-Extenders-PSV-2017-0706
@@ -31486,6 +31487,7 @@ CVE-2017-7258 - https://sudoat.blogspot.in/2017/03/path-traversal-vulnerability-
 CVE-2017-7263 - https://blogs.gentoo.org/ago/2017/03/03/potrace-heap-based-buffer-overflow-in-bm_readbody_bmp-bitmap_io-c-incomplete-fix-for-cve-2016-8698/
 CVE-2017-7264 - https://blogs.gentoo.org/ago/2017/02/09/mupdf-use-after-free-in-fz_subsample_pixmap-pixmap-c/
 CVE-2017-7269 - https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html
+CVE-2017-7269 - https://medium.com/@iraklis/number-of-internet-facing-vulnerable-iis-6-0-to-cve-2017-7269-8bd153ef5812
 CVE-2017-7269 - https://www.exploit-db.com/exploits/41738/
 CVE-2017-7269 - https://www.exploit-db.com/exploits/41992/
 CVE-2017-7277 - https://lkml.org/lkml/2017/3/15/485
@@ -32832,6 +32834,8 @@ CVE-2018-10608 - http://packetstormsecurity.com/files/152951/SEL-AcSELerator-Arc
 CVE-2018-10618 - https://www.exploit-db.com/exploits/45076/
 CVE-2018-10619 - https://www.exploit-db.com/exploits/44892/
 CVE-2018-10641 - https://advancedpersistentsecurity.net/cve-2018-10641/
+CVE-2018-10641 - https://gist.github.com/jocephus/806ff4679cf54af130d69777a551f819
+CVE-2018-10642 - https://github.com/arbahayoub/POC/blob/master/itop_command_injection_1.txt
 CVE-2018-10642 - https://sourceforge.net/p/itop/tickets/1585/
 CVE-2018-10653 - http://packetstormsecurity.com/files/156037/Citrix-XenMobile-Server-10.8-XML-Injection.html
 CVE-2018-10655 - http://hyp3rlinx.altervista.org/advisories/DEVICELOCK-PLUG-PLAY-AUDITOR-v5.72-UNICODE-BUFFER-OVERFLOW.txt
@@ -32923,6 +32927,7 @@ CVE-2018-10823 - https://seclists.org/fulldisclosure/2018/Oct/36
 CVE-2018-10824 - http://sploit.tech/2018/10/12/D-Link.html
 CVE-2018-10824 - https://seclists.org/fulldisclosure/2018/Oct/36
 CVE-2018-10828 - https://www.exploit-db.com/exploits/44610/
+CVE-2018-10830 - https://github.com/anhkgg/poc/tree/master/2345%20security%20guard/2345BdPcSafe.sys-x64-0x002220e0
 CVE-2018-10830 - https://www.exploit-db.com/exploits/44615/
 CVE-2018-10832 - http://packetstormsecurity.com/files/147573/ModbusPal-1.6b-XML-External-Entity-Injection.html
 CVE-2018-10832 - https://www.exploit-db.com/exploits/44607/
@@ -42232,6 +42237,7 @@ CVE-2019-8347 - https://github.com/source-trace/beescms/issues/4
 CVE-2019-8349 - http://packetstormsecurity.com/files/151733/HTMLy-2.7.4-Cross-Site-Scripting.html
 CVE-2019-8349 - http://seclists.org/fulldisclosure/2019/Feb/40
 CVE-2019-8349 - https://www.netsparker.com/web-applications-advisories/
+CVE-2019-8351 - https://support.heimdalsecurity.com/hc/en-us/articles/360001084158-Release-2-5-172-PROD-Update
 CVE-2019-8360 - https://packetstormsecurity.com/files/151706/Find-A-Place-CMS-Directory-1.5-SQL-Injection.html
 CVE-2019-8372 - http://www.jackson-t.ca/lg-driver-lpe.html
 CVE-2019-8375 - https://www.exploit-db.com/exploits/46465/
@@ -51831,6 +51837,9 @@ CVE-2022-1172 - https://huntr.dev/bounties/a26cb79c-9257-4fbf-98c5-a5a331efa264
 CVE-2022-1176 - https://huntr.dev/bounties/3e30171b-c9bf-415c-82f1-6f55a44d09d3
 CVE-2022-1191 - https://huntr.dev/bounties/7264a2e1-17e7-4244-93e4-49ec14f282b3
 CVE-2022-1201 - https://huntr.dev/bounties/6f930add-c9d8-4870-ae56-d4bd8354703b
+CVE-2022-1210 - https://gitlab.com/libtiff/libtiff/-/issues/402
+CVE-2022-1210 - https://vuldb.com/?id.196363
+CVE-2022-1211 - https://vuldb.com/?id.196371
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
