@@ -22857,6 +22857,7 @@ CVE-2015-5681 - http://seclists.org/fulldisclosure/2015/Jul/64
 CVE-2015-5687 - http://seclists.org/fulldisclosure/2015/Aug/83
 CVE-2015-5696 - http://packetstormsecurity.com/files/132928/Dell-Netvault-Backup-10.0.1.24-Denial-Of-Service.html
 CVE-2015-5696 - https://www.exploit-db.com/exploits/37739/
+CVE-2015-5697 - https://github.com/torvalds/linux/commit/b6878d9e03043695dbf3fa1caa6dfc09db225b16
 CVE-2015-5703 - http://packetstormsecurity.com/files/133672/Guard-2.0.0-rev7-SQL-Injection.html
 CVE-2015-5714 - https://wpvulndb.com/vulnerabilities/8186
 CVE-2015-5715 - https://wpvulndb.com/vulnerabilities/8188
@@ -51665,6 +51666,7 @@ CVE-2022-0589 - https://huntr.dev/bounties/d943d95c-076f-441a-ab21-cbf6b15f6768
 CVE-2022-0593 - https://wpscan.com/vulnerability/76a50157-04b5-43e8-afbc-a6ddf6d1cba3
 CVE-2022-0596 - https://huntr.dev/bounties/f68b994e-2b8b-49f5-af2a-8cd99e8048a5
 CVE-2022-0597 - https://huntr.dev/bounties/68c22eab-cc69-4e9f-bcb6-2df3db626813
+CVE-2022-0599 - https://wpscan.com/vulnerability/4f1d45bc-d3bd-472c-959d-05abeff32765
 CVE-2022-0601 - https://wpscan.com/vulnerability/6ec62eae-2072-4098-8f77-b22d61a89cbf
 CVE-2022-0611 - https://huntr.dev/bounties/7b7447fc-f1b0-446c-b016-ee3f6511010b
 CVE-2022-0613 - https://huntr.dev/bounties/f53d5c42-c108-40b8-917d-9dad51535083
@@ -52061,6 +52063,7 @@ CVE-2022-26187 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-
 CVE-2022-26188 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-Injection/
 CVE-2022-26189 - https://doudoudedi.github.io/2022/02/21/TOTOLINK-N600R-Command-Injection/
 CVE-2022-26211 - https://github.com/pjqwudi1/my_vuln/blob/main/totolink/vuln_25/25.md
+CVE-2022-26233 - http://seclists.org/fulldisclosure/2022/Apr/0
 CVE-2022-26244 - https://github.com/kishan0725/Hospital-Management-System/issues/23
 CVE-2022-26252 - https://www.exploit-db.com/exploits/50780
 CVE-2022-26269 - https://github.com/nsbogam/CVE-2022-26269/blob/main/README.md
@@ -52082,6 +52085,8 @@ CVE-2022-27083 - https://github.com/GD008/vuln/blob/main/tenda_M3_uploadAccessCo
 CVE-2022-27223 - https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.16.12
 CVE-2022-27226 - http://packetstormsecurity.com/files/166396/iRZ-Mobile-Router-Cross-Site-Request-Forgery-Remote-Code-Execution.html
 CVE-2022-27226 - https://johnjhacking.com/blog/cve-2022-27226/
+CVE-2022-27248 - http://packetstormsecurity.com/files/166560/IdeaRE-RefTree-Path-Traversal.html
+CVE-2022-27249 - http://packetstormsecurity.com/files/166559/IdeaRE-RefTree-Shell-Upload.html
 CVE-2022-27254 - https://news.ycombinator.com/item?id=30804702
 CVE-2022-27254 - https://www.bleepingcomputer.com/news/security/honda-bug-lets-a-hacker-unlock-and-start-your-car-via-replay-attack/
 CVE-2022-27254 - https://www.theregister.com/2022/03/25/honda_civic_hack/
