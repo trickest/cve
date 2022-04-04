@@ -348,6 +348,7 @@ CVE-2003-1561 - http://securityreason.com/securityalert/4004
 CVE-2003-1571 - https://www.exploit-db.com/exploits/7488
 CVE-2003-1573 - http://seclists.org/bugtraq/2003/Dec/0249.html
 CVE-2003-5001 - https://vuldb.com/?id.104
+CVE-2003-5003 - https://vuldb.com/?id.296
 CVE-2004-0005 - http://marc.info/?l=bugtraq&m=107513690306318&w=2
 CVE-2004-0006 - http://marc.info/?l=bugtraq&m=107513690306318&w=2
 CVE-2004-0007 - http://marc.info/?l=bugtraq&m=107513690306318&w=2
@@ -4036,6 +4037,13 @@ CVE-2007-1251 - http://aluigi.altervista.org/adv/netrekfs-adv.txt
 CVE-2007-1254 - https://www.exploit-db.com/exploits/3352
 CVE-2007-1255 - https://www.exploit-db.com/exploits/3352
 CVE-2007-1260 - https://www.exploit-db.com/exploits/3395
+CVE-2007-1263 - http://www.coresecurity.com/?action=item&id=1687
+CVE-2007-1264 - http://www.coresecurity.com/?action=item&id=1687
+CVE-2007-1265 - http://www.coresecurity.com/?action=item&id=1687
+CVE-2007-1266 - http://www.coresecurity.com/?action=item&id=1687
+CVE-2007-1267 - http://www.coresecurity.com/?action=item&id=1687
+CVE-2007-1268 - http://www.coresecurity.com/?action=item&id=1687
+CVE-2007-1269 - http://www.coresecurity.com/?action=item&id=1687
 CVE-2007-1292 - http://www.vbulletin.com/forum/showthread.php?postid=1314422
 CVE-2007-1292 - https://www.exploit-db.com/exploits/3387
 CVE-2007-1293 - https://www.exploit-db.com/exploits/3403
@@ -23414,6 +23422,7 @@ CVE-2015-7505 - http://seclists.org/fulldisclosure/2015/Dec/70
 CVE-2015-7506 - http://seclists.org/fulldisclosure/2015/Dec/70
 CVE-2015-7507 - http://seclists.org/fulldisclosure/2015/Dec/73
 CVE-2015-7508 - http://seclists.org/fulldisclosure/2015/Dec/73
+CVE-2015-7510 - https://github.com/systemd/systemd/issues/2002
 CVE-2015-7515 - https://www.exploit-db.com/exploits/39544/
 CVE-2015-7517 - https://wpvulndb.com/vulnerabilities/8345
 CVE-2015-7521 - http://packetstormsecurity.com/files/135836/Apache-Hive-Authorization-Bypass.html
@@ -32918,6 +32927,7 @@ CVE-2018-10796 - https://github.com/anhkgg/poc/tree/master/2345%20security%20gua
 CVE-2018-10801 - http://bugzilla.maptools.org/show_bug.cgi?id=2790
 CVE-2018-10806 - https://github.com/philippe/FrogCMS/issues/10
 CVE-2018-10809 - http://packetstormsecurity.com/files/147538/2345-Security-Guard-3.7-Denial-Of-Service.html
+CVE-2018-10809 - https://github.com/anhkgg/poc/tree/master/2345%20security%20guard/2345NetFirewall.sys-0x00222040
 CVE-2018-10809 - https://www.exploit-db.com/exploits/44600/
 CVE-2018-10814 - http://packetstormsecurity.com/files/149326/SynaMan-40-Build-1488-SMTP-Credential-Disclosure.html
 CVE-2018-10814 - https://www.exploit-db.com/exploits/45387/
@@ -35154,10 +35164,13 @@ CVE-2018-18428 - https://packetstormsecurity.com/files/149843
 CVE-2018-18428 - https://www.exploit-db.com/exploits/45632/
 CVE-2018-18428 - https://www.zeroscience.mk/en/vulnerabilities/ZSL-2018-5497.php
 CVE-2018-18435 - http://packetstormsecurity.com/files/151031/KioWare-Server-4.9.6-Privilege-Escalation.html
+CVE-2018-18435 - https://github.com/active-labs/Advisories/blob/master/2019/ACTIVE-2019-002.md
 CVE-2018-18435 - https://www.exploit-db.com/exploits/46093/
+CVE-2018-18436 - https://github.com/w3irdo001/demo/blob/master/1.html
 CVE-2018-18437 - http://www.binaryworld.it/guidepoc.asp
 CVE-2018-18437 - https://www.exploit-db.com/exploits/45668/
 CVE-2018-18443 - https://github.com/openexr/openexr/issues/350
+CVE-2018-18444 - https://github.com/openexr/openexr/issues/351
 CVE-2018-18449 - https://github.com/w3irdo001/demo/blob/master/3.html
 CVE-2018-18454 - https://github.com/TeamSeri0us/pocs/tree/master/xpdf/2018_10_16/pdftoppm
 CVE-2018-18455 - https://github.com/TeamSeri0us/pocs/tree/master/xpdf/2018_10_16/pdftoppm
@@ -46651,6 +46664,7 @@ CVE-2020-35370 - https://www.exploit-db.com/exploits/49265
 CVE-2020-35376 - https://forum.xpdfreader.com/viewtopic.php?f=3&t=42066
 CVE-2020-35378 - https://www.exploit-db.com/exploits/49212
 CVE-2020-35388 - https://github.com/xuechengen/xinhu-oa/blob/main/README.md
+CVE-2020-35395 - https://nikhilkumar01.medium.com/cve-2020-35395-cd393ac8371c
 CVE-2020-35395 - https://www.exploit-db.com/exploits/49146
 CVE-2020-35396 - https://www.exploit-db.com/exploits/49227
 CVE-2020-35398 - https://cvewalkthrough.com/cve-2020-35398-uti-mutual-fund-android-application-username-enumeration/
@@ -51450,6 +51464,7 @@ CVE-2022-0080 - https://huntr.dev/bounties/59a70392-4864-4ce3-8e35-6ac2111d1e2e
 CVE-2022-0083 - https://huntr.dev/bounties/4c477440-3b03-42eb-a6e2-a31b55090736
 CVE-2022-0086 - https://huntr.dev/bounties/c1c03ef6-3f18-4976-a9ad-08c251279122
 CVE-2022-0087 - https://huntr.dev/bounties/c9d7374f-2cb9-4bac-9c90-a965942f413e
+CVE-2022-0088 - https://huntr.dev/bounties/d01f0726-1a0f-4575-ae17-4b5319b11c29
 CVE-2022-0090 - https://gitlab.com/gitlab-org/gitaly/-/issues/3948
 CVE-2022-0121 - https://huntr.dev/bounties/b70a6191-8226-4ac6-b817-cae7332a68ee
 CVE-2022-0122 - https://huntr.dev/bounties/41852c50-3c6d-4703-8c55-4db27164a4ae
@@ -51582,6 +51597,8 @@ CVE-2022-0393 - https://huntr.dev/bounties/ecc8f488-01a0-477f-848f-e30b8e524bba
 CVE-2022-0394 - https://huntr.dev/bounties/e13823d0-271c-448b-a0c5-8549ea7ea272
 CVE-2022-0399 - https://wpscan.com/vulnerability/5e5fdcf4-ec2b-4e73-8009-05606b2d5164
 CVE-2022-0401 - https://huntr.dev/bounties/d93259aa-ad03-43d6-8846-a00b9f58876d
+CVE-2022-0405 - https://huntr.dev/bounties/370538f6-5312-4c15-9fc0-b4c36ac236fe
+CVE-2022-0406 - https://huntr.dev/bounties/d7498799-4797-4751-b5e2-b669e729d5db
 CVE-2022-0407 - https://huntr.dev/bounties/81822bf7-aafe-4d37-b836-1255d46e572c
 CVE-2022-0408 - https://huntr.dev/bounties/5e635bad-5cf6-46cd-aeac-34ef224e179d
 CVE-2022-0409 - https://huntr.dev/bounties/c25bfad1-2611-4226-954f-009e50f966f7
@@ -51741,7 +51758,9 @@ CVE-2022-0821 - https://huntr.dev/bounties/0019eb1c-8bf9-4bd0-a27f-aadc173515cb
 CVE-2022-0822 - https://huntr.dev/bounties/06971613-b6ab-4b96-8aa6-4982bfcfeb73
 CVE-2022-0824 - http://packetstormsecurity.com/files/166240/Webmin-1.984-Remote-Code-Execution.html
 CVE-2022-0824 - https://huntr.dev/bounties/d0049a96-de90-4b1a-9111-94de1044f295
+CVE-2022-0824 - https://notes.netbytesec.com/2022/03/webmin-broken-access-control-to-post-auth-rce.html
 CVE-2022-0829 - https://huntr.dev/bounties/f2d0389f-d7d1-4f34-9f9d-268b0a0da05e
+CVE-2022-0829 - https://notes.netbytesec.com/2022/03/webmin-broken-access-control-to-post-auth-rce.html
 CVE-2022-0838 - https://huntr.dev/bounties/bd2fb1f1-cc8b-4ef7-8e2b-4ca686d8d614
 CVE-2022-0839 - https://huntr.dev/bounties/f1ae5779-b406-4594-a8a3-d089c68d6e70
 CVE-2022-0841 - https://huntr.dev/bounties/4f806dc9-2ecd-4e79-997e-5292f1bea9f1
@@ -51784,6 +51803,7 @@ CVE-2022-0929 - https://huntr.dev/bounties/66abf7ec-2dd7-4cb7-87f5-e91375883f03
 CVE-2022-0930 - https://huntr.dev/bounties/d184ce19-9608-42f1-bc3d-06ece2d9a993
 CVE-2022-0937 - https://huntr.dev/bounties/6127739d-f4f2-44cd-ae3d-e3ccb7f0d7b5
 CVE-2022-0938 - https://huntr.dev/bounties/3eb5a8f9-24e3-4eae-a212-070b2fbc237e
+CVE-2022-0939 - https://huntr.dev/bounties/768fd7e2-a767-4d8d-a517-e9dda849c6e4
 CVE-2022-0940 - https://huntr.dev/bounties/856bd2e2-db4f-4b7d-9927-222261ae3782
 CVE-2022-0941 - https://huntr.dev/bounties/040a910e-e689-4fcb-9e4f-95206515d1bc
 CVE-2022-0942 - https://huntr.dev/bounties/a412707c-18da-4c84-adc0-9801ed8068c9
@@ -51839,9 +51859,14 @@ CVE-2022-1172 - https://huntr.dev/bounties/a26cb79c-9257-4fbf-98c5-a5a331efa264
 CVE-2022-1176 - https://huntr.dev/bounties/3e30171b-c9bf-415c-82f1-6f55a44d09d3
 CVE-2022-1191 - https://huntr.dev/bounties/7264a2e1-17e7-4244-93e4-49ec14f282b3
 CVE-2022-1201 - https://huntr.dev/bounties/6f930add-c9d8-4870-ae56-d4bd8354703b
+CVE-2022-1207 - https://huntr.dev/bounties/7b979e76-ae54-4132-b455-0833e45195eb
 CVE-2022-1210 - https://gitlab.com/libtiff/libtiff/-/issues/402
 CVE-2022-1210 - https://vuldb.com/?id.196363
 CVE-2022-1211 - https://vuldb.com/?id.196371
+CVE-2022-1222 - https://huntr.dev/bounties/f8cb85b8-7ff3-47f1-a9a6-7080eb371a3d
+CVE-2022-1223 - https://huntr.dev/bounties/baec4c23-2466-4b13-b3c0-eaf1d000d4ab
+CVE-2022-1224 - https://huntr.dev/bounties/cd9e1508-5682-427e-a921-14b4f520b85a
+CVE-2022-1225 - https://huntr.dev/bounties/49b44cfa-d142-4d79-b529-7805507169d2
 CVE-2022-20659 - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-xss-P8fBz2FW
 CVE-2022-20660 - http://packetstormsecurity.com/files/165567/Cisco-IP-Phone-Cleartext-Password-Storage.html
 CVE-2022-20660 - http://seclists.org/fulldisclosure/2022/Jan/34
