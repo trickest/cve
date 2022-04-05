@@ -6258,6 +6258,7 @@ CVE-2008-0919 - https://www.exploit-db.com/exploits/5171
 CVE-2008-0920 - https://www.exploit-db.com/exploits/5171
 CVE-2008-0921 - https://www.exploit-db.com/exploits/5170
 CVE-2008-0922 - https://www.exploit-db.com/exploits/5168
+CVE-2008-0923 - http://www.coresecurity.com/?action=item&id=2129
 CVE-2008-0923 - http://www.vmware.com/support/player/doc/releasenotes_player.html
 CVE-2008-0923 - http://www.vmware.com/support/ws55/doc/releasenotes_ws55.html
 CVE-2008-0927 - https://www.exploit-db.com/exploits/5547
@@ -13155,6 +13156,7 @@ CVE-2011-4151 - http://web.mit.edu/kerberos/advisories/MITKRB5-SA-2011-006.txt
 CVE-2011-4153 - http://cxsecurity.com/research/103
 CVE-2011-4153 - http://www.exploit-db.com/exploits/18370/
 CVE-2011-4231 - http://www.cisco.com/en/US/docs/ios/ios_xe/3/release/notes/asr1k_caveats_34s.html
+CVE-2011-4314 - http://openid.net/2011/05/05/attribute-exchange-security-alert/
 CVE-2011-4317 - http://www.oracle.com/technetwork/topics/security/cpujan2015-1972971.html
 CVE-2011-4317 - http://www.oracle.com/technetwork/topics/security/cpujul2012-392727.html
 CVE-2011-4317 - https://community.qualys.com/blogs/securitylabs/2011/11/23/apache-reverse-proxy-bypass-issue
@@ -13579,6 +13581,7 @@ CVE-2012-0781 - http://cxsecurity.com/research/103
 CVE-2012-0781 - http://www.exploit-db.com/exploits/18370/
 CVE-2012-0782 - http://www.exploit-db.com/exploits/18417
 CVE-2012-0785 - https://www.cloudbees.com/jenkins-security-advisory-2012-01-12
+CVE-2012-0825 - http://openid.net/2011/05/05/attribute-exchange-security-alert/
 CVE-2012-0829 - http://www.openwall.com/lists/oss-security/2012/02/02/10
 CVE-2012-0830 - http://thexploit.com/sec/critical-php-remote-vulnerability-introduced-in-fix-for-php-hashtable-collision-dos/
 CVE-2012-0830 - https://gist.github.com/1725489
@@ -20146,6 +20149,7 @@ CVE-2014-7822 - http://www.oracle.com/technetwork/topics/security/linuxbulletino
 CVE-2014-7822 - https://www.exploit-db.com/exploits/36743/
 CVE-2014-7829 - https://puppet.com/security/cve/cve-2014-7829
 CVE-2014-7841 - http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.17.4
+CVE-2014-7841 - https://bugzilla.redhat.com/show_bug.cgi?id=1163087
 CVE-2014-7842 - http://www.oracle.com/technetwork/topics/security/linuxbulletinoct2015-2719645.html
 CVE-2014-7842 - https://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.17.4
 CVE-2014-7843 - http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.17.4
@@ -32289,6 +32293,7 @@ CVE-2017-9756 - https://www.exploit-db.com/exploits/42204/
 CVE-2017-9757 - https://www.exploit-db.com/exploits/42149/
 CVE-2017-9758 - https://www.kb.cert.org/vuls/id/446847
 CVE-2017-9759 - https://www.vulnerability-lab.com/get_content.php?id=2073
+CVE-2017-9762 - https://github.com/radare/radare2/issues/7726
 CVE-2017-9764 - https://github.com/phantom0301/vulns/blob/master/Metinfo.md
 CVE-2017-9766 - https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=13811
 CVE-2017-9767 - http://packetstormsecurity.com/files/143746/Quali-CloudShell-7.1.0.6508-Patch-6-Cross-Site-Scripting.html
@@ -36010,6 +36015,7 @@ CVE-2018-20523 - http://packetstormsecurity.com/files/163796/Xiaomi-10.2.4.g-Inf
 CVE-2018-20523 - https://vishwarajbhattrai.wordpress.com/2019/03/22/content-provider-injection-in-xiaomi-stock-browser
 CVE-2018-20524 - https://vul.su.ki/posts/Chat_Anywhere_2.4.0_XSS.md/
 CVE-2018-20525 - http://packetstormsecurity.com/files/151033/Roxy-Fileman-1.4.5-File-Upload-Directory-Traversal.html
+CVE-2018-20525 - http://packetstormsecurity.com/files/166585/Roxy-File-Manager-1.4.5-PHP-File-Upload-Restriction-Bypass.html
 CVE-2018-20525 - https://www.exploit-db.com/exploits/46085/
 CVE-2018-20526 - http://packetstormsecurity.com/files/151033/Roxy-Fileman-1.4.5-File-Upload-Directory-Traversal.html
 CVE-2018-20526 - https://www.exploit-db.com/exploits/46085/
@@ -46666,6 +46672,7 @@ CVE-2020-35378 - https://www.exploit-db.com/exploits/49212
 CVE-2020-35388 - https://github.com/xuechengen/xinhu-oa/blob/main/README.md
 CVE-2020-35395 - https://nikhilkumar01.medium.com/cve-2020-35395-cd393ac8371c
 CVE-2020-35395 - https://www.exploit-db.com/exploits/49146
+CVE-2020-35396 - https://nikhilkumar01.medium.com/cve-2020-35396-f4b5675fb168
 CVE-2020-35396 - https://www.exploit-db.com/exploits/49227
 CVE-2020-35398 - https://cvewalkthrough.com/cve-2020-35398-uti-mutual-fund-android-application-username-enumeration/
 CVE-2020-35416 - http://packetstormsecurity.com/files/160502/PHPJabbers-Appointment-Scheduler-2.3-Cross-Site-Scripting.html
@@ -51192,6 +51199,16 @@ CVE-2021-43409 - https://appcheck-ng.com/wordpress-microsoft-office-365-azure-ad
 CVE-2021-43409 - https://www.wpo365.com/change-log/
 CVE-2021-43451 - https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/PHPGURUKUL/ANUJ%20KUMAR/Employee-Record-Management-System-SQL-Injection
 CVE-2021-43451 - https://www.exploit-db.com/exploits/50467
+CVE-2021-43454 - https://www.exploit-db.com/exploits/49549
+CVE-2021-43455 - https://www.exploit-db.com/exploits/49630
+CVE-2021-43456 - https://www.exploit-db.com/exploits/49203
+CVE-2021-43457 - https://www.exploit-db.com/exploits/49632
+CVE-2021-43458 - https://www.exploit-db.com/exploits/49641
+CVE-2021-43459 - https://www.exploit-db.com/exploits/49254
+CVE-2021-43460 - https://www.exploit-db.com/exploits/49248
+CVE-2021-43461 - https://www.exploit-db.com/exploits/49253
+CVE-2021-43462 - https://www.exploit-db.com/exploits/49255
+CVE-2021-43463 - https://www.exploit-db.com/exploits/49706
 CVE-2021-43484 - https://www.exploit-db.com/exploits/50094
 CVE-2021-43492 - https://github.com/AlquistManager/alquist/issues/42
 CVE-2021-43493 - https://github.com/cksgf/ServerManagement/issues/21
