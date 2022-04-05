@@ -1089,6 +1089,7 @@ CVE-2005-1116 - http://marc.info/?l=bugtraq&m=111343406309969&w=2
 CVE-2005-1134 - http://seclists.org/lists/bugtraq/2005/Apr/0195.html
 CVE-2005-1141 - http://marc.info/?l=bugtraq&m=111358557823673&w=2
 CVE-2005-1142 - http://marc.info/?l=bugtraq&m=111358557823673&w=2
+CVE-2005-1153 - http://www.mozilla.org/security/announce/mfsa2005-35.html
 CVE-2005-1155 - https://bugzilla.mozilla.org/show_bug.cgi?id=290036
 CVE-2005-1159 - http://www.mozilla.org/security/announce/mfsa2005-40.html
 CVE-2005-1161 - http://marc.info/?l=bugtraq&m=111352017704126&w=2
@@ -28881,6 +28882,7 @@ CVE-2017-14530 - https://github.com/cybersecurityworks/Disclosed/issues/9
 CVE-2017-14533 - https://github.com/ImageMagick/ImageMagick/issues/648
 CVE-2017-14535 - http://packetstormsecurity.com/files/162854/Trixbox-2.8.0.4-Remote-Code-Execution.html
 CVE-2017-14535 - https://secur1tyadvisory.wordpress.com/2018/02/11/trixbox-os-command-injection-vulnerability-cve-2017-14535/
+CVE-2017-14535 - https://www.linkedin.com/pulse/trixbox-os-command-injection-vulnerability-sachin-wagh-ceh-ecsa-/?published=t
 CVE-2017-14536 - https://secur1tyadvisory.wordpress.com/2018/02/13/trixbox-multiple-cross-site-scripting-vulnerabilities/
 CVE-2017-14537 - http://packetstormsecurity.com/files/162853/Trixbox-2.8.0.4-Path-Traversal.html
 CVE-2017-14537 - https://secur1tyadvisory.wordpress.com/2018/02/13/trixbox-multiple-path-traversal-vulnerabilities-cve-2017-14537/
@@ -29650,6 +29652,7 @@ CVE-2017-16995 - https://www.exploit-db.com/exploits/44298/
 CVE-2017-16995 - https://www.exploit-db.com/exploits/45010/
 CVE-2017-16995 - https://www.exploit-db.com/exploits/45058/
 CVE-2017-16996 - http://openwall.com/lists/oss-security/2017/12/21/2
+CVE-2017-1700 - http://www.ibm.com/support/docview.wss?uid=swg22015635
 CVE-2017-17043 - https://packetstormsecurity.com/files/145060/wpemagmc10-xss.txt
 CVE-2017-17043 - https://wpvulndb.com/vulnerabilities/8964
 CVE-2017-17049 - https://github.com/k0keoyo/Vir.IT-explorer-Anti-Virus-Null-Pointer-Reference-PoC/tree/master/VirIT_NullPointerReference_0x82730010
@@ -29709,7 +29712,9 @@ CVE-2017-17127 - https://bugzilla.libav.org/show_bug.cgi?id=1099
 CVE-2017-17128 - https://bugzilla.libav.org/show_bug.cgi?id=1104
 CVE-2017-17129 - https://bugzilla.libav.org/show_bug.cgi?id=1101
 CVE-2017-17130 - https://bugzilla.libav.org/show_bug.cgi?id=1100
+CVE-2017-1725 - http://www.ibm.com/support/docview.wss?uid=swg22015635
 CVE-2017-17309 - http://packetstormsecurity.com/files/155954/Huawei-HG255-Directory-Traversal.html
+CVE-2017-1734 - http://www.ibm.com/support/docview.wss?uid=swg22015635
 CVE-2017-17382 - https://robotattack.org/
 CVE-2017-17382 - https://www.kb.cert.org/vuls/id/144389
 CVE-2017-17405 - https://www.exploit-db.com/exploits/43381/
