@@ -796,6 +796,7 @@ CVE-2006-1060 - https://github.com/f-secure-foundry/advisories
 CVE-2006-1148 - https://github.com/mudongliang/LinuxFlaw
 CVE-2006-1148 - https://github.com/oneoy/cve-
 CVE-2006-1184 - https://github.com/weberl48/Network-Host-and-Security-Final
+CVE-2006-1234 - https://github.com/nicolasmf/pyxploit-db
 CVE-2006-1236 - https://github.com/Axua/CVE-2006-1236
 CVE-2006-1242 - https://github.com/0xdea/advisories
 CVE-2006-1314 - https://github.com/uroboros-security/SMB-CVE
@@ -27137,6 +27138,7 @@ CVE-2019-11358 - https://github.com/JayZeeKay/GGRepo
 CVE-2019-11358 - https://github.com/JebShortly/ftc-2022-frieght-frenzy
 CVE-2019-11358 - https://github.com/Jellyfish4654/FreightFrenzy
 CVE-2019-11358 - https://github.com/Jfee04/Team_1_Skystone
+CVE-2019-11358 - https://github.com/JibbySnip/KiwiBot2022
 CVE-2019-11358 - https://github.com/Johnson-Tan/Wrench-Toast-2k20
 CVE-2019-11358 - https://github.com/JollyBlue19823/Ftc-team-19823-2021
 CVE-2019-11358 - https://github.com/JollyBlue19823/FtcRobotics
@@ -29247,6 +29249,7 @@ CVE-2019-13765 - https://github.com/allpaca/chrome-sbx-db
 CVE-2019-13767 - https://github.com/allpaca/chrome-sbx-db
 CVE-2019-13768 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-13768 - https://github.com/hectorgie/PoC-in-GitHub
+CVE-2019-13768 - https://github.com/yuvaly0/exploits
 CVE-2019-1378 - https://github.com/alphaSeclab/sec-daily-2019
 CVE-2019-1384 - https://github.com/yovelo98/OSCP-Cheatsheet
 CVE-2019-1385 - https://github.com/0xT11/CVE-POC
@@ -32766,7 +32769,6 @@ CVE-2019-6988 - https://github.com/FritzJo/pacheck
 CVE-2019-6988 - https://github.com/ICSE2020-MemLock/MemLock_Benchmark
 CVE-2019-6988 - https://github.com/tzf-key/MemLock_Benchmark
 CVE-2019-6991 - https://github.com/rishaldwivedi/Public_Disclosure
-CVE-2019-6998 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-6999 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-7045 - https://github.com/DanielEbert/winafl
 CVE-2019-7045 - https://github.com/googleprojectzero/winafl
@@ -44320,6 +44322,7 @@ CVE-2021-21979 - https://github.com/ssst0n3/ssst0n3
 CVE-2021-2198 - https://github.com/triw0lf/Security-Matters-22
 CVE-2021-21980 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-21980 - https://github.com/Osyanina/westone-CVE-2021-21980-scanner
+CVE-2021-21980 - https://github.com/Osyanina/westone-CVE-2022-1388-scanner
 CVE-2021-21980 - https://github.com/dorkerdevil/LongTail-AMF
 CVE-2021-21980 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-21980 - https://github.com/p1ay8y3ar/cve_monitor
@@ -46528,6 +46531,7 @@ CVE-2021-30632 - https://github.com/dev-fff/cve-win
 CVE-2021-30632 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-30632 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-30632 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
+CVE-2021-30632 - https://github.com/yuvaly0/exploits
 CVE-2021-30637 - https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame
 CVE-2021-30637 - https://github.com/nu11secur1ty/CVE-mitre
 CVE-2021-3064 - https://github.com/harsh-bothra/learn365
@@ -48914,7 +48918,6 @@ CVE-2021-3995 - https://github.com/toyhoshi/helm
 CVE-2021-3996 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3996 - https://github.com/toyhoshi/helm
 CVE-2021-3999 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-3999 - https://github.com/oracle-japan/ochacafe-s5-3
 CVE-2021-4005 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-4005 - https://github.com/Haxatron/Haxatron
 CVE-2021-40066 - https://github.com/ARPSyndicate/cvemon
@@ -50899,6 +50902,7 @@ CVE-2021-44262 - https://github.com/zer0yu/CVE_Request
 CVE-2021-44270 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44270 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-4428 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-4428 - https://github.com/kward/log4sh
 CVE-2021-4428 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-44280 - https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame
 CVE-2021-44280 - https://github.com/nu11secur1ty/CVE-mitre
@@ -51426,7 +51430,6 @@ CVE-2021-6857 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-6857 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-6857 - https://github.com/zi0n8/CVE-2021-6857
 CVE-2021-6901 - https://github.com/mooneee/cve-2021-6901
-CVE-2021-9999 - https://github.com/Reach-Z/CVE-2021-9999
 CVE-2022-0001 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0001 - https://github.com/Tsuki124/crawlab-db
 CVE-2022-0001 - https://github.com/Tsuki124/crawlab-sdk
@@ -51935,6 +51938,7 @@ CVE-2022-1329 - https://github.com/mcdulltii/CVE-2022-1329
 CVE-2022-1329 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-1350 - https://github.com/karimhabush/cyberowl
 CVE-2022-1388 - https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed
+CVE-2022-1388 - https://github.com/Osyanina/westone-CVE-2022-1388-scanner
 CVE-2022-1388 - https://github.com/TomArni680/CVE-2022-1388-POC
 CVE-2022-1388 - https://github.com/jheeree/CVE-2022-1388-checker
 CVE-2022-1388 - https://github.com/karimhabush/cyberowl
@@ -53332,6 +53336,7 @@ CVE-2022-25064 - https://github.com/exploitwritter/CVE-2022-25064
 CVE-2022-25064 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25075 - https://github.com/ExploitPwner/Totolink-CVE-2022-Exploits
 CVE-2022-25075 - https://github.com/kuznyJan1972/CVE-2022-25075-RCE
+CVE-2022-25075 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25089 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25089 - https://github.com/ComparedArray/printix-CVE-2022-25089
 CVE-2022-25089 - https://github.com/Enes4xd/Enes4xd
@@ -53896,6 +53901,8 @@ CVE-2022-28032 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28032 - https://github.com/bornrootcom/fictional-memory
 CVE-2022-28051 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28051 - https://github.com/looCiprian/Responsible-Vulnerability-Disclosure
+CVE-2022-28077 - https://github.com/bigzooooz/XSScanner
+CVE-2022-28078 - https://github.com/bigzooooz/XSScanner
 CVE-2022-28079 - https://github.com/erengozaydin/College-Management-System-course_code-SQL-Injection-Authenticated
 CVE-2022-28079 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-28080 - https://github.com/erengozaydin/Royal-Event-Management-System-todate-SQL-Injection-Authenticated
