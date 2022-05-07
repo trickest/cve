@@ -21559,6 +21559,7 @@ CVE-2018-17021 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17022 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17023 - https://github.com/PAGalaxyLab/VulInfo
 CVE-2018-17024 - https://github.com/0xT11/CVE-POC
+CVE-2018-1703 - https://github.com/rmadamson/rmadamson
 CVE-2018-17042 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-17043 - https://github.com/ZhengMinghui1234/enfuzzer
 CVE-2018-17057 - https://github.com/AfvanMoopen/tryhackme-
@@ -21704,6 +21705,7 @@ CVE-2018-17499 - https://github.com/nutc4k3/amazing-iot-security
 CVE-2018-17500 - https://github.com/nutc4k3/amazing-iot-security
 CVE-2018-17502 - https://github.com/nutc4k3/amazing-iot-security
 CVE-2018-17552 - https://github.com/anhquan99/DetectSQLInjectionPyshark
+CVE-2018-1776 - https://github.com/rmadamson/rmadamson
 CVE-2018-17765 - https://github.com/404notf0und/CVE-Flow
 CVE-2018-17766 - https://github.com/404notf0und/CVE-Flow
 CVE-2018-17767 - https://github.com/404notf0und/CVE-Flow
@@ -40947,6 +40949,7 @@ CVE-2020-4280 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-4305 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2020-4337 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-4362 - https://github.com/Rapid7cn/Nexpose_vck
+CVE-2020-43736 - https://github.com/xss10086/code
 CVE-2020-4414 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-4427 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-4428 - https://github.com/ARPSyndicate/cvemon
@@ -51569,6 +51572,7 @@ CVE-2022-0441 - https://github.com/enesamaafkolan/enesamaafkolan
 CVE-2022-0441 - https://github.com/ezelnur6327/Enes4xd
 CVE-2022-0441 - https://github.com/ezelnur6327/enesamaafkolan
 CVE-2022-0441 - https://github.com/ezelnur6327/ezelnur6327
+CVE-2022-0441 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0476 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0476 - https://github.com/wtdcode/wtdcode
 CVE-2022-0482 - https://github.com/ARPSyndicate/cvemon
@@ -51934,6 +51938,7 @@ CVE-2022-1388 - https://github.com/numanturle/CVE-2022-1388
 CVE-2022-1444 - https://github.com/KrungSalad/POC-CVE-2022-1444
 CVE-2022-1444 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-15213 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-15213 - https://github.com/w1023913214/CVE-2022-15213
 CVE-2022-1590 - https://github.com/karimhabush/cyberowl
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20019 - https://github.com/ARPSyndicate/cvemon
@@ -52170,6 +52175,7 @@ CVE-2022-21974 - https://github.com/0vercl0k/CVE-2022-21974
 CVE-2022-21974 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-21974 - https://github.com/hktalent/TOP
 CVE-2022-21974 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-21984 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21986 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-21986 - https://github.com/xt0rted/dotnet-sdk-updater
 CVE-2022-21990 - https://github.com/ARPSyndicate/cvemon
@@ -53019,6 +53025,7 @@ CVE-2022-24086 - https://github.com/shakeman8/CVE-2022-24086-RCE
 CVE-2022-24086 - https://github.com/wambo-co/magento-1.9-cve-2022-24086
 CVE-2022-24087 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-24087 - https://github.com/Neimar47574/CVE-2022-24087
+CVE-2022-24087 - https://github.com/RoryRees/Magento_Auto_Exploiter_Priv
 CVE-2022-24087 - https://github.com/df2k2/m2-tech
 CVE-2022-24087 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-24091 - https://github.com/ARPSyndicate/cvemon
@@ -53309,6 +53316,7 @@ CVE-2022-25062 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25062 - https://github.com/exploitwritter/CVE-2022-25062
 CVE-2022-25062 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25063 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-25063 - https://github.com/exploitwritter/CVE-2022-25063
 CVE-2022-25063 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25064 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25064 - https://github.com/Awrrays/FrameVul
@@ -53379,6 +53387,7 @@ CVE-2022-25256 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25256 - https://github.com/RobertDra/CVE-2022-25256
 CVE-2022-25256 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25257 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-25257 - https://github.com/RobertDra/CVE-2022-25257
 CVE-2022-25257 - https://github.com/binganao/vulns-2022
 CVE-2022-25257 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25257 - https://github.com/polling-repo-continua/CVE-2022-25257
@@ -54082,6 +54091,7 @@ CVE-2022-29591 - https://github.com/H4niz/Vulnerability
 CVE-2022-29592 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-29592 - https://github.com/H4niz/Vulnerability
 CVE-2022-29597 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-29597 - https://github.com/TheGetch/CVE-2022-29597
 CVE-2022-29597 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-29598 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-29598 - https://github.com/TheGetch/CVE-2022-29598
@@ -54098,5 +54108,6 @@ CVE-2022-4034 - https://github.com/ashutoshrohilla/CVE-2021-4034
 CVE-2022-6099 - https://github.com/rastidoust/Red
 CVE-2022-6099 - https://github.com/rastidoust/rastidoust.github.io
 CVE-2022-8899 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-8899 - https://github.com/w1023913214/CVE-2022-8899
 CVE-2104-4114 - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
 CVE-2106-2504 - https://github.com/xairy/linux-kernel-exploitation
