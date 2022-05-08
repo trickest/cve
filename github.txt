@@ -32769,6 +32769,7 @@ CVE-2019-6988 - https://github.com/FritzJo/pacheck
 CVE-2019-6988 - https://github.com/ICSE2020-MemLock/MemLock_Benchmark
 CVE-2019-6988 - https://github.com/tzf-key/MemLock_Benchmark
 CVE-2019-6991 - https://github.com/rishaldwivedi/Public_Disclosure
+CVE-2019-6998 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-6999 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-7045 - https://github.com/DanielEbert/winafl
 CVE-2019-7045 - https://github.com/googleprojectzero/winafl
@@ -48918,6 +48919,7 @@ CVE-2021-3995 - https://github.com/toyhoshi/helm
 CVE-2021-3996 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3996 - https://github.com/toyhoshi/helm
 CVE-2021-3999 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-3999 - https://github.com/oracle-japan/ochacafe-s5-3
 CVE-2021-4005 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-4005 - https://github.com/Haxatron/Haxatron
 CVE-2021-40066 - https://github.com/ARPSyndicate/cvemon
@@ -51430,6 +51432,7 @@ CVE-2021-6857 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-6857 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-6857 - https://github.com/zi0n8/CVE-2021-6857
 CVE-2021-6901 - https://github.com/mooneee/cve-2021-6901
+CVE-2021-9999 - https://github.com/Reach-Z/CVE-2021-9999
 CVE-2022-0001 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0001 - https://github.com/Tsuki124/crawlab-db
 CVE-2022-0001 - https://github.com/Tsuki124/crawlab-sdk
@@ -51940,6 +51943,8 @@ CVE-2022-1350 - https://github.com/karimhabush/cyberowl
 CVE-2022-1388 - https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed
 CVE-2022-1388 - https://github.com/Osyanina/westone-CVE-2022-1388-scanner
 CVE-2022-1388 - https://github.com/TomArni680/CVE-2022-1388-POC
+CVE-2022-1388 - https://github.com/TomArni680/CVE-2022-1388-RCE
+CVE-2022-1388 - https://github.com/bytecaps/F5-BIG-IP-RCE-Check
 CVE-2022-1388 - https://github.com/jheeree/CVE-2022-1388-checker
 CVE-2022-1388 - https://github.com/karimhabush/cyberowl
 CVE-2022-1388 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -53773,6 +53778,7 @@ CVE-2022-27352 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27352 - https://github.com/D4rkP0w4r/D4rkP0w4r
 CVE-2022-27357 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27357 - https://github.com/D4rkP0w4r/D4rkP0w4r
+CVE-2022-27434 - https://github.com/LongWayHomie/CVE-2022-27434
 CVE-2022-27444 - https://github.com/Griffin-2022/Griffin
 CVE-2022-27445 - https://github.com/Griffin-2022/Griffin
 CVE-2022-27446 - https://github.com/Griffin-2022/Griffin
