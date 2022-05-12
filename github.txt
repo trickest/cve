@@ -32894,6 +32894,7 @@ CVE-2019-6988 - https://github.com/FritzJo/pacheck
 CVE-2019-6988 - https://github.com/ICSE2020-MemLock/MemLock_Benchmark
 CVE-2019-6988 - https://github.com/tzf-key/MemLock_Benchmark
 CVE-2019-6991 - https://github.com/rishaldwivedi/Public_Disclosure
+CVE-2019-6998 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-6999 - https://github.com/0xUhaw/CVE-Bins
 CVE-2019-7045 - https://github.com/DanielEbert/winafl
 CVE-2019-7045 - https://github.com/googleprojectzero/winafl
@@ -49045,7 +49046,6 @@ CVE-2021-3950 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3950 - https://github.com/noobpk/noobpk
 CVE-2021-39501 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39501 - https://github.com/ARPSyndicate/kenzer-templates
-CVE-2021-39512 - https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver
 CVE-2021-39609 - https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame
 CVE-2021-39609 - https://github.com/nu11secur1ty/CVE-mitre
 CVE-2021-39609 - https://github.com/nu11secur1ty/CVE-nu11secur1ty
@@ -49843,6 +49843,7 @@ CVE-2021-41676 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41676 - https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame
 CVE-2021-41676 - https://github.com/nu11secur1ty/CVE-mitre
 CVE-2021-41676 - https://github.com/nu11secur1ty/CVE-nu11secur1ty
+CVE-2021-41691 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41691 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-41728 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41728 - https://github.com/Dir0x/CVE-2021-41728
@@ -52297,7 +52298,14 @@ CVE-2022-1388 - https://github.com/Al1ex/CVE-2022-1388
 CVE-2022-1388 - https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner
 CVE-2022-1388 - https://github.com/Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388
 CVE-2022-1388 - https://github.com/BishopFox/bigip-scanner
+CVE-2022-1388 - https://github.com/BushidoUK/BushidoUK
+CVE-2022-1388 - https://github.com/EvilLizard666/CVE-2022-1388
 CVE-2022-1388 - https://github.com/ExploitPwner/CVE-2022-1388
+CVE-2022-1388 - https://github.com/F5Networks/f5-aws-cloudformation
+CVE-2022-1388 - https://github.com/F5Networks/f5-aws-cloudformation-v2
+CVE-2022-1388 - https://github.com/F5Networks/f5-azure-arm-templates
+CVE-2022-1388 - https://github.com/F5Networks/f5-azure-arm-templates-v2
+CVE-2022-1388 - https://github.com/F5Networks/f5-google-gdm-templates-v2
 CVE-2022-1388 - https://github.com/Henry4E36/CVE-2022-1388
 CVE-2022-1388 - https://github.com/Hudi233/CVE-2022-1388
 CVE-2022-1388 - https://github.com/LinJacck/CVE-2022-1388-EXP
@@ -52320,6 +52328,7 @@ CVE-2022-1388 - https://github.com/bytecaps/F5-BIG-IP-RCE-Check
 CVE-2022-1388 - https://github.com/chesterblue/CVE-2022-1388
 CVE-2022-1388 - https://github.com/cve-hunter/CVE-2022-1388-mass
 CVE-2022-1388 - https://github.com/dravenww/curated-article
+CVE-2022-1388 - https://github.com/hackeyes/CVE-2022-1388-POC
 CVE-2022-1388 - https://github.com/horizon3ai/CVE-2022-1388
 CVE-2022-1388 - https://github.com/hou5/CVE-2022-1388
 CVE-2022-1388 - https://github.com/iveresk/cve-2022-1388-1veresk
@@ -52328,8 +52337,11 @@ CVE-2022-1388 - https://github.com/karimhabush/cyberowl
 CVE-2022-1388 - https://github.com/kuznyJan1972/cve-2022-1388-mass
 CVE-2022-1388 - https://github.com/lonnyzhang423/github-hot-hub
 CVE-2022-1388 - https://github.com/luck-ying/Library-POC
+CVE-2022-1388 - https://github.com/mr-vill4in/CVE-2022-1388
 CVE-2022-1388 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-1388 - https://github.com/numanturle/CVE-2022-1388
+CVE-2022-1388 - https://github.com/omnigodz/CVE-2022-1388
+CVE-2022-1388 - https://github.com/pauloink/CVE-2022-1388
 CVE-2022-1388 - https://github.com/qusaialhaddad/F5-BigIP-CVE-2022-1388
 CVE-2022-1388 - https://github.com/saucer-man/CVE-2022-1388
 CVE-2022-1388 - https://github.com/savior-only/CVE-2022-1388
@@ -52669,6 +52681,7 @@ CVE-2022-22600 - https://github.com/KlinKlinKlin/MSF-screenrecord-on-MacOS
 CVE-2022-22600 - https://github.com/acheong08/MSF-screenrecord-on-MacOS
 CVE-2022-22600 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22616 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-22616 - https://github.com/d-rn/vulBox
 CVE-2022-22616 - https://github.com/houjingyi233/macOS-iOS-system-security
 CVE-2022-22623 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22623 - https://github.com/bagder/log
@@ -53083,6 +53096,7 @@ CVE-2022-22965 - https://github.com/datawiza-inc/spring-rec-demo
 CVE-2022-22965 - https://github.com/dotnes/spring4shell
 CVE-2022-22965 - https://github.com/dravenww/curated-article
 CVE-2022-22965 - https://github.com/dtact/spring4shell-scanner
+CVE-2022-22965 - https://github.com/edsonjt81/spring4shell
 CVE-2022-22965 - https://github.com/edsonjt81/spring4shell-scan
 CVE-2022-22965 - https://github.com/fracturelabs/go-scan-spring
 CVE-2022-22965 - https://github.com/fracturelabs/spring4shell_victim
@@ -54289,6 +54303,7 @@ CVE-2022-26809 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-26809 - https://github.com/oppongjohn/CVE-2022-26809-RCE
 CVE-2022-26809 - https://github.com/roger109/CVE-2022-26809-RCE-POC
 CVE-2022-26809 - https://github.com/seciurdt/CVE-2022-26809-POC
+CVE-2022-26809 - https://github.com/seciurdt/CVE-2022-26809-RCE
 CVE-2022-26809 - https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy
 CVE-2022-26809 - https://github.com/websecnl/CVE-2022-26809
 CVE-2022-26809 - https://github.com/yuanLink/CVE-2022-26809
