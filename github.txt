@@ -53208,6 +53208,7 @@ CVE-2022-22965 - https://github.com/zjc9/mytools
 CVE-2022-22965 - https://github.com/zjx/Spring4Shell-RCE
 CVE-2022-22966 - https://github.com/karimhabush/cyberowl
 CVE-2022-22968 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-22968 - https://github.com/MarcinGadz/spring-rce-poc
 CVE-2022-22968 - https://github.com/adidaspaul/adidaspaul
 CVE-2022-22984 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22984 - https://github.com/PenteraIO/CVE-2022-22948
@@ -53256,6 +53257,7 @@ CVE-2022-23119 - https://github.com/modzero/MZ-21-02-Trendmicro
 CVE-2022-23120 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23120 - https://github.com/modzero/MZ-21-02-Trendmicro
 CVE-2022-23121 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-23121 - https://github.com/kuznyJan1972/CVE-2022-23121-RCE
 CVE-2022-23121 - https://github.com/neutrinoguy/awesome-ics-writeups
 CVE-2022-2313 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-2313 - https://github.com/ExpLangcn/FuYao-Go
@@ -53317,7 +53319,9 @@ CVE-2022-23222 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2022-23222 - https://github.com/sapphire1896/xnu-linux
 CVE-2022-23242 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23242 - https://github.com/WildZarek/WildZarek
+CVE-2022-23253 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23253 - https://github.com/nettitude/CVE-2022-23253-PoC
+CVE-2022-23253 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-23280 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23280 - https://github.com/RonnieSalomonsen/My-CVEs
 CVE-2022-23284 - https://github.com/ARPSyndicate/cvemon
@@ -54520,7 +54524,10 @@ CVE-2022-27775 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27775 - https://github.com/GitHubForSnap/podcast-dl-gael
 CVE-2022-27776 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27776 - https://github.com/GitHubForSnap/podcast-dl-gael
+CVE-2022-27780 - https://github.com/GitHubForSnap/podcast-dl-gael
+CVE-2022-27781 - https://github.com/GitHubForSnap/podcast-dl-gael
 CVE-2022-27781 - https://github.com/karimhabush/cyberowl
+CVE-2022-27782 - https://github.com/GitHubForSnap/podcast-dl-gael
 CVE-2022-27782 - https://github.com/karimhabush/cyberowl
 CVE-2022-27814 - https://github.com/karimhabush/cyberowl
 CVE-2022-27817 - https://github.com/karimhabush/cyberowl
@@ -54781,7 +54788,6 @@ CVE-2022-28779 - https://github.com/DNSLab-Advisories/Security-Issue
 CVE-2022-28779 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-28810 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28944 - https://github.com/ARPSyndicate/cvemon
-CVE-2022-28944 - https://github.com/gerr-re/cve-2022-28944
 CVE-2022-28944 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-28986 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28986 - https://github.com/FlaviuPopescu/CVE-2022-28986
@@ -54890,11 +54896,13 @@ CVE-2022-30115 - https://github.com/karimhabush/cyberowl
 CVE-2022-30292 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-30292 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-30292 - https://github.com/sprushed/CVE-2022-30292
+CVE-2022-30525 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-30525 - https://github.com/jbaines-r7/victorian_machinery
+CVE-2022-30525 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-30557 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-4034 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-4034 - https://github.com/ashutoshrohilla/CVE-2021-4034
-CVE-2022-6099 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-6099 - https://github.com/R1card0-tutu/Red
 CVE-2022-6099 - https://github.com/rastidoust/rastidoust.github.io
 CVE-2022-8899 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-8899 - https://github.com/w1023913214/CVE-2022-8899
