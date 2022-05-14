@@ -27792,6 +27792,7 @@ CVE-2019-11358 - https://github.com/dhruvvk14/Dhruv_Robot.
 CVE-2019-11358 - https://github.com/discoduckbots/UltimateGoal
 CVE-2019-11358 - https://github.com/dpeachpeach/WPCPRobogrizzlies
 CVE-2019-11358 - https://github.com/duckstroms/Web-CTF-Cheatsheet
+CVE-2019-11358 - https://github.com/dylan-mcdonald/Android-Test
 CVE-2019-11358 - https://github.com/ea239/FtcRobotController
 CVE-2019-11358 - https://github.com/egorfajn/robotics
 CVE-2019-11358 - https://github.com/ehssteelhornets/FreightFrenzy21-22
@@ -41129,6 +41130,7 @@ CVE-2020-4280 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-4305 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2020-4337 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-4362 - https://github.com/Rapid7cn/Nexpose_vck
+CVE-2020-43736 - https://github.com/xss10086/code
 CVE-2020-4414 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-4427 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-4428 - https://github.com/ARPSyndicate/cvemon
@@ -41869,8 +41871,11 @@ CVE-2020-6888 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-6888 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-6888 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-6888 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-6925 - https://github.com/NickstaDB/PoC
 CVE-2020-6925 - https://github.com/alphaSeclab/sec-daily-2020
+CVE-2020-6926 - https://github.com/NickstaDB/PoC
 CVE-2020-6926 - https://github.com/alphaSeclab/sec-daily-2020
+CVE-2020-6927 - https://github.com/NickstaDB/PoC
 CVE-2020-6927 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-6948 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-6949 - https://github.com/SexyBeast233/SecBooks
@@ -52353,6 +52358,7 @@ CVE-2022-1388 - https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit
 CVE-2022-1388 - https://github.com/Zeyad-Azima/CVE-2022-1388
 CVE-2022-1388 - https://github.com/aodsec/CVE-2022-1388-PocExp
 CVE-2022-1388 - https://github.com/bandit92/CVE2022-1388_TestAPI
+CVE-2022-1388 - https://github.com/bhdresh/SnortRules
 CVE-2022-1388 - https://github.com/blind-intruder/CVE-2022-1388-RCE-checker
 CVE-2022-1388 - https://github.com/blind-intruder/CVE-2022-1388-RCE-checker-and-POC-Exploit
 CVE-2022-1388 - https://github.com/blind-intruder/Exploit-CVE
@@ -53337,6 +53343,7 @@ CVE-2022-23242 - https://github.com/WildZarek/WildZarek
 CVE-2022-23253 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23253 - https://github.com/nettitude/CVE-2022-23253-PoC
 CVE-2022-23253 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-23270 - https://github.com/murchie85/twitterCyberMonitor
 CVE-2022-23280 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23280 - https://github.com/RonnieSalomonsen/My-CVEs
 CVE-2022-23284 - https://github.com/ARPSyndicate/cvemon
@@ -54133,7 +54140,6 @@ CVE-2022-25582 - https://github.com/s7safe/CVE
 CVE-2022-25584 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25584 - https://github.com/NSSCYCTFER/Flexwatch
 CVE-2022-25587 - https://github.com/ARPSyndicate/cvemon
-CVE-2022-25587 - https://github.com/Zeyad-Azima/Allure_TestOps_StoredXss
 CVE-2022-25588 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25588 - https://github.com/Zeyad-Azima/Allure_TestOps_IDOR
 CVE-2022-25618 - https://github.com/ARPSyndicate/cvemon
@@ -54360,6 +54366,7 @@ CVE-2022-26878 - https://github.com/karimhabush/cyberowl
 CVE-2022-26904 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-26912 - https://github.com/karimhabush/cyberowl
 CVE-2022-26923 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-26923 - https://github.com/GibzB/THM-Captured-Rooms
 CVE-2022-26923 - https://github.com/JDArmy/GetDomainAdmin
 CVE-2022-26923 - https://github.com/murchie85/twitterCyberMonitor
 CVE-2022-26923 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -54810,6 +54817,7 @@ CVE-2022-28810 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28872 - https://github.com/karimhabush/cyberowl
 CVE-2022-28873 - https://github.com/karimhabush/cyberowl
 CVE-2022-28944 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-28944 - https://github.com/gerr-re/cve-2022-28944
 CVE-2022-28944 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-28986 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28986 - https://github.com/FlaviuPopescu/CVE-2022-28986
@@ -54899,7 +54907,6 @@ CVE-2022-29591 - https://github.com/H4niz/Vulnerability
 CVE-2022-29592 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-29592 - https://github.com/H4niz/Vulnerability
 CVE-2022-29597 - https://github.com/ARPSyndicate/cvemon
-CVE-2022-29597 - https://github.com/TheGetch/CVE-2022-29597
 CVE-2022-29597 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-29598 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-29598 - https://github.com/TheGetch/CVE-2022-29598
@@ -54927,6 +54934,7 @@ CVE-2022-30525 - https://github.com/jbaines-r7/victorian_machinery
 CVE-2022-30525 - https://github.com/karimhabush/cyberowl
 CVE-2022-30525 - https://github.com/luck-ying/Library-POC
 CVE-2022-30525 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-30525 - https://github.com/savior-only/CVE-2022-30525
 CVE-2022-30525 - https://github.com/shuai06/CVE-2022-30525
 CVE-2022-30557 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-4034 - https://github.com/ARPSyndicate/cvemon
