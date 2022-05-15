@@ -43418,6 +43418,7 @@ CVE-2020-9992 - https://github.com/nitishbadole/PENTESTING-BIBLE
 CVE-2020-9992 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-9992 - https://github.com/phant0n/PENTESTING-BIBLE
 CVE-2020-9999 - https://github.com/tdcoming/CVE-2020-9999
+CVE-2021-0000 - https://github.com/m-mizutani/octovy
 CVE-2021-00000 - https://github.com/pen4uin/vulnerability-research-list
 CVE-2021-00001 - https://github.com/hamayanhamayan/all-suspicious-requests
 CVE-2021-0086 - https://github.com/vusec/fpvi-scsb
@@ -51170,7 +51171,6 @@ CVE-2021-44262 - https://github.com/zer0yu/CVE_Request
 CVE-2021-44270 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44270 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-4428 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-4428 - https://github.com/kward/log4sh
 CVE-2021-4428 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-44280 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-44280 - https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame
@@ -52364,6 +52364,7 @@ CVE-2022-1388 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-1388 - https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed
 CVE-2022-1388 - https://github.com/MrCl0wnLab/Nuclei-Template-Exploit-F5-BIG-IP-iControl-REST-Auth-Bypass-RCE-Command-Parameter
 CVE-2022-1388 - https://github.com/Osyanina/westone-CVE-2022-1388-scanner
+CVE-2022-1388 - https://github.com/PsychoSec2/CVE-2022-1388-POC
 CVE-2022-1388 - https://github.com/SecTheBit/CVE-2022-1388
 CVE-2022-1388 - https://github.com/Stonzyy/Exploit-F5-CVE-2022-1388
 CVE-2022-1388 - https://github.com/Str1am/my-nuclei-templates
@@ -52421,8 +52422,11 @@ CVE-2022-15213 - https://github.com/w1023913214/CVE-2022-15213
 CVE-2022-1590 - https://github.com/karimhabush/cyberowl
 CVE-2022-1638 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
+CVE-2022-20004 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-20004 - https://github.com/asnelling/android-eol-security
+CVE-2022-20005 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-20005 - https://github.com/asnelling/android-eol-security
+CVE-2022-20007 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-20007 - https://github.com/asnelling/android-eol-security
 CVE-2022-20019 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-20019 - https://github.com/p1ay8y3ar/cve_monitor
@@ -52485,6 +52489,7 @@ CVE-2022-21371 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2022-21371 - https://github.com/binganao/vulns-2022
 CVE-2022-21371 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-21371 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
+CVE-2022-21404 - https://github.com/cldrn/security-advisories
 CVE-2022-21420 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-21420 - https://github.com/cL0und/cl0und
 CVE-2022-21421 - https://github.com/r00t4dm/r00t4dm
@@ -53488,6 +53493,7 @@ CVE-2022-23812 - https://github.com/open-source-peace/protestware-list
 CVE-2022-23812 - https://github.com/scriptzteam/node-ipc-malware-protestware-CVE-2022-23812
 CVE-2022-23835 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23835 - https://github.com/karimhabush/cyberowl
+CVE-2022-23848 - https://github.com/cldrn/security-advisories
 CVE-2022-23850 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23850 - https://github.com/Asteriska8/Poc_Fuzzing
 CVE-2022-23852 - https://github.com/ARPSyndicate/cvemon
@@ -54205,6 +54211,7 @@ CVE-2022-25949 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-25949 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-25949 - https://github.com/tandasat/CVE-2022-25949
 CVE-2022-26133 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-26133 - https://github.com/Holyshitbruh/2022-2021-RCE
 CVE-2022-26133 - https://github.com/Pear1y/CVE-2022-26133
 CVE-2022-26133 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-26133 - https://github.com/tanjiti/sec_profile
@@ -54553,7 +54560,9 @@ CVE-2022-27458 - https://github.com/Griffin-2022/Griffin
 CVE-2022-27503 - https://github.com/karimhabush/cyberowl
 CVE-2022-27536 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27536 - https://github.com/MrKsey/AdGuardHome
+CVE-2022-27571 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27571 - https://github.com/asnelling/android-eol-security
+CVE-2022-27572 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27572 - https://github.com/asnelling/android-eol-security
 CVE-2022-27588 - https://github.com/karimhabush/cyberowl
 CVE-2022-27643 - https://github.com/ARPSyndicate/cvemon
@@ -54588,6 +54597,7 @@ CVE-2022-27782 - https://github.com/GitHubForSnap/podcast-dl-gael
 CVE-2022-27814 - https://github.com/karimhabush/cyberowl
 CVE-2022-27817 - https://github.com/karimhabush/cyberowl
 CVE-2022-27831 - https://github.com/karimhabush/cyberowl
+CVE-2022-27835 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27835 - https://github.com/asnelling/android-eol-security
 CVE-2022-27839 - https://github.com/karimhabush/cyberowl
 CVE-2022-27840 - https://github.com/karimhabush/cyberowl
