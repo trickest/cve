@@ -41144,7 +41144,6 @@ CVE-2020-4280 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-4305 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2020-4337 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-4362 - https://github.com/Rapid7cn/Nexpose_vck
-CVE-2020-43736 - https://github.com/xss10086/code
 CVE-2020-4414 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-4427 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-4428 - https://github.com/ARPSyndicate/cvemon
@@ -41887,11 +41886,8 @@ CVE-2020-6888 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-6888 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-6888 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-6888 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2020-6925 - https://github.com/NickstaDB/PoC
 CVE-2020-6925 - https://github.com/alphaSeclab/sec-daily-2020
-CVE-2020-6926 - https://github.com/NickstaDB/PoC
 CVE-2020-6926 - https://github.com/alphaSeclab/sec-daily-2020
-CVE-2020-6927 - https://github.com/NickstaDB/PoC
 CVE-2020-6927 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-6948 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-6949 - https://github.com/SexyBeast233/SecBooks
@@ -43425,7 +43421,6 @@ CVE-2020-9992 - https://github.com/nitishbadole/PENTESTING-BIBLE
 CVE-2020-9992 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-9992 - https://github.com/phant0n/PENTESTING-BIBLE
 CVE-2020-9999 - https://github.com/tdcoming/CVE-2020-9999
-CVE-2021-0000 - https://github.com/m-mizutani/octovy
 CVE-2021-00000 - https://github.com/pen4uin/vulnerability-research-list
 CVE-2021-00001 - https://github.com/hamayanhamayan/all-suspicious-requests
 CVE-2021-0086 - https://github.com/vusec/fpvi-scsb
@@ -49603,6 +49598,7 @@ CVE-2021-41073 - https://github.com/Ch4nc3n/PublicExploitation
 CVE-2021-41073 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41073 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41073 - https://github.com/xairy/linux-kernel-exploitation
+CVE-2021-41074 - https://github.com/dillonkirsch/CVE-2021-41074
 CVE-2021-41081 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41081 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41081 - https://github.com/p1ay8y3ar/cve_monitor
@@ -52370,6 +52366,8 @@ CVE-2022-1388 - https://github.com/Str1am/my-nuclei-templates
 CVE-2022-1388 - https://github.com/TomArni680/CVE-2022-1388-POC
 CVE-2022-1388 - https://github.com/TomArni680/CVE-2022-1388-RCE
 CVE-2022-1388 - https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388
+CVE-2022-1388 - https://github.com/Wrin9/CVE-2022-1388
+CVE-2022-1388 - https://github.com/Wrin9/POC
 CVE-2022-1388 - https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit
 CVE-2022-1388 - https://github.com/Zeyad-Azima/CVE-2022-1388
 CVE-2022-1388 - https://github.com/aodsec/CVE-2022-1388-PocExp
@@ -54363,6 +54361,7 @@ CVE-2022-26923 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-26923 - https://github.com/GibzB/THM-Captured-Rooms
 CVE-2022-26923 - https://github.com/JDArmy/GetDomainAdmin
 CVE-2022-26923 - https://github.com/LudovicPatho/CVE-2022-26923_AD-Certificate-Services
+CVE-2022-26923 - https://github.com/aniqfakhrul/certifried.py
 CVE-2022-26923 - https://github.com/murchie85/twitterCyberMonitor
 CVE-2022-26923 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-26923 - https://github.com/outflanknl/C2-Tool-Collection
@@ -54907,6 +54906,7 @@ CVE-2022-29591 - https://github.com/H4niz/Vulnerability
 CVE-2022-29592 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-29592 - https://github.com/H4niz/Vulnerability
 CVE-2022-29597 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-29597 - https://github.com/TheGetch/CVE-2022-29597
 CVE-2022-29597 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-29598 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-29598 - https://github.com/TheGetch/CVE-2022-29598
@@ -54937,6 +54937,8 @@ CVE-2022-30525 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-30525 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-30525 - https://github.com/Henry4E36/CVE-2022-30525
 CVE-2022-30525 - https://github.com/M4fiaB0y/CVE-2022-30525
+CVE-2022-30525 - https://github.com/YGoldking/CVE-2022-30525
+CVE-2022-30525 - https://github.com/badboycxcc/script
 CVE-2022-30525 - https://github.com/d-rn/vulBox
 CVE-2022-30525 - https://github.com/jbaines-r7/victorian_machinery
 CVE-2022-30525 - https://github.com/karimhabush/cyberowl
