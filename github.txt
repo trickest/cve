@@ -4908,7 +4908,6 @@ CVE-2013-6805 - https://github.com/koto/exceed-mitm
 CVE-2013-6806 - https://github.com/koto/exceed-mitm
 CVE-2013-6807 - https://github.com/koto/exceed-mitm
 CVE-2013-6987 - https://github.com/stoicboomer/CVE-2013-6987
-CVE-2013-7035 - https://github.com/JCDMeira/release-notes-react
 CVE-2013-7040 - https://github.com/menkhus/falco
 CVE-2013-7091 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2013-7091 - https://github.com/fengjixuchui/RedTeamer
@@ -12798,6 +12797,7 @@ CVE-2017-0144 - https://github.com/skeeperloyaltie/network
 CVE-2017-0144 - https://github.com/sunzu94/AD-Attack-Defense
 CVE-2017-0144 - https://github.com/tataev/Security
 CVE-2017-0144 - https://github.com/uroboros-security/SMB-CVE
+CVE-2017-0144 - https://github.com/witblack/G3nius-Tools-Sploit
 CVE-2017-0144 - https://github.com/wuvel/TryHackMe
 CVE-2017-0144 - https://github.com/xbl3/awesome-cve-poc_qazbnm456
 CVE-2017-0144 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
@@ -29828,7 +29828,6 @@ CVE-2019-15053 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2019-15053 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2019-15053 - https://github.com/l0nax/CVE-2019-15053
 CVE-2019-15055 - https://github.com/alphaSeclab/sec-daily-2019
-CVE-2019-15063 - https://github.com/engn33r/awesome-bluetooth-security
 CVE-2019-15078 - https://github.com/sjmini/icse2020-Solidity
 CVE-2019-15079 - https://github.com/sjmini/icse2020-Solidity
 CVE-2019-15080 - https://github.com/sjmini/icse2020-Solidity
@@ -35255,11 +35254,7 @@ CVE-2020-1034 - https://github.com/pravinsrc/NOTES-windows-kernel-links
 CVE-2020-1034 - https://github.com/taielab/awesome-hacking-lists
 CVE-2020-1034 - https://github.com/yardenshafir/CVE-2020-1034
 CVE-2020-1034 - https://github.com/ycdxsb/WindowsPrivilegeEscalation
-CVE-2020-10367 - https://github.com/engn33r/awesome-bluetooth-security
 CVE-2020-10367 - https://github.com/joydo/CVE-Writeups
-CVE-2020-10368 - https://github.com/engn33r/awesome-bluetooth-security
-CVE-2020-10369 - https://github.com/engn33r/awesome-bluetooth-security
-CVE-2020-10370 - https://github.com/engn33r/awesome-bluetooth-security
 CVE-2020-10378 - https://github.com/risicle/cpytraceafl
 CVE-2020-10379 - https://github.com/risicle/cpytraceafl
 CVE-2020-1038 - https://github.com/404notf0und/CVE-Flow
@@ -41144,6 +41139,7 @@ CVE-2020-4280 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-4305 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2020-4337 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-4362 - https://github.com/Rapid7cn/Nexpose_vck
+CVE-2020-43736 - https://github.com/xss10086/code
 CVE-2020-4414 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-4427 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-4428 - https://github.com/ARPSyndicate/cvemon
@@ -41886,8 +41882,11 @@ CVE-2020-6888 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-6888 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-6888 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-6888 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2020-6925 - https://github.com/NickstaDB/PoC
 CVE-2020-6925 - https://github.com/alphaSeclab/sec-daily-2020
+CVE-2020-6926 - https://github.com/NickstaDB/PoC
 CVE-2020-6926 - https://github.com/alphaSeclab/sec-daily-2020
+CVE-2020-6927 - https://github.com/NickstaDB/PoC
 CVE-2020-6927 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-6948 - https://github.com/SexyBeast233/SecBooks
 CVE-2020-6949 - https://github.com/SexyBeast233/SecBooks
@@ -47255,7 +47254,6 @@ CVE-2021-31702 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-31703 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-31703 - https://github.com/l00neyhacker/CVE-2021-31703
 CVE-2021-31703 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2021-31717 - https://github.com/engn33r/awesome-bluetooth-security
 CVE-2021-31727 - https://github.com/irql0/CVE-2021-31728
 CVE-2021-31727 - https://github.com/mathisvickie/KMAC
 CVE-2021-31728 - https://github.com/ARPSyndicate/cvemon
@@ -48369,6 +48367,7 @@ CVE-2021-36260 - https://github.com/4n4nk3/HikPwn
 CVE-2021-36260 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-36260 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-36260 - https://github.com/Aiminsun/CVE-2021-36260
+CVE-2021-36260 - https://github.com/Fans0n-Fan/Awesome-IoT-exp
 CVE-2021-36260 - https://github.com/Mr-xn/Penetration_Testing_POC
 CVE-2021-36260 - https://github.com/TaroballzChen/CVE-2021-36260-metasploit
 CVE-2021-36260 - https://github.com/mcw0/PoC
@@ -51141,6 +51140,7 @@ CVE-2021-44228 - https://github.com/wheez-y/CVE-2021-44228-kusto
 CVE-2021-44228 - https://github.com/whitesource-ps/ws-bulk-report-generator
 CVE-2021-44228 - https://github.com/whitesource/log4j-detect-distribution
 CVE-2021-44228 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
+CVE-2021-44228 - https://github.com/witblack/G3nius-Tools-Sploit
 CVE-2021-44228 - https://github.com/wortell/log4j
 CVE-2021-44228 - https://github.com/xsultan/log4jshield
 CVE-2021-44228 - https://github.com/y35uishere/Log4j2-CVE-2021-44228
@@ -52419,6 +52419,8 @@ CVE-2022-1444 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-15213 - https://github.com/w1023913214/CVE-2022-15213
 CVE-2022-1590 - https://github.com/karimhabush/cyberowl
 CVE-2022-1638 - https://github.com/dlehgus1023/dlehgus1023
+CVE-2022-1701 - https://github.com/karimhabush/cyberowl
+CVE-2022-1702 - https://github.com/karimhabush/cyberowl
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20004 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-20004 - https://github.com/asnelling/android-eol-security
@@ -52706,6 +52708,7 @@ CVE-2022-22195 - https://github.com/karimhabush/cyberowl
 CVE-2022-22196 - https://github.com/karimhabush/cyberowl
 CVE-2022-22197 - https://github.com/karimhabush/cyberowl
 CVE-2022-22204 - https://github.com/BBurgarella/An-Ethical-Hacking-Journey
+CVE-2022-22282 - https://github.com/karimhabush/cyberowl
 CVE-2022-22288 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22288 - https://github.com/FSecureLABS/boops-boops-android-agent
 CVE-2022-22296 - https://github.com/ARPSyndicate/cvemon
@@ -53324,6 +53327,7 @@ CVE-2022-23133 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2022-23134 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23134 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2022-23134 - https://github.com/p1ay8y3ar/cve_monitor
+CVE-2022-23139 - https://github.com/karimhabush/cyberowl
 CVE-2022-2317 - https://github.com/ExpLangcn/FuYao-Go
 CVE-2022-23178 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23178 - https://github.com/ARPSyndicate/kenzer-templates
@@ -54791,14 +54795,11 @@ CVE-2022-28571 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-28590 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28590 - https://github.com/jcarabantes/CVE-2022-28590
 CVE-2022-28590 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-28598 - https://github.com/patrickdeanramos/CVE-2022-28598
 CVE-2022-28601 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28601 - https://github.com/FlaviuPopescu/CVE-2022-28601
 CVE-2022-28601 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-28669 - https://github.com/karimhabush/cyberowl
-CVE-2022-28670 - https://github.com/karimhabush/cyberowl
-CVE-2022-28671 - https://github.com/karimhabush/cyberowl
-CVE-2022-28672 - https://github.com/karimhabush/cyberowl
-CVE-2022-28674 - https://github.com/karimhabush/cyberowl
 CVE-2022-28738 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-28738 - https://github.com/lifeparticle/Ruby-Cheatsheet
 CVE-2022-28739 - https://github.com/ARPSyndicate/cvemon
@@ -54935,6 +54936,7 @@ CVE-2022-30489 - https://github.com/badboycxcc/XSS-CVE-2022-30489
 CVE-2022-30489 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-30525 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-30525 - https://github.com/ARPSyndicate/kenzer-templates
+CVE-2022-30525 - https://github.com/Fans0n-Fan/Awesome-IoT-exp
 CVE-2022-30525 - https://github.com/Henry4E36/CVE-2022-30525
 CVE-2022-30525 - https://github.com/M4fiaB0y/CVE-2022-30525
 CVE-2022-30525 - https://github.com/YGoldking/CVE-2022-30525
@@ -54946,6 +54948,8 @@ CVE-2022-30525 - https://github.com/luck-ying/Library-POC
 CVE-2022-30525 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-30525 - https://github.com/savior-only/CVE-2022-30525
 CVE-2022-30525 - https://github.com/shuai06/CVE-2022-30525
+CVE-2022-30525 - https://github.com/superzerosec/CVE-2022-30525
+CVE-2022-30525 - https://github.com/tanjiti/sec_profile
 CVE-2022-30557 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-4034 - https://github.com/ashutoshrohilla/CVE-2021-4034
 CVE-2022-6099 - https://github.com/R1card0-tutu/Red
