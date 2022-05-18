@@ -12735,6 +12735,7 @@ CVE-2017-0143 - https://github.com/cb4cb4/EternalBlue-EK-Auto-Mode
 CVE-2017-0143 - https://github.com/cb4cb4/EternalBlue-EK-Manual-Mode
 CVE-2017-0143 - https://github.com/ceskillets/DCV-Predefined-Log-Filter-of-Specific-CVE-of-EternalBlue-and-BlueKeep-with-Auto-Tag-
 CVE-2017-0143 - https://github.com/chaao195/EBEKv2.0
+CVE-2017-0143 - https://github.com/chanderson-silva/Pentest-Guide
 CVE-2017-0143 - https://github.com/czq945659538/-study
 CVE-2017-0143 - https://github.com/ericjiang97/SecScripts
 CVE-2017-0143 - https://github.com/fei9747/WindowsElevation
@@ -49409,6 +49410,7 @@ CVE-2021-40444 - https://github.com/TiagoSergio/CVE-2021-40444
 CVE-2021-40444 - https://github.com/Udyz/CVE-2021-40444-CAB
 CVE-2021-40444 - https://github.com/Udyz/CVE-2021-40444-Sample
 CVE-2021-40444 - https://github.com/VilNE-Scanner/VilNE
+CVE-2021-40444 - https://github.com/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx
 CVE-2021-40444 - https://github.com/YangSirrr/YangsirStudyPlan
 CVE-2021-40444 - https://github.com/Zeop-CyberSec/word_mshtml
 CVE-2021-40444 - https://github.com/aslitsecurity/CVE-2021-40444_builders
@@ -51069,6 +51071,7 @@ CVE-2021-44228 - https://github.com/mark-5-9/mark59
 CVE-2021-44228 - https://github.com/mark-5-9/mark59-wip
 CVE-2021-44228 - https://github.com/mark-5-9/mark59-zz-temp
 CVE-2021-44228 - https://github.com/marksowell/my-stars
+CVE-2021-44228 - https://github.com/marksowell/starred
 CVE-2021-44228 - https://github.com/maxgfr/awesome-stars
 CVE-2021-44228 - https://github.com/mbechler/marshalsec
 CVE-2021-44228 - https://github.com/mergebase/csv-compare
@@ -51974,7 +51977,6 @@ CVE-2022-0332 - https://github.com/pen4uin/vulnerability-research-list
 CVE-2022-0337 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0337 - https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera
 CVE-2022-0337 - https://github.com/Puliczek/puliczek
-CVE-2022-0337 - https://github.com/hktalent/TOP
 CVE-2022-0337 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0337 - https://github.com/pipiscrew/timeline
 CVE-2022-0351 - https://github.com/ARPSyndicate/cvemon
@@ -52035,6 +52037,7 @@ CVE-2022-0492 - https://github.com/bigpick/cve-reading-list
 CVE-2022-0492 - https://github.com/cdk-team/CDK
 CVE-2022-0492 - https://github.com/chenaotian/CVE-2022-0492
 CVE-2022-0492 - https://github.com/marksowell/my-stars
+CVE-2022-0492 - https://github.com/marksowell/starred
 CVE-2022-0492 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-0492 - https://github.com/puckiestyle/CVE-2022-0492
 CVE-2022-0492 - https://github.com/sam8k/Dynamic-and-Static-Analysis-of-SOUPs
@@ -52247,6 +52250,7 @@ CVE-2022-0847 - https://github.com/logm1lo/CVE-2022-0847_DirtyPipe_Exploits
 CVE-2022-0847 - https://github.com/lonnyzhang423/github-hot-hub
 CVE-2022-0847 - https://github.com/lucksec/CVE-2022-0847
 CVE-2022-0847 - https://github.com/marksowell/my-stars
+CVE-2022-0847 - https://github.com/marksowell/starred
 CVE-2022-0847 - https://github.com/mhanief/dirtypipe
 CVE-2022-0847 - https://github.com/michaelklaan/CVE-2022-0847-Dirty-Pipe
 CVE-2022-0847 - https://github.com/mrchucu1/CVE-2022-0847-Docker
@@ -52488,8 +52492,8 @@ CVE-2022-15213 - https://github.com/w1023913214/CVE-2022-15213
 CVE-2022-1590 - https://github.com/karimhabush/cyberowl
 CVE-2022-1597 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-1597 - https://github.com/V35HR4J/CVE-2022-1597
+CVE-2022-1597 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-1598 - https://github.com/ARPSyndicate/cvemon
-CVE-2022-1598 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-1638 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-1701 - https://github.com/karimhabush/cyberowl
 CVE-2022-1702 - https://github.com/karimhabush/cyberowl
@@ -53337,6 +53341,7 @@ CVE-2022-22968 - https://github.com/adidaspaul/adidaspaul
 CVE-2022-22968 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22976 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22976 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-22976 - https://github.com/spring-io/cve-2022-22976-bcrypt-skips-salt
 CVE-2022-22984 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22984 - https://github.com/PenteraIO/CVE-2022-22948
 CVE-2022-23036 - https://github.com/ARPSyndicate/cvemon
