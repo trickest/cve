@@ -1,4 +1,3 @@
-CVE-0000-0000 - https://github.com/Konstantinos-Papanagnou/CMSpit
 CVE-1999-0001 - https://github.com/flowground/anchore-io-connector
 CVE-1999-0001 - https://github.com/jimmyislive/gocve
 CVE-1999-0001 - https://github.com/quentinmayo/get_nvd_data_from_online_to_csv
@@ -37719,6 +37718,7 @@ CVE-2020-1506 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1507 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1508 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-1508 - https://github.com/Cheroxx/Patch-Tuesday-Updates
+CVE-2020-15081 - https://github.com/JoshuaMart/JoshuaMart
 CVE-2020-1509 - https://github.com/punishell/WindowsLegacyCVE
 CVE-2020-15092 - https://github.com/ossf-cve-benchmark/CVE-2020-15092
 CVE-2020-15093 - https://github.com/Artisan-Lab/Rust-memory-safety-bugs
@@ -39234,9 +39234,11 @@ CVE-2020-25068 - https://github.com/developer3000S/PoC-in-GitHub
 CVE-2020-25068 - https://github.com/hectorgie/PoC-in-GitHub
 CVE-2020-25068 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2020-25069 - https://github.com/404notf0und/CVE-Flow
+CVE-2020-25069 - https://github.com/JoshuaMart/JoshuaMart
 CVE-2020-25069 - https://github.com/usvn/usvn
 CVE-2020-2507 - https://github.com/ExpLangcn/FuYao-Go
 CVE-2020-25070 - https://github.com/404notf0und/CVE-Flow
+CVE-2020-25070 - https://github.com/JoshuaMart/JoshuaMart
 CVE-2020-25070 - https://github.com/usvn/usvn
 CVE-2020-25073 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-25078 - https://github.com/1n7erface/PocList
@@ -41276,6 +41278,7 @@ CVE-2020-4280 - https://github.com/tzwlhack/Vulnerability
 CVE-2020-4305 - https://github.com/PalindromeLabs/Java-Deserialization-CVEs
 CVE-2020-4337 - https://github.com/404notf0und/CVE-Flow
 CVE-2020-4362 - https://github.com/Rapid7cn/Nexpose_vck
+CVE-2020-43736 - https://github.com/xss10086/code
 CVE-2020-4414 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-4427 - https://github.com/ARPSyndicate/cvemon
 CVE-2020-4428 - https://github.com/ARPSyndicate/cvemon
@@ -43650,7 +43653,6 @@ CVE-2021-0340 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2021-0340 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-0341 - https://github.com/Anonymous-Phunter/PHunter
 CVE-2021-0341 - https://github.com/TinyNiko/android_bulletin_notes
-CVE-2021-036934 - https://github.com/mwarnerblu/GoHN
 CVE-2021-0390 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2021-0391 - https://github.com/TinyNiko/android_bulletin_notes
 CVE-2021-0391 - https://github.com/nomi-sec/PoC-in-GitHub
@@ -43710,7 +43712,6 @@ CVE-2021-0928 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-0928 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-0954 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-0963 - https://github.com/nomi-sec/PoC-in-GitHub
-CVE-2021-10086 - https://github.com/xiaoyun-1/CVE-2021-10086
 CVE-2021-1048 - https://github.com/xairy/linux-kernel-exploitation
 CVE-2021-1056 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-1056 - https://github.com/SexyBeast233/SecBooks
@@ -46637,7 +46638,6 @@ CVE-2021-28799 - https://github.com/triw0lf/Security-Matters-22
 CVE-2021-28807 - https://github.com/ShielderSec/poc
 CVE-2021-28814 - https://github.com/thomasfady/QNAP_QSA-21-25
 CVE-2021-28831 - https://github.com/thecyberbaby/Trivy-by-aquaSecurity
-CVE-2021-2885 - https://github.com/Tlc123456/CVE
 CVE-2021-28854 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-28854 - https://github.com/JHHAX/VICIdial
 CVE-2021-28875 - https://github.com/Qwaz/rust-cve
@@ -48579,7 +48579,6 @@ CVE-2021-36286 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-3634 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3634 - https://github.com/GitHubForSnap/podcast-dl-gael
 CVE-2021-3634 - https://github.com/p1ay8y3ar/cve_monitor
-CVE-2021-36355 - https://github.com/Mayfly277/vulns
 CVE-2021-36355 - https://github.com/Orange-Cyberdefense/CVE-repository
 CVE-2021-36356 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-36367 - https://github.com/ARPSyndicate/cvemon
@@ -48860,7 +48859,6 @@ CVE-2021-37580 - https://github.com/pen4uin/awesome-vulnerability-research
 CVE-2021-37580 - https://github.com/pen4uin/vulnerability-research-list
 CVE-2021-37580 - https://github.com/rabbitsafe/CVE-2021-37580
 CVE-2021-37580 - https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-
-CVE-2021-37589 - https://github.com/luca-regne/CVE-2021-37589
 CVE-2021-37593 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-37593 - https://github.com/faisalfs10x/CVE-IDs
 CVE-2021-37593 - https://github.com/nightfury99/CVE-IDs
@@ -49284,8 +49282,6 @@ CVE-2021-3945 - https://github.com/noobpk/noobpk
 CVE-2021-3945 - https://github.com/pythonman083/expbox
 CVE-2021-39458 - https://github.com/evildrummer/MyOwnCVEs
 CVE-2021-39459 - https://github.com/evildrummer/MyOwnCVEs
-CVE-2021-39475 - https://github.com/W4RCL0UD/CVE-2021-39475
-CVE-2021-39476 - https://github.com/W4RCL0UD/CVE-2021-39476
 CVE-2021-3950 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3950 - https://github.com/noobpk/noobpk
 CVE-2021-39501 - https://github.com/ARPSyndicate/cvemon
@@ -49661,9 +49657,6 @@ CVE-2021-40490 - https://github.com/sam8k/Dynamic-and-Static-Analysis-of-SOUPs
 CVE-2021-40492 - https://github.com/5qu1n7/CVE-2021-40492
 CVE-2021-40492 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40492 - https://github.com/p1ay8y3ar/cve_monitor
-CVE-2021-40512 - https://github.com/war4uthor/CVE-2021-40512
-CVE-2021-40513 - https://github.com/war4uthor/CVE-2021-40513
-CVE-2021-40514 - https://github.com/war4uthor/CVE-2021-40514
 CVE-2021-40528 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-40528 - https://github.com/akiraabe/myapp-container-jaxrs
 CVE-2021-40528 - https://github.com/brandoncamenisch/release-the-code-litecoin
@@ -49897,6 +49890,9 @@ CVE-2021-4124 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-4124 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-41241 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41241 - https://github.com/karimhabush/cyberowl
+CVE-2021-41260 - https://github.com/JoshuaMart/JoshuaMart
+CVE-2021-41261 - https://github.com/JoshuaMart/JoshuaMart
+CVE-2021-41262 - https://github.com/JoshuaMart/JoshuaMart
 CVE-2021-41266 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41266 - https://github.com/ARPSyndicate/kenzer-templates
 CVE-2021-41273 - https://github.com/ARPSyndicate/cvemon
@@ -52046,7 +52042,6 @@ CVE-2021-6857 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-6857 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-6857 - https://github.com/zi0n8/CVE-2021-6857
 CVE-2021-6901 - https://github.com/ARPSyndicate/cvemon
-CVE-2021-6901 - https://github.com/mooneee/cve-2021-6901
 CVE-2021-9999 - https://github.com/Reach-Z/CVE-2021-9999
 CVE-2022-0001 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-0001 - https://github.com/Tsuki124/crawlab-db
@@ -52700,6 +52695,7 @@ CVE-2022-1597 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-1638 - https://github.com/dlehgus1023/dlehgus1023
 CVE-2022-1701 - https://github.com/karimhabush/cyberowl
 CVE-2022-1702 - https://github.com/karimhabush/cyberowl
+CVE-2022-1737 - https://github.com/JoshuaMart/JoshuaMart
 CVE-2022-2000000 - https://github.com/clj-holmes/clj-watson
 CVE-2022-20004 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-20004 - https://github.com/asnelling/android-eol-security
@@ -53563,6 +53559,7 @@ CVE-2022-22976 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22976 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22976 - https://github.com/spring-io/cve-2022-22976-bcrypt-skips-salt
 CVE-2022-22984 - https://github.com/ARPSyndicate/cvemon
+CVE-2022-22984 - https://github.com/PenteraIO/CVE-2022-22948
 CVE-2022-23036 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23036 - https://github.com/karimhabush/cyberowl
 CVE-2022-23037 - https://github.com/ARPSyndicate/cvemon
@@ -55418,6 +55415,7 @@ CVE-2022-30780 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-30780 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-30780 - https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service
 CVE-2022-30780 - https://github.com/p0dalirius/p0dalirius
+CVE-2022-30781 - https://github.com/wuhan005/wuhan005
 CVE-2022-30965 - https://github.com/karimhabush/cyberowl
 CVE-2022-30966 - https://github.com/karimhabush/cyberowl
 CVE-2022-30967 - https://github.com/karimhabush/cyberowl
