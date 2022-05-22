@@ -36825,6 +36825,7 @@ CVE-2020-1362 - https://github.com/yedada-wei/gongkaishouji
 CVE-2020-13622 - https://github.com/googleprojectzero/fuzzilli
 CVE-2020-13623 - https://github.com/googleprojectzero/fuzzilli
 CVE-2020-13629 - https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking
+CVE-2020-13629 - https://github.com/V33RU/IoTSecurity101
 CVE-2020-13629 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-13629 - https://github.com/mishmashclone/V33RU-IoTSecurity101
 CVE-2020-13630 - https://github.com/garethr/snykout
@@ -50666,8 +50667,10 @@ CVE-2021-42840 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42913 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42913 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42948 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-42948 - https://github.com/dhammon/THM-HotelKiosk-OfficialWriteup
 CVE-2021-42948 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42949 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-42949 - https://github.com/dhammon/THM-HotelKiosk-OfficialWriteup
 CVE-2021-42949 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-42970 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-42970 - https://github.com/LoveCppp/LoveCppp
@@ -50933,6 +50936,7 @@ CVE-2021-43891 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-43891 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-43893 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-43893 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2021-43893 - https://github.com/yuanLink/CVE-2022-26809
 CVE-2021-43907 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-43907 - https://github.com/parsiya/Parsia-Code
 CVE-2021-43907 - https://github.com/parsiya/code-wsl-rce
@@ -53175,6 +53179,7 @@ CVE-2022-22893 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2022-22909 - https://github.com/0z09e/CVE-2022-22909
 CVE-2022-22909 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22909 - https://github.com/binganao/vulns-2022
+CVE-2022-22909 - https://github.com/dhammon/THM-HotelKiosk-OfficialWriteup
 CVE-2022-22909 - https://github.com/kaal18/CVE-2022-22909
 CVE-2022-22909 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22916 - https://github.com/ARPSyndicate/cvemon
@@ -53558,7 +53563,6 @@ CVE-2022-22976 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22976 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22976 - https://github.com/spring-io/cve-2022-22976-bcrypt-skips-salt
 CVE-2022-22984 - https://github.com/ARPSyndicate/cvemon
-CVE-2022-22984 - https://github.com/PenteraIO/CVE-2022-22948
 CVE-2022-23036 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-23036 - https://github.com/karimhabush/cyberowl
 CVE-2022-23037 - https://github.com/ARPSyndicate/cvemon
