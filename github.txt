@@ -36825,7 +36825,6 @@ CVE-2020-1362 - https://github.com/yedada-wei/gongkaishouji
 CVE-2020-13622 - https://github.com/googleprojectzero/fuzzilli
 CVE-2020-13623 - https://github.com/googleprojectzero/fuzzilli
 CVE-2020-13629 - https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking
-CVE-2020-13629 - https://github.com/V33RU/IoTSecurity101
 CVE-2020-13629 - https://github.com/alphaSeclab/sec-daily-2020
 CVE-2020-13629 - https://github.com/mishmashclone/V33RU-IoTSecurity101
 CVE-2020-13630 - https://github.com/garethr/snykout
@@ -45466,6 +45465,7 @@ CVE-2021-24762 - https://github.com/cr0ss2018/cr0ss2018
 CVE-2021-24762 - https://github.com/ezelnur6327/Enes4xd
 CVE-2021-24762 - https://github.com/ezelnur6327/enesamaafkolan
 CVE-2021-24762 - https://github.com/ezelnur6327/ezelnur6327
+CVE-2021-24762 - https://github.com/galoget/schneider-electric-ctf
 CVE-2021-24786 - https://github.com/Enes4xd/Enes4xd
 CVE-2021-24786 - https://github.com/Hacker5preme/Exploits
 CVE-2021-24786 - https://github.com/cr0ss2018/cr0ss2018
@@ -49289,7 +49289,6 @@ CVE-2021-3950 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-3950 - https://github.com/noobpk/noobpk
 CVE-2021-39501 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-39501 - https://github.com/ARPSyndicate/kenzer-templates
-CVE-2021-39512 - https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver
 CVE-2021-39609 - https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame
 CVE-2021-39609 - https://github.com/nu11secur1ty/CVE-mitre
 CVE-2021-39609 - https://github.com/nu11secur1ty/CVE-nu11secur1ty
@@ -49807,7 +49806,6 @@ CVE-2021-41073 - https://github.com/Ch4nc3n/PublicExploitation
 CVE-2021-41073 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41073 - https://github.com/p1ay8y3ar/cve_monitor
 CVE-2021-41073 - https://github.com/xairy/linux-kernel-exploitation
-CVE-2021-41074 - https://github.com/dillonkirsch/CVE-2021-41074
 CVE-2021-41081 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-41081 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-41081 - https://github.com/p1ay8y3ar/cve_monitor
@@ -51808,6 +51806,7 @@ CVE-2021-45802 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-45803 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-45803 - https://github.com/OpenGitLab/Bug-Storage
 CVE-2021-45843 - https://github.com/ARPSyndicate/cvemon
+CVE-2021-45843 - https://github.com/Offensive-Penetration-Security/OPSEC-Hall-of-fame
 CVE-2021-45843 - https://github.com/nu11secur1ty/CVE-mitre
 CVE-2021-45876 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-45876 - https://github.com/karimhabush/cyberowl
@@ -52042,6 +52041,7 @@ CVE-2021-46702 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-6857 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-6857 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2021-6857 - https://github.com/zi0n8/CVE-2021-6857
+CVE-2021-6901 - https://github.com/ARPSyndicate/cvemon
 CVE-2021-6901 - https://github.com/mooneee/cve-2021-6901
 CVE-2021-9999 - https://github.com/Reach-Z/CVE-2021-9999
 CVE-2022-0001 - https://github.com/ARPSyndicate/cvemon
@@ -53177,7 +53177,9 @@ CVE-2022-22909 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22909 - https://github.com/binganao/vulns-2022
 CVE-2022-22909 - https://github.com/kaal18/CVE-2022-22909
 CVE-2022-22909 - https://github.com/nomi-sec/PoC-in-GitHub
+CVE-2022-22916 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22916 - https://github.com/aodsec/CVE-2022-22916
+CVE-2022-22916 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22919 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-22919 - https://github.com/nomi-sec/PoC-in-GitHub
 CVE-2022-22919 - https://github.com/p1ay8y3ar/cve_monitor
@@ -53382,6 +53384,7 @@ CVE-2022-22963 - https://github.com/sinjap/spring4shell
 CVE-2022-22963 - https://github.com/stevemats/Spring0DayCoreExploit
 CVE-2022-22963 - https://github.com/thenurhabib/s4sScanner
 CVE-2022-22963 - https://github.com/thomasvincent/springshell
+CVE-2022-22963 - https://github.com/trhacknon/CVE-2022-22963
 CVE-2022-22963 - https://github.com/tweedge/springcore-0day-en
 CVE-2022-22963 - https://github.com/twseptian/cve-2022-22963
 CVE-2022-22963 - https://github.com/wcoreiron/Sentinel_Analtic_Rules
@@ -54878,6 +54881,7 @@ CVE-2022-27304 - https://github.com/nu11secur1ty/CVE-mitre
 CVE-2022-27304 - https://github.com/nu11secur1ty/CVE-nu11secur1ty
 CVE-2022-27313 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27313 - https://github.com/cokeBeer/go-cves
+CVE-2022-27330 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27330 - https://github.com/CP04042K/CVE
 CVE-2022-27346 - https://github.com/ARPSyndicate/cvemon
 CVE-2022-27346 - https://github.com/D4rkP0w4r/D4rkP0w4r
