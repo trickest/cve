@@ -11,6 +11,7 @@
 
 To see the complete history go [here](hot_cves.csv)
 
+[<img src="./banner.png" />](https://trickest-access.paperform.co/)
 
 ## How it works
 ### [Trickest](https://trickest.com) Workflow Architecture
@@ -58,3 +59,5 @@ All contribtutions/ideas/suggestions are welcome! Create a new ticket via [GitHu
 ## Build your own workflows
 
 We believe in the value of tinkering; cookie-cutter solutions rarely cut it. Sign up for a demo on [trickest.com](https://trickest.com) to customize this workflow to your use case, get access to many more workflows, or build your own from scratch!
+
+[<img src="./banner.png" />](https://trickest-access.paperform.co/)
