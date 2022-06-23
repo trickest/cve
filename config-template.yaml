@@ -1,0 +1,3 @@
+inputs:   # List of input values for the particular workflow nodes.
+  string-to-file-1.string: $CVE
+  string-to-file-2.string: $ISSUE_ID

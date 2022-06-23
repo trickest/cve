@@ -1,0 +1,29 @@
+name: CVEs On Demand
+
+on:
+  issues:
+    types: [created, edited, labeled]
+
+jobs:
+  execute-trickest-workflow:
+    if: ${{ github.event.label.name == 'On-Demand' }}
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Check Out
+      uses: actions/checkout@main
+
+    - name: Replace Variables
+      run: |
+        cat config-template.yaml | sed 's/$CVE/${{ github.event.issue.title }}/g' | sed 's/$ISSUE_ID/${{ github.event.issue.number }}/g' > config.yaml
+
+    - name: Trickest Execute
+      id: trickest
+      uses: trickest/action@main
+      env:
+        TRICKEST_TOKEN: "${{ secrets.TRICKEST_TOKEN }}"
+      with:
+        workflow: "CVE - On Demand"
+        space: "CVEs"
+        watch: true
+        config_path: config.yaml
