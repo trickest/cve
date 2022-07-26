@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta content="initial-scale=1, maximum-scale=1, 
+                user-scalable=0" name="viewport" />
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- Stylesheets for bootstrap + datatables 5 -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css'>
+    <link rel='stylesheet' href='https://cdn.datatables.net/1.11.4/css/dataTables.bootstrap5.min.css'>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.4/js/dataTables.bootstrap5.min.js">
+
+    <!-- JS for jquery + datatables + datatables>bootstrap-->
+    
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js">
+    </script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js">
+    </script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.11.4/js/dataTables.bootstrap5.min.js">
+    </script>
+
+    
+    </script>
+
+    <style>
+        body {
+            margin-top: 5%;
+            font-size:12px;
+            margin-left:5%;
+            margin-right:5%;
+        }
+
+        #overlay {
+            background: #ffffff;
+            color: #666666;
+            position: fixed;
+            height: 100%;
+            width: 100%;
+            z-index: 5000;
+            top: 0;
+            left: 0;
+            float: left;
+            text-align: center;
+            padding-top: 25%;
+            opacity: .80;
+        }
+
+        button {
+            margin: 40px;
+            padding: 5px 20px;
+            cursor: pointer;
+        }
+
+        .spinner {
+            margin: 0 auto;
+            height: 64px;
+            width: 64px;
+            animation: rotate 0.8s infinite linear;
+            border: 5px solid firebrick;
+            border-right-color: transparent;
+            border-radius: 50%;
+        }
+
+        @keyframes rotate {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Bootstrap overlay div with growing spinner -->
+    <div id="overlay">
+        <div class="spinner"></div>
+        <br />
+        Loading... (usually 5-10s)
+    </div>
+
+
+    <div class="row justify-content-center" width="800px">
+        <div class="">
+            <h2>CVE Search</h2>
+            <!--HTML table with student data-->
+            <table id="datatable" class="table table-striped table-bordered" style="display:none" cellspacing="0"
+                width="100%">
+                <thead>
+                    <tr>
+                        <th>CVE_Year</th>
+                        <th>CVE_Name</th>
+                        <th>CVE_description</th>
+                        <th>CVE_github</th>
+                        <th>CVE_references</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>CVE_Year</th>
+                        <th>CVE_Name</th>
+                        <th>CVE_description</th>
+                        <th>CVE_github</th>
+                        <th>CVE_references</th>
+                    </tr>
+                </tfoot>
+
+            </table>
+        </div>
+    </div>
+
+    <footer class="mt-auto text-black-50">
+        <p>Searchable CVEs from <a href="https://github.com/trickest/cve" class="text">https://github.com/trickest/cve</a>, by <a href="https://twitter.com/andrewmohawk" class="text">@AndrewMohawk</a>.</p>
+    </footer>
+
+    <script type="text/javascript" src="CVE_list.json"></script>
+
+
+    <script>
+       
+        /* Initialization of datatable */
+        $(document).ready(function () {
+            var startTime = new Date().getTime();
+            table_settings = {
+                "dom": 'flirtp<"dt-buttons"Bf>',
+                "paging": true,
+                "processing": true,
+                responsive: false,
+                "deferRender": true,
+                oLanguage: { sProcessing: "<div id='loader'></div>" },
+                "buttons": [
+                    'colvis',
+                ],
+                "bSortClasses": false,
+                "bAutoWidth": false,
+                "aoColumns": [
+                    { "sWidth": "5%" },
+                    { "sWidth": "10%" },
+                    { "sWidth": "55%" },
+                    { "sWidth": "20%" },
+                    { "sWidth": "10%" },
+                ],
+                "order": [[ 1, "desc" ]],
+                "orderClasses": false,
+                "data": dataTable_data,
+                initComplete: function () {
+                    // Apply the search
+                    this.api().columns().every(function () {
+                        var that = this;
+
+                        $('input', this.footer()).on('keyup change clear', function () {
+                            if (that.search() !== this.value) {
+                                that
+                                    .search(this.value)
+                                    .draw();
+                            }
+                        });
+                    });
+
+
+                }
+            }
+
+            $('#datatable tfoot th').each(function () {
+                var title = $(this).text();
+                $(this).html('<input type="text" placeholder="Search ' + title + '" />');
+            });
+
+            $('#overlay').show()
+            $('#datatable').on('init.dt', function () {
+                var endTime   = new Date().getTime();
+                var totalTimeTaken = (endTime - startTime) / 1000;
+                console.log('Table initialisation complete in: ' + totalTimeTaken + "s");
+                $('#datatable').show();
+                $('#overlay').hide()
+            })
+                .on('init', function () {
+                    $('*[type="search"][class="form-control input-sm"]')
+                        .addClass('input-lg')
+                        .css({ 'width': '400px', 'display': 'inline-block' });
+                    $('div.dataTables_filter').css({ 'margin-top': '1em' });
+                })
+                .dataTable(table_settings);
+
+        });
+    </script>
+</body>
+
+</html>
