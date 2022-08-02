@@ -52,6 +52,7 @@ To see the complete history go [here](hot_cves.csv)
 - `Watch` the repository to receive notifications about new PoCs as soon as they go public.
 - Search for a specific product(s) (and possibly version) to find all public exploits related to it.
 - Monitor the [atom feed](https://github.com/trickest/cve/commits/main.atom) for a specific product(s).
+- Create a searchable HTML table using the template and script in [summary_html](summary_html) (Thanks [@AndrewMohawk](https://github.com/AndrewMohawk)!)
 
 ## Contribution
 All contribtutions/ideas/suggestions are welcome! Create a new ticket via [GitHub issues](https://github.com/trickest/cve/issues) or tweet at us [@trick3st](https://twitter.com/trick3st).
