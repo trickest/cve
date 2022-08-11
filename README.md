@@ -32,6 +32,10 @@ To see the complete history go [here](hot_cves.csv)
          (Thanks [@joohoi](https://github.com/joohoi)!)
          
          **Note**: [ffuf](https://github.com/ffuf/ffuf) is awesome for more purposes than just content discovery.
+
+         Get CVE referenced in HackerOne Reports - [AllVideoPocsFromHackerOne](https://github.com/zeroc00I/AllVideoPocsFromHackerOne) (Thanks [@zeroc00I](https://github.com/zeroc00I)!)
+
+
     2. Github
         
         Search GitHub for repositories with [find-gh-poc](https://github.com/trickest/find-gh-poc) that mention the CVE ID.
