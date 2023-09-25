@@ -11,7 +11,7 @@
 
 To see the complete history go [here](hot_cves.csv)
 
-[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+[<img src="./banner.png" />](https://trickest.io/auth/register)
 
 ## How it works
 ### [Trickest](https://trickest.com) Workflow Architecture
@@ -66,4 +66,4 @@ All contribtutions/ideas/suggestions are welcome! Create a new ticket via [GitHu
 
 We believe in the value of tinkering; cookie-cutter solutions rarely cut it. Sign up for a [Trickest](https://trickest.com) demo to customize this workflow to your use case, get access to many more workflows, or build your own workflows from scratch!
 
-[<img src="./banner.png" />](https://trickest-access.paperform.co/)
+[<img src="./banner.png" />](https://trickest.io/auth/register)
