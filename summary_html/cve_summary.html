@@ -140,7 +140,14 @@
                 "aoColumns": [
                     { "sWidth": "5%" },
                     { "sWidth": "10%" },
-                    { "sWidth": "55%" },
+                    {
+                      "sWidth": "55%",
+                      "data": 2,
+                      "render": function(data, type, row) {
+                        // Escape and return the description
+                        return $('<div/>').text(data).html();
+                      }
+                },
                     { "sWidth": "20%" },
                     { "sWidth": "10%" },
                 ],
