@@ -687,6 +687,7 @@ CVE-2003-0526 - http://marc.info/?l=bugtraq&m=105838519729525&w=2
 CVE-2003-0526 - http://marc.info/?l=ntbugtraq&m=105838590030409&w=2
 CVE-2003-0533 - http://marc.info/?l=bugtraq&m=108325860431471&w=2
 CVE-2003-0533 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A919
+CVE-2003-0536 - http://sourceforge.net/tracker/index.php?func=detail&aid=670222&group_id=15&atid=100015
 CVE-2003-0540 - http://www.linuxsecurity.com/advisories/engarde_advisory-3517.html
 CVE-2003-0542 - http://www.securityfocus.com/bid/9504
 CVE-2003-0542 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9458
@@ -20016,6 +20017,7 @@ CVE-2010-1150 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_15_3/phase3
 CVE-2010-1150 - http://svn.wikimedia.org/svnroot/mediawiki/tags/REL1_16_0beta2/phase3/RELEASE-NOTES
 CVE-2010-1155 - http://www.vupen.com/english/advisories/2010/1107
 CVE-2010-1156 - http://www.vupen.com/english/advisories/2010/1107
+CVE-2010-1157 - http://www.redhat.com/support/errata/RHSA-2011-0897.html
 CVE-2010-1157 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-1157 - http://www.vmware.com/support/vsphere4/doc/vsp_vc41_u1_rel_notes.html
 CVE-2010-1157 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A19492
@@ -20228,6 +20230,7 @@ CVE-2010-1437 - http://www.vupen.com/english/advisories/2010/1857
 CVE-2010-1437 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9715
 CVE-2010-1439 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9232
 CVE-2010-1446 - http://www.vupen.com/english/advisories/2010/1857
+CVE-2010-1452 - http://www.redhat.com/support/errata/RHSA-2011-0897.html
 CVE-2010-1457 - http://ftpmain.gnustep.org/pub/gnustep/core/gnustep-base-1.20.0.tar.gz
 CVE-2010-1461 - http://www.exploit-db.com/exploits/12232
 CVE-2010-1466 - http://www.exploit-db.com/exploits/12193
@@ -20330,6 +20333,7 @@ CVE-2010-1618 - http://www.vupen.com/english/advisories/2010/1107
 CVE-2010-1619 - http://www.vupen.com/english/advisories/2010/1107
 CVE-2010-1620 - http://ftpmain.gnustep.org/pub/gnustep/core/gnustep-base-1.20.0.tar.gz
 CVE-2010-1622 - http://www.oracle.com/technetwork/topics/security/cpuoct2015-2367953.html
+CVE-2010-1623 - http://www.redhat.com/support/errata/RHSA-2011-0897.html
 CVE-2010-1624 - http://www.securityfocus.com/bid/40138
 CVE-2010-1625 - http://sourceforge.net/projects/lxr/files/stable/lxr-0.9.7/ChangeLog/download
 CVE-2010-1626 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9490
@@ -21580,6 +21584,7 @@ CVE-2010-3712 - http://www.openwall.com/lists/oss-security/2011/03/18/3
 CVE-2010-3712 - http://www.openwall.com/lists/oss-security/2011/03/18/5
 CVE-2010-3712 - http://yehg.net/lab/pr0js/advisories/joomla/core/%5Bjoomla_1.5.20%5D_cross_site_scripting%28XSS%29
 CVE-2010-3712 - http://yehg.net/lab/pr0js/advisories/joomla/core/%5Bjoomla_1.5.20%5D_cross_site_scripting(XSS)
+CVE-2010-3718 - http://www.redhat.com/support/errata/RHSA-2011-0897.html
 CVE-2010-3742 - http://packetstormsecurity.org/1008-exploits/freesimplesoftware-rfi.txt
 CVE-2010-3747 - http://securityreason.com/securityalert/8147
 CVE-2010-3765 - http://www.exploit-db.com/exploits/15342
@@ -21770,6 +21775,7 @@ CVE-2010-4167 - http://www.imagemagick.org/script/changelog.php
 CVE-2010-4167 - http://www.ubuntu.com/usn/USN-1028-1
 CVE-2010-4170 - http://packetstormsecurity.com/files/152569/SystemTap-1.3-MODPROBE_OPTIONS-Privilege-Escalation.html
 CVE-2010-4170 - https://www.exploit-db.com/exploits/46730/
+CVE-2010-4172 - http://www.redhat.com/support/errata/RHSA-2011-0897.html
 CVE-2010-4184 - http://www.kb.cert.org/vuls/id/465239
 CVE-2010-4185 - http://www.exploit-db.com/exploits/15327
 CVE-2010-4193 - http://www.kb.cert.org/vuls/id/189929
@@ -22594,6 +22600,7 @@ CVE-2010-5340 - https://vuldb.com/?id.142993
 CVE-2011-0004 - http://openwall.com/lists/oss-security/2011/01/06/1
 CVE-2011-0005 - http://yehg.net/lab/pr0js/advisories/joomla/core/%5Bjoomla_1.0.x~15%5D_cross_site_scripting
 CVE-2011-0013 - http://securityreason.com/securityalert/8093
+CVE-2011-0013 - http://www.redhat.com/support/errata/RHSA-2011-0897.html
 CVE-2011-0020 - https://bugzilla.redhat.com/show_bug.cgi?id=671122
 CVE-2011-0027 - http://vreugdenhilresearch.nl/ms11-002-pwn2own-heap-overflow/
 CVE-2011-0028 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-033
@@ -22674,6 +22681,7 @@ CVE-2011-0419 - http://securityreason.com/securityalert/8246
 CVE-2011-0419 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:150
 CVE-2011-0419 - http://www.oracle.com/technetwork/topics/security/cpujul2012-392727.html
 CVE-2011-0419 - http://www.oracle.com/technetwork/topics/security/cpujuly2013-1899826.html
+CVE-2011-0419 - http://www.redhat.com/support/errata/RHSA-2011-0897.html
 CVE-2011-0419 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A14638
 CVE-2011-0420 - http://securityreason.com/achievement_securityalert/94
 CVE-2011-0420 - http://securityreason.com/securityalert/8087
@@ -65613,6 +65621,7 @@ CVE-2018-9020 - https://www.gubello.me/blog/events-manager-authenticated-stored-
 CVE-2018-9020 - https://www.youtube.com/watch?v=40d7uXl36O4
 CVE-2018-9021 - http://packetstormsecurity.com/files/155576/Broadcom-CA-Privileged-Access-Manager-2.8.2-Remote-Command-Execution.html
 CVE-2018-9022 - http://packetstormsecurity.com/files/155576/Broadcom-CA-Privileged-Access-Manager-2.8.2-Remote-Command-Execution.html
+CVE-2018-9031 - https://www.youtube.com/watch?v=pLMH9vGPRCo
 CVE-2018-9032 - https://www.exploit-db.com/exploits/44378/
 CVE-2018-9032 - https://www.youtube.com/watch?v=Wmm4p8znS3s
 CVE-2018-9034 - https://www.exploit-db.com/exploits/44366/
@@ -80470,6 +80479,7 @@ CVE-2020-26868 - https://ics-cert.kaspersky.com/advisories/klcert-advisories/202
 CVE-2020-26869 - https://ics-cert.kaspersky.com/advisories/klcert-advisories/2020/10/09/klcert-20-017-session-information-exposure-in-arc-informatique-pcvue/
 CVE-2020-2687 - https://www.oracle.com/security-alerts/cpujan2020.html
 CVE-2020-26870 - https://github.com/cure53/DOMPurify/commit/02724b8eb048dd219d6725b05c3000936f11d62d
+CVE-2020-26870 - https://research.securitum.com/mutation-xss-via-mathml-mutation-dompurify-2-0-17-bypass/
 CVE-2020-26870 - https://www.oracle.com//security-alerts/cpujul2021.html
 CVE-2020-26878 - https://adepts.of0x.cc
 CVE-2020-26878 - https://adepts.of0x.cc/ruckus-vriot-rce/
@@ -83271,6 +83281,7 @@ CVE-2020-4040 - http://packetstormsecurity.com/files/158299/Bolt-CMS-3.7.0-XSS-C
 CVE-2020-4041 - http://packetstormsecurity.com/files/158299/Bolt-CMS-3.7.0-XSS-CSRF-Shell-Upload.html
 CVE-2020-4044 - https://github.com/neutrinolabs/xrdp/commit/0c791d073d0eb344ee7aaafd221513dc9226762c
 CVE-2020-4051 - https://www.oracle.com/security-alerts/cpuoct2020.html
+CVE-2020-4061 - https://research.securitum.com/the-curious-case-of-copy-paste/
 CVE-2020-4166 - https://www.ibm.com/support/pages/node/6323297
 CVE-2020-4167 - https://www.ibm.com/support/pages/node/6323297
 CVE-2020-4169 - https://www.ibm.com/support/pages/node/6323297
@@ -106467,6 +106478,7 @@ CVE-2022-4985 - https://www.exploit-db.com/exploits/50636
 CVE-2022-4995 - https://cn-sec.com/archives/1208148.html
 CVE-2022-4995 - https://www.vulncheck.com/advisories/weaver-e-cology-file-upload-rce-via-uploaderoperate-jsp
 CVE-2022-4995 - https://www.weaver.com.cn/cs/ecology_full_log_en.html
+CVE-2022-50073 - http://www.openwall.com/lists/oss-security/2026/08/12/20
 CVE-2022-50237 - https://github.com/MystenLabs/ed25519-unsafe-libs
 CVE-2022-50584 - https://www.nagios.com/changelog/nagios-xi/
 CVE-2022-50585 - https://www.nagios.com/changelog/nagios-xi/
@@ -111486,6 +111498,7 @@ CVE-2023-33684 - https://www.zeroscience.mk/en/vulnerabilities/ZSL-2023-5771.php
 CVE-2023-33690 - https://github.com/lane711/sonicjs/pull/183
 CVE-2023-33690 - https://youtu.be/6ZuwA9CkQLg
 CVE-2023-33693 - https://github.com/tsingsee/EasyPlayerPro-Win/pull/24
+CVE-2023-33693 - https://www.youtube.com/watch?v=K27nGHa-hTE&ab_channel=ErnestAng
 CVE-2023-33716 - https://github.com/enzo1982/mp4v2/issues/36
 CVE-2023-33717 - https://github.com/enzo1982/mp4v2/issues/37
 CVE-2023-33718 - https://github.com/enzo1982/mp4v2/issues/37
@@ -111631,6 +111644,7 @@ CVE-2023-34132 - http://packetstormsecurity.com/files/174571/Sonicwall-GMS-9.9.9
 CVE-2023-34133 - http://packetstormsecurity.com/files/174571/Sonicwall-GMS-9.9.9320-Remote-Code-Execution.html
 CVE-2023-34151 - https://github.com/ImageMagick/ImageMagick/issues/6341
 CVE-2023-34152 - https://github.com/ImageMagick/ImageMagick/issues/6339
+CVE-2023-34153 - https://access.redhat.com/security/cve/CVE-2023-34153
 CVE-2023-34153 - https://github.com/ImageMagick/ImageMagick/issues/6338
 CVE-2023-34188 - https://github.com/cesanta/mongoose/pull/2197
 CVE-2023-34196 - https://support.keyfactor.com/hc/en-us/articles/16671824556827-EJBCA-Security-Advisory-Partial-denial-of-service-attack-on-certificate-distribution-servlet-ejbca-ra-cert
@@ -121159,6 +121173,7 @@ CVE-2024-2944 - https://vuldb.com/?id.258035
 CVE-2024-29447 - https://github.com/yashpatelphd/CVE-2024-29447
 CVE-2024-29461 - https://gist.github.com/ErodedElk/399a226905c574efe705e3bff77955e3
 CVE-2024-29461 - https://github.com/floodlight/floodlight/issues/867
+CVE-2024-2947 - https://access.redhat.com/security/cve/CVE-2024-2947
 CVE-2024-29499 - https://github.com/daddywolf/cms/blob/main/1.md
 CVE-2024-29504 - https://github.com/summernote/summernote/pull/3782
 CVE-2024-29506 - https://bugs.ghostscript.com/show_bug.cgi?id=707510
@@ -123856,6 +123871,7 @@ CVE-2024-41611 - https://www.dlink.com/en/security-bulletin/
 CVE-2024-41613 - https://github.com/OoLs5/VulDiscovery/blob/main/symphony_xss_vul.pdf
 CVE-2024-41614 - https://github.com/OoLs5/VulDiscovery/blob/main/Symphony_CMS_XSS.pdf
 CVE-2024-41617 - https://youtu.be/JaOrlT9G3yo?t=88
+CVE-2024-41618 - https://www.youtube.com/watch?v=JaOrlT9G3yo
 CVE-2024-41622 - https://github.com/yali-1002/some-poc/blob/main/CVE-2024-41622
 CVE-2024-41622 - https://www.dlink.com/en/security-bulletin/
 CVE-2024-41629 - http://seclists.org/fulldisclosure/2024/Sep/1
@@ -124281,6 +124297,7 @@ CVE-2024-43780 - https://mattermost.com/security-updates
 CVE-2024-43785 - https://github.com/Byron/gitoxide/security/advisories/GHSA-88g2-r9rw-g55h
 CVE-2024-43787 - https://github.com/honojs/hono/security/advisories/GHSA-rpfr-3m35-5vx5
 CVE-2024-43788 - https://github.com/webpack/webpack/security/advisories/GHSA-4vvj-4cpr-p986
+CVE-2024-43788 - https://research.securitum.com/xss-in-amp4email-dom-clobbering
 CVE-2024-43790 - https://github.com/vim/vim/security/advisories/GHSA-v2x2-cjcg-f9jm
 CVE-2024-43795 - https://securitylab.github.com/advisories/GHSL-2024-127_GHSL-2024-129_OpenC3_COSMOS
 CVE-2024-43797 - https://github.com/advplyr/audiobookshelf/security/advisories/GHSA-gg56-vj58-g5mc
@@ -124645,6 +124662,7 @@ CVE-2024-45810 - https://github.com/envoyproxy/envoy/security/advisories/GHSA-qm
 CVE-2024-45811 - https://github.com/vitejs/vite/security/advisories/GHSA-9cwx-2883-4wfx
 CVE-2024-45812 - https://github.com/vitejs/vite/security/advisories/GHSA-64vr-g452-qvp3
 CVE-2024-45812 - https://github.com/webpack/webpack/security/advisories/GHSA-4vvj-4cpr-p986
+CVE-2024-45812 - https://research.securitum.com/xss-in-amp4email-dom-clobbering
 CVE-2024-4582 - https://netsecfish.notion.site/Command-Injection-in-Faraday-Technology-GM828x-GM8181-DVR-1bc02d17ee5540a08273da2850e809c4?pvs=4
 CVE-2024-4583 - https://netsecfish.notion.site/Unauthorized-Credential-Exposure-in-Faraday-Technology-Grain-Media-GM828x-GM8181-DVR-Devices-6a501c33e5d44beab7148074d2214b8f?pvs=4
 CVE-2024-45833 - https://mattermost.com/security-updates
@@ -127684,6 +127702,7 @@ CVE-2024-7689 - https://wpscan.com/vulnerability/4463785c-55db-4f86-80a2-ada4d22
 CVE-2024-7690 - https://wpscan.com/vulnerability/1f941d51-1eaf-424a-95b8-ccaa3fdd339b/
 CVE-2024-7691 - https://wpscan.com/vulnerability/d30a3b95-5d1f-4755-8b61-19946afc51ef/
 CVE-2024-7692 - https://wpscan.com/vulnerability/5e9f98ef-5a44-4a0c-b9cd-ce750bec74f9/
+CVE-2024-7700 - https://access.redhat.com/security/cve/CVE-2024-7700
 CVE-2024-7704 - https://github.com/Dreamy-elfland/240731
 CVE-2024-7704 - https://vuldb.com/?ctiid.274182
 CVE-2024-7705 - https://github.com/DeepMountains/Mirage/blob/main/CVE12-1.md
@@ -130114,6 +130133,7 @@ CVE-2025-12494 - https://research.cleantalk.org/cve-2025-12494/
 CVE-2025-12502 - https://wpscan.com/vulnerability/75e63134-4c8a-45fd-b7fc-db40644ddb8c/
 CVE-2025-12559 - https://mattermost.com/security-updates
 CVE-2025-12569 - https://wpscan.com/vulnerability/37586572-33f9-4365-bfce-7db277a8df72/
+CVE-2025-12571 - https://gitlab.com/gitlab-org/gitlab/-/issues/579168
 CVE-2025-12573 - https://wpscan.com/vulnerability/b6198d76-813c-4f13-8b3d-b4609095ae34/
 CVE-2025-12593 - https://github.com/asd1238525/cve/blob/main/upload2.md
 CVE-2025-12594 - https://github.com/asd1238525/cve/blob/main/SQL10.md
@@ -135163,6 +135183,7 @@ CVE-2025-4550 - https://github.com/y77-88/myCVE/issues/7
 CVE-2025-4551 - https://github.com/uglory-gll/javasec/blob/main/continew-admin.md#1stored-cross-site-scripting
 CVE-2025-45512 - https://gist.github.com/AzhariRamadhan/a5c9644861f46b1eadb1f2a15c7950fe
 CVE-2025-45512 - https://github.com/AzhariRamadhan/uboot-cve
+CVE-2025-4552 - https://github.com/uglory-gll/javasec/blob/main/continew-admin.md#21dev-apisystemuser1password-only-assigning-password-reset-permission-can-reset-the-super-administrator-password
 CVE-2025-45525 - https://gist.github.com/Rootingg/843368931f70886bed3cf982f10a4424
 CVE-2025-45526 - https://gist.github.com/Rootingg/483b09b760d031b62b172f2153f3ed2a
 CVE-2025-4553 - https://github.com/y77-88/myCVE/issues/8
@@ -136170,6 +136191,8 @@ CVE-2025-5175 - https://github.com/erdogant/pypickle/issues/3#issue-3070689116
 CVE-2025-5175 - https://github.com/erdogant/pypickle/issues/3#issuecomment-2888589652
 CVE-2025-5177 - https://vuldb.com/?ctiid.310265
 CVE-2025-5180 - https://gist.github.com/shellkraft/aa66561e984e83052bd080f195a3ec80
+CVE-2025-5181 - https://www.youtube.com/watch?v=0wwuatTa6sU
+CVE-2025-5182 - https://www.youtube.com/watch?v=0wwuatTa6sU
 CVE-2025-51825 - https://github.com/jeecgboot/JeecgBoot/issues/8335
 CVE-2025-51846 - https://github.com/JohnPerifanis/cryptpad-cve-2025-51846-advisory/blob/main/README.md
 CVE-2025-51858 - https://github.com/Secsys-FDU/CVE-2025-51858
@@ -138549,6 +138572,7 @@ CVE-2025-63293 - https://medium.com/@barrattjack89/cve-2025-63293-insecure-permi
 CVE-2025-63296 - https://gist.github.com/t4e-3/082cdd0b7ee6b650c7aaae97fd4e016c
 CVE-2025-63296 - https://github.com/t4e-3/CVE-2025-63296
 CVE-2025-63298 - https://www.sourcecodester.com/sites/default/files/download/mayuri_k/petgrooming_erp.zip
+CVE-2025-6330 - https://vuldb.com/?submit.596532
 CVE-2025-63307 - https://github.com/Theethat-Thamwasin/CVE-2025-63307
 CVE-2025-63307 - https://github.com/Theethat-Thamwasin/CVE-2025-63307/blob/main/POC-CVE-63307.md
 CVE-2025-6331 - https://vuldb.com/?ctiid.313327
@@ -139019,6 +139043,7 @@ CVE-2025-6535 - https://blog.0xd00.com/blog/sqli-in-user-list-leads-to-sensitive
 CVE-2025-65354 - https://github.com/amaansiddd787/CVE-2025-65354
 CVE-2025-65358 - https://github.com/omkaryepre/vulnerability-research/tree/main/CVE-2025-65358
 CVE-2025-6536 - https://github.com/tarantool/tarantool/issues/11347
+CVE-2025-65368 - https://github.com/CodeWithCJ/SparkyFitness/security/advisories/GHSA-j7x6-6678-2xqp#event-521570
 CVE-2025-65404 - https://github.com/rgaufman/live555
 CVE-2025-65404 - https://shimo.im/docs/16q8xMxpPlH8Z2q7
 CVE-2025-65405 - https://github.com/rgaufman/live555
@@ -141969,9 +141994,11 @@ CVE-2026-0641 - https://github.com/JackWesleyy/CVE/blob/main/WA300/TOTOLINK_WA30
 CVE-2026-0642 - https://github.com/Pick-program/CVE/issues/4
 CVE-2026-0649 - https://note-hxlab.wetolink.com/share/fWqEpn5fX4rH
 CVE-2026-0658 - https://wpscan.com/vulnerability/6e39090e-a4b2-4c16-806f-e2b1c456fb00/
+CVE-2026-0697 - https://github.com/xkalami-Tta0/CVE/blob/main/Intern%20Membership%20Management%20System/Intern%20Membership%20Management%20System%20admin.php%20sql%20injection1.md
 CVE-2026-0698 - https://github.com/xkalami-Tta0/CVE/blob/main/Intern%20Membership%20Management%20System/Intern%20Membership%20Management%20System%20students_details.php%20sql%20injection.md
 CVE-2026-0699 - https://github.com/xkalami-Tta0/CVE/blob/main/Intern%20Membership%20Management%20System/Intern%20Membership%20Management%20System%20activity.php%20sql%20injection.md
 CVE-2026-0700 - https://github.com/xkalami-Tta0/CVE/blob/main/Intern%20Membership%20Management%20System/Intern%20Membership%20Management%20System%20check_admin.php%20sql%20injection.md
+CVE-2026-0701 - https://github.com/xkalami-Tta0/CVE/blob/main/Intern%20Membership%20Management%20System/Intern%20Membership%20Management%20System%20add_admin.php%20sql%20injection.md
 CVE-2026-0708 - https://github.com/vstakhov/libucl/issues/323
 CVE-2026-0710 - https://bugzilla.redhat.com/show_bug.cgi?id=2427788
 CVE-2026-0722 - https://research.cleantalk.org/cve-2026-0722/
@@ -142468,6 +142495,7 @@ CVE-2026-1140 - https://github.com/cymiao1978/cve/blob/main/new/35.md
 CVE-2026-11406 - https://github.com/StrTzz123/iot_vul/tree/main/GL-iNet/MT3000/4.4.5/ovpn_client_import
 CVE-2026-11406 - https://vuldb.com/submit/820049
 CVE-2026-11408 - https://gist.github.com/menelausx/e632faba4014474fcef6a1f541ca3e4e
+CVE-2026-11408 - https://vuldb.com/cve/CVE-2026-11408
 CVE-2026-1141 - https://github.com/Asim-QAZi/BrokenAccessControl-News-Portal-Project-in-PHP-and-MySQL-in-PHPGurukul
 CVE-2026-11411 - https://github.com/actuator/chatpdf.pro
 CVE-2026-11412 - https://github.com/MichaelZhuang521/cve/issues/3
@@ -142611,6 +142639,7 @@ CVE-2026-11793 - https://redhat.atlassian.net/browse/PSIRTSUPT-7600
 CVE-2026-11794 - https://wpscan.com/vulnerability/614b9517-d6d5-499f-8172-280280a312b2/
 CVE-2026-11804 - https://www.honeywell.com/us/en/product-security
 CVE-2026-11804 - https://www.tridium.com/us/en/product-security
+CVE-2026-11819 - https://access.redhat.com/security/cve/CVE-2026-11819
 CVE-2026-11819 - https://access.redhat.com/security/cve/cve-2026-11819
 CVE-2026-11834 - https://mattg.systems/posts/cve-2026-11834/
 CVE-2026-11841 - https://www.first.org/cvss/calculator/3.1
@@ -142854,6 +142883,7 @@ CVE-2026-1324 - https://github.com/LX-LX88/cve/issues/20
 CVE-2026-1325 - https://github.com/LX-LX88/cve/issues/21
 CVE-2026-13311 - https://github.com/ljharb/shell-quote/security/advisories/GHSA-395f-4hp3-45gv
 CVE-2026-13323 - https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/485
+CVE-2026-13328 - https://wpscan.com/vulnerability/af15ecd8-a656-45ab-a1d4-85704d6d8051/
 CVE-2026-13329 - https://wpscan.com/vulnerability/6e60d271-574d-4259-ab51-32a014e480d4/
 CVE-2026-13330 - https://wpscan.com/vulnerability/d5286cc6-c6e4-40e0-bd08-0699fb0c9e82/
 CVE-2026-13332 - https://wpscan.com/vulnerability/f987c823-f215-48f6-86fe-8d898f2c2d94/
@@ -142952,6 +142982,7 @@ CVE-2026-13600 - https://wpscan.com/vulnerability/2f69e28f-cc9f-422e-a014-662f3f
 CVE-2026-13604 - https://wpscan.com/vulnerability/766c961e-e5aa-4ebe-8107-032f46316f91/
 CVE-2026-13605 - https://wpscan.com/vulnerability/7ec73098-99eb-48cb-8ff6-a05110691117/
 CVE-2026-13609 - https://wpscan.com/vulnerability/836bc6cd-42f0-4cd9-bb4c-ce5b0ff0d84b/
+CVE-2026-13610 - https://wpscan.com/vulnerability/24951a75-46e7-44f9-947b-070ca2f2b244/
 CVE-2026-13612 - https://wpscan.com/vulnerability/0f48c1a3-d1f2-4028-b864-190c7f58becd/
 CVE-2026-13613 - https://wpscan.com/vulnerability/76b7d66f-6fa3-41e1-9216-ec125e34ade9/
 CVE-2026-1368 - https://wpscan.com/vulnerability/218e6655-c5aa-4bce-86b2-cad3bb20020c/
@@ -142988,6 +143019,7 @@ CVE-2026-1417 - https://github.com/gpac/gpac/issues/3426#issue-3802172856
 CVE-2026-1417 - https://vuldb.com/?submit.736543
 CVE-2026-1418 - https://github.com/gpac/gpac/issues/3425
 CVE-2026-1418 - https://github.com/gpac/gpac/issues/3425#issue-3801961068
+CVE-2026-14182 - https://wpscan.com/vulnerability/ef4e95a3-6f90-4423-9551-9ac28f7b6291/
 CVE-2026-14183 - https://wpscan.com/vulnerability/5b720785-86a4-4610-83cb-8cc998d90ccf/
 CVE-2026-14184 - https://wpscan.com/vulnerability/56a5b91b-1e1a-429d-b9e9-a1a107183124/
 CVE-2026-14185 - https://wpscan.com/vulnerability/a6839476-95bf-4785-b128-1e3bc8603ddc/
@@ -143043,6 +143075,7 @@ CVE-2026-14319 - https://wpscan.com/vulnerability/f90c88a8-e5a5-4bcf-8fa1-59cdfe
 CVE-2026-14322 - https://wpscan.com/vulnerability/0fb14dca-d4aa-4c24-bf15-37099edb7614/
 CVE-2026-1433 - https://ntware.atlassian.net/wiki/spaces/SA/pages/13659504652/2026+Security+Advisory+ULM+Potential+Information+Disclosure
 CVE-2026-14331 - https://wpscan.com/vulnerability/5ea58741-0c4c-4482-94dd-34721b19fc26/
+CVE-2026-14332 - https://wpscan.com/vulnerability/75182c5d-c7f5-4da9-bffd-1f7bf54cfd04/
 CVE-2026-14333 - https://wpscan.com/vulnerability/df673b6f-2957-460a-b6fe-6e656d9193e0/
 CVE-2026-14380 - https://metacpan.org/release/HMBRAND/DBI-1.650/changes
 CVE-2026-1443 - https://github.com/Volije/cve/issues/1
@@ -143066,16 +143099,29 @@ CVE-2026-14592 - https://wpscan.com/vulnerability/5f2fb7cd-5330-4721-ab1b-d8c247
 CVE-2026-14596 - https://wpscan.com/vulnerability/a23eb55c-f5b1-4dcb-8d53-6e71d80e050a/
 CVE-2026-14602 - https://wpscan.com/vulnerability/eb5a7d86-4762-48ad-83bf-81f048527147/
 CVE-2026-14603 - https://wpscan.com/vulnerability/3a06d27a-9405-4cf2-9087-554018d31884/
+CVE-2026-14604 - https://github.com/assimp/assimp/issues/6620
 CVE-2026-14619 - https://github.com/ltranquility/cve_submit/issues/22
 CVE-2026-14625 - https://gist.github.com/YLChen-007/3b11589740dcf16b152b0929e1b3d024
+CVE-2026-14628 - https://gist.github.com/YLChen-007/8af7eff27b50bec24b2d0f76dd1c4383
+CVE-2026-14633 - https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap/security/advisories/GHSA-8q62-q8qx-j49g
+CVE-2026-14634 - https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap/security/advisories/GHSA-v69c-5xg5-q7r8
+CVE-2026-14636 - https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap/security/advisories/GHSA-q3g4-wpv3-v23v
+CVE-2026-14637 - https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap/security/advisories/GHSA-9g5q-g6m3-v5cr
 CVE-2026-14638 - https://github.com/ltranquility/submit/issues/23
 CVE-2026-14641 - https://github.com/sunjingyuan123/ccvvee/issues/2
+CVE-2026-14642 - https://github.com/sunjingyuan123/ccvvee/issues/1
 CVE-2026-14649 - https://gist.github.com/c4ttr4ck/a29b2238099fa07b4f072c21123b55ef
+CVE-2026-14652 - https://github.com/Yuesswor/cve/issues/2
+CVE-2026-14653 - https://github.com/Yuesswor/cve/issues/3
 CVE-2026-14655 - https://github.com/zzzxc643/CVE1/blob/main/assessment/vul3.md
+CVE-2026-14657 - https://github.com/zzzxc643/CVE1/blob/main/assessment/vul5.md
 CVE-2026-14658 - https://github.com/zzzxc643/CVE1/blob/main/assessment/vul6.md
 CVE-2026-14660 - https://github.com/aiyuyuyu/cve/blob/main/job_portal_sql.md
 CVE-2026-14683 - https://github.com/HdrHistogram/HdrHistogram/issues/219
+CVE-2026-14684 - https://github.com/HdrHistogram/HdrHistogram/issues/220
 CVE-2026-14686 - https://github.com/HdrHistogram/HdrHistogram/issues/222
+CVE-2026-14689 - https://github.com/yihaofuweng/cve/issues/70
+CVE-2026-14690 - https://github.com/lee945/cve/issues/1
 CVE-2026-14691 - https://github.com/lee945/cve/issues/2
 CVE-2026-14695 - https://github.com/lee945/cve/issues/6
 CVE-2026-14698 - https://pastebin.com/PNJvBZwT
@@ -143083,6 +143129,7 @@ CVE-2026-1470 - https://research.jfrog.com/vulnerabilities/n8n-expression-node-r
 CVE-2026-14700 - https://github.com/zzzxc643/CVE1/blob/main/assessment/vul7.md
 CVE-2026-14703 - https://github.com/ltranquility/submit_vuln/issues/1
 CVE-2026-14719 - https://pastebin.com/Z4i5MGxk
+CVE-2026-14722 - https://github.com/tiddly-gittly/TidGi-Desktop/security/advisories/GHSA-9hc2-hjx8-q6pv
 CVE-2026-14723 - https://github.com/AD-Security/AD_Miner/issues/238
 CVE-2026-14723 - https://github.com/AD-Security/AD_Miner/pull/239
 CVE-2026-14731 - https://github.com/ltranquility/submit_vuln/issues/4
@@ -143093,15 +143140,22 @@ CVE-2026-14739 - https://metacpan.org/release/HMBRAND/DBI-1.650/changes
 CVE-2026-14740 - https://metacpan.org/release/HMBRAND/DBI-1.650/changes
 CVE-2026-14743 - https://github.com/6Justdododo6/CVE/issues/22
 CVE-2026-14744 - https://github.com/6Justdododo6/CVE/issues/23
+CVE-2026-14746 - https://github.com/6Justdododo6/CVE/issues/25
 CVE-2026-14755 - https://raw.githubusercontent.com/anubhavv106/Security-Advisories/refs/heads/main/Hotel-Tourism-Reservation-add_event.php-SQLi.md
 CVE-2026-14756 - https://raw.githubusercontent.com/anubhavv106/Security-Advisories/refs/heads/main/Hotel-Tourism-Reservation-add_tour.php-SQLi.md
+CVE-2026-14757 - https://github.com/radareorg/radare2/issues/26041
+CVE-2026-14758 - https://github.com/radareorg/radare2/issues/26042
+CVE-2026-14759 - https://github.com/radareorg/radare2/issues/26043
+CVE-2026-14760 - https://github.com/radareorg/radare2/issues/26044
 CVE-2026-14761 - https://github.com/radareorg/radare2/issues/26045
 CVE-2026-14762 - https://raw.githubusercontent.com/anubhavv106/Security-Advisories/refs/heads/main/Hotel-Tourism-Reservation-rooms.php-SQLi.md
 CVE-2026-14763 - https://raw.githubusercontent.com/anubhavv106/Security-Advisories/refs/heads/main/Hotel-Tourism-Reservation-tour_reserves.php-SQLi.md
 CVE-2026-14764 - https://raw.githubusercontent.com/anubhavv106/Security-Advisories/refs/heads/main/Hotel-Tourism-Reservation-add_event.php_SQLi.md
 CVE-2026-14767 - https://gist.github.com/menelausx/2222914494e28e7d70f9a35af8fae824
+CVE-2026-14770 - https://github.com/orionyan520/cve_report/issues/3
 CVE-2026-14771 - https://github.com/orionyan520/cve_report/issues/2
 CVE-2026-14772 - https://github.com/orionyan520/cve_report/issues/1
+CVE-2026-14776 - https://github.com/nuiifornet/A033/blob/main/OE-LMS-RCE-2-upload_files.md
 CVE-2026-14783 - https://github.com/NousResearch/hermes-agent/issues/38643
 CVE-2026-14787 - https://github.com/radareorg/radare2/issues/26048
 CVE-2026-14790 - https://github.com/gpac/gpac/issues/3596
@@ -143109,6 +143163,8 @@ CVE-2026-14791 - https://github.com/crater-invoice-inc/crater/issues/1327
 CVE-2026-14796 - https://github.com/lilukun337/cve/issues/7
 CVE-2026-14798 - https://github.com/lilukun337/cve/issues/10
 CVE-2026-14799 - https://github.com/lilukun337/cve/issues/8
+CVE-2026-14801 - https://github.com/gpac/gpac/issues/3610
+CVE-2026-14802 - https://github.com/react/create-react-app/issues/17269
 CVE-2026-14812 - https://wpscan.com/vulnerability/0115a640-7139-4ef9-81be-6ee5c755a601/
 CVE-2026-14816 - https://wpscan.com/vulnerability/72af92a2-afe6-4e5a-9a1a-6f6e97bbcd85/
 CVE-2026-14817 - https://wpscan.com/vulnerability/b2554df8-3083-41cf-8f62-04568ab3a9de/
@@ -143170,6 +143226,7 @@ CVE-2026-15038 - https://wpscan.com/vulnerability/629d655f-cdb8-4733-81d5-12fa88
 CVE-2026-15039 - https://wpscan.com/vulnerability/b7b3308c-430e-4bc3-a3df-da20d47cf314/
 CVE-2026-1504 - https://issues.chromium.org/issues/474435504
 CVE-2026-15043 - https://metacpan.org/release/HMBRAND/DBI-1.651/changes
+CVE-2026-15045 - https://wpscan.com/vulnerability/fc818fa4-5daa-430f-82da-0c96ec531ca3/
 CVE-2026-15047 - https://wpscan.com/vulnerability/79e830c3-232b-4eff-8cf1-d25c5310984c/
 CVE-2026-15048 - https://wpscan.com/vulnerability/881d1548-e6c3-4093-ab8c-dc3a9fcccc34/
 CVE-2026-1505 - https://vuldb.com/?id.343117
@@ -143201,6 +143258,7 @@ CVE-2026-1521 - https://github.com/open5gs/open5gs/issues/4268#event-21989483261
 CVE-2026-1521 - https://github.com/open5gs/open5gs/issues/4268#issue-3795012861
 CVE-2026-15210 - https://wpscan.com/vulnerability/96101127-8b13-4770-9204-f540fb044040/
 CVE-2026-15211 - https://wpscan.com/vulnerability/0653ccce-5427-4ffc-a34c-18b45710d9f3/
+CVE-2026-15213 - https://wpscan.com/vulnerability/4ca89701-8abc-4ecb-9834-a648ab1c4da1/
 CVE-2026-15214 - https://wpscan.com/vulnerability/d11cfec5-e1e6-4a01-84e2-4d42be1a72ac/
 CVE-2026-15215 - https://wpscan.com/vulnerability/dad30b9f-1c50-4d0e-baa0-9bce2f5a7db5/
 CVE-2026-1522 - https://github.com/open5gs/open5gs/issues/4266
@@ -143253,6 +143311,7 @@ CVE-2026-15386 - https://wpscan.com/vulnerability/f76518ec-3abb-4b3c-b592-f5e240
 CVE-2026-15388 - https://wpscan.com/vulnerability/e322dfb6-66b3-4deb-98ba-a19707e5a7e1/
 CVE-2026-15392 - https://metacpan.org/release/HMBRAND/DBI-1.651/changes
 CVE-2026-1540 - https://wpscan.com/vulnerability/ad00d1bb-ea8d-44a3-9064-6412804d9e95/
+CVE-2026-15413 - https://wpscan.com/vulnerability/4cad269d-0146-4ca9-a1ae-55f02c8e5433/
 CVE-2026-15416 - https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html
 CVE-2026-15416 - https://www.synacktiv.com/en/publications/caught-in-the-octopus-trap-unauthenticated-rce-in-argo-cd-with-codeql
 CVE-2026-1542 - https://wpscan.com/vulnerability/d6e3041f-62e8-49ba-8806-59a1c07ec43d/
@@ -143506,6 +143565,7 @@ CVE-2026-16613 - https://wpscan.com/vulnerability/d9511e8a-be67-4c39-b947-7931b5
 CVE-2026-16618 - https://wpscan.com/vulnerability/3754d4c0-1b67-49a4-a29a-7169446638d1/
 CVE-2026-16619 - https://wpscan.com/vulnerability/54fc1229-3e68-4d21-baec-59a44cf12a65/
 CVE-2026-16620 - https://wpscan.com/vulnerability/71e6ccc0-5626-4cce-986e-5591f5df92bd/
+CVE-2026-16621 - https://wpscan.com/vulnerability/76c4cff2-1166-45fe-9517-5eda2d24c35d/
 CVE-2026-16623 - https://wpscan.com/vulnerability/19c7fdaa-5e75-481d-884c-68fdb2fb8f8d/
 CVE-2026-16624 - https://vokecyber.com/research/calcom-cross-tenant-webhook-plant
 CVE-2026-16628 - https://github.com/oclif/oclif/issues/2051
@@ -143524,6 +143584,7 @@ CVE-2026-16735 - https://github.com/release-it/conventional-changelog/issues/149
 CVE-2026-16736 - https://wpscan.com/vulnerability/dc0d63d6-bcd9-4f14-865a-49d254a831a2/
 CVE-2026-16737 - https://wpscan.com/vulnerability/1bc550f3-8b8f-42ac-aec9-7dcb7b0f7978/
 CVE-2026-16746 - https://wpscan.com/vulnerability/721033a0-b0bb-4a64-a99a-12ac416b20fd/
+CVE-2026-16747 - https://wpscan.com/vulnerability/4330c6e0-071e-49d6-b1ec-5c8633171bc4/
 CVE-2026-16763 - https://github.com/localstack/serverless-localstack/issues/303
 CVE-2026-16765 - https://github.com/anglemsg2401-bot/cve/issues/1
 CVE-2026-16767 - https://github.com/Ne-Lexa/php-zip/issues/100
@@ -143568,9 +143629,11 @@ CVE-2026-16981 - https://wpscan.com/vulnerability/61b3228d-50a0-4928-977a-234489
 CVE-2026-16985 - https://wpscan.com/vulnerability/045a15f3-5750-4c4e-977d-e1283e3c967d/
 CVE-2026-16988 - https://wpscan.com/vulnerability/162fa8ab-4d80-46f8-9a15-63c8dfd0be33/
 CVE-2026-1699 - https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/332
+CVE-2026-16990 - https://wpscan.com/vulnerability/97c08603-c407-43b2-ab2c-e39f85e89ebe/
 CVE-2026-16992 - https://wpscan.com/vulnerability/d85653f7-8556-4bac-8860-fbacc63ba5df/
 CVE-2026-16993 - https://wpscan.com/vulnerability/efcf57b5-f35e-4943-8a49-350aa8bf1b8a/
 CVE-2026-1700 - https://github.com/jiahao412/CVE/issues/3
+CVE-2026-17008 - https://wpscan.com/vulnerability/605c0c65-6258-411a-a028-f3de25613bdf/
 CVE-2026-1701 - https://github.com/ltranquility/CVE/issues/34
 CVE-2026-17010 - https://wpscan.com/vulnerability/1e760dbf-7efc-4511-9a05-2d1476eb3dfb/
 CVE-2026-17011 - https://wpscan.com/vulnerability/a702e5cb-0fb3-419e-81df-fa5b26c81402/
@@ -143651,6 +143714,7 @@ CVE-2026-18030 - https://wpscan.com/vulnerability/15463bda-fb39-4629-b96b-34b831
 CVE-2026-18032 - https://wpscan.com/vulnerability/1b6c5935-c8e0-4b9b-9ba6-0f16a0e2cdae/
 CVE-2026-18035 - https://wpscan.com/vulnerability/9c5cae62-4c4c-434b-ae40-4654b257803f/
 CVE-2026-18037 - https://wpscan.com/vulnerability/cd61ce2a-94ce-4ce3-a592-b7329f118f94/
+CVE-2026-18044 - https://wpscan.com/vulnerability/87623f1e-c0fa-4563-af13-68e51ba2d7a9/
 CVE-2026-18046 - https://wpscan.com/vulnerability/4f5ee68e-3513-4f05-839e-60ae62349f93/
 CVE-2026-18048 - https://wpscan.com/vulnerability/fbc145d3-a582-4975-bc6b-e56e633e51e6/
 CVE-2026-18049 - https://wpscan.com/vulnerability/ee7a93ff-95f2-48f6-9e35-2e518a28e2ab/
@@ -143691,6 +143755,7 @@ CVE-2026-1884 - https://vuldb.com/?id.344264
 CVE-2026-1890 - https://wpscan.com/vulnerability/9b88be70-b5cc-4a3f-a871-64d61cb02076/
 CVE-2026-18934 - https://wpscan.com/vulnerability/f87c5a11-59a1-47cc-bc1c-d12108b510ab/
 CVE-2026-18943 - https://wpscan.com/vulnerability/9f2f3db0-1031-4e16-96f2-12a02b97ad06/
+CVE-2026-18945 - https://wpscan.com/vulnerability/0d43b739-90de-4bae-90c1-3acaee8888e6/
 CVE-2026-18946 - https://wpscan.com/vulnerability/fa13ebbb-8eea-492d-8f59-58228efb94d8/
 CVE-2026-18960 - https://wpscan.com/vulnerability/c80abded-9f0e-4e44-8c8a-b0d1bc1b16d0/
 CVE-2026-18962 - https://wpscan.com/vulnerability/146079f7-d4e5-4f1e-a715-f681fc33ed6a/
@@ -143709,6 +143774,7 @@ CVE-2026-19073 - https://wpscan.com/vulnerability/8c8ca8ff-e0e8-4e9c-b79b-7f9581
 CVE-2026-19074 - https://wpscan.com/vulnerability/657cb9f9-8be6-4841-b8a1-93d26a3d7984/
 CVE-2026-19075 - https://wpscan.com/vulnerability/ad70162f-5514-41b8-84af-c79c2f881567/
 CVE-2026-19077 - https://wpscan.com/vulnerability/dcced434-f7c0-4e19-b3cb-8196f6636aa3/
+CVE-2026-19088 - https://wpscan.com/vulnerability/f58066e9-8066-43bc-8778-7ded279e8ee2/
 CVE-2026-19089 - https://wpscan.com/vulnerability/c5728a31-de92-40df-ab19-aec4db84ba21/
 CVE-2026-19189 - https://winslow1984.com/books/cve-collection/page/poweriso-9300-kernel-driver-6900-local-privilege-escalation-via-arbitrary-registry-write-or-deletion
 CVE-2026-19190 - https://winslow1984.com/books/cve-collection/page/stablebit-scanner-26134088-local-privilege-escalation-via-insecure-deserialization
@@ -143717,12 +143783,16 @@ CVE-2026-19192 - https://winslow1984.com/books/cve-collection/page/deepcool-1212
 CVE-2026-19217 - https://wpscan.com/vulnerability/c27c1dcd-a6d2-4e1d-a9da-88dff8fe5618/
 CVE-2026-19230 - https://vuldb.com/vuln/386994/cti
 CVE-2026-19278 - https://bugzilla.redhat.com/show_bug.cgi?id=2512524
+CVE-2026-19347 - https://github.com/ltranquility/submit_vuln/issues/17
 CVE-2026-19433 - https://secur0.com/en/cna/cve-list/cve-2026-19433-idor-in-prospero-flow-crm-contact-save-and-vcard-export
 CVE-2026-19434 - https://secur0.com/en/cna/cve-list/cve-2026-19434-stored-xss-in-pentestify-finding-severity-field
 CVE-2026-1953 - https://github.com/carlosbudiman/CVE-2026-1953-Disclosure
+CVE-2026-19548 - https://bugzilla.redhat.com/show_bug.cgi?id=2507832
 CVE-2026-19579 - https://www.tenable.com/security/research/tra-2026-54
 CVE-2026-1966 - https://docs.yugabyte.com/stable/secure/vulnerability-disclosure-policy/
 CVE-2026-1969 - https://wpscan.com/vulnerability/762530ae-80a5-4ff8-9725-6adab9498c33/
+CVE-2026-19694 - https://gitlab.com/wireshark/wireshark/-/work_items/21389
+CVE-2026-19695 - https://gitlab.com/wireshark/wireshark/-/work_items/21475
 CVE-2026-1973 - https://github.com/free5gc/free5gc/issues/815
 CVE-2026-1973 - https://github.com/free5gc/free5gc/issues/815#issue-3832032062
 CVE-2026-1974 - https://github.com/free5gc/free5gc/issues/816
@@ -143763,6 +143833,13 @@ CVE-2026-2018 - https://vuldb.com/?submit.744075
 CVE-2026-20230 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-ssrf-cXPnHcW
 CVE-2026-2025 - https://wpscan.com/vulnerability/1b815cde-cd9d-46fa-a6ab-3d2851705e7b/
 CVE-2026-20253 - https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/
+CVE-2026-20337 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-WuuvVd26
+CVE-2026-20338 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-WuuvVd26
+CVE-2026-20339 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-WuuvVd26
+CVE-2026-20345 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-WuuvVd26
+CVE-2026-20346 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-WuuvVd26
+CVE-2026-20347 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-WuuvVd26
+CVE-2026-20348 - https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-WuuvVd26
 CVE-2026-2041 - https://www.nagios.com/changelog/nagios-xi/nagios-xi-2026r1-0-1/
 CVE-2026-2042 - https://www.nagios.com/changelog/nagios-xi/nagios-xi-2026r1-0-1/
 CVE-2026-2043 - https://www.nagios.com/changelog/nagios-xi/nagios-xi-2026r1-0-1/
@@ -144600,6 +144677,7 @@ CVE-2026-24685 - https://github.com/opf/openproject/security/advisories/GHSA-74p
 CVE-2026-24686 - https://github.com/theupdateframework/go-tuf/security/advisories/GHSA-jqc5-w2xx-5vq4
 CVE-2026-2469 - https://security.snyk.io/vuln/SNYK-PHP-DIRECTORYTREEIMAPENGINE-15274300
 CVE-2026-24692 - https://mattermost.com/security-updates
+CVE-2026-24698 - https://github.com/glkfc/IoT-Vulnerability/blob/main/cisco/RV130/3/wp-en.md
 CVE-2026-24700 - https://github.com/glkfc/IoT-Vulnerability/blob/main/cisco/RV130/1/wp-en.md
 CVE-2026-2472 - https://github.com/JoshuaProvoste/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud
 CVE-2026-24736 - https://github.com/Squidex/squidex/security/advisories/GHSA-wxg2-953m-fg2w
@@ -146590,6 +146668,7 @@ CVE-2026-36341 - https://cyber.spool.co.jp/vulnerabilities/cve-2026-36341/
 CVE-2026-3636 - https://mattermost.com/security-updates
 CVE-2026-3637 - https://mattermost.com/security-updates
 CVE-2026-3638 - https://devolutions.net/security/advisories/DEVO-2026-0007
+CVE-2026-36438 - https://www.intelbras.com/pt-br/camera-dome-wi-fi-vip-1230-d-w-g4
 CVE-2026-3661 - https://github.com/jinhao118/cve/blob/main/WAVLINK_1.md
 CVE-2026-3662 - https://github.com/jinhao118/cve/blob/main/WAVLINK_2.md
 CVE-2026-3667 - https://gist.github.com/Lytes/571902a31a3d543da009554a82f2d00c
@@ -148539,6 +148618,7 @@ CVE-2026-46526 - https://github.com/LearningCircuit/local-deep-research/pull/388
 CVE-2026-46526 - https://github.com/LearningCircuit/local-deep-research/pull/3889
 CVE-2026-46526 - https://github.com/LearningCircuit/local-deep-research/security/advisories/GHSA-g23j-2vwm-5c25
 CVE-2026-46527 - https://github.com/yhirose/cpp-httplib/security/advisories/GHSA-hg3g-vrg8-578g
+CVE-2026-46529 - https://access.redhat.com/security/cve/CVE-2026-46529
 CVE-2026-46529 - https://github.com/mate-desktop/atril/security/advisories/GHSA-vgv2-m826-8f6f
 CVE-2026-46538 - https://github.com/microsoft/UFO/security/advisories/GHSA-wmq2-74rj-7pjc
 CVE-2026-46544 - https://github.com/microsoft/UFO/security/advisories/GHSA-29gc-vqjp-7fqf
@@ -148883,6 +148963,7 @@ CVE-2026-49141 - https://github.com/ArnasDon/wacrm/pull/194
 CVE-2026-49143 - https://github.com/browserstack/browserstack-runner/security/advisories/GHSA-6vr3-7wcx-v5g5
 CVE-2026-49144 - https://github.com/browserstack/browserstack-runner/security/advisories/GHSA-8rpw-6cqh-2v9h
 CVE-2026-4915 - https://mattermost.com/security-updates
+CVE-2026-49177 - https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2427
 CVE-2026-49220 - https://github.com/jellyfin/jellyfin/security/advisories/GHSA-fv79-gmhx-xh2v
 CVE-2026-49237 - https://github.com/canonical/multipass/security/advisories/GHSA-r2xg-x32f-23c5
 CVE-2026-49238 - https://github.com/canonical/multipass/security/advisories/GHSA-rhp2-23c4-r34w
@@ -149561,6 +149642,7 @@ CVE-2026-57956 - https://github.com/SigNoz/signoz/issues/11830
 CVE-2026-57957 - https://github.com/AstoKr/papermark/pull/1
 CVE-2026-57994 - https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-mf8r-wm2w-f8c5
 CVE-2026-58000 - https://github.com/openwrt/luci/security/advisories/GHSA-pm9w-522m-8rrh
+CVE-2026-58049 - https://github.com/bikini/exploitarium/tree/main/ffmpeg-rasc-dlta-calc-poc
 CVE-2026-58049 - https://security.access.redhat.com/data/csaf/v2/vex/2026/cve-2026-58049.json
 CVE-2026-58049 - https://www.vulncheck.com/advisories/ffmpeg-out-of-bounds-write-in-rasc-decoder-decode-dlta
 CVE-2026-58050 - https://github.com/bikini/exploitarium/tree/main/libssh2-publickey-list-calc-poc
@@ -149587,12 +149669,21 @@ CVE-2026-58126 - https://gist.github.com/VAMorales/6dc232729cdd517fa30d581fbcd98
 CVE-2026-58127 - https://gist.github.com/VAMorales/dc679ecab30b7045fa07bf3249a034d8
 CVE-2026-58143 - https://gist.github.com/sermikr0/75686815e441c07462cfdea2fed5d305
 CVE-2026-58144 - https://gist.github.com/sermikr0/75686815e441c07462cfdea2fed5d305
+CVE-2026-58165 - https://github.com/openziti/ziti/issues/4010
 CVE-2026-58172 - https://github.com/ThreeMammals/Ocelot/issues/2403
 CVE-2026-58174 - https://github.com/nesquena/hermes-webui/commit/3d5ef4758e920ba6888d49aaa4341de214693496
 CVE-2026-58174 - https://github.com/nesquena/hermes-webui/pull/4489
 CVE-2026-58174 - https://github.com/nesquena/hermes-webui/pull/4506
+CVE-2026-58176 - https://github.com/dromara/RuoYi-Vue-Plus/issues/44
 CVE-2026-58191 - https://github.com/appium/appium/security/advisories/GHSA-3wgp-x9p5-c7cc
 CVE-2026-58192 - https://github.com/appium/appium/security/advisories/GHSA-jwgx-mp9m-jwcr
+CVE-2026-58195 - https://github.com/ruvnet/agentic-flow/commit/0c2ec967736a8b6b85832c6bae2a3e74989705ec
+CVE-2026-58195 - https://github.com/ruvnet/agentic-flow/issues/169
+CVE-2026-58195 - https://github.com/ruvnet/agentic-flow/pull/170
+CVE-2026-58195 - https://github.com/ruvnet/agentic-flow/security/advisories/GHSA-vcv2-r9jh-99m5
+CVE-2026-58195 - https://github.com/ruvnet/ruflo/issues/2414
+CVE-2026-58195 - https://github.com/ruvnet/ruflo/pull/2415
+CVE-2026-58195 - https://github.com/ruvnet/ruflo/releases/tag/v3.12.4
 CVE-2026-58198 - https://github.com/gunthercox/ChatterBot/security/advisories/GHSA-wvrh-2f4m-924v
 CVE-2026-58225 - https://cna.erlef.org/cves/CVE-2026-58225.html
 CVE-2026-58226 - https://cna.erlef.org/cves/CVE-2026-58226.html
@@ -149603,6 +149694,7 @@ CVE-2026-58228 - https://github.com/phoenixframework/phoenix_live_view/security/
 CVE-2026-58229 - https://cna.erlef.org/cves/CVE-2026-58229.html
 CVE-2026-58229 - https://github.com/elixir-mint/mint/security/advisories/GHSA-qrfr-wh4c-3qhw
 CVE-2026-5823 - https://github.com/ltranquility/cve_submit/issues/14
+CVE-2026-58262 - https://github.com/klever-io/klever-go/security/advisories/GHSA-f9h7-4mmq-vgcq
 CVE-2026-58263 - https://github.com/xdan/jodit/security/advisories/GHSA-rxcw-mc6f-6hr3
 CVE-2026-58304 - https://github.com/Samsung/escargot/issues/1573
 CVE-2026-58307 - https://github.com/Samsung/escargot/issues/1577
@@ -149633,6 +149725,8 @@ CVE-2026-58477 - https://www.zeroscience.mk/#/advisories/ZSL-2026-5997
 CVE-2026-58478 - https://www.zeroscience.mk/#/advisories/ZSL-2026-5998
 CVE-2026-58479 - https://www.zeroscience.mk/#/advisories/ZSL-2026-5999
 CVE-2026-58481 - https://github.com/Jovancoding/Network-AI/security/advisories/GHSA-jvcm-f35g-w78p
+CVE-2026-58482 - https://github.com/Jovancoding/Network-AI/security/advisories/GHSA-mxjx-28vx-xjjj
+CVE-2026-58484 - https://github.com/Jovancoding/Network-AI/security/advisories/GHSA-2fmp-9rvw-hc96
 CVE-2026-58492 - https://github.com/getgrav/grav/security/advisories/GHSA-8jxg-4pw9-xcwf
 CVE-2026-58493 - https://github.com/getgrav/grav/security/advisories/GHSA-jm58-p4pv-qcwc
 CVE-2026-58500 - https://github.com/appium/appium-mcp/security/advisories/GHSA-x975-rgx4-5fh4
@@ -149661,6 +149755,7 @@ CVE-2026-58657 - https://github.com/getgrav/grav/security/advisories/GHSA-ffmg-h
 CVE-2026-58658 - https://github.com/gpustack/gpustack/issues/5836
 CVE-2026-58659 - https://github.com/Lightning-AI/pytorch-lightning/issues/21822
 CVE-2026-5866 - https://issues.chromium.org/issues/492218537
+CVE-2026-58660 - https://github.com/kanboard/kanboard/issues/5852
 CVE-2026-5867 - https://issues.chromium.org/issues/492668885
 CVE-2026-5868 - https://issues.chromium.org/issues/493256564
 CVE-2026-5869 - https://issues.chromium.org/issues/493708165
@@ -149984,6 +150079,7 @@ CVE-2026-6361 - https://issues.chromium.org/issues/500036290
 CVE-2026-6362 - https://issues.chromium.org/issues/500066234
 CVE-2026-6363 - https://issues.chromium.org/issues/495751197
 CVE-2026-6364 - https://issues.chromium.org/issues/502103414
+CVE-2026-63720 - https://rahulkarne.com/#/cve/CVE-2026-63720
 CVE-2026-63728 - https://fatihhcelik.github.io/posts/gitleaks-abusing-sprig-for-exfiltration/#the-fix
 CVE-2026-63729 - https://fatihhcelik.github.io/posts/evince-synctex-heap-use-after-free/
 CVE-2026-6379 - https://wpscan.com/vulnerability/60b88fd2-4048-4773-b319-63caaf5bd8eb/
@@ -150004,6 +150100,8 @@ CVE-2026-6459 - https://research.cleantalk.org/cve-2026-6459
 CVE-2026-64600 - http://www.openwall.com/lists/oss-security/2026/07/22/14
 CVE-2026-64600 - http://www.openwall.com/lists/oss-security/2026/07/22/19
 CVE-2026-64600 - http://www.openwall.com/lists/oss-security/2026/07/31/3
+CVE-2026-64600 - http://www.openwall.com/lists/oss-security/2026/08/03/4
+CVE-2026-64600 - http://www.openwall.com/lists/oss-security/2026/08/03/8
 CVE-2026-64600 - https://cdn2.qualys.com/advisory/2026/07/22/RefluXFS.txt
 CVE-2026-64611 - https://github.com/OpenPrinting/libcupsfilters/security/advisories/GHSA-rcq7-rv5g-j3r4
 CVE-2026-64612 - https://github.com/OpenPrinting/libcupsfilters/security/advisories/GHSA-7mxj-cfq5-84ch
@@ -150016,6 +150114,7 @@ CVE-2026-64628 - https://github.com/getgrav/grav/security/advisories/GHSA-q5fw-v
 CVE-2026-64821 - https://github.com/americooo/pentest-writeups/tree/main/djangoSIGE-CVE-2026-64821-64822
 CVE-2026-64822 - https://github.com/americooo/pentest-writeups/tree/main/djangoSIGE-CVE-2026-64821-64822
 CVE-2026-64824 - https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-78r8-wwqv-r299
+CVE-2026-64826 - https://github.com/rconfig/rconfig/commit/d133a466a2df9d065177de9a8ed50f1bfe438aee
 CVE-2026-64827 - https://karmainsecurity.com/KIS-2026-14
 CVE-2026-64828 - https://github.com/aaronamran/CVE-Disclosures/tree/main/CVE-2026/CVE-2026-64828
 CVE-2026-64863 - https://github.com/goshs-labs/goshs/security/advisories/GHSA-hq33-8jgp-8qq3
@@ -150255,6 +150354,7 @@ CVE-2026-7037 - https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_
 CVE-2026-70377 - https://github.com/theotherphil/imagecli/issues/66
 CVE-2026-70378 - https://github.com/theotherphil/imagecli/issues/67
 CVE-2026-7039 - https://github.com/tufantunc/ssh-mcp/issues/44
+CVE-2026-70395 - https://github.com/ash-project/ash/security/advisories/GHSA-vvp6-3wv6-833j
 CVE-2026-7044 - https://github.com/ueh1013/VULN/issues/21
 CVE-2026-7045 - https://github.com/baomidou/dynamic-datasource/issues/766
 CVE-2026-70470 - https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-52fh-8v99-63c2
@@ -150280,6 +150380,7 @@ CVE-2026-70556 - https://www.vulncheck.com/advisories/hubzilla-csrf-via-oauth2-a
 CVE-2026-70557 - https://github.com/dibo-software/diboot/issues/104
 CVE-2026-70559 - https://github.com/DataLinkDC/dinky/issues/4567
 CVE-2026-7056 - https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_127/README.md
+CVE-2026-70560 - https://github.com/aaronamran/CVE-Disclosures/tree/main/CVE-2026/CVE-2026-70560
 CVE-2026-70561 - https://github.com/geo-chen/oss/blob/main/testlink-code.md
 CVE-2026-7057 - https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_128/README.md
 CVE-2026-7061 - https://github.com/Toowiredd/chatgpt-mcp-server/issues/8
@@ -150291,6 +150392,7 @@ CVE-2026-70619 - https://aydinnyunus.github.io/2026/06/16/odysseus-embedding-end
 CVE-2026-7062 - https://github.com/Intina47/context-sync/issues/31
 CVE-2026-7062 - https://github.com/wing3e/public_exp/issues/22
 CVE-2026-70620 - https://aydinnyunus.github.io/2026/06/16/odysseus-embedding-endpoint-takeover/
+CVE-2026-70622 - https://gist.github.com/thesmartshadow/e7dac0bb690ee17b9cc142154cb11726
 CVE-2026-7063 - https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/SQL%20Injection%20in%20Employee%20Management%20System%20PHP%20mailuid%20Parameter.md
 CVE-2026-70637 - https://github.com/hfiref0x/LightFTP/issues/75
 CVE-2026-7064 - https://github.com/AgentDeskAI/browser-tools-mcp/issues/232
@@ -150449,7 +150551,12 @@ CVE-2026-7316 - https://github.com/eiliyaabedini/aider-mcp/issues/1
 CVE-2026-7318 - https://github.com/elie/mcp-research-server/issues/1
 CVE-2026-7319 - https://github.com/elinsky/execution-system-mcp/issues/1
 CVE-2026-7325 - https://devolutions.net/security/advisories/DEVO-2026-0013/
+CVE-2026-73326 - https://enrik-m.github.io/posts/Camaleon-CMS-Vulnerabilties/#31-broken-access-control-on-admin-endpoints
+CVE-2026-73329 - https://enrik-m.github.io/posts/Camaleon-CMS-Vulnerabilties/#44-stored-xss-via-draft-post-title
 CVE-2026-7333 - https://issues.chromium.org/issues/493955227
+CVE-2026-73330 - https://enrik-m.github.io/posts/Camaleon-CMS-Vulnerabilties/#44-stored-xss-via-draft-post-title
+CVE-2026-73331 - https://enrik-m.github.io/posts/Camaleon-CMS-Vulnerabilties/#44-stored-xss-via-draft-post-title
+CVE-2026-73332 - https://enrik-m.github.io/posts/Camaleon-CMS-Vulnerabilties/#32-stored-xss-in-contact-form
 CVE-2026-7335 - https://issues.chromium.org/issues/500387779
 CVE-2026-7337 - https://issues.chromium.org/issues/500880819
 CVE-2026-7338 - https://issues.chromium.org/issues/502449857
@@ -150881,6 +150988,7 @@ CVE-2026-9350 - https://vuldb.com/vuln/365313/cti
 CVE-2026-9352 - https://gist.github.com/YLChen-007/760b3940f708990e535214529c0c7a27
 CVE-2026-9354 - https://gist.github.com/YLChen-007/e90fb38ac03284176bae49898a3a46a4
 CVE-2026-9355 - https://github.com/yan-124/yan/issues/3
+CVE-2026-9361 - https://vuldb.com/submit/811552
 CVE-2026-9366 - https://gist.github.com/YLChen-007/581fd92de5548fbaacb2092e848a75cc
 CVE-2026-9368 - https://gist.github.com/YLChen-007/43c72d19668421abe8ce10f299323a0a
 CVE-2026-9377 - https://github.com/redshadowword-cell/CVE/issues/13
