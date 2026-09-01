@@ -17524,6 +17524,7 @@ CVE-2009-0646 - https://www.exploit-db.com/exploits/7964
 CVE-2009-0648 - http://packetstorm.linuxsecurity.com/0902-exploits/falt4-cms-xsrf.txt
 CVE-2009-0649 - https://www.exploit-db.com/exploits/8051
 CVE-2009-0650 - https://www.exploit-db.com/exploits/8058
+CVE-2009-0652 - http://lists.immunitysec.com/pipermail/dailydave/2009-February/005556.html
 CVE-2009-0652 - http://lists.immunitysec.com/pipermail/dailydave/2009-February/005563.html
 CVE-2009-0652 - http://www.blackhat.com/html/bh-dc-09/bh-dc-09-speakers.html#Marlinspike
 CVE-2009-0652 - http://www.vupen.com/english/advisories/2009/1125
@@ -20152,6 +20153,7 @@ CVE-2009-5047 - http://www.ush.it/team/ush/hack-jetty6x7x/jetty-adv.txt
 CVE-2009-5048 - http://www.ush.it/team/ush/hack-jetty6x7x/jetty-adv.txt
 CVE-2009-5049 - http://www.ush.it/team/ush/hack-jetty6x7x/jetty-adv.txt
 CVE-2009-5065 - http://support.novell.com/security/cve/CVE-2009-5065.html
+CVE-2009-5066 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2009-5066 - https://issues.jboss.org/browse/JBPAPP-3391?_sscc=t
 CVE-2009-5067 - http://packetstormsecurity.org/files/81614/html2ps-1.0-beta5-File-Disclosure.html
 CVE-2009-5087 - http://securityreason.com/securityalert/8372
@@ -20296,6 +20298,7 @@ CVE-2010-0151 - http://www.cisco.com/en/US/products/products_security_advisory09
 CVE-2010-0156 - https://puppet.com/security/cve/cve-2010-0156
 CVE-2010-0157 - http://packetstormsecurity.org/1001-exploits/joomlabiblestudy-lfi.txt
 CVE-2010-0158 - http://packetstormsecurity.org/1001-exploits/joomlabamboo-sql.txt
+CVE-2010-0158 - http://www.exploit-db.com/exploits/10971
 CVE-2010-0159 - http://www.redhat.com/support/errata/RHSA-2010-0112.html
 CVE-2010-0159 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9590
 CVE-2010-0160 - http://www.redhat.com/support/errata/RHSA-2010-0112.html
@@ -20367,6 +20370,7 @@ CVE-2010-0307 - http://www.globalsecuritymag.com/Vigil-nce-Linux-kernel-denial-o
 CVE-2010-0307 - http://www.redhat.com/support/errata/RHSA-2010-0771.html
 CVE-2010-0307 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
 CVE-2010-0315 - http://sites.google.com/a/chromium.org/dev/Home/chromium-security/chromium-security-bugs
+CVE-2010-0317 - http://www.exploit-db.com/exploits/11009
 CVE-2010-0319 - http://packetstormsecurity.org/1001-exploits/docmintcms-xss.txt
 CVE-2010-0319 - http://www.exploit-db.com/exploits/11119
 CVE-2010-0320 - http://packetstormsecurity.org/1001-exploits/glittercentral-xss.txt
@@ -20647,6 +20651,7 @@ CVE-2010-0825 - https://bugs.launchpad.net/ubuntu/+bug/531569
 CVE-2010-0826 - http://www.ubuntu.com/usn/USN-922-1
 CVE-2010-0828 - http://www.ubuntu.com/usn/USN-925-1
 CVE-2010-0829 - https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A9718
+CVE-2010-0832 - http://www.exploit-db.com/exploits/14273
 CVE-2010-0832 - http://www.h-online.com/security/news/item/Ubuntu-closes-root-hole-1034618.html
 CVE-2010-0835 - http://www.oracle.com/technetwork/topics/security/cpuoct2010-175626.html
 CVE-2010-0836 - http://www.oracle.com/technetwork/topics/security/cpuoct2010-175626.html
@@ -20805,6 +20810,7 @@ CVE-2010-0938 - http://packetstormsecurity.org/1001-exploits/todooforum-xss.txt
 CVE-2010-0939 - http://packetstormsecurity.org/1001-exploits/abbforums-dislclose.txt
 CVE-2010-0939 - http://www.exploit-db.com/exploits/11096
 CVE-2010-0940 - http://packetstormsecurity.org/1001-exploits/simplephpgb-xss.txt
+CVE-2010-0940 - http://www.exploit-db.com/exploits/11077
 CVE-2010-0941 - http://packetstormsecurity.org/1001-exploits/hitcounter-xss.txt
 CVE-2010-0941 - http://www.exploit-db.com/exploits/10887
 CVE-2010-0942 - http://packetstormsecurity.org/1001-exploits/joomlajvideodirect-traversal.txt
@@ -20822,6 +20828,7 @@ CVE-2010-0950 - http://www.packetstormsecurity.com/1003-exploits/natychmiast-sql
 CVE-2010-0951 - http://packetstormsecurity.org/1003-exploits/dev4u-sql.txt
 CVE-2010-0951 - http://www.exploit-db.com/exploits/11643
 CVE-2010-0952 - http://packetstormsecurity.org/1003-exploits/onecmsv25-sql.txt
+CVE-2010-0952 - http://www.exploit-db.com/exploits/11635
 CVE-2010-0953 - http://www.exploit-db.com/exploits/11641
 CVE-2010-0954 - http://evilc0de.blogspot.com/2010/03/pre-e-learning-portal-sql-injection.html
 CVE-2010-0954 - http://www.packetstormsecurity.com/1003-exploits/preelearningportal-sql.txt
@@ -20833,6 +20840,7 @@ CVE-2010-0957 - http://www.exploit-db.com/exploits/11433
 CVE-2010-0958 - http://packetstormsecurity.org/1003-exploits/tribisur-lfi.txt
 CVE-2010-0958 - http://www.exploit-db.com/exploits/11655
 CVE-2010-0964 - http://packetstormsecurity.org/1003-exploits/eroserotikwebkat-sql.txt
+CVE-2010-0964 - http://www.exploit-db.com/exploits/11689
 CVE-2010-0965 - http://packetstormsecurity.org/1003-exploits/jevci-disclose.txt
 CVE-2010-0966 - http://www.exploit-db.com/exploits/11735
 CVE-2010-0967 - http://www.exploit-db.com/exploits/11721
@@ -20922,6 +20930,7 @@ CVE-2010-1064 - http://packetstormsecurity.org/1001-exploits/erolife-disclose.tx
 CVE-2010-1064 - http://www.exploit-db.com/exploits/11023
 CVE-2010-1065 - http://www.exploit-db.com/exploits/11015
 CVE-2010-1066 - http://packetstormsecurity.org/1001-exploits/awcm-backup.txt
+CVE-2010-1066 - http://www.exploit-db.com/exploits/11025
 CVE-2010-1067 - http://www.exploit-db.com/exploits/11098
 CVE-2010-1068 - http://packetstormsecurity.org/1001-exploits/surgeftp-xss.txt
 CVE-2010-1068 - http://www.exploit-db.com/exploits/11092
@@ -21082,6 +21091,7 @@ CVE-2010-1266 - http://www.exploit-db.com/exploits/11831
 CVE-2010-1267 - http://packetstormsecurity.org/1003-exploits/webmaid-rfilfi.txt
 CVE-2010-1267 - http://www.exploit-db.com/exploits/11831
 CVE-2010-1268 - http://packetstormsecurity.org/1003-exploits/justvisual-lfi.txt
+CVE-2010-1268 - http://www.exploit-db.com/exploits/11876
 CVE-2010-1269 - http://packetstormsecurity.org/1003-exploits/phpscripte24-sql.txt
 CVE-2010-1269 - http://www.exploit-db.com/exploits/11805
 CVE-2010-1270 - http://packetstormsecurity.org/1003-exploits/multiauktions-sql.txt
@@ -21419,6 +21429,7 @@ CVE-2010-1710 - http://packetstormsecurity.org/1004-exploits/siestta-lfixss.txt
 CVE-2010-1710 - http://www.exploit-db.com/exploits/12260
 CVE-2010-1711 - http://packetstormsecurity.org/1004-exploits/siestta-lfixss.txt
 CVE-2010-1711 - http://www.exploit-db.com/exploits/12260
+CVE-2010-1712 - http://www.exploit-db.com/exploits/12323
 CVE-2010-1713 - http://packetstormsecurity.org/1004-exploits/postnukemodload-sql.txt
 CVE-2010-1714 - http://packetstormsecurity.org/1004-exploits/joomlaarcadegames-lfi.txt
 CVE-2010-1714 - http://www.exploit-db.com/exploits/12168
@@ -21476,6 +21487,7 @@ CVE-2010-1818 - http://threatpost.com/en_us/blogs/new-remote-flaw-apple-quicktim
 CVE-2010-1851 - http://www.cnet.com/8301-31361_1-20004265-254.html
 CVE-2010-1852 - http://www.cnet.com/8301-31361_1-20004265-254.html
 CVE-2010-1855 - http://packetstormsecurity.org/1003-exploits/ppwb-sql.txt
+CVE-2010-1855 - http://www.exploit-db.com/exploits/11816
 CVE-2010-1856 - http://packetstormsecurity.org/1003-exploits/repairshop2-xss.txt
 CVE-2010-1858 - http://packetstormsecurity.org/1003-exploits/joomlasmestorage-lfi.txt
 CVE-2010-1858 - http://www.exploit-db.com/exploits/11853
@@ -21514,6 +21526,7 @@ CVE-2010-1922 - http://www.exploit-db.com/exploits/12558
 CVE-2010-1923 - http://packetstormsecurity.org/1005-exploits/web20snfcs-sql.txt
 CVE-2010-1924 - http://www.exploit-db.com/exploits/12545
 CVE-2010-1925 - http://packetstormsecurity.org/1005-exploits/teknoportal-sql.txt
+CVE-2010-1925 - http://www.exploit-db.com/exploits/12552
 CVE-2010-1926 - http://packetstormsecurity.org/1004-exploits/opencourrier-rfilfi.txt
 CVE-2010-1926 - http://www.exploit-db.com/exploits/12398
 CVE-2010-1927 - http://packetstormsecurity.org/1004-exploits/opencourrier-rfilfi.txt
@@ -21696,6 +21709,7 @@ CVE-2010-2068 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:150
 CVE-2010-2068 - http://www.oracle.com/technetwork/topics/security/cpuapr2013-1899555.html
 CVE-2010-2068 - http://www.oracle.com/technetwork/topics/security/cpujuly2013-1899826.html
 CVE-2010-2070 - http://www.vmware.com/security/advisories/VMSA-2011-0003.html
+CVE-2010-2075 - http://www.exploit-db.com/exploits/13853
 CVE-2010-2078 - http://cross-site-scripting.blogspot.com/2010/05/datatrack-system-35-persistent-xss.html
 CVE-2010-2078 - http://packetstormsecurity.org/1005-exploits/datatrackserver35-xss.txt
 CVE-2010-2079 - http://cross-site-scripting.blogspot.com/2010/05/datatrack-system-35-persistent-xss.html
@@ -21723,6 +21737,7 @@ CVE-2010-2124 - http://www.exploit-db.com/exploits/12684
 CVE-2010-2126 - http://packetstormsecurity.org/1004-exploits/snipegallery-rfi.txt
 CVE-2010-2127 - http://packetstormsecurity.org/1005-exploits/jv2foldergallery-rfi.txt
 CVE-2010-2127 - http://www.exploit-db.com/exploits/12688
+CVE-2010-2128 - http://www.exploit-db.com/exploits/12607
 CVE-2010-2129 - http://packetstormsecurity.org/1005-exploits/joomlaajaxec-lfi.txt
 CVE-2010-2129 - http://www.exploit-db.com/exploits/12598
 CVE-2010-2130 - http://packetstormsecurity.org/1002-exploits/arisg5-xss.txt
@@ -21809,7 +21824,9 @@ CVE-2010-2254 - http://packetstormsecurity.org/1001-exploits/joomlaboh-sql.txt
 CVE-2010-2254 - http://www.exploit-db.com/exploits/10964
 CVE-2010-2255 - http://packetstormsecurity.org/1001-exploits/joomlabfsurveypro-sql.txt
 CVE-2010-2256 - http://packetstormsecurity.org/1001-exploits/ppmvcs-sqlxss.txt
+CVE-2010-2256 - http://www.exploit-db.com/exploits/10983
 CVE-2010-2257 - http://packetstormsecurity.org/1001-exploits/ppmvcs-sqlxss.txt
+CVE-2010-2257 - http://www.exploit-db.com/exploits/10983
 CVE-2010-2258 - http://packetstormsecurity.org/1001-exploits/phpbannerexchange-xss.txt
 CVE-2010-2259 - http://packetstormsecurity.org/1001-exploits/joomlabfsurvey-lfi.txt
 CVE-2010-2260 - http://packetstormsecurity.org/1001-exploits/bandwidthmeter-xss.txt
@@ -21846,6 +21863,7 @@ CVE-2010-2307 - http://www.exploit-db.com/exploits/12865
 CVE-2010-2309 - http://www.exploit-db.com/exploits/13735
 CVE-2010-2310 - http://www.exploit-db.com/exploits/13836
 CVE-2010-2311 - http://www.exploit-db.com/exploits/13820
+CVE-2010-2312 - http://www.exploit-db.com/exploits/13784
 CVE-2010-2313 - http://packetstormsecurity.org/1006-exploits/simm-lfi.txt
 CVE-2010-2313 - http://www.exploit-db.com/exploits/12848/
 CVE-2010-2314 - http://packetstormsecurity.org/1005-exploits/nucleustwitter-rfi.txt
@@ -21865,6 +21883,7 @@ CVE-2010-2326 - http://www.vupen.com/english/advisories/2010/1411
 CVE-2010-2327 - http://www.vupen.com/english/advisories/2010/1411
 CVE-2010-2328 - http://www-01.ibm.com/support/docview.wss?uid=swg1PM15829
 CVE-2010-2329 - http://packetstormsecurity.org/1006-exploits/rosoft444-overflow.txt
+CVE-2010-2329 - http://www.exploit-db.com/exploits/13895
 CVE-2010-2330 - http://www.exploit-db.com/exploits/13876
 CVE-2010-2330 - http://www.securityfocus.com/bid/40866
 CVE-2010-2331 - http://www.exploit-db.com/exploits/13903
@@ -22041,6 +22060,7 @@ CVE-2010-2621 - http://aluigi.org/adv/qtsslame-adv.txt
 CVE-2010-2621 - http://aluigi.org/poc/qtsslame.zip
 CVE-2010-2621 - http://www.securityfocus.com/bid/41250
 CVE-2010-2622 - http://www.exploit-db.com/exploits/14127
+CVE-2010-2623 - http://www.exploit-db.com/exploits/14144
 CVE-2010-2624 - http://www.exploit-db.com/exploits/14162
 CVE-2010-2632 - http://securityreason.com/achievement_securityalert/89
 CVE-2010-2632 - http://securityreason.com/achievement_securityalert/97
@@ -22097,6 +22117,7 @@ CVE-2010-2714 - http://www.exploit-db.com/exploits/14203
 CVE-2010-2715 - http://www.exploit-db.com/exploits/14203
 CVE-2010-2716 - http://packetstormsecurity.org/1007-exploits/psnews-sql.txt
 CVE-2010-2718 - http://packetstormsecurity.org/1007-exploits/cruxpa-xss.txt
+CVE-2010-2719 - http://www.exploit-db.com/exploits/14199
 CVE-2010-2720 - http://www.exploit-db.com/exploits/14201
 CVE-2010-2721 - http://packetstormsecurity.org/1007-exploits/lyrics-sql.txt
 CVE-2010-2721 - http://www.exploit-db.com/exploits/14244
@@ -22227,6 +22248,7 @@ CVE-2010-2919 - http://www.exploit-db.com/exploits/14395
 CVE-2010-2920 - http://packetstormsecurity.org/1004-exploits/joomlafoobla-lfi.txt
 CVE-2010-2920 - http://www.exploit-db.com/exploits/12120
 CVE-2010-2921 - http://packetstormsecurity.org/1007-exploits/joomlagolfcourseguide-sql.txt
+CVE-2010-2921 - http://www.exploit-db.com/exploits/14448
 CVE-2010-2922 - http://packetstormsecurity.org/1007-exploits/akyblog-sql.txt
 CVE-2010-2922 - http://www.exploit-db.com/exploits/14461
 CVE-2010-2923 - http://packetstormsecurity.org/1007-exploits/joomlayoutube-sql.txt
@@ -22292,6 +22314,7 @@ CVE-2010-3025 - http://packetstormsecurity.org/1008-exploits/openblog-xssxsrf.tx
 CVE-2010-3026 - http://packetstormsecurity.org/1008-exploits/openblog-xssxsrf.txt
 CVE-2010-3026 - http://www.exploit-db.com/exploits/14562
 CVE-2010-3027 - http://packetstormsecurity.org/1008-exploits/tycoonrecord-sql.txt
+CVE-2010-3027 - http://www.exploit-db.com/exploits/14572
 CVE-2010-3029 - http://www.exploit-db.com/exploits/14578
 CVE-2010-3039 - http://seclists.org/fulldisclosure/2010/Nov/40
 CVE-2010-3048 - http://www.fuzzmyapp.com/advisories/FMA-2010-002/FMA-2010-002-EN.xml
@@ -22327,6 +22350,7 @@ CVE-2010-3107 - https://oval.cisecurity.org/repository/search/definition/oval%3A
 CVE-2010-3113 - http://bugzilla.redhat.com/bugzilla/show_bug.cgi?id=628032
 CVE-2010-3124 - http://www.exploit-db.com/exploits/14750
 CVE-2010-3125 - http://www.exploit-db.com/exploits/14747
+CVE-2010-3126 - http://www.exploit-db.com/exploits/14743
 CVE-2010-3127 - http://blog.zoller.lu/2010/08/cve-2010-xn-loadlibrarygetprocaddress.html
 CVE-2010-3127 - http://www.exploit-db.com/exploits/14741
 CVE-2010-3128 - http://www.exploit-db.com/exploits/14734
@@ -22337,9 +22361,11 @@ CVE-2010-3131 - https://bugzilla.mozilla.org/show_bug.cgi?id=579593
 CVE-2010-3132 - http://www.exploit-db.com/exploits/14740
 CVE-2010-3136 - http://www.exploit-db.com/exploits/14766
 CVE-2010-3138 - http://www.exploit-db.com/exploits/14765
+CVE-2010-3138 - http://www.exploit-db.com/exploits/14788
 CVE-2010-3138 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2010-4956.php
 CVE-2010-3138 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-014
 CVE-2010-3139 - http://www.exploit-db.com/exploits/14758
+CVE-2010-3140 - http://www.exploit-db.com/exploits/14780
 CVE-2010-3141 - http://www.exploit-db.com/exploits/14723/
 CVE-2010-3142 - http://www.exploit-db.com/exploits/14782/
 CVE-2010-3143 - http://www.exploit-db.com/exploits/14778/
@@ -22495,6 +22521,7 @@ CVE-2010-3453 - http://www.oracle.com/technetwork/topics/security/cpuapr2011-301
 CVE-2010-3454 - http://www.oracle.com/technetwork/topics/security/cpuapr2011-301950.html
 CVE-2010-3455 - http://packetstormsecurity.org/1009-exploits/achecker-xss.txt
 CVE-2010-3456 - http://packetstormsecurity.org/1009-exploits/essimpledownload-lfi.txt
+CVE-2010-3456 - http://www.exploit-db.com/exploits/14960
 CVE-2010-3457 - http://packetstormsecurity.org/1009-exploits/symphony-sqlxss.txt
 CVE-2010-3457 - http://www.exploit-db.com/exploits/14968
 CVE-2010-3458 - http://packetstormsecurity.org/1009-exploits/symphony-sqlxss.txt
@@ -22835,7 +22862,9 @@ CVE-2010-3742 - http://packetstormsecurity.org/1008-exploits/freesimplesoftware-
 CVE-2010-3742 - http://www.exploit-db.com/exploits/14672/
 CVE-2010-3743 - http://www.exploit-db.com/exploits/15216
 CVE-2010-3747 - http://securityreason.com/securityalert/8147
+CVE-2010-3765 - http://www.exploit-db.com/exploits/15341
 CVE-2010-3765 - http://www.exploit-db.com/exploits/15342
+CVE-2010-3765 - http://www.exploit-db.com/exploits/15352
 CVE-2010-3765 - http://www.ubuntu.com/usn/USN-1011-2
 CVE-2010-3765 - https://bugzilla.mozilla.org/show_bug.cgi?id=607222
 CVE-2010-3765 - https://bugzilla.mozilla.org/show_bug.cgi?id=607222#c53
@@ -23162,6 +23191,7 @@ CVE-2010-4345 - http://www.theregister.co.uk/2010/12/11/exim_code_execution_peri
 CVE-2010-4346 - http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git%3Ba=commit%3Bh=462e635e5b73ba9a4c03913b77138cd57ce4b050
 CVE-2010-4346 - http://www.vmware.com/security/advisories/VMSA-2011-0012.html
 CVE-2010-4346 - https://bugzilla.redhat.com/show_bug.cgi?id=662189
+CVE-2010-4347 - http://www.exploit-db.com/exploits/15774/
 CVE-2010-4348 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2010-4983.php
 CVE-2010-4348 - https://bugzilla.redhat.com/show_bug.cgi?id=663230
 CVE-2010-4349 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2010-4983.php
@@ -23176,6 +23206,7 @@ CVE-2010-4359 - http://www.exploit-db.com/exploits/15621
 CVE-2010-4362 - http://www.exploit-db.com/exploits/15629
 CVE-2010-4363 - http://evuln.com/vulns/146/summary.html
 CVE-2010-4365 - http://www.exploit-db.com/exploits/15610
+CVE-2010-4366 - http://www.exploit-db.com/exploits/15543
 CVE-2010-4367 - http://awstats.sourceforge.net/docs/awstats_changelog.txt
 CVE-2010-4368 - http://awstats.sourceforge.net/docs/awstats_changelog.txt
 CVE-2010-4369 - http://awstats.sourceforge.net/docs/awstats_changelog.txt
@@ -23359,6 +23390,7 @@ CVE-2010-4572 - http://www.bugzilla.org/security/3.2.9/
 CVE-2010-4588 - http://blogs.technet.com/b/srd/archive/2011/01/07/assessing-the-risk-of-public-issues-currently-being-tracked-by-the-msrc.aspx
 CVE-2010-4595 - http://www-01.ibm.com/support/docview.wss?uid=swg1IZ86207
 CVE-2010-4597 - http://www.exploit-db.com/exploits/15767
+CVE-2010-4598 - http://www.exploit-db.com/exploits/15802
 CVE-2010-4603 - http://www-01.ibm.com/support/docview.wss?uid=swg1PM22186
 CVE-2010-4604 - http://www.exploit-db.com/exploits/15745
 CVE-2010-4604 - http://www.securityfocus.com/archive/1/515263/100/0/threaded
@@ -23542,6 +23574,7 @@ CVE-2010-4874 - http://securityreason.com/securityalert/8430
 CVE-2010-4874 - http://www.exploit-db.com/exploits/15330
 CVE-2010-4875 - http://packetstormsecurity.org/1011-exploits/wpvodpod-xss.txt
 CVE-2010-4875 - http://securityreason.com/securityalert/8431
+CVE-2010-4876 - http://www.exploit-db.com/exploits/14849
 CVE-2010-4877 - http://packetstormsecurity.org/1009-exploits/onecms-xss.txt
 CVE-2010-4877 - http://securityreason.com/securityalert/8432
 CVE-2010-4878 - http://www.exploit-db.com/exploits/14809
@@ -23607,6 +23640,7 @@ CVE-2010-4916 - http://packetstormsecurity.org/1009-exploits/coldusergroup-sql.t
 CVE-2010-4916 - http://securityreason.com/securityalert/8448
 CVE-2010-4916 - http://www.exploit-db.com/exploits/14935
 CVE-2010-4917 - http://packetstormsecurity.org/1009-exploits/ablog-sql.txt
+CVE-2010-4917 - http://www.exploit-db.com/exploits/14894
 CVE-2010-4918 - http://packetstormsecurity.org/1009-exploits/ijoomlamagazine-rfi.txt
 CVE-2010-4918 - http://www.exploit-db.com/exploits/14896
 CVE-2010-4919 - http://www.exploit-db.com/exploits/14914
@@ -23624,6 +23658,7 @@ CVE-2010-4927 - http://packetstormsecurity.org/1009-exploits/joomlarestaurantgui
 CVE-2010-4927 - http://www.exploit-db.com/exploits/15040
 CVE-2010-4928 - http://packetstormsecurity.org/1009-exploits/joomlarestaurantguide-sqlxsslfi.txt
 CVE-2010-4928 - http://www.exploit-db.com/exploits/15040
+CVE-2010-4929 - http://www.exploit-db.com/exploits/15085
 CVE-2010-4930 - http://securityreason.com/securityalert/8455
 CVE-2010-4931 - http://www.exploit-db.com/exploits/14647
 CVE-2010-4933 - http://packetstormsecurity.org/1009-exploits/geeklog138-sql.txt
@@ -23637,6 +23672,7 @@ CVE-2010-4941 - http://www.exploit-db.com/exploits/14598
 CVE-2010-4942 - http://packetstormsecurity.org/1009-exploits/exoopportecal-sql.txt
 CVE-2010-4942 - http://www.exploit-db.com/exploits/15110
 CVE-2010-4943 - http://www.exploit-db.com/exploits/14618
+CVE-2010-4944 - http://www.exploit-db.com/exploits/15100
 CVE-2010-4945 - http://packetstormsecurity.org/0901-exploits/joomlacamel-sql.txt
 CVE-2010-4945 - http://packetstormsecurity.org/1008-exploits/joomlacamelcitydb2-sql.txt
 CVE-2010-4945 - http://www.exploit-db.com/exploits/14530
@@ -23683,6 +23719,7 @@ CVE-2010-4977 - http://packetstormsecurity.org/1007-exploits/joomlacanteen-lfisq
 CVE-2010-4978 - http://www.packetstormsecurity.com/1006-exploits/candid-sql.txt
 CVE-2010-4979 - http://www.packetstormsecurity.com/1006-exploits/candid-sql.txt
 CVE-2010-4980 - http://packetstormsecurity.org/1007-exploits/reservelogic-sql.txt
+CVE-2010-4980 - http://www.exploit-db.com/exploits/14163
 CVE-2010-4982 - http://www.exploit-db.com/exploits/14326
 CVE-2010-4983 - http://packetstormsecurity.org/1007-exploits/cybermatch-sql.txt
 CVE-2010-4983 - http://www.exploit-db.com/exploits/14164
@@ -23959,6 +23996,7 @@ CVE-2010-5231 - http://secunia.com/blog/120
 CVE-2010-5232 - http://secunia.com/blog/120
 CVE-2010-5237 - http://extraexploit.blogspot.com/2010/08/dll-hijacking-my-test-cases-on-default.html
 CVE-2010-5238 - http://extraexploit.blogspot.com/2010/08/dll-hijacking-my-test-cases-on-default.html
+CVE-2010-5239 - http://www.exploit-db.com/exploits/14791/
 CVE-2010-5240 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2010-4953.php
 CVE-2010-5240 - http://www.zeroscience.mk/en/vulnerabilities/ZSL-2010-4954.php
 CVE-2010-5243 - http://extraexploit.blogspot.com/2010/08/dll-hijacking-my-test-cases-on-default.html
@@ -23997,11 +24035,13 @@ CVE-2010-5298 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
 CVE-2010-5298 - https://h20566.www2.hpe.com/portal/site/hpsc/public/kb/docDisplay?docId=emr_na-c05301946
 CVE-2010-5298 - https://kc.mcafee.com/corporate/index?page=content&id=SB10075
 CVE-2010-5299 - http://packetstormsecurity.com/files/125723/MicroP-0.1.1.1600-Buffer-Overflow.html
+CVE-2010-5299 - http://www.exploit-db.com/exploits/14720
 CVE-2010-5299 - http://www.exploit-db.com/exploits/17502
 CVE-2010-5299 - http://www.exploit-db.com/exploits/32261
 CVE-2010-5300 - http://packetstormsecurity.com/files/126216/Jzip-2.0.0.132900-Buffer-Overflow.html
 CVE-2010-5300 - http://seclists.org/fulldisclosure/2010/Apr/79
 CVE-2010-5300 - http://www.exploit-db.com/exploits/32899
+CVE-2010-5301 - http://www.exploit-db.com/exploits/15834
 CVE-2010-5306 - http://apps.gehealthcare.com/servlet/ClientServlet/5341628-1EN_r12.pdf?REQ=RAA&DIRECTION=5341628-1EN&FILENAME=5341628-1EN_r12.pdf&FILEREV=12&DOCREV_ORG=12
 CVE-2010-5306 - http://apps.gehealthcare.com/servlet/ClientServlet/5401943_rev+3.pdf?REQ=RAA&DIRECTION=5401943&FILENAME=5401943_rev%2B3.pdf&FILEREV=3&DOCREV_ORG=3
 CVE-2010-5306 - http://apps.gehealthcare.com/servlet/ClientServlet/5472001-1EN_rev2.pdf?REQ=RAA&DIRECTION=5472001-1EN&FILENAME=5472001-1EN_rev2.pdf&FILEREV=2&DOCREV_ORG=2
@@ -24617,6 +24657,7 @@ CVE-2011-1090 - http://www.vmware.com/security/advisories/VMSA-2011-0012.html
 CVE-2011-1092 - http://www.exploit-db.com/exploits/16966
 CVE-2011-1092 - http://www.mandriva.com/security/advisories?name=MDVSA-2011:052
 CVE-2011-1095 - http://www.vmware.com/security/advisories/VMSA-2011-0012.html
+CVE-2011-1096 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2011-1096 - http://rhn.redhat.com/errata/RHSA-2013-1437.html
 CVE-2011-1096 - http://www.csoonline.com/article/692366/widely-used-encryption-standard-is-insecure-say-experts
 CVE-2011-1098 - http://www.vupen.com/english/advisories/2011/0961
@@ -25104,6 +25145,7 @@ CVE-2011-2461 - https://threatpost.com/adobe-cve-2011-2461-remains-exploitable-f
 CVE-2011-2467 - https://launchpadlibrarian.net/74204969/LWSA-2011-002.txt
 CVE-2011-2471 - https://bugzilla.redhat.com/show_bug.cgi?id=700883
 CVE-2011-2472 - https://bugzilla.redhat.com/show_bug.cgi?id=700883
+CVE-2011-2487 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2011-2494 - http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.1
 CVE-2011-2494 - https://bugzilla.redhat.com/show_bug.cgi?id=716842
 CVE-2011-2495 - https://bugzilla.redhat.com/show_bug.cgi?id=716825
@@ -25174,6 +25216,7 @@ CVE-2011-2719 - http://securityreason.com/securityalert/8322
 CVE-2011-2722 - http://www.ubuntu.com/usn/USN-1981-1
 CVE-2011-2725 - http://packetstormsecurity.com/files/105610/Ark-2.16-Directory-Traversal.html
 CVE-2011-2725 - https://bugzilla.redhat.com/show_bug.cgi?id=725764
+CVE-2011-2730 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2011-2730 - http://www.oracle.com/technetwork/security-advisory/cpujul2017-3236622.html
 CVE-2011-2743 - http://securityreason.com/securityalert/8312
 CVE-2011-2743 - http://www.ocert.org/advisories/ocert-2011-001.html
@@ -25214,6 +25257,7 @@ CVE-2011-2900 - http://securityreason.com/securityalert/8337
 CVE-2011-2904 - https://support.zabbix.com/browse/ZBX-3835
 CVE-2011-2905 - http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.1
 CVE-2011-2906 - http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.1
+CVE-2011-2908 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2011-2911 - http://ubuntu.com/usn/usn-1255-1
 CVE-2011-2912 - http://modplug-xmms.git.sourceforge.net/git/gitweb.cgi?p=modplug-xmms/modplug-xmms%3Ba=commitdiff%3Bh=f4e5295658fff000379caa122e75c9200205fe20
 CVE-2011-2912 - http://ubuntu.com/usn/usn-1255-1
@@ -25675,6 +25719,7 @@ CVE-2011-4566 - http://www.redhat.com/support/errata/RHSA-2012-0019.html
 CVE-2011-4569 - http://www.exploit-db.com/exploits/17962
 CVE-2011-4570 - http://www.exploit-db.com/exploits/17944
 CVE-2011-4572 - http://www.exploit-db.com/exploits/17927
+CVE-2011-4575 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2011-4579 - http://ffmpeg.org/
 CVE-2011-4579 - http://ubuntu.com/usn/usn-1320-1
 CVE-2011-4579 - http://ubuntu.com/usn/usn-1333-1
@@ -26014,6 +26059,7 @@ CVE-2012-0022 - http://www.oracle.com/technetwork/topics/security/cpujan2013-151
 CVE-2012-0025 - http://www.exploit-db.com/exploits/18256
 CVE-2012-0031 - http://www.mandriva.com/security/advisories?name=MDVSA-2013:150
 CVE-2012-0031 - http://www.oracle.com/technetwork/topics/security/cpujul2012-392727.html
+CVE-2012-0034 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2012-0034 - https://issues.jboss.org/browse/JBCACHE-1612
 CVE-2012-0036 - http://www.oracle.com/technetwork/topics/security/cpujul2015-2367936.html
 CVE-2012-0036 - https://github.com/bagder/curl/commit/75ca568fa1c19de4c5358fed246686de8467c238
@@ -26387,6 +26433,7 @@ CVE-2012-0872 - http://yehg.net/lab/pr0js/advisories/%5BOxWall_1.1.1%5D_xss
 CVE-2012-0873 - http://www.openwall.com/lists/oss-security/2012/02/20/11
 CVE-2012-0873 - http://www.openwall.com/lists/oss-security/2012/02/20/6
 CVE-2012-0873 - http://yehg.net/lab/pr0js/advisories/%5BDolphin_7.0.7%5D_xss
+CVE-2012-0874 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2012-0874 - http://www.exploit-db.com/exploits/30211
 CVE-2012-0876 - http://bugs.python.org/issue13703#msg151870
 CVE-2012-0876 - http://www.oracle.com/technetwork/topics/security/bulletinjul2016-3090568.html
@@ -27223,6 +27270,8 @@ CVE-2012-2376 - http://isc.sans.edu/diary.html?storyid=13255
 CVE-2012-2376 - http://openwall.com/lists/oss-security/2012/05/20/2
 CVE-2012-2376 - http://www.exploit-db.com/exploits/18861/
 CVE-2012-2376 - https://bugzilla.redhat.com/show_bug.cgi?id=823464
+CVE-2012-2377 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
+CVE-2012-2379 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2012-2385 - https://github.com/keithw/mosh/issues/271
 CVE-2012-2390 - http://www.ubuntu.com/usn/USN-1535-1
 CVE-2012-2394 - https://bugs.wireshark.org/bugzilla/show_bug.cgi?id=7221
@@ -27733,6 +27782,8 @@ CVE-2012-3354 - http://www.freelists.org/post/dokuwiki/Fwd-DokuWiki-Full-path-di
 CVE-2012-3358 - http://www.openwall.com/lists/oss-security/2012/07/11/1
 CVE-2012-3362 - http://www.autosectools.com/Advisories/eXtplorer.2.1.RC3_Cross-site.Request.Forgery_174.html
 CVE-2012-3368 - http://sourceforge.net/tracker/?func=detail&aid=3517812&group_id=36489&atid=417357
+CVE-2012-3369 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
+CVE-2012-3370 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2012-3372 - http://www.theregister.co.uk/2012/07/07/cyberoam_tor_ssl_spying_flap/
 CVE-2012-3376 - https://www.cloudera.com/documentation/other/security-bulletins/topics/csb_topic_1.html
 CVE-2012-3381 - http://sourceforge.net/tracker/index.php?func=detail&aid=3541554&group_id=128809&atid=712784
@@ -27791,6 +27842,7 @@ CVE-2012-3544 - http://seclists.org/fulldisclosure/2014/Dec/23
 CVE-2012-3544 - http://www.oracle.com/technetwork/topics/security/cpujan2014-1972949.html
 CVE-2012-3544 - http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html
 CVE-2012-3544 - http://www.vmware.com/security/advisories/VMSA-2014-0012.html
+CVE-2012-3546 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2012-3549 - http://www.exploit-db.com/exploits/20226
 CVE-2012-3551 - https://github.com/SUSE-Cloud/barclamp-crowbar/commit/90e905b7668a1cc884fb70040f96c7a0a287de48
 CVE-2012-3551 - https://github.com/SUSE-Cloud/barclamp-crowbar/commit/a82ed926c6e3ba2b0cada213c35e4b00f34ea629
@@ -28413,6 +28465,7 @@ CVE-2012-5458 - http://www.vmware.com/security/advisories/VMSA-2012-0015.html
 CVE-2012-5459 - http://www.vmware.com/security/advisories/VMSA-2012-0015.html
 CVE-2012-5460 - http://www.juniper.net/alerts/viewalert.jsp?actionBtn=Search&txtAlertNumber=PSN-2013-03-874&viewMode=view
 CVE-2012-5470 - http://www.exploit-db.com/exploits/21889/
+CVE-2012-5478 - http://rhn.redhat.com/errata/RHSA-2013-0193.html
 CVE-2012-5481 - https://moodle.org/mod/forum/discuss.php?d=216161
 CVE-2012-5517 - http://www.kernel.org/pub/linux/kernel/v3.x/
 CVE-2012-5526 - http://www.oracle.com/technetwork/topics/security/ovmbulletinjul2016-3090546.html
@@ -33667,6 +33720,7 @@ CVE-2014-3110 - https://www.exploit-db.com/exploits/44749/
 CVE-2014-3111 - http://seclists.org/fulldisclosure/2014/May/60
 CVE-2014-3115 - http://www.kb.cert.org/vuls/id/902790
 CVE-2014-3119 - https://github.com/web2project/web2project/commit/ab5ba92a6aaf0435cd0b2132cf7f9b7b41575a28
+CVE-2014-3120 - http://www.exploit-db.com/exploits/33370
 CVE-2014-3120 - https://www.elastic.co/blog/logstash-1-4-3-released
 CVE-2014-3120 - https://www.elastic.co/community/security/
 CVE-2014-3122 - https://bugzilla.redhat.com/show_bug.cgi?id=1093076
@@ -46269,6 +46323,7 @@ CVE-2016-10368 - https://www.trustwave.com/Resources/Security-Advisories/Advisor
 CVE-2016-10369 - https://unix.stackexchange.com/questions/333539/lxterminal-in-the-netstat-output/333578
 CVE-2016-10370 - https://alephsecurity.com/vulns/aleph-2017022
 CVE-2016-10372 - https://devicereversing.wordpress.com/2016/11/07/eirs-d1000-modem-is-wide-open-to-being-hacked/
+CVE-2016-10372 - https://ghostbin.com/paste/q2vq2
 CVE-2016-10372 - https://isc.sans.edu/forums/diary/TR069+NewNTPServer+Exploits+What+we+know+so+far/21763/
 CVE-2016-10375 - https://github.com/fbb-git/yodl/issues/1
 CVE-2016-10378 - http://code610.blogspot.com/2016/09/sql-injection-in-latest-e107-cms.html
@@ -47107,6 +47162,7 @@ CVE-2016-20010 - https://www.wordfence.com/blog/2016/06/vulnerability-ewww-image
 CVE-2016-20012 - https://github.com/openssh/openssh-portable/pull/270#issuecomment-920577097
 CVE-2016-20012 - https://github.com/openssh/openssh-portable/pull/270#issuecomment-943909185
 CVE-2016-20012 - https://rushter.com/blog/public-ssh-keys/
+CVE-2016-20016 - https://blog.netlab.360.com/iot_reaper-a-rappid-spreading-new-iot-botnet-en/
 CVE-2016-20016 - https://www.exploit-db.com/exploits/41471
 CVE-2016-20017 - https://www.exploit-db.com/exploits/44760
 CVE-2016-20018 - https://github.com/knex/knex/issues/1227
@@ -57680,6 +57736,8 @@ CVE-2017-7889 - https://usn.ubuntu.com/3583-2/
 CVE-2017-7895 - https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=13bf9fbff0e5e099e2b6f003a0ab8ae145436309
 CVE-2017-7897 - https://github.com/mantisbt/mantisbt/pull/1094
 CVE-2017-7911 - https://www.tenable.com/security/research/tra-2017-19
+CVE-2017-7921 - https://ghostbin.com/paste/q2vq2
+CVE-2017-7923 - https://ghostbin.com/paste/q2vq2
 CVE-2017-7938 - https://packetstormsecurity.com/files/142210/Dmitry-1.3a-Local-Stack-Buffer-Overflow.html
 CVE-2017-7938 - https://www.exploit-db.com/exploits/41898/
 CVE-2017-7948 - https://bugs.ghostscript.com/show_bug.cgi?id=697762
@@ -74657,7 +74715,9 @@ CVE-2019-2556 - http://www.oracle.com/technetwork/security-advisory/cpujan2019-5
 CVE-2019-25560 - https://www.exploit-db.com/exploits/46816
 CVE-2019-25561 - https://www.exploit-db.com/exploits/46817
 CVE-2019-25562 - https://www.exploit-db.com/exploits/46818
+CVE-2019-25563 - http://www.uvnc.eu/download/pchw2/PCHelpWareV2.msi
 CVE-2019-25563 - https://www.exploit-db.com/exploits/46708
+CVE-2019-25564 - http://www.uvnc.eu/download/pchw2/PCHelpWareV2.msi
 CVE-2019-25564 - https://www.exploit-db.com/exploits/46709
 CVE-2019-25565 - https://www.exploit-db.com/exploits/46656
 CVE-2019-25566 - https://www.exploit-db.com/exploits/46470
@@ -115982,6 +116042,7 @@ CVE-2023-42137 - https://blog.stmcyber.com/pax-pos-cves-2023/
 CVE-2023-42143 - https://www.kth.se/cs/nse/research/software-systems-architecture-and-security/projects/ethical-hacking-1.1279219
 CVE-2023-42144 - https://www.kth.se/cs/nse/research/software-systems-architecture-and-security/projects/ethical-hacking-1.1279219
 CVE-2023-4216 - https://wpscan.com/vulnerability/8189afc4-17b3-4696-89e1-731011cb9e2b
+CVE-2023-42179 - https://github.com/johndoe31415/doorbird-kdf-vulnerability
 CVE-2023-4219 - https://github.com/Yesec/-Doctor-s-Appointment-System/blob/main/SQL%20Injection%20in%20login.php/vuln.md
 CVE-2023-4220 - https://starlabs.sg/advisories/23/23-4220
 CVE-2023-4221 - https://starlabs.sg/advisories/23/23-4221
@@ -143559,6 +143620,7 @@ CVE-2025-8241 - https://1000projects.org/
 CVE-2025-8241 - https://github.com/online-Y/CVE/issues/1
 CVE-2025-8242 - https://github.com/panda666-888/vuls/blob/main/totolink/x15/formFilter_ip6addr.md
 CVE-2025-8242 - https://github.com/panda666-888/vuls/blob/main/totolink/x15/formFilter_url.md
+CVE-2025-8242 - https://vuldb.com/?ctiid.317830
 CVE-2025-8242 - https://vuldb.com/?submit.622665
 CVE-2025-8243 - https://github.com/panda666-888/vuls/blob/main/totolink/x15/formMapDel.md
 CVE-2025-8244 - https://github.com/panda666-888/vuls/blob/main/totolink/x15/formMapDelDevice.md
@@ -145884,6 +145946,7 @@ CVE-2026-13176 - https://wpscan.com/vulnerability/41bd0919-6ed3-4280-9657-8114c1
 CVE-2026-13177 - https://wpscan.com/vulnerability/424f774d-9e09-4594-8732-9c527dfc748c/
 CVE-2026-13178 - https://wpscan.com/vulnerability/09d6135f-b38c-4cfe-8a9f-5d79552c720c/
 CVE-2026-13211 - https://github.com/sbaresearch/advisories/tree/public/2026/SBA-ADV-20260424-01_Genucenter_Disclosure_of_SNMP_Credentials
+CVE-2026-13214 - https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-fqhf-6v24-4px2
 CVE-2026-13227 - https://fluidattacks.com/es/advisories/kraviz
 CVE-2026-13229 - https://fluidattacks.com/es/advisories/chicago
 CVE-2026-1324 - https://github.com/LX-LX88/cve/issues/20
@@ -145986,6 +146049,7 @@ CVE-2026-13587 - https://github.com/seladb/PcapPlusPlus/issues/2149
 CVE-2026-13588 - https://github.com/seladb/PcapPlusPlus/issues/2151
 CVE-2026-13588 - https://github.com/user-attachments/files/28213479/poc.zip
 CVE-2026-13589 - https://github.com/seladb/PcapPlusPlus/issues/2152
+CVE-2026-13589 - https://github.com/user-attachments/files/28214571/poc.zip
 CVE-2026-13590 - https://github.com/seladb/PcapPlusPlus/issues/2155
 CVE-2026-13592 - https://github.com/liftoff-sr/CIPster/commit/3a0159ed43125dcd024a1965f0289cb186bae9ff
 CVE-2026-13592 - https://github.com/liftoff-sr/CIPster/issues/48
@@ -146000,6 +146064,7 @@ CVE-2026-13604 - https://wpscan.com/vulnerability/766c961e-e5aa-4ebe-8107-032f46
 CVE-2026-13605 - https://wpscan.com/vulnerability/7ec73098-99eb-48cb-8ff6-a05110691117/
 CVE-2026-13609 - https://wpscan.com/vulnerability/836bc6cd-42f0-4cd9-bb4c-ce5b0ff0d84b/
 CVE-2026-13610 - https://wpscan.com/vulnerability/24951a75-46e7-44f9-947b-070ca2f2b244/
+CVE-2026-13611 - https://wpscan.com/vulnerability/b3f986c8-fa7f-4115-9f33-7e74180256f1/
 CVE-2026-13612 - https://wpscan.com/vulnerability/0f48c1a3-d1f2-4028-b864-190c7f58becd/
 CVE-2026-13613 - https://wpscan.com/vulnerability/76b7d66f-6fa3-41e1-9216-ec125e34ade9/
 CVE-2026-1368 - https://wpscan.com/vulnerability/218e6655-c5aa-4bce-86b2-cad3bb20020c/
@@ -146318,6 +146383,7 @@ CVE-2026-14777 - https://github.com/nuiifornet/A033/blob/main/OE-LMS-RCE-3-annou
 CVE-2026-14778 - https://github.com/nuiifornet/A033/blob/main/OE-LMS-IDOR-ajax_enroll.md
 CVE-2026-14783 - https://github.com/NousResearch/hermes-agent/issues/38643
 CVE-2026-14786 - https://github.com/radareorg/radare2/issues/26047
+CVE-2026-14786 - https://vuldb.com/submit/850386
 CVE-2026-14787 - https://github.com/radareorg/radare2/issues/26048
 CVE-2026-14788 - https://github.com/radareorg/radare2/issues/26049
 CVE-2026-14789 - https://github.com/radareorg/radare2/issues/26051
@@ -146582,6 +146648,8 @@ CVE-2026-15501 - https://gist.github.com/YLChen-007/b68732c140fb11d844b214cf2db5
 CVE-2026-15506 - https://github.com/Kalagious/SecureAgeExploit
 CVE-2026-15508 - https://github.com/oscar2744/CVE-Submit/issues/1
 CVE-2026-15509 - https://bytium.com/insights/leantime-priv-escalation-vulnerability-low-priv-to-owner
+CVE-2026-15509 - https://vuldb.com/vuln/377838
+CVE-2026-15509 - https://vuldb.com/vuln/377838/cti
 CVE-2026-15513 - https://github.com/0xcc12138/wavlink-nu516u1-csrf-command-injection-
 CVE-2026-15515 - https://github.com/subsubsub1231/qmukiller
 CVE-2026-15516 - https://github.com/trustbigcat/CVE/
@@ -153991,6 +154059,7 @@ CVE-2026-5679 - https://github.com/Svigo-o/TOTOLINK-Vul/tree/main/totolink-a3300
 CVE-2026-56790 - https://github.com/canboat/canboat/commit/a5a22b74b9ac5688019cba62669df08562cebd6f
 CVE-2026-56790 - https://github.com/canboat/canboat/issues/644
 CVE-2026-56790 - https://github.com/canboat/canboat/pull/649
+CVE-2026-5680 - https://bugzilla.redhat.com/show_bug.cgi?id=2455350
 CVE-2026-5681 - https://github.com/ltranquility/submit/issues/6
 CVE-2026-5681 - https://vuldb.com/vuln/355508/cti
 CVE-2026-56810 - https://cna.erlef.org/cves/CVE-2026-56810.html
@@ -154617,6 +154686,7 @@ CVE-2026-62378 - https://github.com/rustfs/rustfs/security/advisories/GHSA-7gcx-
 CVE-2026-6238 - https://cert-portal.siemens.com/productcert/html/ssa-082556.html
 CVE-2026-62381 - https://github.com/openwrt/luci/security/advisories/GHSA-jgc3-4q3p-g6xh
 CVE-2026-62382 - https://github.com/pglombardo/PasswordPusher/security/advisories/GHSA-jf2m-hpj9-4qx2
+CVE-2026-62382 - https://tpaidakis.com/writeups/passwordpusher-nil-authorization/
 CVE-2026-62383 - https://github.com/nltk/nltk/security/advisories/GHSA-3hhw-38pf-pxj6
 CVE-2026-62384 - https://github.com/nltk/nltk/security/advisories/GHSA-f833-7jw8-xwrv
 CVE-2026-62385 - https://github.com/nltk/nltk/security/advisories/GHSA-568f-pv23-39p4
@@ -155048,6 +155118,7 @@ CVE-2026-67430 - https://github.com/modelcontextprotocol/ruby-sdk/security/advis
 CVE-2026-67431 - https://github.com/modelcontextprotocol/ruby-sdk/commit/35466605319a34e4c7808712ae9bb1ca1afb2356
 CVE-2026-67431 - https://github.com/modelcontextprotocol/ruby-sdk/security/advisories/GHSA-5p9g-j988-pcwv
 CVE-2026-67432 - https://github.com/modelcontextprotocol/ruby-sdk/security/advisories/GHSA-h669-8m4g-r2hc
+CVE-2026-67434 - https://github.com/PHPCSStandards/PHP_CodeSniffer/commit/7a3a6bbf153a03fa3a9413afc60bded6b764e76b
 CVE-2026-67434 - https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1473
 CVE-2026-67437 - https://github.com/OliveTin/OliveTin/security/advisories/GHSA-xpxj-f2fm-rqch
 CVE-2026-67438 - https://github.com/OliveTin/OliveTin/security/advisories/GHSA-xc5w-4v5w-7x65
@@ -155648,6 +155719,7 @@ CVE-2026-74899 - https://github.com/siyuan-note/siyuan/security/advisories/GHSA-
 CVE-2026-74903 - https://github.com/siyuan-note/siyuan/security/advisories/GHSA-3j8q-5c8c-grwm
 CVE-2026-74905 - https://github.com/siyuan-note/siyuan/security/advisories/GHSA-qq8m-8p8v-x4xg
 CVE-2026-74907 - https://github.com/getgrav/grav/security/advisories/GHSA-4v9q-p283-qc2m
+CVE-2026-74916 - https://wpscan.com/vulnerability/b6f8be96-13d9-497a-8e57-5a65b519958b/
 CVE-2026-74928 - https://wpscan.com/vulnerability/667093bc-e030-45ff-83e0-0d5a4f3abc16/
 CVE-2026-74929 - https://wpscan.com/vulnerability/6c8a1143-2f91-4977-a2bb-e3d3ca3a64f0/
 CVE-2026-74930 - https://wpscan.com/vulnerability/cf3dba8c-29d5-45eb-9da7-e470312cbcf2/
@@ -155660,6 +155732,7 @@ CVE-2026-7511 - https://github.com/wolfSSL/wolfssl/pull/10203
 CVE-2026-7511 - https://www.wolfssl.com/docs/security-vulnerabilities/
 CVE-2026-7513 - https://github.com/kirlic123/IOTvulner/blob/main/4035/4/4.md
 CVE-2026-75130 - https://noma.security/blog/contextcrush-context7-the-mcp-server-vulnerability/
+CVE-2026-75132 - https://www.wapt.fr/en/doc/wapt-changelog.html
 CVE-2026-7521 - https://mattermost.com/security-updates
 CVE-2026-7526 - https://research.cleantalk.org/cve-2026-7526/
 CVE-2026-7528 - https://www.ibm.com/support/pages/node/7273427
@@ -155923,6 +155996,7 @@ CVE-2026-7830 - https://www.securin.io/zero-days/cve-2026-7830-31-bit-dh-weak-rn
 CVE-2026-7831 - https://www.securin.io/zero-days/cve-2026-7831-off-by-one-stack-overflow-viewer-namelength-ultravnc
 CVE-2026-7833 - https://github.com/glkfc/IoT-Vulnerability/blob/main/iptime/c200/sub_409054_vulnerability_report_EN.md
 CVE-2026-78333 - https://wpscan.com/vulnerability/27de9242-d60e-42e8-a3a5-e355bfc00393/
+CVE-2026-78363 - https://wpscan.com/vulnerability/0569c5f7-2001-4364-a68b-451b73f3a32a/
 CVE-2026-78364 - https://wpscan.com/vulnerability/285b87e1-110f-4192-a098-e64e2eb447a8/
 CVE-2026-78367 - https://github.com/rpm-software-management/rpm/issues/4314
 CVE-2026-7838 - https://www.securin.io/zero-days/cve-2026-7838-heap-overflow-viewer-reasonlen-integer-overflow-ultravnc
@@ -156101,6 +156175,7 @@ CVE-2026-8215 - https://hawktrace.com/blog/caniaserp/
 CVE-2026-8216 - https://hawktrace.com/blog/caniaserp
 CVE-2026-8217 - https://hawktrace.com/blog/caniaserp
 CVE-2026-8217 - https://hawktrace.com/blog/caniaserp/
+CVE-2026-82217 - https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/624
 CVE-2026-82233 - https://github.com/siyuan-note/siyuan/security/advisories/GHSA-p23f-cm6q-2qp8
 CVE-2026-82234 - https://github.com/siyuan-note/siyuan/security/advisories/GHSA-x8gv-g2g3-65fj
 CVE-2026-82235 - https://github.com/filebrowser/filebrowser/security/advisories/GHSA-8q5j-8wcr-8v2v
@@ -156138,6 +156213,7 @@ CVE-2026-82278 - https://github.com/dataelement/bisheng/issues/2189
 CVE-2026-82279 - https://github.com/hyperdxio/hyperdx/issues/2587
 CVE-2026-8228 - https://github.com/wudipjq/my_vuln/blob/main/Wavlink/vuln_7/7.md
 CVE-2026-82280 - https://github.com/QuivrHQ/quivr/issues/3698
+CVE-2026-82280 - https://github.com/The-Vibe-Company/Quivr/issues/3698
 CVE-2026-82281 - https://github.com/Cinnamon/kotaemon/issues/846
 CVE-2026-82282 - https://github.com/runatlantis/atlantis/issues/6622
 CVE-2026-82284 - https://github.com/QuivrHQ/quivr/issues/3697
@@ -156150,6 +156226,7 @@ CVE-2026-82290 - https://github.com/Chainlit/chainlit/issues/2975
 CVE-2026-82291 - https://github.com/heyform/heyform/security/advisories/GHSA-fg7j-rmgr-rc9g
 CVE-2026-82306 - https://github.com/StarRocks/starrocks/issues/75747
 CVE-2026-82367 - https://github.com/ash-project/ash_graphql/security/advisories/GHSA-wm4m-cjmc-5v8c
+CVE-2026-82393 - https://github.com/pnpm/pnpm/security/advisories/GHSA-vq4v-j7r6-jq4m
 CVE-2026-8241 - https://hawktrace.com/blog/caniaserp
 CVE-2026-82417 - https://github.com/ljharb/qs/security/advisories/GHSA-4mjr-xmp4-gh2g
 CVE-2026-8242 - https://hawktrace.com/blog/caniaserp
@@ -156165,6 +156242,8 @@ CVE-2026-82457 - https://gist.github.com/thesmartshadow/ed96e2a88643c34a247c9b7c
 CVE-2026-82460 - https://github.com/coderaiser/cloudcmd/issues/474
 CVE-2026-82473 - https://github.com/geo-chen/oss/blob/main/kubeedge.md
 CVE-2026-82475 - https://github.com/iflytek/astron-agent/issues/1590
+CVE-2026-82477 - https://github.com/mitre/heimdall2/security/advisories/GHSA-g9vx-2rpf-gpch
+CVE-2026-82482 - https://github.com/Leousum/VulnPoC/blob/main/CPG1.6.x/stored_xss_biography.md
 CVE-2026-82483 - https://github.com/Leousum/VulnPoC/blob/main/CPG1.6.x/stored_xss_album_desc.md
 CVE-2026-82484 - https://github.com/ltranquility/submit_vuln/issues/20
 CVE-2026-82485 - https://github.com/ltranquility/submit_vuln/issues/21
@@ -156189,6 +156268,7 @@ CVE-2026-82598 - https://github.com/T-Chachamaru/seacms-13.6-security-advisories
 CVE-2026-82599 - https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-002b-member-oldpic-file-deletion.md
 CVE-2026-82600 - https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-004-zyapi-ids-sql-injection.md
 CVE-2026-82601 - https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-007-errtxt-reflected-xss.md
+CVE-2026-82603 - https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-008-member-del-pl-js-file-deletion.md
 CVE-2026-82609 - https://github.com/ltranquility/submit_repository/issues/1
 CVE-2026-8261 - https://github.com/albertodemichelis/squirrel/issues/326
 CVE-2026-8261 - https://github.com/biniamf/pocs/tree/main/squirrel-sqobject-functionproto-load-intovf-lineinfos
@@ -156198,6 +156278,7 @@ CVE-2026-82612 - https://github.com/boyslikesports/202607_vul_dir/blob/main/C-03
 CVE-2026-82613 - https://github.com/boyslikesports/202607_vul_dir/blob/main/C-04-SQLi-Product-Search-LIKE_en.md
 CVE-2026-82614 - https://github.com/boyslikesports/202607_vul_dir/blob/main/C-05-SQLi-Product-Category_en.md
 CVE-2026-82615 - https://github.com/boyslikesports/202607_vul_dir/blob/main/C-06-SQLi-Password-Recover_en.md
+CVE-2026-82618 - https://gitlab.com/systerel/S2OPC/-/work_items/1796
 CVE-2026-82619 - https://gitlab.com/systerel/S2OPC/-/work_items/1797
 CVE-2026-82622 - https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Stored%20Cross-Site%20Scripting%20(XSS)%20in%20Employee%20Leave%20Managing%20System%20PHP%20name%20Parameter.md
 CVE-2026-82623 - https://github.com/open62541/open62541/issues/8199
@@ -156233,14 +156314,41 @@ CVE-2026-82666 - https://github.com/yaojingang/GEOFlow/issues/60
 CVE-2026-82667 - https://github.com/yaojingang/GEOFlow/issues/60
 CVE-2026-82668 - https://github.com/klaussilveira/gitlist/commit/88cf2866083d5f7c20d9d565c45f828a7ad1516b
 CVE-2026-82668 - https://github.com/klaussilveira/gitlist/issues/947
+CVE-2026-82669 - https://github.com/klaussilveira/gitlist/issues/948
 CVE-2026-82673 - https://github.com/ash-project/ash_admin/security/advisories/GHSA-483p-rgcq-p5j9
+CVE-2026-82680 - https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-BOF-001-vulndb.md
 CVE-2026-82681 - https://github.com/ash-project/ash_admin/security/advisories/GHSA-j89q-xjrh-c26p
+CVE-2026-82688 - https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-001-vulndb.md
+CVE-2026-82691 - https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-005-vulndb.md
+CVE-2026-82692 - https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-006-vulndb.md
+CVE-2026-82693 - https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/TENDA-AC1206-TELNET-DEFAULT-UNAUTH-001-vulndb.md
+CVE-2026-82700 - https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Stored%20Cross-Site%20Scripting%20(XSS)%20in%20Online%20Shopping%20System%20PHP%20email%20Parameter.md
+CVE-2026-82701 - https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Time-Based%20Blind%20SQL%20Injection%20in%20Online%20Shopping%20System%20%60keyword%60%20Parameter.md
 CVE-2026-82722 - https://github.com/ash-project/ash_admin/security/advisories/GHSA-wcr6-9rrw-5jhv
 CVE-2026-82724 - https://github.com/ash-project/ash_phoenix/security/advisories/GHSA-39c8-xcwr-gqff
 CVE-2026-82725 - https://github.com/ash-project/ash_phoenix/security/advisories/GHSA-7xhg-xphm-f458
 CVE-2026-82726 - https://github.com/ash-project/ash_phoenix/security/advisories/GHSA-rpf8-q9jh-qxrr
 CVE-2026-82727 - https://github.com/ash-project/ash_phoenix/security/advisories/GHSA-5xf4-hgcq-xw7v
 CVE-2026-8273 - https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/D-Link%20DNS-320%20%20system_mgraccount_mgrdsk_mgrapp_mgr%20Multiple%20CGI%20OS%20Command%20Injection.md
+CVE-2026-82730 - https://github.com/ash-project/ash_typescript/security/advisories/GHSA-6929-rjmh-4x62
+CVE-2026-82731 - https://github.com/ash-project/ash_typescript/security/advisories/GHSA-6g23-p936-fm2f
+CVE-2026-82732 - https://github.com/ash-project/ash_typescript/security/advisories/GHSA-f7fq-hwq6-jhvv
+CVE-2026-82733 - https://github.com/ash-project/ash_typescript/security/advisories/GHSA-ghhw-qh7p-55xr
+CVE-2026-82735 - https://github.com/ash-project/ash/security/advisories/GHSA-mq7g-pffw-m8xh
+CVE-2026-82739 - https://github.com/ash-project/ash/security/advisories/GHSA-66cg-vj5m-8w7v
+CVE-2026-82740 - https://github.com/ash-project/ash/security/advisories/GHSA-v29m-p28g-w5fc
+CVE-2026-82741 - https://github.com/ash-project/ash/security/advisories/GHSA-2mmm-gc86-7jgg
+CVE-2026-82742 - https://github.com/ash-project/ash/security/advisories/GHSA-mgwj-c69v-6f83
+CVE-2026-82745 - https://github.com/ash-project/ash/security/advisories/GHSA-92x7-q3h5-wf88
+CVE-2026-82746 - https://github.com/ash-project/ash/security/advisories/GHSA-j7c9-3fw3-jc64
+CVE-2026-82747 - https://github.com/ash-project/ash/security/advisories/GHSA-4259-gvr2-4xhq
+CVE-2026-82749 - https://github.com/ash-project/ash/security/advisories/GHSA-j8fx-ff37-4j9c
+CVE-2026-82801 - https://github.com/natanmorette-thoropass/thoropass-vuln-research-program/tree/main/2026/Unauthenticated%20Scale%20Image%20SSRF
+CVE-2026-82807 - https://winslow1984.com/books/cve-collection/page/ultra-ramdisk-pro-182-kernel-driver-urdscsisys-local-privilege-escalation-via-arbitrary-registry-value-write
+CVE-2026-82811 - https://github.com/xryj920/chrome_extensions/blob/main/Toggl%20O%C3%9C%20Toggl%20Track%204.11.16%20accepts%20forged%20session-state%20messages%20through%20an%20unauthenticated%20postMessage%20handler
+CVE-2026-82815 - https://github.com/BiBi8BoBo/megaease_easeprobe-unvalidated-X-Forwarded-For-header
+CVE-2026-82820 - https://github.com/noirotm/flvmeta/issues/27
+CVE-2026-82820 - https://github.com/raind20001020/Poc/blob/main/flvmeta_heap_buffer_overflow
 CVE-2026-82853 - https://github.com/nodemailer/nodemailer/security/advisories/GHSA-vvjj-xcjg-gr5g
 CVE-2026-82854 - https://github.com/nodemailer/nodemailer/security/advisories/GHSA-c7w3-x93f-qmm8
 CVE-2026-82864 - https://github.com/pdfme/pdfme/security/advisories/GHSA-vrqm-gvq7-rrwh
@@ -156255,7 +156363,11 @@ CVE-2026-82872 - https://github.com/ToolJet/ToolJet/security/advisories/GHSA-2jh
 CVE-2026-82873 - https://github.com/ToolJet/ToolJet/security/advisories/GHSA-pqfh-276q-w3cp
 CVE-2026-82874 - https://github.com/ToolJet/ToolJet/security/advisories/GHSA-w3hx-rg9g-mw5c
 CVE-2026-82875 - https://github.com/ToolJet/ToolJet/security/advisories/GHSA-cx42-x23w-vhvf
+CVE-2026-82879 - https://github.com/dataease/dataease/security/advisories/GHSA-9h54-39gh-5qfg
 CVE-2026-8288 - https://github.com/open5gs/open5gs/issues/4452
+CVE-2026-82882 - https://github.com/devtron-labs/devtron/issues/7013
+CVE-2026-82906 - https://github.com/yaowenxiao721/Poc/blob/main/sdcb-chats/chats-poc-2.md
+CVE-2026-82909 - https://github.com/yaowenxiao721/Poc/blob/main/New-API/new-api-poc1.md
 CVE-2026-8293 - https://wpscan.com/vulnerability/1de69ef9-6226-4292-8e36-b331a37f043e/
 CVE-2026-8318 - https://github.com/VectifyAI/PageIndex/issues/174
 CVE-2026-8359 - https://www.tenable.com/security/research/TRA-2026-45
@@ -156338,6 +156450,8 @@ CVE-2026-8743 - https://github.com/open5gs/open5gs/issues/4498
 CVE-2026-8756 - https://gist.github.com/YLChen-007/550cb92f3489c317ff049fc7d7ea6b99
 CVE-2026-8769 - https://gist.github.com/YLChen-007/fb1096bc8428bed9a428f764d9d103bb
 CVE-2026-8771 - https://gist.github.com/A1AAAAAAAAAA1/ab8df4181f9311cb9e7dad905e9aa512
+CVE-2026-8781 - https://vuldb.com/vuln/364405
+CVE-2026-8781 - https://vuldb.com/vuln/364405/cti
 CVE-2026-8784 - https://github.com/npitre/cramfs-tools/issues/13
 CVE-2026-8784 - https://github.com/npitre/cramfs-tools/issues/13#issuecomment-4306102583
 CVE-2026-8786 - https://gist.github.com/YLChen-007/1cdc50418f29af7ae671466425e52c7b
