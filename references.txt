@@ -39774,6 +39774,7 @@ CVE-2015-0072 - http://www.pcworld.com/article/2879372/dangerous-ie-vulnerabilit
 CVE-2015-0072 - http://www.securityfocus.com/bid/72489
 CVE-2015-0072 - https://nakedsecurity.sophos.com/2015/02/04/internet-explorer-has-a-cross-site-scripting-zero-day-bug/
 CVE-2015-0097 - https://www.exploit-db.com/exploits/37657/
+CVE-2015-0098 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2015/ms15-037
 CVE-2015-0138 - http://www-01.ibm.com/support/docview.wss?uid=swg21883640
 CVE-2015-0179 - https://www.exploit-db.com/exploits/42605/
 CVE-2015-0192 - http://www-01.ibm.com/support/docview.wss?uid=swg21883640
@@ -86559,6 +86560,7 @@ CVE-2020-6857 - http://seclists.org/fulldisclosure/2020/Jan/29
 CVE-2020-6857 - http://seclists.org/fulldisclosure/2020/Jan/35
 CVE-2020-6857 - https://seclists.org/bugtraq/2020/Jan/30
 CVE-2020-6858 - https://github.com/HotelsDotCom/styx/security/advisories/GHSA-6v7p-v754-j89v
+CVE-2020-6859 - https://github.com/ultimatemember/ultimatemember/commit/249682559012734a4f7d71f52609b2f301ea55b1
 CVE-2020-6859 - https://wpvulndb.com/vulnerabilities/10041
 CVE-2020-6860 - https://github.com/hoene/libmysofa/issues/96
 CVE-2020-6861 - https://deadcode.me/blog/2020/04/25/Ledger-Monero-app-spend-key-extraction.html
@@ -121149,6 +121151,7 @@ CVE-2024-13225 - https://wpscan.com/vulnerability/8efd7d62-3f74-4108-970e-bd5ed2
 CVE-2024-13226 - https://wpscan.com/vulnerability/dd09fe99-2334-4d6f-8a70-e1cd856b1486/
 CVE-2024-13255 - https://www.drupal.org/sa-contrib-2024-019
 CVE-2024-13285 - https://www.drupal.org/sa-contrib-2024-049
+CVE-2024-13294 - https://www.drupal.org/sa-contrib-2024-060
 CVE-2024-1330 - https://wpscan.com/vulnerability/1988815b-7a53-4657-9b1c-1f83c9f9ccfd/
 CVE-2024-13303 - https://www.drupal.org/sa-contrib-2024-069
 CVE-2024-13306 - https://wpscan.com/vulnerability/ec3096f2-60fd-4654-9e95-5cf4b20b2990/
@@ -131019,6 +131022,7 @@ CVE-2024-8565 - https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Clin
 CVE-2024-8565 - https://vuldb.com/?submit.402425
 CVE-2024-8566 - https://vuldb.com/?submit.403671
 CVE-2024-8567 - https://github.com/ppp-src/ha/issues/8
+CVE-2024-8568 - https://vuldb.com/?submit.401010
 CVE-2024-8569 - https://github.com/teachersongsec/cve/issues/1
 CVE-2024-8569 - https://vuldb.com/?id.276799
 CVE-2024-8570 - https://github.com/teachersongsec/cve/issues/2
@@ -141268,6 +141272,7 @@ CVE-2025-6096 - https://github.com/YZS17/CVE/blob/main/Jasmin-Ransomware/sqli_se
 CVE-2025-6097 - https://github.com/pfwqdxwdd/cve/blob/main/6.md
 CVE-2025-6097 - https://github.com/pfwqdxwdd/cve/blob/main/6.md#poc
 CVE-2025-6099 - https://github.com/szluyu99/gin-vue-blog/issues/28
+CVE-2025-6099 - https://vuldb.com/?id.312568
 CVE-2025-60991 - https://github.com/ShadowByte1/CVE-Reports/blob/main/CVE-2025-60991.md
 CVE-2025-60991 - https://github.com/shadowByte1
 CVE-2025-6100 - https://github.com/Bemcliu/cve/blob/main/README.md
@@ -148076,6 +148081,7 @@ CVE-2026-1975 - https://github.com/free5gc/free5gc/issues/814
 CVE-2026-1975 - https://github.com/free5gc/free5gc/issues/814#issue-3831993593
 CVE-2026-19750 - https://github.com/howitouchyou/Tenda-Smart-Camera-Vulnerability/blob/main/Tenda%20Camera%20SSH%20Hard-coded%20Password/Tenda%20Camera%20SSH%20Hard-coded%20Password.md
 CVE-2026-19751 - https://github.com/EnzoVezzaro/mcp-dominican-layer/issues/2
+CVE-2026-19752 - https://vuldb.com/cve/CVE-2026-19752
 CVE-2026-19753 - https://github.com/emekaokoye/mcp-rdf-explorer/issues/3
 CVE-2026-19754 - https://fluidattacks.com/es/advisories/superestrella
 CVE-2026-19755 - https://fluidattacks.com/advisories/iggy
@@ -152436,6 +152442,7 @@ CVE-2026-4213 - https://github.com/wudipjq/my_vuln/blob/main/D-Link8/vuln_163/16
 CVE-2026-42138 - https://github.com/langgenius/dify/security/advisories/GHSA-cg94-8v83-7hjj
 CVE-2026-4214 - https://github.com/wudipjq/my_vuln/blob/main/D-Link8/vuln_164/164.md
 CVE-2026-42140 - https://jira.xwiki.org/browse/PLANTUML-25
+CVE-2026-42142 - https://github.com/baptisteArno/typebot.io/security/advisories/GHSA-7jr4-r73c-h4h9
 CVE-2026-42143 - https://github.com/coollabsio/coolify/security/advisories/GHSA-6pmw-6m96-4v4m
 CVE-2026-42144 - https://github.com/GreycLab/CImg/issues/478
 CVE-2026-42145 - https://github.com/coollabsio/coolify/security/advisories/GHSA-66gv-g2w9-6wxp
@@ -157996,6 +158003,7 @@ CVE-2026-76004 - https://github.com/7wkajk/CVE-VUL/blob/main/106.md
 CVE-2026-7601 - https://github.com/open5gs/open5gs/issues/4321
 CVE-2026-76019 - https://issues.chromium.org/issues/539032888
 CVE-2026-76021 - https://issues.chromium.org/issues/541854084
+CVE-2026-76023 - https://issues.chromium.org/issues/545124048
 CVE-2026-76033 - https://issues.chromium.org/issues/516715010
 CVE-2026-76035 - https://issues.chromium.org/issues/536439844
 CVE-2026-76037 - https://issues.chromium.org/issues/517612295
@@ -158007,6 +158015,7 @@ CVE-2026-76041 - https://issues.chromium.org/issues/540027341
 CVE-2026-76042 - https://issues.chromium.org/issues/536460270
 CVE-2026-76043 - https://issues.chromium.org/issues/539350801
 CVE-2026-76044 - https://issues.chromium.org/issues/522732244
+CVE-2026-76046 - https://issues.chromium.org/issues/536581050
 CVE-2026-76047 - https://issues.chromium.org/issues/541251902
 CVE-2026-76048 - https://github.com/Kristin5634487/cve/issues/5
 CVE-2026-76049 - https://github.com/Kristin5634487/cve/issues/6
@@ -158170,6 +158179,7 @@ CVE-2026-77764 - https://wpscan.com/vulnerability/c272dadd-9fc9-402f-8712-51d16a
 CVE-2026-77768 - https://github.com/Openpanel-dev/openpanel/security/advisories/GHSA-9x7c-f87x-2243
 CVE-2026-77770 - https://wpscan.com/vulnerability/68bc7294-1ee6-44a9-9995-3b23b921f750/
 CVE-2026-77771 - https://wpscan.com/vulnerability/e1e57673-18cb-4157-9d58-547af7101b04/
+CVE-2026-77773 - https://wpscan.com/vulnerability/c4c15701-2149-43b4-b794-38871c0dc734/
 CVE-2026-77782 - https://wpscan.com/vulnerability/e7a81d62-3fc7-4212-bd77-c559a6065808/
 CVE-2026-77783 - https://wpscan.com/vulnerability/c10db1c1-3af9-45ed-af83-ce95211d0251/
 CVE-2026-77784 - https://wpscan.com/vulnerability/7a6ad8c5-eb7e-4201-8597-479e77863985/
@@ -158377,6 +158387,7 @@ CVE-2026-79008 - https://issues.chromium.org/issues/517382613
 CVE-2026-7901 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
 CVE-2026-7901 - https://issues.chromium.org/issues/497724490
 CVE-2026-79012 - https://issues.chromium.org/issues/523704817
+CVE-2026-79014 - https://issues.chromium.org/issues/536568319
 CVE-2026-7902 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
 CVE-2026-7902 - https://issues.chromium.org/issues/502030575
 CVE-2026-79026 - https://issues.chromium.org/issues/537109028
@@ -158458,6 +158469,7 @@ CVE-2026-7919 - https://issues.chromium.org/issues/498832921
 CVE-2026-79191 - https://issues.chromium.org/issues/517606780
 CVE-2026-79192 - https://issues.chromium.org/issues/502082953
 CVE-2026-79193 - https://issues.chromium.org/issues/517655953
+CVE-2026-79195 - https://issues.chromium.org/issues/501892500
 CVE-2026-79198 - https://issues.chromium.org/issues/536606137
 CVE-2026-7920 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
 CVE-2026-7920 - https://issues.chromium.org/issues/498989348
@@ -158468,6 +158480,7 @@ CVE-2026-79207 - https://issues.chromium.org/issues/533014006
 CVE-2026-79209 - https://issues.chromium.org/issues/495021566
 CVE-2026-7921 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
 CVE-2026-7921 - https://issues.chromium.org/issues/499062376
+CVE-2026-79210 - https://issues.chromium.org/issues/501331457
 CVE-2026-79214 - https://issues.chromium.org/issues/515477007
 CVE-2026-79216 - https://issues.chromium.org/issues/536913431
 CVE-2026-7922 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
@@ -158699,6 +158712,8 @@ CVE-2026-80058 - https://www.dell.com/support/kbdoc/en-in/000503426/dsa-2026-382
 CVE-2026-8006 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
 CVE-2026-8007 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
 CVE-2026-8007 - https://issues.chromium.org/issues/496399759
+CVE-2026-80071 - https://wpscan.com/vulnerability/a4fbdeea-0d3b-466b-b4b6-4c4db277cd1d/
+CVE-2026-80072 - https://wpscan.com/vulnerability/0af2c06d-87a0-4be7-a409-ffb7ad958aad/
 CVE-2026-8008 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
 CVE-2026-8008 - https://issues.chromium.org/issues/496426191
 CVE-2026-8009 - https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop.html
@@ -159157,17 +159172,22 @@ CVE-2026-8388 - https://bugzilla.mozilla.org/show_bug.cgi?id=2036978
 CVE-2026-8389 - https://bugzilla.mozilla.org/show_bug.cgi?id=2036983
 CVE-2026-84021 - https://wpscan.com/vulnerability/ca226eab-59a2-42d5-96f6-84dacf7c6c5a/
 CVE-2026-84022 - https://wpscan.com/vulnerability/53bbe80c-caea-4893-82a6-03e5173390de/
+CVE-2026-84023 - https://wpscan.com/vulnerability/7adbb52f-94e2-425e-9930-2ab856961b63/
+CVE-2026-84024 - https://wpscan.com/vulnerability/8ea75cb0-e6f0-4ea4-a70f-f9c4e2e16681/
 CVE-2026-84025 - https://wpscan.com/vulnerability/468a9f1a-1a16-410f-97a0-8a87a974df21/
 CVE-2026-84028 - https://wpscan.com/vulnerability/6abd5d49-af3a-4515-ba33-57b56a9fba4e/
 CVE-2026-84043 - https://wpscan.com/vulnerability/96599654-1d7f-4ff0-a4b4-26e540375a67/
 CVE-2026-84044 - https://wpscan.com/vulnerability/861a7030-f85c-4452-8eeb-68a3407f6815/
 CVE-2026-84045 - https://wpscan.com/vulnerability/241a7890-81b3-4685-a243-e774d560f17a/
+CVE-2026-84047 - https://wpscan.com/vulnerability/eebacbae-4b25-45b5-96d9-f5ba28dfd825/
 CVE-2026-8406 - https://fluidattacks.com/es/advisories/melanie
 CVE-2026-84066 - https://wpscan.com/vulnerability/99d990ce-aef3-404d-8ce0-803215fbf0bb/
 CVE-2026-84068 - https://wpscan.com/vulnerability/527a59cf-c7a3-4cf0-85f2-378c62eb7fce/
 CVE-2026-8407 - https://devolutions.net/security/advisories/DEVO-2026-0010/
+CVE-2026-84099 - https://wpscan.com/vulnerability/11d36ab2-ac8d-42cf-91c0-dea55d7edc9a/
 CVE-2026-84113 - https://wpscan.com/vulnerability/359127b1-94a5-4007-94ac-a1d813b04ce0/
 CVE-2026-84146 - https://wpscan.com/vulnerability/8e7cdd07-0337-4e0b-adf6-b865e13322a2/
+CVE-2026-84171 - https://wpscan.com/vulnerability/e5b9fd87-92a7-4fc6-b8b2-896b87d97c40/
 CVE-2026-84175 - https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/659
 CVE-2026-84197 - https://gitlab.eclipse.org/security/vulnerability-reports/-/work_items/660
 CVE-2026-84219 - https://wpscan.com/vulnerability/e95bd1e3-6f61-423f-add6-519e1ca7bf66/
@@ -159212,6 +159232,7 @@ CVE-2026-8509 - https://issues.chromium.org/issues/493310462
 CVE-2026-85091 - https://www.vulncheck.com/advisories/zlib-1.3.1.2-through-1.3.2-heap-buffer-overflow-via-gz-vacate
 CVE-2026-85092 - https://www.vulncheck.com/advisories/lime-through-1.12.0-arbitrary-file-overwrite-via-symlink-following
 CVE-2026-8510 - https://issues.chromium.org/issues/502636904
+CVE-2026-85116 - https://wpscan.com/vulnerability/7bab04a6-59ef-4b4f-a374-ddc5a2a52b60/
 CVE-2026-85117 - https://wpscan.com/vulnerability/e791e4a6-5ec1-49c7-9448-1d83ec4f4905/
 CVE-2026-8513 - https://issues.chromium.org/issues/495939973
 CVE-2026-85132 - https://wpscan.com/vulnerability/412f604b-ee33-42b6-8a39-00f7564d4e2b/
@@ -159313,6 +159334,8 @@ CVE-2026-86300 - https://github.com/limou89/somevul/blob/main/Tenda_AC9_getProdu
 CVE-2026-86302 - https://github.com/ahmadmarz10-hub/CVEsMarz/blob/main/Hospital%20Information%20System%20%E2%80%93%20Sensitive%20Information%20Disclosure%20via%20Exposed%20SQL%20Database%20File.md
 CVE-2026-86318 - https://github.com/java-json-tools/json-patch/issues/168
 CVE-2026-86319 - https://github.com/java-json-tools/json-patch/issues/167
+CVE-2026-86406 - https://wpscan.com/vulnerability/0fb4ec40-3f92-4c7e-8877-8898b355d78d/
+CVE-2026-86407 - https://wpscan.com/vulnerability/2c9eb1fe-4e18-4fd0-9581-5672ffc4b598/
 CVE-2026-86427 - https://github.com/librenms/librenms/security/advisories/GHSA-3hvv-wxpw-cx83
 CVE-2026-86431 - https://github.com/thephpleague/commonmark/security/advisories/GHSA-f8fg-pg57-v4j8
 CVE-2026-86436 - https://github.com/laradashboard/laradashboard/security/advisories/GHSA-hp3f-j9w2-5rqg
@@ -159356,6 +159379,7 @@ CVE-2026-86781 - https://wpscan.com/vulnerability/858977f8-8ea3-4d3d-8967-31567f
 CVE-2026-86782 - https://wpscan.com/vulnerability/ad9909b8-c302-4cb5-bbe7-bff89c64b6ce/
 CVE-2026-86790 - https://wpscan.com/vulnerability/b48571ae-368e-4193-977a-f22fb09db4d4/
 CVE-2026-86793 - https://vicone.com/blog/cve-2026-86793-sglang-bypass-could-let-attackers-run-code-on-ai-servers/
+CVE-2026-86806 - https://vuldb.com/submit/911055
 CVE-2026-86809 - https://wpscan.com/vulnerability/ed1f8ac4-078b-49c6-b7c5-7d422a20e59e/
 CVE-2026-86812 - https://wpscan.com/vulnerability/fe8d76b2-6d57-49cc-9927-5231e1a26a41/
 CVE-2026-86813 - https://wpscan.com/vulnerability/afda2a26-b965-42cb-85a8-4a4d83ec026e/
@@ -159380,6 +159404,7 @@ CVE-2026-87439 - https://issues.chromium.org/issues/517415433
 CVE-2026-87450 - https://issues.chromium.org/issues/517432155
 CVE-2026-87467 - https://issues.chromium.org/issues/524453236
 CVE-2026-87470 - https://issues.chromium.org/issues/536446354
+CVE-2026-87472 - https://issues.chromium.org/issues/514016678
 CVE-2026-87481 - https://issues.chromium.org/issues/498730641
 CVE-2026-87482 - https://issues.chromium.org/issues/503736006
 CVE-2026-87483 - https://issues.chromium.org/issues/520201931
@@ -159399,6 +159424,7 @@ CVE-2026-87533 - https://issues.chromium.org/issues/521620916
 CVE-2026-87534 - https://issues.chromium.org/issues/513134173
 CVE-2026-87540 - https://issues.chromium.org/issues/517721914
 CVE-2026-87542 - https://issues.chromium.org/issues/542756749
+CVE-2026-87544 - https://issues.chromium.org/issues/542355360
 CVE-2026-87553 - https://issues.chromium.org/issues/496595299
 CVE-2026-87555 - https://issues.chromium.org/issues/517337579
 CVE-2026-87557 - https://issues.chromium.org/issues/497635917
@@ -159469,6 +159495,10 @@ CVE-2026-8814 - https://security.snyk.io/vuln/SNYK-JS-EXIFREADER-16689340
 CVE-2026-8823 - https://mattermost.com/security-updates
 CVE-2026-8825 - https://wpscan.com/vulnerability/d0d6b840-790d-45a3-9b0d-8f77a229e8a9/
 CVE-2026-8861 - https://www.ibm.com/support/pages/node/7279510
+CVE-2026-88764 - https://wpscan.com/vulnerability/54fdf46e-0385-40a3-b3bc-a862dc0fb03e/
+CVE-2026-88912 - https://wpscan.com/vulnerability/58115528-18b6-4f2a-9f6c-d84fdcd6efb4/
+CVE-2026-88995 - https://wpscan.com/vulnerability/5a6f6d75-e7b8-44ad-a0f6-f6e4938ac3d5/
+CVE-2026-89080 - https://wpscan.com/vulnerability/49546064-5663-40f8-be7c-4f3faa31fa9a/
 CVE-2026-89212 - https://portal.perforce.com/s/cve/a91Qi000003CxPBIA0/xml-external-entity-in-akana-api-platform
 CVE-2026-89260 - https://www.vulncheck.com/advisories/mogublog-through-6.2-xml-external-entity-injection-in-the-unauthenticated-wechat-callback-endpoint
 CVE-2026-89261 - https://www.vulncheck.com/advisories/mogublog-through-6.2-missing-authentication-for-elasticsearch-index-management-endpoints
@@ -159499,6 +159529,7 @@ CVE-2026-8988 - https://cyberdanube.com/security-research/multiple-vulnerabiliti
 CVE-2026-8989 - https://cyberdanube.com/security-research/multiple-vulnerabilities-in-autel-maxi-charger/
 CVE-2026-90460 - https://launchpad.net/bugs/2158931
 CVE-2026-9047 - https://devolutions.net/security/advisories/DEVO-2026-0013/
+CVE-2026-90495 - https://drive.google.com/file/d/1Pc3Xn0funYMa-N-1ihZjSWrpS-zhqbna/view?usp=sharing
 CVE-2026-9060 - https://wpscan.com/vulnerability/1ed01413-09a2-4a2e-be5b-375f2a327d0d/
 CVE-2026-9061 - https://wpscan.com/vulnerability/a9f8656a-548a-4353-b157-d07f23c3bc26/
 CVE-2026-9062 - https://wpscan.com/vulnerability/14014b6b-ce49-4778-822c-026ecafa1772/
