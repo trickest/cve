@@ -25048,6 +25048,7 @@ CVE-2011-1891 - https://docs.microsoft.com/en-us/security-updates/securitybullet
 CVE-2011-1892 - http://securityreason.com/securityalert/8386
 CVE-2011-1892 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-074
 CVE-2011-1893 - https://docs.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-074
+CVE-2011-1908 - http://www.foxitsoftware.com/products/reader/security_bulletins.php#freetype
 CVE-2011-1931 - http://securityreason.com/securityalert/8299
 CVE-2011-1937 - http://securityreason.com/securityalert/8264
 CVE-2011-1937 - http://www.youtube.com/watch?v=CUO7JLIGUf0
@@ -92071,6 +92072,7 @@ CVE-2021-29012 - https://github.com/1d8/publications/tree/main/cve-2021-29012
 CVE-2021-29022 - https://notnnor.github.io/research/2021/03/17/full-path-discloure-in-invoiceplane.html
 CVE-2021-29022 - https://seran.dev/research/2021/03/17/full-path-discloure-in-invoiceplane.html
 CVE-2021-29023 - https://notnnor.github.io/research/2021/03/16/weak-password-recovery-mechanism-in-invoiceplane.html
+CVE-2021-29023 - https://seran.github.io/research/2021/03/16/weak-password-recovery-mechanism-in-invoiceplane.html
 CVE-2021-29025 - https://github.com/xoffense/POC/blob/main/Multiple%20URI%20Based%20XSS%20in%20Bitweaver%203.1.0.md
 CVE-2021-29026 - https://github.com/xoffense/POC/blob/main/Multiple%20URI%20Based%20XSS%20in%20Bitweaver%203.1.0.md
 CVE-2021-29027 - https://github.com/xoffense/POC/blob/main/Multiple%20URI%20Based%20XSS%20in%20Bitweaver%203.1.0.md
@@ -92381,6 +92383,7 @@ CVE-2021-30294 - https://www.qualcomm.com/company/product-security/bulletins/sep
 CVE-2021-30295 - https://www.qualcomm.com/company/product-security/bulletins/september-2021-bulletin
 CVE-2021-30297 - https://www.qualcomm.com/company/product-security/bulletins/october-2021-bulletin
 CVE-2021-30298 - https://www.qualcomm.com/company/product-security/bulletins/december-2021-bulletin
+CVE-2021-3030 - https://github.com/athosgonzaga/CVE-2021-3030
 CVE-2021-30300 - https://www.qualcomm.com/company/product-security/bulletins/january-2022-bulletin
 CVE-2021-30301 - https://www.qualcomm.com/company/product-security/bulletins/january-2022-bulletin
 CVE-2021-30302 - https://www.qualcomm.com/company/product-security/bulletins/october-2021-bulletin
@@ -118951,6 +118954,7 @@ CVE-2023-54362 - https://www.exploit-db.com/exploits/51631
 CVE-2023-54363 - https://www.exploit-db.com/exploits/51638
 CVE-2023-54364 - https://www.exploit-db.com/exploits/51629
 CVE-2023-54398 - https://cn-sec.com/archives/2182384.html
+CVE-2023-54399 - https://cn-sec.com/archives/1861976.html
 CVE-2023-5441 - https://huntr.dev/bounties/b54cbdf5-3e85-458d-bb38-9ea2c0b669f2
 CVE-2023-5448 - https://research.cleantalk.org/cve-2023-5448-wp-register-profile-with-shortcode-csrf-to-password-reset-poc/
 CVE-2023-5448 - https://www.wordfence.com/threat-intel/vulnerabilities/id/ca564941-4780-4da2-b937-c9bd45966d81?source=cve
@@ -124826,6 +124830,7 @@ CVE-2024-33663 - https://github.com/mpdavis/python-jose/issues/346
 CVE-2024-33663 - https://www.vicarius.io/vsociety/posts/algorithm-confusion-in-python-jose-cve-2024-33663
 CVE-2024-33664 - https://github.com/mpdavis/python-jose/issues/344
 CVE-2024-33664 - https://www.vicarius.io/vsociety/posts/jwt-bomb-in-python-jose-cve-2024-33664
+CVE-2024-33668 - https://a7.de/fue/advisories/cve-2024-33668/
 CVE-2024-33669 - https://blog.quarkslab.com/passbolt-a-bold-use-of-haveibeenpwned.html
 CVE-2024-33669 - https://help.passbolt.com/incidents/pwned-password-service-information-leak
 CVE-2024-3368 - https://wpscan.com/vulnerability/ab78b1a5-e28c-406b-baaf-6d53017f9328/
@@ -131122,6 +131127,7 @@ CVE-2024-8576 - https://vuldb.com/?id.276810
 CVE-2024-8577 - https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/AC1200T8/setStaticDhcpRules.md
 CVE-2024-8578 - https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/AC1200T8/setWiFiMeshName.md
 CVE-2024-8579 - https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/AC1200T8/setWiFiRepeaterCfg.md
+CVE-2024-8579 - https://vuldb.com/?submit.401292
 CVE-2024-8580 - https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/AC1200T8/shadow.md
 CVE-2024-8582 - https://github.com/Niu-zida/cve/blob/main/Cross-Site%20Scripting.md
 CVE-2024-8582 - https://www.sourcecodester.com/
@@ -147313,6 +147319,7 @@ CVE-2026-15750 - https://github.com/mastergo-design/mastergo-magic-mcp/issues/89
 CVE-2026-15751 - https://github.com/mastergo-design/mastergo-magic-mcp/issues/90
 CVE-2026-15752 - https://github.com/zhinianboke/xianyu-auto-reply/issues/192
 CVE-2026-15753 - https://github.com/zhinianboke/xianyu-auto-reply/issues/192
+CVE-2026-15753 - https://vuldb.com/submit/856719
 CVE-2026-15754 - https://mattermost.com/security-updates
 CVE-2026-15764 - https://issues.chromium.org/issues/517100492
 CVE-2026-15765 - https://issues.chromium.org/issues/518007484
@@ -148958,6 +148965,7 @@ CVE-2026-23532 - https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-fq8
 CVE-2026-23533 - https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-32q9-m5qr-9j2v
 CVE-2026-23534 - https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-3frr-mp8w-4599
 CVE-2026-23550 - https://patchstack.com/articles/critical-privilege-escalation-vulnerability-in-modular-ds-plugin-affecting-40k-sites-exploited-in-the-wild/
+CVE-2026-23552 - https://github.com/oscerd/CVE-2026-23552
 CVE-2026-2359 - https://github.com/expressjs/multer/commit/cccf0fe0e64150c4f42ccf6654165c0d66b9adab
 CVE-2026-23603 - https://github.com/go-gitea/gitea/security/advisories/GHSA-x77v-q46j-393g
 CVE-2026-2361 - https://gitlab.com/dalibo/postgresql_anonymizer/-/issues/617
@@ -158760,6 +158768,7 @@ CVE-2026-78909 - https://issues.chromium.org/issues/501637242
 CVE-2026-78910 - https://issues.chromium.org/issues/511260796
 CVE-2026-78911 - https://issues.chromium.org/issues/517742721
 CVE-2026-78934 - https://issues.chromium.org/issues/517550232
+CVE-2026-78938 - https://issues.chromium.org/issues/545767601
 CVE-2026-78939 - https://issues.chromium.org/issues/513261751
 CVE-2026-78942 - https://issues.chromium.org/issues/502139081
 CVE-2026-78944 - https://issues.chromium.org/issues/520052954
@@ -159393,6 +159402,7 @@ CVE-2026-82183 - https://wpscan.com/vulnerability/bc7c18f2-4e8c-47a3-a972-6162fd
 CVE-2026-82184 - https://wpscan.com/vulnerability/54f2da44-84c2-4c56-88f3-615ae4054ecb/
 CVE-2026-82185 - https://wpscan.com/vulnerability/a1ddc435-b25f-4e6b-bc7e-55a73d4f60c8/
 CVE-2026-82186 - https://wpscan.com/vulnerability/a0285ba3-0741-4382-a037-db0ac3fc49d2/
+CVE-2026-82187 - https://wpscan.com/vulnerability/d3e49486-6c08-41d5-86c9-3aaff670fc63/
 CVE-2026-82193 - https://wpscan.com/vulnerability/ee70edba-f70e-4055-a656-63612de8097d/
 CVE-2026-82194 - https://wpscan.com/vulnerability/bb68f7ae-e380-4154-bd77-8511d8f949d3/
 CVE-2026-82213 - https://wpscan.com/vulnerability/ccdf87ac-7442-441f-ad96-466c715b1d66/
@@ -159734,6 +159744,7 @@ CVE-2026-84936 - https://wpscan.com/vulnerability/bd708c98-1657-423b-aa2b-14aa18
 CVE-2026-84937 - https://wpscan.com/vulnerability/5f81c233-8544-4a7b-a1c6-e447dc889a8d/
 CVE-2026-8497 - https://devolutions.net/security/advisories/DEVO-2026-0027/
 CVE-2026-85009 - https://wpscan.com/vulnerability/9731b0f3-76c2-4e0a-9630-9160299a37ee/
+CVE-2026-85010 - https://wpscan.com/vulnerability/3ebcb11a-9f8c-48e3-8b1f-f91bb2518c34/
 CVE-2026-85013 - https://bugzilla.redhat.com/show_bug.cgi?id=2465635
 CVE-2026-85017 - https://wpscan.com/vulnerability/459a7479-ebd8-4e46-a709-cb86d0386f9b/
 CVE-2026-85022 - https://gist.github.com/TrebledJ/0e8466e5c39a6fb7dca8a3acdfbe2ddc#file-cvd_dify_vuln2_20260705-md
@@ -159749,6 +159760,7 @@ CVE-2026-85093 - https://github.com/cheshire-cat-ai/core/issues/1136
 CVE-2026-8510 - https://issues.chromium.org/issues/502636904
 CVE-2026-85109 - https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/Tenda/HG10/bof-formLogin_username.md
 CVE-2026-85110 - https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/Tenda/HG10/bof-formWlanSetup-ssid.md
+CVE-2026-85113 - https://wpscan.com/vulnerability/b092c718-9a29-4153-894f-47892e7ba423/
 CVE-2026-85116 - https://wpscan.com/vulnerability/7bab04a6-59ef-4b4f-a374-ddc5a2a52b60/
 CVE-2026-85117 - https://wpscan.com/vulnerability/e791e4a6-5ec1-49c7-9448-1d83ec4f4905/
 CVE-2026-85122 - https://wpscan.com/vulnerability/7263f875-3ff3-410a-94b0-fa4b3694d356/
@@ -160063,6 +160075,7 @@ CVE-2026-86793 - https://vicone.com/blog/cve-2026-86793-sglang-bypass-could-let-
 CVE-2026-86796 - https://wpscan.com/vulnerability/38baa866-c8a3-4c92-b7c8-8485e7c2a9b0/
 CVE-2026-86800 - https://wpscan.com/vulnerability/01772455-89fe-4bcd-b3b7-c29b8646679d/
 CVE-2026-86801 - https://wpscan.com/vulnerability/baebde16-141c-4de4-8ecb-173c25bed40d/
+CVE-2026-86802 - https://wpscan.com/vulnerability/71c678eb-35f8-4eac-a4bb-b71bdcb2ca4e/
 CVE-2026-86804 - https://github.com/seakee/CPA-Manager-Plus/issues/462
 CVE-2026-86804 - https://github.com/seakee/CPA-Manager-Plus/pull/463
 CVE-2026-86806 - https://vuldb.com/submit/911055
@@ -160336,6 +160349,7 @@ CVE-2026-9067 - https://wpscan.com/vulnerability/7fac98eb-f82c-4705-a956-aba6509
 CVE-2026-90698 - https://protectiv.ph/research/memcached-asciiauth-empty-line-dos
 CVE-2026-90815 - https://ffmpeg.org/
 CVE-2026-90816 - https://ffmpeg.org/
+CVE-2026-90817 - https://www.securifera.com/advisories/
 CVE-2026-90822 - https://www.securifera.com/advisories/
 CVE-2026-90823 - https://www.securifera.com/advisories/
 CVE-2026-90843 - https://calledstriker.gitbook.io/blog/security-research/webmap
@@ -160383,7 +160397,11 @@ CVE-2026-9223 - https://devolutions.net/security/advisories/DEVO-2026-0013/
 CVE-2026-92234 - https://hackmd.io/@leediay/r1aoFrMFGl
 CVE-2026-92237 - https://devolutions.net/security/advisories/DEVO-2026-0031/
 CVE-2026-9224 - https://devolutions.net/security/advisories/DEVO-2026-0013/
+CVE-2026-92252 - https://watchdog.com/vulnerability-disclosure-policy/
+CVE-2026-92253 - https://watchdog.com/vulnerability-disclosure-policy/
+CVE-2026-92254 - https://watchdog.com/vulnerability-disclosure-policy/
 CVE-2026-92385 - https://drive.google.com/file/d/1nwr_EravSW9f62itP8sS6OpE3rqRDVkn/view?usp=sharing
+CVE-2026-92400 - https://wpscan.com/vulnerability/3dcee743-a95d-4233-b78e-8449a6cc8aea/
 CVE-2026-92403 - https://wpscan.com/vulnerability/740341ca-6419-4980-8ee9-d9e5c0f8df92/
 CVE-2026-92404 - https://wpscan.com/vulnerability/342e79ec-cfe6-43f3-8598-bf2b83aff2a1/
 CVE-2026-92410 - https://wpscan.com/vulnerability/4c217ac6-e191-4be9-becc-47cacf2b4e25/
@@ -160491,6 +160509,8 @@ CVE-2026-93854 - https://launchpad.net/bugs/2162719
 CVE-2026-9387 - https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_334/README.md
 CVE-2026-9389 - https://github.com/Litengzheng/vuldb_new/blob/main/F456/vul_2/README.md
 CVE-2026-93988 - https://hackmd.io/@leediay/qloapps-arbitrary-file-read-via-path-traversal
+CVE-2026-94032 - https://github.com/ltranquility/submit_repository/issues/15
+CVE-2026-94036 - https://pastebin.com/gzKNCCPV
 CVE-2026-9404 - https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_336/README.md
 CVE-2026-9406 - https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_338/README.md
 CVE-2026-9408 - https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_340/README.md
