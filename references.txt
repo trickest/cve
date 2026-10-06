@@ -39852,8 +39852,11 @@ CVE-2015-0138 - http://www-01.ibm.com/support/docview.wss?uid=swg21883640
 CVE-2015-0158 - http://www-01.ibm.com/support/docview.wss?uid=swg1JR52322
 CVE-2015-0179 - https://www.exploit-db.com/exploits/42605/
 CVE-2015-0192 - http://www-01.ibm.com/support/docview.wss?uid=swg21883640
+CVE-2015-0197 - http://www-01.ibm.com/support/docview.wss?uid=isg3T1022062
 CVE-2015-0197 - http://www-304.ibm.com/support/docview.wss?uid=swg21902662
+CVE-2015-0198 - http://www-01.ibm.com/support/docview.wss?uid=isg3T1022062
 CVE-2015-0198 - http://www-304.ibm.com/support/docview.wss?uid=swg21902662
+CVE-2015-0199 - http://www-01.ibm.com/support/docview.wss?uid=isg3T1022062
 CVE-2015-0199 - http://www-304.ibm.com/support/docview.wss?uid=swg21902662
 CVE-2015-0203 - https://packetstormsecurity.com/files/129941/Apache-Qpid-0.30-Denial-Of-Service.html
 CVE-2015-0204 - http://www-01.ibm.com/support/docview.wss?uid=swg21883640
@@ -47110,6 +47113,7 @@ CVE-2016-1548 - http://www.talosintelligence.com/reports/TALOS-2016-0082/
 CVE-2016-1548 - https://www.kb.cert.org/vuls/id/718152
 CVE-2016-1549 - http://www.oracle.com/technetwork/topics/security/bulletinapr2016-2952098.html
 CVE-2016-1549 - http://www.talosintelligence.com/reports/TALOS-2016-0083/
+CVE-2016-1549 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2016-1550 - http://packetstormsecurity.com/files/136864/Slackware-Security-Advisory-ntp-Updates.html
 CVE-2016-1550 - http://www.oracle.com/technetwork/topics/security/bulletinapr2016-2952098.html
 CVE-2016-1550 - http://www.oracle.com/technetwork/topics/security/linuxbulletinapr2016-2952096.html
@@ -50998,6 +51002,7 @@ CVE-2016-9042 - http://packetstormsecurity.com/files/142101/FreeBSD-Security-Adv
 CVE-2016-9042 - http://packetstormsecurity.com/files/142284/Slackware-Security-Advisory-ntp-Updates.html
 CVE-2016-9042 - http://www.ubuntu.com/usn/USN-3349-1
 CVE-2016-9042 - https://kc.mcafee.com/corporate/index?page=content&id=SB10201
+CVE-2016-9042 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2016-9044 - https://talosintelligence.com/vulnerability_reports/TALOS-2017-0315
 CVE-2016-9045 - https://talosintelligence.com/vulnerability_reports/TALOS-2017-0314
 CVE-2016-9048 - https://talosintelligence.com/vulnerability_reports/TALOS-2017-0313
@@ -57508,8 +57513,14 @@ CVE-2017-6443 - http://seclists.org/fulldisclosure/2017/Mar/5
 CVE-2017-6443 - https://www.exploit-db.com/exploits/41502/
 CVE-2017-6444 - https://packetstormsecurity.com/files/141449/Mikrotik-Hap-Lite-6.25-Denial-Of-Service.html
 CVE-2017-6444 - https://www.exploit-db.com/exploits/41601/
+CVE-2017-6451 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2017-6458 - http://packetstormsecurity.com/files/142284/Slackware-Security-Advisory-ntp-Updates.html
 CVE-2017-6458 - http://www.ubuntu.com/usn/USN-3349-1
+CVE-2017-6458 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
+CVE-2017-6460 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
+CVE-2017-6462 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
+CVE-2017-6463 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
+CVE-2017-6464 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2017-6465 - http://packetstormsecurity.com/files/141456/FTPShell-Client-6.53-Buffer-Overflow.html
 CVE-2017-6465 - https://www.exploit-db.com/exploits/41511/
 CVE-2017-6478 - https://github.com/MarkLee131/awesome-web-pocs/blob/main/CVE-2017-6478.md
@@ -60766,6 +60777,7 @@ CVE-2018-12318 - https://blog.securityevaluators.com/over-a-dozen-vulnerabilitie
 CVE-2018-12319 - https://blog.securityevaluators.com/over-a-dozen-vulnerabilities-discovered-in-asustor-as-602t-8dd5832a82cc
 CVE-2018-12326 - https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES
 CVE-2018-12326 - https://www.exploit-db.com/exploits/44904/
+CVE-2018-12327 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2018-12327 - https://usn.ubuntu.com/4229-1/
 CVE-2018-12327 - https://www.exploit-db.com/exploits/44909/
 CVE-2018-1235 - https://www.exploit-db.com/exploits/44920/
@@ -67740,6 +67752,7 @@ CVE-2018-7124 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&
 CVE-2018-7125 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbhf03930en_us
 CVE-2018-7160 - https://www.oracle.com//security-alerts/cpujul2021.html
 CVE-2018-7170 - http://packetstormsecurity.com/files/146631/Slackware-Security-Advisory-ntp-Updates.html
+CVE-2018-7170 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2018-7171 - http://packetstormsecurity.com/files/146938/TwonkyMedia-Server-7.0.11-8.5-Directory-Traversal.html
 CVE-2018-7171 - https://www.exploit-db.com/exploits/44350/
 CVE-2018-7172 - http://foreversong.cn/archives/1070
@@ -67750,10 +67763,14 @@ CVE-2018-7178 - https://www.exploit-db.com/exploits/44136
 CVE-2018-7179 - https://www.exploit-db.com/exploits/44135
 CVE-2018-7180 - https://www.exploit-db.com/exploits/44133
 CVE-2018-7182 - http://packetstormsecurity.com/files/146631/Slackware-Security-Advisory-ntp-Updates.html
+CVE-2018-7182 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2018-7182 - https://www.exploit-db.com/exploits/45846/
+CVE-2018-7183 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2018-7183 - https://www.oracle.com//security-alerts/cpujul2021.html
 CVE-2018-7184 - http://packetstormsecurity.com/files/146631/Slackware-Security-Advisory-ntp-Updates.html
+CVE-2018-7184 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2018-7185 - http://packetstormsecurity.com/files/146631/Slackware-Security-Advisory-ntp-Updates.html
+CVE-2018-7185 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2018-7185 - https://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html
 CVE-2018-7187 - https://github.com/golang/go/issues/23867
 CVE-2018-7188 - https://sourceforge.net/p/tikiwiki/code/65327
@@ -74221,6 +74238,7 @@ CVE-2019-20722 - https://kb.netgear.com/000061206/Security-Advisory-for-Post-Aut
 CVE-2019-20724 - https://kb.netgear.com/000061204/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-Gateways-and-WiFi-Systems-PSV-2018-0144
 CVE-2019-20725 - https://kb.netgear.com/000061203/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-and-Gateways-PSV-2018-0143
 CVE-2019-20726 - https://kb.netgear.com/000061202/Security-Advisory-for-Post-Authentication-Command-on-Some-Routers-and-Gateways-PSV-2018-0141
+CVE-2019-20729 - https://kb.netgear.com/000061198/Security-Advisory-for-Security-Misconfiguration-on-Some-Routers-PSV-2017-3120
 CVE-2019-20731 - https://kb.netgear.com/000061196/Security-Advisory-for-Post-Authentication-Buffer-Overflow-on-Some-Routers-Gateways-and-Extenders-PSV-2017-2254
 CVE-2019-20732 - https://kb.netgear.com/000061195/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-Gateways-and-Extenders-PSV-2017-2228
 CVE-2019-20733 - https://kb.netgear.com/000061193/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-Gateways-and-Extenders-PSV-2017-2017
@@ -77322,6 +77340,7 @@ CVE-2019-8932 - https://support.tryshift.com/kb/article/206-shift-34-released-on
 CVE-2019-8933 - https://blog.csdn.net/qq_36093477/article/details/86681178
 CVE-2019-8936 - http://bugs.ntp.org/show_bug.cgi?id=3565
 CVE-2019-8936 - http://packetstormsecurity.com/files/152915/FreeBSD-Security-Advisory-FreeBSD-SA-19-04.ntp.html
+CVE-2019-8936 - https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-hpesbux03962en_us
 CVE-2019-8937 - http://packetstormsecurity.com/files/151779/HotelDruid-2.3-Cross-Site-Scripting.html
 CVE-2019-8937 - https://www.exploit-db.com/exploits/46429/
 CVE-2019-8938 - http://packetstormsecurity.com/files/151800/VertrigoServ-2.17-Cross-Site-Scripting.html
@@ -80778,6 +80797,7 @@ CVE-2020-15468 - https://www.exploit-db.com/exploits/48190
 CVE-2020-15470 - https://github.com/rockcarry/ffjpeg/issues/26
 CVE-2020-15471 - https://github.com/fuzzing2026/CVE-PoCs/tree/main/ndpi-CVE-2020-15471
 CVE-2020-15473 - https://github.com/fuzzing2026/CVE-PoCs/tree/main/ndpi-CVE-2020-15473
+CVE-2020-15478 - https://www.getastra.com/blog/911/plugin-exploit/sql-errors-data-exposure-in-journal-opencart-theme/
 CVE-2020-15487 - https://labs.f-secure.com/advisories/redesk-v2-3-multiple-issues/
 CVE-2020-15488 - https://labs.f-secure.com/advisories/redesk-v2-3-multiple-issues/
 CVE-2020-15492 - http://packetstormsecurity.com/files/158556/INNEO-Startup-TOOLS-2018-M040-13.0.70.3804-Remote-Code-Execution.html
@@ -145963,6 +145983,7 @@ CVE-2026-10528 - https://orthanc.uclouvain.be/bugs/attachment.cgi?id=150
 CVE-2026-10528 - https://orthanc.uclouvain.be/bugs/show_bug.cgi?id=258#c4
 CVE-2026-10530 - https://wpscan.com/vulnerability/bd3fe1d2-9f21-4b51-9112-2971a25a7e62/
 CVE-2026-10531 - https://wpscan.com/vulnerability/ebc956c2-42f4-495f-a37e-f83ed156af08/
+CVE-2026-105326 - https://access.redhat.com/security/cve/CVE-2026-105326
 CVE-2026-10544 - https://devolutions.net/security/advisories/DEVO-2026-0015/
 CVE-2026-10548 - https://gist.github.com/YLChen-007/caf38652afeccbbd53a9d77152b6198d
 CVE-2026-10551 - https://wpscan.com/vulnerability/381fb82f-2fdc-49cb-bb0d-8d70ead61d86/
@@ -152356,6 +152377,7 @@ CVE-2026-3759 - https://github.com/hmKunlun/projectworldcve/issues/3
 CVE-2026-3760 - https://github.com/Rsansan/security-monitor/issues/1
 CVE-2026-37603 - https://cybermapgroup.com/en/blog/admin-brute-force-protection-bypass-chain-in-ph7builder
 CVE-2026-37604 - https://cybermapgroup.com/en/blog/admin-brute-force-protection-bypass-chain-in-ph7builder
+CVE-2026-37604 - https://cybermapgroup.com/en/blog/admin-brute-force-protection-bypass-chain-in-ph7builder#112-step-by-step-verification
 CVE-2026-3761 - https://gist.github.com/Adarshh-A/dd8884d768d9dde9072fe5efce453824
 CVE-2026-3762 - https://gist.github.com/Adarshh-A/1aae387a3cf4ea05c871ddafc64d0348
 CVE-2026-3763 - https://github.com/shenxianyuguitian/simple-flight-booking-XSS
@@ -152371,6 +152393,7 @@ CVE-2026-3771 - https://github.com/xiahao90/CVEproject/blob/main/xiahao.webray.c
 CVE-2026-37711 - https://bryamzxz.github.io/2026/05/25/dol_eval-five-years/
 CVE-2026-37712 - https://bryamzxz.github.io/2026/05/25/dol_eval-five-years/
 CVE-2026-37713 - https://bryamzxz.github.io/2026/05/25/dol_eval-five-years/
+CVE-2026-37719 - https://assets.ctfassets.net/y0dk4vkszqeh/7nkbvO1MxCI5nOhzwDMCF9/173fdc4ceb38e4b9b853f79df6ad44d0/DKSA-26-31-031_evolo_Service_1.pdf
 CVE-2026-3774 - https://www.foxit.com/support/security-bulletins.html
 CVE-2026-3775 - https://www.foxit.com/support/security-bulletins.html
 CVE-2026-3776 - https://www.foxit.com/support/security-bulletins.html
@@ -156091,6 +156114,7 @@ CVE-2026-56099 - http://seclists.org/fulldisclosure/2026/Jun/17
 CVE-2026-56099 - http://www.openwall.com/lists/oss-security/2026/06/19/3
 CVE-2026-56099 - https://pop.argus-systems.ai/advisory/adv-040.html
 CVE-2026-5610 - https://github.com/Litengzheng/vuldb_new/blob/main/Belkin%20F9K1015/vul_3/README.md
+CVE-2026-56100 - https://gist.github.com/sud0why/e73405057dd7414a8c221ef17e0d0059#file-cve-2026-56100-springblade-authbypass-en-md
 CVE-2026-5611 - https://github.com/Litengzheng/vuldb_new/blob/main/Belkin%20F9K1015/vul_5/README.md
 CVE-2026-56115 - https://github.com/garybowers/bootimus/issues/84
 CVE-2026-5612 - https://github.com/Litengzheng/vuldb_new/blob/main/Belkin%20F9K1015/vul_7/README.md
@@ -159713,6 +159737,7 @@ CVE-2026-77159 - https://gitlab.com/libvirt/libvirt/-/work_items/909
 CVE-2026-7716 - https://github.com/QAp89/CVE/blob/main/SQL1.md
 CVE-2026-7720 - https://vuldb.com/submit/807198
 CVE-2026-7722 - https://gist.github.com/nedlir/f576abbb0e491dc9bb7e106c140dda04
+CVE-2026-77226 - https://codeant.ai/security-research/camunda-empty-admin-group-cve-2026-77226
 CVE-2026-7723 - https://gist.github.com/nedlir/f1ab8aa038aafbcc6beeef21fab1d74f
 CVE-2026-77239 - https://github.com/ArnasDon/wacrm/security/advisories/GHSA-34q7-fv77-625j
 CVE-2026-7724 - https://gist.github.com/nedlir/fa99777e8989414585d08c3625bf044a
@@ -159991,6 +160016,9 @@ CVE-2026-78838 - https://github.com/nabeelmkhan/CVE-2026-78838
 CVE-2026-78847 - https://blog.checo.cc/en/posts/Security/1
 CVE-2026-78849 - https://redmine.pfsense.org/attachments/6991
 CVE-2026-78849 - https://redmine.pfsense.org/issues/16773
+CVE-2026-78860 - https://threadpoolx.gitbook.io/docs/cve/mercusys-ac12-v2-security-advisory/missing-firmware-encryption-and-secure-boot-mechanisms
+CVE-2026-78861 - https://threadpoolx.gitbook.io/docs/cve/mercusys-ac12-v2-security-advisory/hardcoded-private-key
+CVE-2026-78862 - https://threadpoolx.gitbook.io/docs/cve/mercusys-ac12-v2-security-advisory/unprotected-physical-debug-interface-uart
 CVE-2026-78892 - https://issues.chromium.org/issues/518053893
 CVE-2026-78893 - https://issues.chromium.org/issues/495998981
 CVE-2026-78898 - https://issues.chromium.org/issues/499423269
@@ -161924,6 +161952,7 @@ CVE-2026-86609 - https://wpscan.com/vulnerability/85ebf2d8-af69-434c-b733-815621
 CVE-2026-86610 - https://wpscan.com/vulnerability/eba10cea-445e-4707-ba99-4da194b94597/
 CVE-2026-86612 - https://wpscan.com/vulnerability/4be7a5e0-9657-4692-904d-b696224e32ec/
 CVE-2026-86644 - https://gist.github.com/saDL0w/36a72a076e9ab24408a3d27582e778b2
+CVE-2026-86671 - https://redhat.atlassian.net/browse/CRW-11956
 CVE-2026-86675 - https://github.com/ltranquility/submit_repository/issues/12
 CVE-2026-86698 - https://cna.erlef.org/cves/CVE-2026-86698.html
 CVE-2026-86698 - https://github.com/hexpm/hexpm/security/advisories/GHSA-vmw7-7g2w-gw2f
@@ -161969,6 +161998,7 @@ CVE-2026-86782 - https://wpscan.com/vulnerability/ad9909b8-c302-4cb5-bbe7-bff89c
 CVE-2026-86783 - https://wpscan.com/vulnerability/719fc130-748b-4bad-8091-2858664299ed/
 CVE-2026-86784 - https://wpscan.com/vulnerability/9ac2d380-62fd-4967-8697-40175ffdf1c7/
 CVE-2026-86785 - https://wpscan.com/vulnerability/9a4c36bd-c7f7-4068-ac73-b29ee66def96/
+CVE-2026-86786 - https://wpscan.com/vulnerability/0645bcad-740e-452e-9d73-3e47ddd83f8b/
 CVE-2026-86788 - https://wpscan.com/vulnerability/20cad1a6-944e-40f8-8fbc-d97cd1e5bb4b/
 CVE-2026-86789 - https://wpscan.com/vulnerability/3514e2f9-4dda-45ae-80c0-c7caafcb7d8a/
 CVE-2026-86790 - https://wpscan.com/vulnerability/b48571ae-368e-4193-977a-f22fb09db4d4/
@@ -161980,6 +162010,8 @@ CVE-2026-86802 - https://wpscan.com/vulnerability/71c678eb-35f8-4eac-a4bb-b71bdc
 CVE-2026-86804 - https://github.com/seakee/CPA-Manager-Plus/issues/462
 CVE-2026-86804 - https://github.com/seakee/CPA-Manager-Plus/pull/463
 CVE-2026-86806 - https://vuldb.com/submit/911055
+CVE-2026-86806 - https://vuldb.com/vuln/399812
+CVE-2026-86806 - https://vuldb.com/vuln/399812/cti
 CVE-2026-86809 - https://wpscan.com/vulnerability/ed1f8ac4-078b-49c6-b7c5-7d422a20e59e/
 CVE-2026-86812 - https://wpscan.com/vulnerability/fe8d76b2-6d57-49cc-9927-5231e1a26a41/
 CVE-2026-86813 - https://wpscan.com/vulnerability/afda2a26-b965-42cb-85a8-4a4d83ec026e/
@@ -162187,6 +162219,7 @@ CVE-2026-87456 - https://issues.chromium.org/issues/496231550
 CVE-2026-87464 - https://issues.chromium.org/issues/544163112
 CVE-2026-87467 - https://issues.chromium.org/issues/524453236
 CVE-2026-87470 - https://issues.chromium.org/issues/536446354
+CVE-2026-87471 - https://issues.chromium.org/issues/498869663
 CVE-2026-87472 - https://issues.chromium.org/issues/514016678
 CVE-2026-87478 - https://issues.chromium.org/issues/40060525
 CVE-2026-87481 - https://issues.chromium.org/issues/498730641
@@ -162482,6 +162515,7 @@ CVE-2026-89265 - https://www.vulncheck.com/advisories/mogublog-through-6.2-missi
 CVE-2026-89266 - https://github.com/nothings/stb/issues/1928
 CVE-2026-89266 - https://github.com/nothings/stb/issues/1933
 CVE-2026-89266 - https://github.com/nothings/stb/issues/1947
+CVE-2026-89289 - https://wpscan.com/vulnerability/716b6d58-a816-43f2-8a1a-b9fe4f2f9d1d/
 CVE-2026-89296 - https://wpscan.com/vulnerability/351a9bf8-03d4-416b-8f30-a2a87e7c4cb2/
 CVE-2026-89300 - https://wpscan.com/vulnerability/a5ad8171-83c1-4c2e-83ac-24f008fadb82/
 CVE-2026-89303 - https://wpscan.com/vulnerability/dbe62e96-6493-4385-92a2-6281c5428a9f/
@@ -162715,6 +162749,7 @@ CVE-2026-91073 - https://wpscan.com/vulnerability/50d0d5b6-2204-4af3-92d5-75085c
 CVE-2026-91077 - https://wpscan.com/vulnerability/9db8d1c4-2bf8-4259-b95f-b131fc385a2e/
 CVE-2026-91078 - https://wpscan.com/vulnerability/7ab037d6-c670-4eaf-be0d-11cc9e20b18e/
 CVE-2026-9110 - https://issues.chromium.org/issues/503551154
+CVE-2026-91107 - https://fluidattacks.com/advisories/hearts
 CVE-2026-9111 - https://issues.chromium.org/issues/504551032
 CVE-2026-9112 - https://issues.chromium.org/issues/489791425
 CVE-2026-9113 - https://issues.chromium.org/issues/489585044
@@ -162953,6 +162988,7 @@ CVE-2026-93740 - https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob
 CVE-2026-93741 - https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3002MU/bof-formWlWds.md
 CVE-2026-93742 - https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3002MU/rce-formWsc.md
 CVE-2026-93753 - https://github.com/TehShrike/deepmerge/issues/273
+CVE-2026-93769 - https://fluidattacks.com/advisories/cali
 CVE-2026-9377 - https://github.com/redshadowword-cell/CVE/issues/13
 CVE-2026-9379 - https://vuldb.com/vuln/365342
 CVE-2026-9379 - https://vuldb.com/vuln/365342/cti
@@ -163001,13 +163037,19 @@ CVE-2026-94184 - https://www.openwall.com/lists/oss-security/2026/06/27/8
 CVE-2026-9419 - https://github.com/zzzxc643/CVE1/blob/main/EMPLOYEE_MANAGEMENT_SYSTEM/vul17.md
 CVE-2026-94194 - https://cna.erlef.org/cves/CVE-2026-94194.html
 CVE-2026-94194 - https://osv.dev/vulnerability/EEF-CVE-2026-94194
+CVE-2026-94206 - https://cna.erlef.org/cves/CVE-2026-94206.html
+CVE-2026-94206 - https://osv.dev/vulnerability/EEF-CVE-2026-94206
 CVE-2026-94238 - https://wpscan.com/vulnerability/76d339bf-094c-459d-9f6c-caeda5e97892/
 CVE-2026-94239 - https://wpscan.com/vulnerability/6ab3ec44-cf3b-43ac-8c84-51291e9759dc/
 CVE-2026-9426 - https://github.com/wudipjq/my_vuln/blob/main/Edimax/vuln_10/10.md
+CVE-2026-94270 - https://wpscan.com/vulnerability/9db2eff1-d605-44c3-aa3e-f65410f8e87b/
+CVE-2026-94271 - https://wpscan.com/vulnerability/9455978a-b406-4456-9054-a516c117bdbf/
 CVE-2026-94274 - https://wpscan.com/vulnerability/23965307-678d-4f59-beae-5a8b33af9a75/
+CVE-2026-94278 - https://wpscan.com/vulnerability/4967e8c2-ee27-4d26-955c-f7dfb6cd6942/
 CVE-2026-9429 - https://github.com/Litengzheng/vuldb_new2/blob/main/F1202/vul_31/README.md
 CVE-2026-94297 - https://wpscan.com/vulnerability/c9cecfb4-d554-4d64-8d87-9678363d8b8d/
 CVE-2026-94298 - https://wpscan.com/vulnerability/6f6c8718-7e7e-4700-a4c2-ee177c44b7ea/
+CVE-2026-94299 - https://wpscan.com/vulnerability/7eb85c65-8dab-46e1-b1df-e5d966029b18/
 CVE-2026-9435 - https://github.com/Litengzheng/vuldb_new2/blob/main/A8000RU/vul_356/README.md
 CVE-2026-9435 - https://vuldb.com/submit/813908
 CVE-2026-94367 - https://www.securifera.com/advisories/
@@ -163053,8 +163095,12 @@ CVE-2026-9495 - https://security.snyk.io/vuln/SNYK-JS-KOAROUTER-12215044
 CVE-2026-9496 - https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-16874025
 CVE-2026-9496 - https://security.snyk.io/vuln/SNYK-JS-PACOTE-8225084
 CVE-2026-9502 - https://github.com/LibreDWG/libredwg/issues/1243
+CVE-2026-95105 - https://cna.erlef.org/cves/CVE-2026-95105.html
+CVE-2026-95105 - https://osv.dev/vulnerability/EEF-CVE-2026-95105
 CVE-2026-9513 - https://github.com/wudipjq/my_vuln/blob/main/totolink4/vuln_51/51.md
 CVE-2026-9515 - https://github.com/wudipjq/my_vuln/blob/main/totolink4/vuln_53/53.md
+CVE-2026-95165 - https://hekk.one/posts/research/cve-2026-95165/
+CVE-2026-95166 - https://hekk.one/posts/research/cve-2026-95166/
 CVE-2026-9517 - https://github.com/hemant6488/CodeIgniter-StudentManagementSystem/issues/5
 CVE-2026-9518 - https://github.com/hemant6488/CodeIgniter-StudentManagementSystem/issues/6
 CVE-2026-9519 - https://gist.github.com/TrebledJ/0efceef4f3a2e0515cc2fe96b4c22679
