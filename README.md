@@ -19,7 +19,7 @@ To see the complete history go [here](hot_cves.csv)
 ![Trickest Workflow - PoC](workflow.png "Trickest Workflow - PoC")
 
 ### TB; DZ (Too big; didn't zoom):
-- Collect CVE details from [cvelist](https://github.com/CVEProject/cvelist) (Shout out to [CVE Project](https://github.com/CVEProject)!)
+- Collect CVE details from [cvelistV5](https://github.com/CVEProject/cvelistV5) (Shout out to [CVE Project](https://github.com/CVEProject)!)
 - Split CVEs up by year.
 - Find PoCs for each CVE using 2 techniques:
     1. References
@@ -37,8 +37,7 @@ To see the complete history go [here](hot_cves.csv)
 
 
     2. Github
-        
-        Search GitHub for repositories with [find-gh-poc](https://github.com/trickest/find-gh-poc) that mention the CVE ID.
+        - Add PoC links from a pre-collected dataset of GitHub repositories mentioning CVE IDs (produced by our [find-gh-poc](https://github.com/trickest/find-gh-poc) workflow), and links recovered from the repository's existing PoC files.
 - Merge the fresh results into the repository without overwriting the data that was committed manually.
 - Filter false positives using `blacklist.txt`.
 - Merge all of the found PoCs.
